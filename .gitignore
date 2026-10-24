@@ -1,0 +1,35 @@
+# --- Secretos: NUNCA subir ---------------------------------------------------
+# Clave de la API de Anthropic (Claude.py la lee de aquí)
+Config/anthropic_api_key.txt
+# Cualquier otro archivo de claves o variables de entorno
+*.key
+*api_key*.txt
+.env
+.env.*
+!.env.example
+
+# --- Estado local del pipeline ----------------------------------------------
+# IDs de los lotes enviados a la Batch API (solo sirven en tu máquina)
+Salida/lotes/
+# Registro de costos de la API
+Salida/costos.csv
+
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Office / Excel ---------------------------------------------------------
+# Archivos temporales que crea Excel mientras el libro está abierto
+~$*
+*.tmp
+
+# --- Sistema operativo y editores --------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

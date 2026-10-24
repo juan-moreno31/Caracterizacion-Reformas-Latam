@@ -1,0 +1,189 @@
+{
+  "id": "PER_2010",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2010,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0553,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N.º 29497, Nueva Ley Procesal del Trabajo (publicada en El Peruano el 15 de enero de 2010)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley N.º 29549 (modifica el Decreto Legislativo N.º 688)",
+      "Decreto Supremo N.º 003-2010-TR (planillas de pago)",
+      "Decreto Supremo N.º 009-2010-TR (trabajadores de guardianía y portería)",
+      "Decreto Supremo N.º 011-2010-TR (remuneración mínima vital)",
+      "Decreto Supremo N.º 014-2010-TR (reglamento de la licencia por paternidad, Ley N.º 29409)",
+      "Decreto Supremo N.º 016-2010-TR (reglamento de la ley de libre disponibilidad temporal de la CTS)",
+      "Resolución Administrativa N.º 232-2010-CE-PJ (cronograma de implementación de la Nueva Ley Procesal del Trabajo para 2010)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2010-07-15",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según fuentes secundarias (no se consultó la exposición de motivos), superar un proceso laboral lento, burocrático y formalista mediante procesos más rápidos, transparentes y predecibles, basados en la oralidad, el uso intensivo de la tecnología y el rol protagónico del juez, para hacer efectivos los derechos sustantivos existentes sin crear derechos nuevos.",
+    "descripcion_intenciones": "La reforma sustituye el régimen procesal laboral por un modelo oral, concentrado y célere, con notificaciones electrónicas y un juez obligado a procurar la igualdad real de las partes. Aunque declaradamente procedimental, redistribuye la carga de la prueba a favor del trabajador: presume el vínculo laboral a plazo indeterminado una vez acreditada la prestación personal de servicios y atribuye al empleador la prueba del pago, del cumplimiento de sus obligaciones y de la causa del despido. Habilita la reposición provisional cautelar para trabajadores especialmente protegidos y amplía la legitimación procesal de los sindicatos. También amplía la competencia de la justicia laboral, incluidas prestaciones de derecho público y demandas indemnizatorias por discriminación.",
+    "dimensiones": [
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la reforma: oralidad, celeridad, igualación real de las partes, exoneración de tasas para el trabajador en demandas de menor cuantía, condena de costos al Estado y creación progresiva de juzgados laborales."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Se presume el vínculo laboral a plazo indeterminado una vez acreditada la prestación personal de servicios, salvo prueba en contrario; la Corte Suprema (Casación 608-2017) exige indicios reales al demandante."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "El empleador debe probar la causa del despido; se incorpora la prueba por indicios y la reposición provisional cautelar para trabajadores protegidos, y se permite acumular la indemnización con la nulidad de despido."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Los sindicatos pueden demandar en causa propia, en defensa de derechos colectivos y de sus dirigentes y afiliados sin poder especial; la reposición cautelar cubre a quienes gestionan la formación de un sindicato."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Efecto secundario: se acentúan los deberes de igualación del juez frente a la madre gestante y la justicia laboral asume las demandas indemnizatorias por discriminación."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Efecto marginal y de acceso a la justicia más que de empleo juvenil: los menores de edad pueden comparecer sin representante legal."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Cambio menor en el procedimiento de cobro de aportes previsionales retenidos y no pagados al Sistema Privado de Pensiones."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Encubrimiento de relaciones laborales bajo contratos civiles: la presunción de laboralidad facilita su desenmascaramiento y, según un artículo académico, expande el ámbito de protección más allá de la norma sustantiva."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico",
+      "informales",
+      "mujeres",
+      "jovenes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Deroga la Ley N.º 26636, Ley Procesal del Trabajo, y sus modificatorias (Leyes N.º 27021 y N.º 27242 y la quinta disposición final y complementaria de la Ley N.º 27942), y modifica la Ley Orgánica del Poder Judicial. El anteproyecto fue elaborado por una comisión designada en 2008 durante la gestión del ministro de Trabajo Mario Pasco Cosmópolis; la ley partió del Ministerio de Trabajo y tuvo apoyo de diversos grupos parlamentarios. Se criticó cierto apresuramiento en su promulgación sin verificar la capacidad del aparato judicial. Gobierno de Alan García (sin fuente); contexto macroeconómico y vínculo con el TLC con Estados Unidos no verificados.",
+    "notas": "Se codifica como protectora y no como administrativa porque, aunque procesal, tiene un sesgo claro a favor del trabajador (presunción de laboralidad, carga probatoria sobre el empleador, igualación real, reposición cautelar, legitimación sindical). Es sustitución del régimen procesal, no contrarreforma, aunque en la práctica corrige la mayor carga probatoria del trabajador; una fuente señala menos diferencias de principios con la Ley N.º 26636 de lo esperado. Vigencia escalonada: entra en vigor el 2010-07-15 (NATLEX), con disposiciones transitorias desde el día siguiente a la publicación; se aplica progresivamente según el Consejo Ejecutivo del Poder Judicial mediante cronogramas anuales (2010, 2011, 2012); primer distrito Tacna, Lima desde el 2012-11-05, Puno desde el 2019-08-06, y hacia 2020 seguía sin aplicarse en varios distritos judiciales; la fecha de cobertura total no está verificada. Los procesos iniciados antes continúan con las normas anteriores, por lo que el tratamiento nacional efectivo en 2010 fue mínimo. Modificaciones posteriores de competencia y procedimiento: Ley N.º 31699 (2023, casación), Ley N.º 32155 (2024, competencias) y Decreto Legislativo N.º 1703 (2026, defensa pública); ninguna revierte los componentes protectores centrales. No se halló fallo del Tribunal Constitucional que anule partes de la ley (búsqueda no exhaustiva); la Casación 608-2017 solo matiza la presunción. La inclusión de informales es inferencia sin fuente. Pendiente: exposición de motivos oficial. La Resolución Administrativa N.º 232-2010-CE-PJ se añadió a normas_relacionadas por complementar directamente la implementación."
+  },
+  "fuentes": [
+    {
+      "url": "https://iuslatin.pe/actualizado-ley-29497-nueva-ley-procesal-del-trabajo/",
+      "titulo": "[Actualizado] Ley 29497: Nueva ley procesal del trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://lpderecho.pe/nueva-ley-procesal-trabajo-ley-29497-actualizada/",
+      "titulo": "Nueva Ley Procesal del Trabajo (Ley 29497) [actualizada 2026]",
+      "citada": true
+    },
+    {
+      "url": "https://lpderecho.pe/presuncion-laboralidad-nuevo-proceso-laboral-casacion-608-2017-lima/",
+      "titulo": "La presunción de laboralidad en el nuevo proceso laboral [Casación 608-2017, Lima]",
+      "citada": true
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/document/file/536909/Ley_29497_-_Nueva_Ley_Procesal_del_Trabajo.pdf",
+      "titulo": "Nueva Ley Procesal del Trabajo LEY Nº 29497",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/F02942FC7BA6590305257E2A005C5CB2/$FILE/3_29497_15_01_2010.pdf",
+      "titulo": "CONGRESO DE LA REPUBLICA Nueva Ley Procesal del Trabajo LEY Nº 29497",
+      "citada": true
+    },
+    {
+      "url": "http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2663-91302024000100023",
+      "titulo": "La prueba en el proceso laboral",
+      "citada": true
+    },
+    {
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2017/03/Descarga-en-PDF-la-Gu%C3%ADa-de-actuaci%C3%B3n-de-la-Nueva-Ley-Procesal-del-Trabajo-Legis.pe_.pdf",
+      "titulo": "Guía de actuación de la Nueva Ley Procesal del Trabajo Ley 29497 - (NLPT)",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/09/Laborem11-165-209.pdf",
+      "titulo": "COMENTARIO INICIAL DE LA NUEVA LEY PROCESAL DEL TRABAJO QUE HA COMENZADO A SER",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-29497-nueva-575978082",
+      "titulo": "Ley Nº 29497. Nueva Ley Procesal del Trabajo - vLex Perú",
+      "citada": true
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/document/file/2845242/LEY%20N%C2%BA%2029497%20-%20Nueva%20Ley%20Procesal%20del%20Trabajo.pdf",
+      "titulo": "Nueva Ley Procesal del Trabajo LEY Nº 29497 Descargado del SPIJ el 11.02.2022",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=83255",
+      "titulo": "NATLEX - Peru - Ley núm. 29497, Nueva Ley Procesal del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/vid/nueva-ley-procesal-trabajo-771080509",
+      "titulo": "La Nueva Ley Procesal del Trabajo, Ley N° 29497 - vLex Perú - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://www.dentons.com/es/insights/alerts/2024/november/11/nueva-ley-procesal-de-trabajo",
+      "titulo": "Dentons - Modifican la Ley N° 29497, Nueva Ley Procesal de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://lexlatin.com/reportajes/peru-nuevo-codigo-procesal-trabajo-reforma-fujimori",
+      "titulo": "LexLatin",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/IV-Congreso-Nacional-Cusco-2010-141-156.pdf",
+      "titulo": "141 EL LADO OSCURO DE LA NUEVA LEY PROCESAL DEL TRABAJO Carlos Cornejo Vargas",
+      "citada": true
+    },
+    {
+      "url": "https://iuslatin.pe/wp-content/uploads/2020/07/doctrinayanalisis-ley-trabajo.pdf",
+      "titulo": "DOCTRINA Y ANÁLISIS SOBRE LA NUEVA LEY PROCESAL DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Mario-Pasco-Homenaje-full-621-631.pdf",
+      "titulo": "621 PROCESO MODERNO, PRINCIPIOS VÁLIDOS, INSPECCIÓN MODERNA",
+      "citada": true
+    },
+    {
+      "url": "https://enfoquederecho.com/2020/06/03/10-anos-de-vigencia-de-la-nueva-ley-procesal-del-trabajo-feliz-aniversario/",
+      "titulo": "10 años de vigencia de la nueva ley procesal del trabajo: ¿feliz aniversario? - Enfoque Derecho",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/09/Laborem11-128-146.pdf",
+      "titulo": "LA NUEVA LEY PROCESAL DEL TRABAJO DEL PERÚ: PILARES Y PARADIGMAS",
+      "citada": true
+    },
+    {
+      "url": "https://lpderecho.pe/legitimacion-sindicatos-pretensiones-procesales-derivadas-derechos-individuales-colectivos-2/",
+      "titulo": "La legitimación de los sindicatos respecto de las pretensiones procesales derivadas de derechos individuales y colectivos",
+      "citada": true
+    },
+    {
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2022/08/Casacion-Laboral-15674-2017-Lima-LPDerecho.pdf",
+      "titulo": "Casacion-Laboral-15674-2017-Lima- ...",
+      "citada": true
+    }
+  ]
+}

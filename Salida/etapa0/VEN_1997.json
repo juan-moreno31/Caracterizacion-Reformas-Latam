@@ -1,0 +1,116 @@
+{
+  "id": "VEN_1997",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 1997,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1239,
+  "incompleto": false,
+  "norma_propuesta": "Ley de Reforma Parcial de la Ley Orgánica del Trabajo (Gaceta Oficial N° 5.152 Extraordinario, 19 de junio de 1997)",
+  "otras": "Ley Orgánica del Sistema de Seguridad Social Integral (Gaceta Oficial N° 5.199 Extraordinario, 30 de diciembre de 1997)",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Venezuela en 1997 es la **Ley de Reforma Parcial de la Ley Orgánica del Trabajo**. La base de datos NATLEX de la OIT la registra con publicación en la Gaceta Oficial del 19 de junio de 1997, número 5152, y el texto oficial indica que la expidió el Congreso de la República de Venezuela. Por eso se clasificaría como `ley` y la identificación es de confianza alta.\n\n**Por qué es la que corresponde:**\n- La literatura académica la considera la modificación más profunda que ha tenido el régimen de \"prestaciones sociales\" en el país (la modificación más sustantiva de esa institución).\n- Sus cambios centrales fueron la nueva definición de salario, el nuevo cálculo de las prestaciones sociales y sus intereses (ahora \"prestación de antigüedad\"), la indemnización por despido injustificado y una \"compensación por transferencia\" para quienes pasaban del régimen anterior al nuevo.\n- Una fuente oficial publicada por la CEPAL, de orientación crítica, la atribuye al avance de las ideas neoliberales y sostiene que eliminó la llamada retroactividad del cálculo de las prestaciones. Esto apunta preliminarmente a una orientación flexibilizadora, que deberá verificarse en la etapa siguiente.\n- La reforma surgió de un Acuerdo Tripartito, que dio lugar tanto a esta ley como a un conjunto de leyes de Seguridad Social.\n\n**Otra candidata del mismo año:** la **Ley Orgánica del Sistema de Seguridad Social Integral**, publicada en la Gaceta Oficial N° 5.199 Extraordinario del 30 de diciembre de 1997. La dejo como norma relacionada por tres razones:\n- Tiene un alcance más previsional que propiamente laboral.\n- Es complementaria: la propia reforma de la Ley Orgánica del Trabajo remite a una ley especial para regular los Fondos de Prestaciones de Antigüedad dentro del sistema de seguridad social integral.\n- Su aplicación real parece limitada: fue derogada en 2002 por la Ley Orgánica del Sistema de Seguridad Social (Gaceta Oficial N° 37.600).\n\n**Para la etapa de caracterización:**\n- **Vigencia:** la Ley Orgánica del Trabajo de 1997 fue luego reemplazada por la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras de 2012. Esa ley restableció el cálculo de las prestaciones con base en el último salario devengado, lo que corresponde a `modificada_o_derogada_despues`.\n- **Contrarreforma:** la ley de 2012 tendría que marcarse como `revierte_reforma_previa` respecto de la de 1997.\n- **Fecha de entrada en vigor:** una fuente académica señala el 19 de junio de 1997 como fecha de entrada en vigencia, igual a la de publicación.\n\nNORMA: Ley de Reforma Parcial de la Ley Orgánica del Trabajo (Gaceta Oficial N° 5.152 Extraordinario, 19 de junio de 1997)\nOTRAS: Ley Orgánica del Sistema de Seguridad Social Integral (Gaceta Oficial N° 5.199 Extraordinario, 30 de diciembre de 1997)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://pandectasdigital.blogspot.com/2016/06/ley-de-reforma-parcial-de-la-ley.html",
+      "titulo": "Ley de Reforma Parcial de la Ley Orgánica del Trabajo <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: red;\"><b><i>Derogada</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": true
+    },
+    {
+      "url": "http://www.ilo.org/dyn/natlex/docs/WEBTEXT/47049/67563/S97VEN01.htm",
+      "titulo": "Venezuela. Ley Orgánica del trabajo, 1997",
+      "citada": true
+    },
+    {
+      "url": "https://tugacetaoficial.com/leyes/ley-organica-del-trabajo-gaceta-5152-1997-texto/",
+      "titulo": "Ley Orgánica del Trabajo: Gaceta 5152: 1997 - Texto - Leyes de Venezuela 2026 Tu Gaceta Oficial .com",
+      "citada": true
+    },
+    {
+      "url": "http://www.ulpiano.org.ve/revistas/bases/artic/texto/DERYSO/11/deryso_2012_11_19-35.pdf",
+      "titulo": "Las prestaciones sociales en Venezuela, ¿fin de la historia?",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/6219/621968096003/html/",
+      "titulo": "EFECTOS DE LA APLICACIN DE LA LEY ORGNICA DEL TRABAJO, LOS TRABAJADORES Y LAS TRABAJADORAS SOBRE EL CLCULO DE LA GARANTA DE PRESTACIONES SOCIALES",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/2012_leyorgtrabajo_ven.pdf",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras",
+      "citada": true
+    },
+    {
+      "url": "https://wwwex.ilo.org/dyn/legosh_fr/f?p=14100%3A503%3A0%3A%3ANO%3A%3AP503_REFERENCE_ID%3A146302",
+      "titulo": "LEY ORGANICA DEL SISTEMA DE SEGURIDAD SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "http://www.ucv.ve/fileadmin/user_upload/auditoria_interna/Archivos/Material_de_Descarga/Ley_Organica_del_Trabajo_-_5.152_E.pdf",
+      "titulo": "GACETA OFICIAL DE LA REPÚBLICA DE VENEZUELA",
+      "citada": false
+    },
+    {
+      "url": "https://servicio.bc.uc.edu.ve/derecho/revista/idc21/21-14.pdf",
+      "titulo": "La Seguridad Social: hacia un nuevo Régimen de Prestaciones Sociales",
+      "citada": false
+    },
+    {
+      "url": "http://www.oas.org/juridico/spanish/mesicic2_ven_anexo_43_sp.pdf",
+      "titulo": "1 19 de junio de 1997 Gaceta Oficial Nº 5.152 Extraordinario",
+      "citada": false
+    },
+    {
+      "url": "https://www.upo.es/revistas/index.php/lex_social/article/download/5509/4719/21175",
+      "titulo": "El trabajo doméstico y su protección social, en la visión ...",
+      "citada": false
+    },
+    {
+      "url": "https://medicinalaboraldevenezuela.com.ve/archivo/LOSSS.pdf",
+      "titulo": "LEY ORGANICA DEL SISTEMA DE SEGURIDAD SOCIAL TITULO I DISPOSICIONES GENERALES",
+      "citada": false
+    },
+    {
+      "url": "https://venezuela.justia.com/federales/leyes-organicas/ley-organica-del-sistema-de-seguridad-social/gdoc/",
+      "titulo": "Justia Venezuela :: Federales > Leyes Orgánicas > Ley Orgánica del Sistema de Seguridad Social :: Ley de Venezuela",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/2012_leyorgsistsegsocial_ven.pdf",
+      "titulo": "Ley Orgánica del Sistema de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=64820",
+      "titulo": "NATLEX - Venezuela (Bolivarian Republic of) - Ley Orgánica del Sistema de Seguridad Social.",
+      "citada": false
+    },
+    {
+      "url": "https://docs.venezuela.justia.com/federales/leyes-organicas/ley-organica-del-sistema-de-seguridad-social.pdf",
+      "titulo": "Ley Orgánica del Sistema de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0367-47622004000200011",
+      "titulo": "Comentarios sobre la Ley Orgánica de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://pandectasdigital.blogspot.com/2017/02/reglamento-parcial-n-1-de-la-ley.html",
+      "titulo": "Reglamento Parcial Nº 1 de la Ley Orgánica del Sistema de Seguridad Social Integral sobre el Servicio de Registro e Información de la Seguridad Social Integral SEREISSI <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: #04ff00;\"><b><i>Vigente</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=35924",
+      "titulo": "Venezuela (Bolivarian Republic of - Decreto núm. 3207 mediante el cual se dicta el reglamento parcial de la ley del seguro social",
+      "citada": false
+    },
+    {
+      "url": "https://www.eumed.net/oe-vess/normas/losss.htm",
+      "titulo": "LEY ORGÁNICA DEL SISTEMA DE SEGURIDAD SOCIAL",
+      "citada": false
+    }
+  ]
+}

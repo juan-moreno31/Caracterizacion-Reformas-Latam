@@ -1,0 +1,161 @@
+{
+  "id": "PRY_2015",
+  "iso": "PRY",
+  "pais": "Paraguay",
+  "anio": 2015,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1845,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 5407/2015 \"Del Trabajo Doméstico\"",
+  "otras": "Ley N° 5508/2015 \"Promoción, protección de la maternidad y apoyo a la lactancia materna\"; Decreto N° 3458/2015 (veto parcial a la Ley 5407)",
+  "confianza": "media",
+  "texto": "En Paraguay hubo dos leyes laborales importantes en 2015. Propongo como norma principal la **Ley N° 5407/2015 \"Del Trabajo Doméstico\"** y la **Ley N° 5508/2015** sobre maternidad y lactancia como norma relacionada. Las dos tienen respaldo oficial o de la OIT. La confianza es media porque elegir entre ambas es una decisión de criterio, no porque haya dudas sobre la norma.\n\n**Qué es la Ley 5407.** Crea un régimen legal propio para el trabajo doméstico remunerado, sin perjuicio de lo establecido en el Código del Trabajo. Hasta entonces este empleo se regía por el Código Laboral de 1993, que le daba un capítulo especial con menos derechos que al resto de los empleos. La ley regula las modalidades de contrato, el salario mínimo, la jornada, los descansos, la seguridad social, las agencias de empleo y la organización sindical (fuente). En particular, incorpora a estos trabajadores al régimen general del seguro social obligatorio del Instituto de Previsión Social.\n\n**Fechas y trámite.** El Senado la aprobó en octubre de 2014 y la Cámara de Diputados la sancionó en marzo de 2015. Se publicó en la Gaceta Oficial el 13 de octubre de 2015, y NATLEX (OIT) la registra como Ley núm. 5407, de 12 de octubre de 2015, que modifica el Código del Trabajo. El presidente vetó parcialmente el artículo 5° (inciso b), que permitía trabajar desde una edad menor, según el Decreto 3458 de 2015.\n\n**Por qué la elijo sobre la Ley 5508.**\n- **Es una ley laboral en sentido estricto.** Rehace el régimen completo de una categoría de trabajo, toca muchas dimensiones del codebook y la OIT la clasifica como modificación del Código del Trabajo.\n- **La Ley 5508 es en parte una ley de salud pública.** Su objeto declarado es promover, proteger y apoyar la lactancia materna, y la autoridad que la aplica es el Ministerio de Salud Pública y Bienestar Social. Aun así, sí tiene peso laboral: se aplica a quienes trabajan bajo el Código del Trabajo o la Ley de la Función Pública, amplía la licencia por maternidad, crea una licencia por paternidad y hace nulo el despido durante esos permisos (fuente).\n- **Punto a revisar.** Si la base prefiere cobertura general de asalariados por encima de cantidad de dimensiones, la Ley 5508 podría ser la principal.\n\n**Datos para etapas posteriores.**\n- La Ley 5508 aparece con dos fechas: NATLEX la data el 10 de septiembre de 2015, mientras otras fuentes oficiales hablan del 28 de octubre de 2015. Además, su licencia por maternidad se aplica de forma escalonada.\n- La Ley 5407 fue modificada después: la Ley N.º 6338/19 cambió su artículo 10, sobre salario.\n- La MTESS (Ley 5115) es de 2013 y la ley de MIPYMES no es de 2015, así que no cuentan para este año.\n\nNORMA: Ley N° 5407/2015 \"Del Trabajo Doméstico\"\nOTRAS: Ley N° 5508/2015 \"Promoción, protección de la maternidad y apoyo a la lactancia materna\"; Decreto N° 3458/2015 (veto parcial a la Ley 5407)\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/4392/ley-n-5407-del-trabajo-domestico",
+      "titulo": "Ley Nº 5407 / DEL TRABAJO DOMÉSTICO",
+      "citada": true
+    },
+    {
+      "url": "https://www.vouga.com.py/en/paraguay-promulga-ley-relativa-al-trabajo-domestico/",
+      "titulo": "Paraguay promulga ley relativa al trabajo doméstico - Vouga Abogados",
+      "citada": true
+    },
+    {
+      "url": "https://www.cde.org.py/publicacion/avances-en-los-derechos-laborales-del-empleo-domestico-en-paraguay/",
+      "titulo": "Avances en los derechos laborales del empleo doméstico en Paraguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.utic.edu.py/repositorio/Tesis/Grado/Derecho/2022/San%20Lorenzo/Tesis%20Laura%20Romina%20Marecos_Contrato%20de%20trabajo%20dom+%C2%AEstico.pdf",
+      "titulo": "el contrato de trabajo doméstico en la",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/4959/495963605007/html/",
+      "titulo": "El trabajo doméstico remunerado en Paraguay. Luchas laborales y simbólicas de trabajadoras invisibilizadas",
+      "citada": true
+    },
+    {
+      "url": "https://www.cde.org.py/wp-content/uploads/2025/03/Guia-TDR-web.pdf",
+      "titulo": "GUÍA PARA EL CUMPLIMIENTO DE DERECHOS DE LAS PERSONAS TRABAJADORAS",
+      "citada": true
+    },
+    {
+      "url": "https://ddhh2020.codehupy.org.py/trabajadoras-domesticas/",
+      "titulo": "Hora de implementar los avances legales",
+      "citada": true
+    },
+    {
+      "url": "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=106290&p_count=1&p_classification=16",
+      "titulo": "NATLEX - Paraguay - Decreto núm. 7550, de 8 de agosto de 2017, por el cual se reglamenta la Ley núm. 5508, de fecha 28 de octubre de 2015, de “Promoción, Protección de la Maternidad y Apoyo a la Lactancia Materna”",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/c3560bda-c04a-11e9-8e7a-525400c761ca",
+      "titulo": "BL:Ley 5508/2015 - Protección a la maternidad y lactancia materna",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/8221/-permiso-por-maternidad-lactancia-y-permiso-por-paternidad",
+      "titulo": "PERMISO POR MATERNIDAD - LACTANCIA Y PERMISO POR PATERNIDAD / Ley Nº 5508/2015",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=35443",
+      "titulo": "NATLEX - Paraguay - Ley núm. 213 que establece el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://py.vlex.com/vid/ley-n-5-407-641255917",
+      "titulo": "Ley nº 5.407/15, del trabajo doméstico - vLex Paraguay - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://www.hoy.com.py/especiales/2024/04/14/empleo-domestico-en-paraguay-anos-de-lucha-y-victorias-que-hoy-son-letra-muerta",
+      "titulo": "Diario HOY",
+      "citada": false
+    },
+    {
+      "url": "https://marketdata.com.py/educacion/economia-facil/todo-lo-que-debes-saber-sobre-el-trabajo-domestico-contratacion-jornada-y-seguridad-social-151662/",
+      "titulo": "Todo lo que debes saber sobre el trabajo doméstico: contratación, jornada y seguridad social - MarketData",
+      "citada": false
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/4428/promocion-proteccion-de-la-maternidad-y-apoyo-a-la-lactancia-materna",
+      "titulo": "Ley Nº 5508 / PROMOCIÓN, PROTECCIÓN DE LA MATERNIDAD Y APOYO A LA LACTANCIA MATERNA",
+      "citada": false
+    },
+    {
+      "url": "https://www.unicef.org/paraguay/comunicados-prensa/paraguay-avanza-en-los-derechos-de-las-mujeres-con-nueva-ley-de-maternidad-y",
+      "titulo": "Paraguay avanza en los derechos de las mujeres con nueva ley de maternidad y lactancia",
+      "citada": false
+    },
+    {
+      "url": "https://py.vlex.com/vid/ley-n-5-508-641255913",
+      "titulo": "Ley nº 5.508/15, de la promoción, protección de la maternidad y apoyo a la lactancia materna - vLex Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://silpy.congreso.gov.py/web/descarga/expediente-157951?preview=",
+      "titulo": "Desde el momento en que el empleador haya sido notificado",
+      "citada": false
+    },
+    {
+      "url": "https://irunvillamayor.com.py/maternidad-y-fuero-en-paraguay-permisos-y-desvinculaciones/",
+      "titulo": "Maternidad en Paraguay: licencia, fuero maternal y despidos",
+      "citada": false
+    },
+    {
+      "url": "https://www.rsm.global/paraguay/es/news/promocion-y-proteccion-de-la-maternidad",
+      "titulo": "Promoción y protección de la maternidad",
+      "citada": false
+    },
+    {
+      "url": "https://portal.ips.gov.py/sistemas/ipsportal/archivos/materiales/1509377331.pdf",
+      "titulo": "Promoción, Protección de la Maternidad y Apoyo a ...",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=108361",
+      "titulo": "NATLEX - Paraguay - Ley núm. 5115/13, de 29 de noviembre, que crea el Ministerio de Trabajo, Empleo y Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=108361&p_count=13&p_classification=01",
+      "titulo": "NATLEX - Paraguay - Ley núm. 5115/13, de 29 de noviembre, que crea el Ministerio de Trabajo, Empleo y Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=77839",
+      "titulo": "NATLEX - Paraguay - Ley núm. 1626 de la Función Pública.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=41346",
+      "titulo": "NATLEX - Paraguay - Decreto núm. 10047 por el cual se reglamenta la inscripción en el registro patronal habilitado por la autoridad administrativa del trabajo y se establecen sanciones por su incumplimiento.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=117093",
+      "titulo": "NATLEX - Paraguay - Ley núm. 6738, de 24 de mayo de 2021, que establece la modalidad del teletrabajo en relación de dependencia",
+      "citada": false
+    },
+    {
+      "url": "https://segib.org/wp-content/uploads/2025/11/Textos-legales_Paraguay_fin.pdf",
+      "titulo": "Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://www.pj.gov.py/ebook/libros_files/Derecho_Labora-Tomo2-Vol2.pdf",
+      "titulo": "1 Versiones lunes, 30 de octubre de 2017 viernes, 27 de octubre de 2017",
+      "citada": false
+    },
+    {
+      "url": "https://www.deel.com/es/blog/todo-sobre-codigo-laboral-paraguay/",
+      "titulo": "Código Laboral de Paraguay: derechos y obligaciones",
+      "citada": false
+    }
+  ]
+}

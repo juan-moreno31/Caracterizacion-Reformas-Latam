@@ -1,0 +1,244 @@
+{
+  "id": "HTI_2006",
+  "iso": "HTI",
+  "pais": "Haití",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3556,
+  "incompleto": false,
+  "norma": "Décret du 1er février 2006 fixant les principes fondamentaux de gestion des emplois de la fonction publique territoriale et de ses établissements publics (candidata tentativa)",
+  "texto": "# Etapa 1: Haití (HTI), 2006. Décret du 1er février 2006 sobre la función pública territorial\n\nNo pude consultar el texto del decreto en ninguna fuente: ni oficial, ni de la OIT, ni en repositorio. Lo que sigue se apoya en tres tipos de evidencia: los decretos hermanos del mismo paquete publicados en *Le Moniteur*, la OCDE y fuentes académicas y de prensa. Ninguna disposición se verificó en el texto mismo.\n\n## 1. Objetivo declarado\n\nNo encontré la exposición de motivos ni los considerandos. Según la OCDE, el Decreto del 1 de febrero de 2006 sobre la función pública territorial busca institucionalizar esa función pública, en un marco donde la falta de competencias administrativas en el nivel subnacional es un obstáculo para la descentralización. El decreto forma parte de una carta de descentralización. Un participante en su redacción explica que, como miembro del gabinete del ministro del Interior, Paul Magloire, entre 2005 y febrero de 2006, dirigió el equipo que elaboró los decretos conocidos como *Charte des collectivités territoriales*.\n\nUna fuente de prensa, que no tiene valor normativo, presenta el decreto como una amplia oportunidad para integrar a los jóvenes en la función pública territorial. Esta es una lectura posterior de un experto, no un objetivo oficial. No conviene codificar `empleo_juvenil_y_aprendizaje` a partir de ella.\n\n## 2. Qué cambia efectivamente (dimensiones)\n\n**`otro`: estatuto del empleo público territorial. Efecto: aumenta (tentativo).**\n\n- **Contenido según la prensa (sin verificar en el texto oficial).** Su artículo 6 reparte los cuadros de empleo en categorías designadas en orden jerárquico decreciente por letras, de la A a la E. La pertenencia de los funcionarios a una categoría depende de su nivel de calificación y de reclutamiento. La misma nota vincula el sistema con el Institut National de l'Administration Territoriale (INAT), al que describe como la principal institución encargada de formar a los funcionarios locales. No pude confirmar que el INAT sea creado por este decreto.\n- **Efectos de remisión, visibles en fuente oficial.** El decreto municipal hermano, publicado en *Le Moniteur*, Spécial n.º 2, del 2 de junio de 2006, dispone que el personal comunal queda sometido a la legislación sobre la función pública territorial y a los reglamentos internos del Consejo Municipal. También establece que los demás empleados se nombran por concurso conforme a esa legislación. El Director General es la excepción: es un funcionario particular no sujeto a la legislación sobre la función pública territorial, y el Consejo puede terminar sus servicios en cualquier momento, tras evaluar su gestión. La norma municipal excluye además a alcaldes y alcaldes adjuntos de la función pública territorial.\n\nEn conjunto, la reforma pretende sustituir un empleo local sin estatuto por una carrera con ingreso por concurso y una clasificación jerárquica. Esto encaja con el mandato constitucional según el cual ningún funcionario puede ser contratado sino por concurso, ni revocado sino por causas que fije la ley. Por eso el efecto sería de aumento de la protección, aunque tentativo.\n\n**Declarado frente a efectivo.** Una fuente de 2011 sobre las colectividades describe al personal en funciones, pero sin estatuto ni estabilidad aseguradas porque ninguna ley encuadra la función pública territorial. Es decir, la garantía buscada no se materializó.\n\n**Dimensiones no verificables:** `despido_e_indemnizacion`, `seguridad_social_y_pensiones`, `salario_y_negociacion_salarial`, `derechos_colectivos_sindicales` y `justicia_laboral_e_inspeccion`. Sin el texto no sé si el decreto las regula. El estatuto general nacional de 2005 sí trata la remuneración, la disciplina y la cesación, pero no se puede extrapolar.\n\n**Orientación sugerida:** `administrativa`, con inclinación protectora. Es una norma de organización del empleo público, no de costos de contratación o despido.\n\n## 3. Población objetivo\n\n`sector_publico`: el personal de las colectividades territoriales (secciones comunales, comunas y departamentos) y de sus establecimientos públicos. No alcanza a los asalariados privados regidos por el Código del Trabajo.\n\n## 4. Contexto político y económico\n\n- **Político.** El decreto se dictó bajo un gobierno sin Parlamento: de marzo de 2004 a abril de 2006 el país funcionó de nuevo sin Parlamento. Los decretos hermanos del 1 de febrero de 2006 van firmados por Me Boniface Alexandre, Presidente provisional de la República. Supongo que este también, pero no lo verifiqué.\n- **Legitimidad.** La literatura señala que los actores internacionales se mostraron tímidos para apoyar la ejecución de los decretos del gobierno de transición, por carecer este de legitimidad democrática.\n- **Marco previo.** La Constitución de 1987 consagra la descentralización, pero las leyes de aplicación no se adoptaron en un plazo razonable.\n- **Económico.** No encontré fuentes que vinculen el decreto a una coyuntura económica concreta (sin fuente).\n\n**`tipo_instrumento`: propongo `decreto_ley`.** Encaja con la definición del codebook (dictado sin Congreso en funciones). Además, una tesis doctoral se refiere al paquete del 1 de febrero de 2006 como «décrets-lois».\n\n## 5. ¿Revierte una reforma previa?\n\nNo. Complementa el Décret du 17 mai 2005 portant révision du statut général de la fonction publique, que según NATLEX deroga la ley del 19 de septiembre de 1982 sobre el Estatuto general de la Función pública. La única diferencia de diseño observable es menor. El estatuto nacional agrupa a los funcionarios en categorías A, B, C y D, mientras que el territorial, según la prensa, añade la categoría E. `revierte_reforma_previa` = false.\n\n## 6. Fecha de entrada en vigor y aplicación escalonada\n\n- **Expedición y publicación.** El decreto se expidió el 1 de febrero de 2006, pero se publicó meses después. Según PAPDA, en mayo y junio de 2006, ya instaladas las autoridades electas, se publicaron en *Le Moniteur* los decretos del gobierno interino, entre ellos el de la función pública territorial. Las fechas verificadas de los decretos hermanos van del 30 de mayo al 14 de junio de 2006: el de secciones comunales en el n.º 49 del 30 de mayo, el departamental en el n.º 56 del 13 de junio y el decreto marco en el n.º 57 del 14 de junio.\n- **Fecha exacta.** No identifiqué el número del *Moniteur* ni la fecha de publicación de este decreto. Que entre en vigor al publicarse es una regla general que no verifiqué (sin fuente). Propongo `fecha_entrada_vigencia` = \"desconocida\", o \"2006-06\" como valor tentativo. Explicarlo en `notas`: el año 2006 coincide tanto con la expedición como con la publicación.\n- **`vigencia_escalonada` = true (tentativo).** La categorización depende de que se pongan en marcha estructuras y estatutos de cuadros que no se crearon. No pude verificar si el texto prevé reglamentos de desarrollo.\n\n## 7. Estado de vigencia posterior\n\n- **Suspensión ejecutiva.** Según PAPDA, en un discurso del 21 de noviembre de 2006 en la ENAF, una autoridad del nuevo gobierno anunció que se tomaría la decisión de poner en suspenso la aplicación de un conjunto de decretos adoptados por el gobierno de transición. El fragmento consultado no identifica con certeza a quien habló.\n- **Inaplicación posterior.** Una comisión presidencial de 2007-2008 revisó el decreto marco de descentralización (no este) para convertirlo en proyecto de ley marco. Fuentes recientes describen la función pública territorial como no operativa por la irresponsabilidad del Estado central hacia las colectividades. Una tesis doctoral de 2022 concluye que la descentralización no se ha puesto en práctica en Haití.\n- **Derogación y fallos.** No encontré ninguna derogación expresa ni fallos judiciales. Otros decretos de 2006 del mismo paquete siguen citándose en los vistos de normas de 2020, pero no pude verificar si este también.\n- **Propuesta.** `anulada_o_suspendida_total`, en su acepción de \"nunca se aplicó\". Hay que dejar constancia de que la suspensión fue un anuncio del Ejecutivo y una inaplicación de hecho, no una anulación judicial. Si la base exige un acto formal de suspensión, la alternativa es `desconocido`.\n\n## 8. No verificado\n\n- El texto oficial completo del decreto, su número de *Moniteur* y su fecha de publicación.\n- Su firmante.\n- Si regula despido, disciplina, remuneración o pensiones.\n- Si crea el INAT.\n- El alcance formal del anuncio de suspensión.\n- Su ausencia en NATLEX.\n\n**`confianza_identificacion`: baja.** El país-año sigue siendo dudoso como \"reforma laboral\", y conviene revisar si la base buscaba la reforma del estatuto general de 2005.",
+  "fuentes": [
+    {
+      "url": "https://archivesjuridiquesht.com/archives/53",
+      "titulo": "Décret portant cadre général de la décentralisation organisation et fonctionnment des collectivités territoriales Haïtien",
+      "citada": true
+    },
+    {
+      "url": "https://budget.gouv.ht/storage/app/uploads/public/5f5/a88/000/5f5a88000b6b3701567895.pdf",
+      "titulo": "Paraissant Le Lundi et le Jeudi JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAÏTI",
+      "citada": true
+    },
+    {
+      "url": "https://rtvhaiti.com/article/2/les-",
+      "titulo": "Les collectivités territoriales : Une alternative au fléau migratoire intense et continue.",
+      "citada": true
+    },
+    {
+      "url": "https://www.oas.org/juridico/PDFs/mesicic4_hti_dec05_pub.pdf",
+      "titulo": "Les dispositions du présent Décret fixent les principes ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.adnhaiti.ht/references-legales/",
+      "titulo": "Références Légales - Administration Départementale Nord d'Haiti",
+      "citada": true
+    },
+    {
+      "url": "https://www.alainet.org/es/node/119065",
+      "titulo": "Politiques de décentralisation en Haïti",
+      "citada": true
+    },
+    {
+      "url": "https://vantbefinfo.com/haiti/",
+      "titulo": "La décentralisation en Haïti, comme l’oxygène à une personne qui se noie -",
+      "citada": true
+    },
+    {
+      "url": "https://theses.fr/2022BORD0076",
+      "titulo": "Une politique de décentralisation empêchée en Haïti : analyse des résistances et conflits entre l’État et les collectivités locales",
+      "citada": true
+    },
+    {
+      "url": "https://www.institut-numerique.org/1-linstabilite-politique-comme-entrave-au-processus-de-modernisation-de-la-fonction-publique-4fedc2d43c075",
+      "titulo": "§ 1. L’instabilité politique comme entrave au processus de modernisation de la Fonction publique",
+      "citada": true
+    },
+    {
+      "url": "https://droit.cairn.info/revue-civitas-europa-2025-1-page-403?lang=fr",
+      "titulo": "Résumé de la thèse : La décentralisation en Haïti à l’aune de l’expérience décentralisatrice française.",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=86493&p_country=HTI&p_count=57&p_classification=22&p_classcount=7",
+      "titulo": "NATLEX - Haiti - Décret du 17 mai 2005 portant révision du statut général de la fonction publique.",
+      "citada": true
+    },
+    {
+      "url": "https://www.avsf.org/app/uploads/2023/12/osi-et-collectivites-territoriales-comment-mieux-intervenir-ensemble-en-haiti.pdf",
+      "titulo": "Assemblee Nationale # Paris # 01.Juin.2011 ESPACE DE FRANCO-HAÏTIENS",
+      "citada": true
+    },
+    {
+      "url": "https://www.oecd.org/en/publications/2021/12/examens-de-l-ocde-sur-la-gouvernance-publique-haiti_9a39a96f/full-report/multi-level-governance-in-haiti_7481a6aa.html",
+      "titulo": "Multi-level governance in Haiti: OECD Public Governance Reviews: Haiti",
+      "citada": true
+    },
+    {
+      "url": "https://rtvhaiti.com/article/2/les-collectivites-territoriales--une-alternative-au-fleau-migratoire-intense-et-continue",
+      "titulo": "RTVH",
+      "citada": true
+    },
+    {
+      "url": "https://archivesjuridiquesht.com/archives/54",
+      "titulo": "Décret portant organisation et fonctionnement de la section communale",
+      "citada": false
+    },
+    {
+      "url": "https://plataformaurbana.cepal.org/en/node/376",
+      "titulo": "Décret du 1er février 2006 - Organisation et Fonctionnement de la Collectivité Départementale - Haití",
+      "citada": false
+    },
+    {
+      "url": "https://mspp.gouv.ht/site/downloads/loi_sur_la_fonction_publique.pdf",
+      "titulo": "Législation et Réglementation DECRET PORTANT REVISION DU STATUT GENERAL DE LA",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/Hai172031.pdf",
+      "titulo": "6 LIBERTE << LE MONITEUR >> EGALITE REPUBLIQUE D'HAITI ;",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/juridico/pdfs/mesicic4_hti_dec06.pdf",
+      "titulo": "République d'Haïti Ministère de l'Économie et des Finances (MEF)",
+      "citada": false
+    },
+    {
+      "url": "https://cscca.gouv.ht/17mars_2006.pdf",
+      "titulo": "République d'Haïti Ministère de l'Économie et des Finances (MEF)",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/hai65901.pdf",
+      "titulo": "Paraissant Le Lundi et Ie Jeudi LtilemeAllllee No. 11",
+      "citada": false
+    },
+    {
+      "url": "https://www.omrh.gouv.ht/Media/Publications/3-Decrets/Moniteur%20N%20179.pdf",
+      "titulo": "Paraissant du Lundi au Vendredi JOURNAL OFFICIEL DE LA REPUBLIQUE D’HAITI",
+      "citada": false
+    },
+    {
+      "url": "https://mef.gouv.ht/storage/app/uploads/public/622/115/79b/62211579bc814535571340.pdf",
+      "titulo": "Paraissant Le Lundi et le Jeudi JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAÏTI",
+      "citada": false
+    },
+    {
+      "url": "https://www.cdg35.bzh/app/uploads/13/1/2025/11/fi_remu_201603_07_nbi___Maj20220301-1.pdf",
+      "titulo": "N° 07 7 mars 2016 (mis à jour le 22 juin 2026) 1 Rémunération",
+      "citada": false
+    },
+    {
+      "url": "https://www.lagazettedescommunes.com/337478/les-regles-de-recrutement-dans-la-fonction-publique-territoriale-en-10-questions/",
+      "titulo": "Les règles de recrutement dans la fonction publique territoriale en 10 questions",
+      "citada": false
+    },
+    {
+      "url": "https://www.juristique.org/fonction-publique/territoriale",
+      "titulo": "Fonction publique territoriale : métiers, catégories et salaires 2026",
+      "citada": false
+    },
+    {
+      "url": "https://www.agirhe-concours.fr/docs/78/brochures/AT2024_brochure.pdf",
+      "titulo": "Agirhe-concours",
+      "citada": false
+    },
+    {
+      "url": "https://www.unsa-territoriaux.org/article/Decret-relatif-aux-conditions-de-recrutement-dans-la-fonction-publique-territoriale",
+      "titulo": "Décret relatif au recrutement dans la fonction publique territoriale",
+      "citada": false
+    },
+    {
+      "url": "https://www.cnfpt.fr/sites/default/files/document/1676883372/cadm2023_faq.pdf",
+      "titulo": "Direction Mobilisation des talents",
+      "citada": false
+    },
+    {
+      "url": "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/fonction-publique-territoriale/lacces-la-fonction-publique-territoriale/recrutement-par-concours-des-fonctionnaires",
+      "titulo": "Recrutement par concours des fonctionnaires",
+      "citada": false
+    },
+    {
+      "url": "https://uffa.cfdt.fr/sinformer/recrutement-et-carriere/le-recrutement-par-concours",
+      "titulo": "Le recrutement par concours",
+      "citada": false
+    },
+    {
+      "url": "https://www.cftc-fae.fr/guides/concours-carriere/fonction-publique-territoriale/",
+      "titulo": "Fonction publique territoriale : concours et recrutement 2026",
+      "citada": false
+    },
+    {
+      "url": "https://www.agirhe-concours.fr/docs/59/brochures/BROCHURE_2020_C-ATT.pdf",
+      "titulo": "de la Fonction Publique Territoriale CONCOURS Filière administrative",
+      "citada": false
+    },
+    {
+      "url": "https://www.agirhe-concours.fr/docs/44/brochures/Brochure2_concours_ATEA_PPAL_FM_30_juillet.pdf",
+      "titulo": "CENTRE DE GESTION DE LA FONCTION PUBLIQUE ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.alterpresse.org/Haiti-Derniere-etape-pour-mettre-fin-a-la-transition-de-2004",
+      "titulo": "Haïti : Dernière étape pour mettre fin à la transition de 2004",
+      "citada": false
+    },
+    {
+      "url": "https://localdemocracy.net/countries/south-america/haiti/",
+      "titulo": "Haiti",
+      "citada": false
+    },
+    {
+      "url": "https://boukannews.com/lanalyse-de-letat-de-la-decentralisation-haitienne-au-vu-de-la-theorie-de-decentralisation-le-constat-dun-effet-daffichage/",
+      "titulo": "L’analyse de l’état de la décentralisation haïtienne au vu de la théorie de décentralisation : le constat d’un effet d’affichage  - Boukan News",
+      "citada": false
+    },
+    {
+      "url": "https://defenseursplus.org/public/files/publications/pdfs/88tZibI6YN7WTmN3nDplhpXxlujnoDTLWSelU6KB.pdf",
+      "titulo": "la transition politique et l'impasse électorale en haïti en 2026",
+      "citada": false
+    },
+    {
+      "url": "https://www.cdg2b.com/userfiles/files/GUIDE%20STATUTAIRE(1).pdf",
+      "titulo": "CENTRE DEPARTEMENTAL DE GESTION DE LA FONCTION PUBLIQUE TERRITORIALE",
+      "citada": false
+    },
+    {
+      "url": "https://politique.pappers.fr/document/decret-n-2006-1695-22-decembre-2006-fixant-dispositions-statutaires-communes-applicables-cadres-demplois-fonctionnaires-categorie-fonction-publique-territoriale-JORFTEXT000000462936",
+      "titulo": "Décret n° 2006-1695 du 22 décembre 2006 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie A de la fonction publique territoriale",
+      "citada": false
+    },
+    {
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000462936",
+      "titulo": "Décret n° 2006-1695 du 22 décembre 2006 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie A de la fonction publique territoriale - Légifrance",
+      "citada": false
+    },
+    {
+      "url": "https://www.cdg35.bzh/app/uploads/13/1/2026/08/Mementodescarrieres2026MAJ-01072026.pdf",
+      "titulo": "Service Statuts-Rémunération Dernière mise à jour : 1er juillet 2026",
+      "citada": false
+    },
+    {
+      "url": "https://www.sng-wofi.org/country_profiles/haiti_fr.html",
+      "titulo": "Fiches pays et territoires - SNG-WOFI - HAÏTI - AMÉRIQUE LATINE ET CARAÏBES",
+      "citada": false
+    },
+    {
+      "url": "https://mde.gouv.ht/phocadownload/DECRET%20ORGANISANT%20LE%20MDE%20-%2016%20AOUT%20%20%20%202020.pdf",
+      "titulo": "LIBERTÉ ÉGALITÉ FRATERNITÉ RÉPUBLIQUE D’HAÏTI DÉCRET",
+      "citada": false
+    },
+    {
+      "url": "https://rezonodwes.com/2022/03/haiti-les-collectivites-territoriales-la-decentralisation-et-les-roles-des-partis-politiques/",
+      "titulo": "Haïti : Les Collectivités Territoriales, la Décentralisation et les Rôles des Partis Politiques - Rezo Nòdwès",
+      "citada": false
+    },
+    {
+      "url": "https://www.lenational.org/post_article.php?tri=2090",
+      "titulo": "De l’Administration Publique haïtienne, état des lieux, enjeux et perspectives !",
+      "citada": false
+    }
+  ]
+}

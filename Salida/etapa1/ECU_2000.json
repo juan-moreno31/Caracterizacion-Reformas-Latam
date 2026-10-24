@@ -1,0 +1,269 @@
+{
+  "id": "ECU_2000",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3611,
+  "incompleto": false,
+  "norma": "Ley para la Transformación Económica del Ecuador (Ley 2000-4, \"Trole I\"), Registro Oficial Suplemento 34, 13 de marzo de 2000",
+  "texto": "# ECU 2000: Ley para la Transformación Económica del Ecuador (\"Trole I\"). Informe de contenido\n\n**En síntesis:** la ley es **flexibilizadora**. Su cambio central es el contrato por horas. A eso se suma una unificación salarial que reorganiza la remuneración y prohíbe la indexación. Se aplicó hasta 2008, cuando el Mandato Constituyente No. 8 derogó y prohibió el contrato por horas. Ningún fallo anuló una parte sustantiva de su componente laboral. Lo más importante que queda por verificar es qué artículo anuló el Tribunal Constitucional con la Resolución No. 129 de 2000.\n\n## 1. Objetivo declarado\nEn los considerandos del texto aprobado, el Congreso afirma que es indispensable, adicionalmente, una reforma laboral que asegure el acceso a las fuentes de trabajo y la competitividad de las empresas nacionales. El objetivo laboral se presenta como complemento de las medidas radicales que nos permitan superar la crisis económica que soporta el país. Nota: lo consultado son los considerandos de la ley. No accedí a una exposición de motivos separada del Ejecutivo.\n\n**Número de la ley:** se confirma \"Ley 2000-4\". Un documento publicado en el Registro Oficial cita el artículo 94 de la Ley 2000-4 para la Transformación Económica del Ecuador.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**contratacion_temporal (reduce).** La ley reformó el artículo 17 del Código del Trabajo para crear el contrato por horas. Son contratos en que las partes podían convenir el valor de la remuneración por cada hora de trabajo. Podía ser celebrado para cualquier clase de actividad, sin limitarse a labores eventuales. Además, no podía coexistir con otro contrato de trabajo celebrado con el mismo empleador. Como salvaguarda, el empleador que mantuviere contrato de trabajo bajo otras modalidades previstas en la ley, no podrá convertirlas a contratación por hora. El valor por hora incluía todos los beneficios: la decimotercera y decimocuarta remuneraciones, descanso semanal remunerado, el valor de los componentes salariales, entre otros. Una fuente académica sostiene que, aunque la norma hablaba de acuerdo entre las partes, en la práctica era el empleador el que imponía estas condiciones.\n\n**despido_e_indemnizacion (reduce).** Dentro de esta modalidad, cualesquiera de las partes podían libremente dar por terminada esta modalidad contractual. El reglamento dictado por el Ejecutivo dispuso que por su naturaleza, esta modalidad contractual no garantizaría estabilidad laboral. La ley no cambia el régimen general de despido; el efecto se limita a quienes trabajan por horas.\n\n**salario_y_negociacion_salarial (reorganiza, con un elemento restrictivo).** La unificación salarial incorpora a la remuneración mensual el décimo quinto sueldo mensualizado y el décimo sexto sueldo, así como, paulatinamente, los componentes salariales en proceso de incorporación a la remuneración. Al mismo tiempo, la ley congela dos componentes y prohíbese expresamente la revisión e incremento de la bonificación complementaria y de la compensación por el incremento del costo de vida, y prohíbese el establecimiento de cualquier otro sueldo o remuneración adicional. También introduce la prohibición de indexación: prohíbese establecer el sueldo o remuneración básica mínima unificada o el salario sectorial unificado como referentes para cuantificar o reajustar otros ingresos. La simplificación de la estructura salarial cambia la forma de la remuneración sin un sentido claro. En cambio, el congelamiento y la desindexación restringen los mecanismos de ajuste.\n\n**seguridad_social_y_pensiones (reorganiza).** Quienes trabajan por horas serán obligatoriamente afiliados al seguro social. Pero el empleador no estaría obligado a pagar el fondo de reserva. Por otro lado, la unificación amplió la base de aportes, que deben incluir el valor correspondiente a la quinta parte de los componentes salariales en proceso de incorporación. *Excepción a la regla de magnitudes:* \"la quinta parte\" es una fracción cuantitativa; la dejé porque es una cita textual, y puede eliminarse si se prefiere aplicar la regla con rigor.\n\n**otro: régimen salarial del sector público (sin dirección clara; sin verificar).** La ley tocó la Ley para la Reforma de las Finanzas Públicas: suprimió en su artículo 57 la frase: \"Percibirán los salarios mínimos sectoriales que se fijen conforme a las disposiciones del Código del Trabajo\". No pude confirmar el alcance de este cambio.\n\n## 3. Población objetivo\n- **asalariados_formales** del sector privado: la unificación se aplica a las remuneraciones que se encuentren percibiendo los trabajadores del sector privado del país.\n- **general:** el contrato por horas está abierto a cualquier actividad.\n- **sector_publico:** solo de forma secundaria (ver sección 2, \"otro\").\n\nNo encontré fuentes que mencionen focalización en jóvenes, mujeres o mipymes.\n\n## 4. Contexto político y económico\nLa ley se dictó en plena crisis y tras la caída de Mahuad. El presidente Gustavo Noboa remitió al Congreso la Ley para la Transformación Económica del Ecuador, que pasó a la historia como la primera ley 'trole', para implementar la dolarización. Según CIDOB, fue urgida por Estados Unidos y el FMI, fue aprobada por el Congreso el 24 de febrero con los votos de DP-UDC, el Partido Social Cristiano (PSC) y el Frente Radical Alfarista (FRA), y promulgada el 13 de marzo. La misma fuente señala que el texto daba el marco jurídico a la adopción del dólar como moneda oficial y la venta de las empresas del Estado. La propuesta nació en el gobierno de Jamil Mahuad. El componente laboral es, por tanto, una pieza dentro de un paquete de ajuste macroeconómico.\n\n## 5. ¿Revierte una reforma previa?\nNo encontré evidencia de que lo haga, así que `revierte_reforma_previa` = no. Ocurre lo contrario: la Trole I fue revertida después (ver sección 7).\n\n## 6. Fecha de entrada en vigor y aplicación escalonada\n- **Entrada en vigor: 2000-03-13.** Según vLex, la presente Ley entrará en vigencia a partir de la fecha de su publicación en el Registro Oficial.\n- **Aplicación escalonada: sí (`vigencia_escalonada` = true).** La incorporación de los componentes salariales fue gradual, hasta el primero de enero del 2005.\n- **Desarrollo reglamentario:** los aspectos no previstos del contrato por horas quedaban sujetos al Reglamento que para el efecto dictará el Presidente de la República. Ese reglamento se expidió mediante Decreto Ejecutivo N.º 1406. No verifiqué su fecha.\n\n## 7. Estado de vigencia posterior\n**Clasificación propuesta: `modificada_o_derogada_despues`.**\n\n- **Reformas tempranas.** El mismo mes se dictó la Ley No. 10 (Registro Oficial Suplemento 48 de 31 de Marzo del 2000), que entre otras cosas agregó un literal al artículo 19 del Código. La Trole II también reformó incisos de la Trole I.\n- **Fallo del Tribunal Constitucional en 2000.** Un artículo fue declarado Inconstitucional por Resolución del Tribunal Constitucional No. 129, publicada en Registro Oficial Suplemento 128 de 26 de Julio del 2000. El texto anotado sugiere que trataba de escalas salariales fijadas por un Consejo, pero no pude identificar el artículo con certeza. No afectó al contrato por horas, que siguió aplicándose: una resolución del Tribunal de 2004 describe su uso en la zafra de 2001 (la reforma al artículo 17 de la Ley para la Transformación Económica del Ecuador, conocida también como Trole I). Por eso no lo considero sustantivo y lo dejo en `notas`, con la advertencia de que debe verificarse.\n- **Derogación del contrato por horas (2008).** El Mandato Constituyente No. 8 (Suplemento del Registro Oficial 330, 6-V-2008) dispuso que se elimina y prohíbe la contratación laboral por horas. Además derogó expresamente los artículos 84 al 90 del capítulo denominado DE LAS REFORMAS AL CODIGO DEL TRABAJO DE LA LEY PARA LA TRANSFORMACION ECONOMICA DEL ECUADOR, relativas a la contratación laboral por horas, publicada en el Registro Oficial No. 34 del 13 de marzo del 2000. Según su reglamento, el Mandato rige desde el 1 de mayo del 2008. Después, el artículo 327 de la Constitución de 2008 confirmó la prohibición.\n- **Lo que sigue vigente.** La unificación salarial y la prohibición de indexación permanecen en la codificación del Código del Trabajo. La Corte Constitucional las invocó todavía en 2012 (caso 0217-10-EP).\n\n## 8. No verificado\n- Registro de la ley en NATLEX o EPLex.\n- El texto completo del Capítulo XII (solo consulté versiones codificadas y extractos).\n- Qué artículo anuló la Resolución TC No. 129-2000.\n- La fecha del Decreto Ejecutivo 1406.\n- El alcance de la reforma al régimen salarial del sector público.\n- El texto completo del artículo 95 de la ley, que remite a la aplicación obligatoria, salvo que existan disposiciones (cita truncada en la fuente).\n\n**Confianza propuesta: media-alta.** La norma y su contenido laboral aparecen en fuentes oficiales: codificaciones del Código, el Registro Oficial y el Tribunal Constitucional. Falta la verificación en OIT.",
+  "fuentes": [
+    {
+      "url": "https://www.iess.gob.ec/documents/10162/2903501/I.2+Base_Legal+Codigo+de+Trabajo.pdf?version=1.0",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://www.net21.org/wp-content/uploads/2024/05/ELISA-LANAS-MEDINA.pdf",
+      "titulo": "LA CONTRATACIÓN LABORAL A PLAZO FIJO Y POR HORAS EN ECUADOR",
+      "citada": true
+    },
+    {
+      "url": "https://www.edec.gob.ec/sites/default/files/CODIGO_TRABAJO.pdf",
+      "titulo": "Ministerio de Trabajo y Empleo REGIMEN LABORAL ECUATORIANO 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.gporellana.gob.ec/wp-content/uploads/2015/03/CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexis.com.ec/blog/laboral/reincorporacion-del-contrato-por-horas-y-del-contrato-a-plazo-fijo-a-la-legislacion-laboral-en-ecuador",
+      "titulo": "¿Reincorporación del contrato por horas y del contrato a plazo fijo a la legislación laboral en Ecuador?",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/2331/233124421002.pdf",
+      "titulo": "Revista de Métodos Cuantitativos para la Economía y la Empresa",
+      "citada": true
+    },
+    {
+      "url": "https://www.defensoria.gob.ec/images/defensoria/pdfs/lotaip2014/info-legal/Mandato_constituyente_eliminacion_tercerizacion.pdf",
+      "titulo": "MANDATO CONSTITUYENTE 8 ELIMINACION Y PROHIBICION DE TERCERIZACION Norma:",
+      "citada": true
+    },
+    {
+      "url": "https://www.loreto.gob.ec/index.php/transparencia/transparencia-activa/01-estructura-organica-funcional/01-2-base-legal/1280-mandato-constituyente-no-8-eliminacion-y-prohibicion-de-la-tercerizacion-intermediacion-laboral-contratacion-laboral-por-horas-y-cualquier-forma-de-precarizacion-de-las-relaciones-de-trabajo-suplemento-del-registro-oficial-no-330-6-de-mayo-2008/file",
+      "titulo": "Suplemento del Registro Oficial No. 330 , 6 de Mayo 2008",
+      "citada": true
+    },
+    {
+      "url": "https://derechoecuador.com/reglamento-para-la-aplicacion-del-mandato-8/",
+      "titulo": "REGLAMENTO PARA LA APLICACION DEL MANDATO 8 - Derecho Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J2FsZnJlc2NvJywgdXVpZDonNDdhNDAwOTUtNWRkNi00NTMyLWI4NjYtZjI4MzMxMTE4OTgwLnBkZid9",
+      "titulo": "Corte Constitucional Quito, D. M, 03 de mayo del 2012",
+      "citada": true
+    },
+    {
+      "url": "https://www.primicias.ec/politica/daniel-noboa-adn-asamblea-leyes-trole-integridad-solidaridad-99982/",
+      "titulo": "Dos leyes aprobadas por la mayoría oficialista y una más en trámite que evocan la vieja fórmula de las ‘trole'",
+      "citada": true
+    },
+    {
+      "url": "https://www.economicoproductivo.gob.ec/wp-content/uploads/downloads/2012/08/trole.pdf",
+      "titulo": "1 Texto extraído de la página www.lexis.com.ec GOBIERNO NACIONAL DE",
+      "citada": true
+    },
+    {
+      "url": "https://www.cidob.org/lider-politico/gustavo-noboa-bejarano",
+      "titulo": "Gustavo Noboa Bejarano",
+      "citada": true
+    },
+    {
+      "url": "https://www.radiopichincha.com/leyes-trole-mas-de-dos-decadas-de-intentos-privatizadores-parte-1/",
+      "titulo": "Leyes Trole: más de dos décadas de intentos privatizadores, parte 1 - Radio Pichincha",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiNjRjNzE0YjAtNzQxNy00NTQwLWJmMjMtZjQ3NmEzZWFlZGI3LnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.ec/vid/ley-4-ley-transformacion-643461261",
+      "titulo": "Ley 4. Ley para la transformación económica del ecuador (trolebus) - vLex Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiOTdjZTZlZWMtMGE1Yi00ZDc2LWEyOGYtZGFmYmE4YmM5ZGZiLnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL SUMARIO:",
+      "citada": true
+    },
+    {
+      "url": "https://www.ecuadorencifras.gob.ec/LOTAIP/2017/DIJU/diciembre/LA2_OCT_DIJU_CODIGO%20TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.cfn.fin.ec/wp-content/uploads/downloads/2016/08/Codigo-de-trabajo-1.pdf",
+      "titulo": "CODIGO DEL TRABAJO - Corporación Financiera Nacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/a5c99ffe-c498-4722-b408-fe672321c82c/Codigo_Trabajo_act_27062024.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO (Codificación No. 2005-017)",
+      "citada": false
+    },
+    {
+      "url": "https://www.quito-turismo.gob.ec/descargas/lotaip2015/JULIO/baselegal/CODIGO%20DEL%20TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6ICJub3RhaXAyMDIzIiwgdXVpZDoiNjI2OWE2NWItZWYxNy00ZjQ4LWFkYzktNDZiYzM3MGQzOWUzLnBkZiJ9",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://dspace.uhemisferios.edu.ec/items/0872e1d7-845c-4f38-a779-b1c7c84eed29/full",
+      "titulo": "El mandato No. 8, eliminación de la tercerización, intermediación laboral y trabajo por horas: legalidad, problemas jurídicos, repercusiones y responsabilidad del estado ecuatoriano",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.defensoria.gob.ec/handle/37000/836?mode=full",
+      "titulo": "Defensoría Pública del Ecuador - Biblioteca digital: Mandato Constituyente 8 Eliminación y Prohibición de Tercerización",
+      "citada": false
+    },
+    {
+      "url": "https://www.eeq.com.ec/documents/d/empresa-electrica-quito/mandato-constituyente-no-8",
+      "titulo": "LEXIS S.A. MANDATO CONSTITUYENTE 8 ELIMINACIÓN Y PROHIBICIÓN DE TERCERIZACIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://www.puenteasociados.com/mandato-constituyente-no-8-eliminacion-de-la-tercerizacion/",
+      "titulo": "Mandato Constituyente Número 8 (Eliminacion de la Tercerizacion) - Puente & Asociados",
+      "citada": false
+    },
+    {
+      "url": "https://www.eluniverso.com/2008/05/02/0001/8/463B0E041116418DBBD9558B62760D7F.html/",
+      "titulo": "Mandato Constituyente Nº 8",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiNWQzZGQ3OTgtYmYwOS00ZGNkLWEzOGItMjlmOGZmZjY5NjJmLnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZjJkZTQ0YmMtZDY4Ny00NDk4LWE3Y2ItNjcwNzRmZGI2MjdjLnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL SUMARIO:",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3RyYW1pdGUnLCB1dWlkOiczNDcyYjhjYS1hZTBhLTQ2NWUtOWJmNi0xNGY5YjZhNmEzYmUucGRmJ30",
+      "titulo": "Sentencia 87-20-IN/23 Jueza ponente: Carmen Corral Ponce 1",
+      "citada": false
+    },
+    {
+      "url": "https://www.ces.gob.ec/lotaip/2020/Junio/Literal_a2/C%C3%B3digo%20del%20Trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZDUxZTMyZTgtM2IyOC00NTI5LWIwZjMtOGZjZWU5NTEwMzM5LnBkZiJ9",
+      "titulo": "SUMARIO: Págs. SENTENCIAS: CORTE CONSTITUCIONAL DEL ECUADOR:",
+      "citada": false
+    },
+    {
+      "url": "https://www.uafe.gob.ec/wp-content/uploads/downloads/2020/04/A2-CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "http://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3NvcnRlbycsIHV1aWQ6J2FiMWFhYzlmLTNjOWEtNDJmOS1iZGY5LTNjMTNlYWJkMTI4NS5wZGYnfQ==",
+      "titulo": "Demanda de Inconstitucionalidad",
+      "citada": false
+    },
+    {
+      "url": "https://www.acnur.org/fileadmin/Documentos/BDL/2014/9506.pdf",
+      "titulo": "1 DIRECCIÓN NACIONAL DE ASESORÍA JURÍDICA DE LA PGE CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.bce.fin.ec/micrositio20dolarizacion/telegrafo-marzo2000.html",
+      "titulo": "20 AÑOS DE DOLARIZACIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://www.lapalabrabierta.com/2019/05/21/reforma-laboral-retroceso-historico/",
+      "titulo": "Reforma laboral: retroceso histórico - LAPALABRABIERTA",
+      "citada": false
+    },
+    {
+      "url": "http://icci.nativeweb.org/boletin/21/editorial.html",
+      "titulo": "Editorial",
+      "citada": false
+    },
+    {
+      "url": "https://especiales.elcomercio.com/2013/05/especial_roldos/timeline.php",
+      "titulo": "Jaime Roldós-CFP",
+      "citada": false
+    },
+    {
+      "url": "https://dolarizacion.org/2026/03/11/acuerdo-ministerial-que-flexibiliza-y-responde-al-ajuste-del-fmi/",
+      "titulo": "Acuerdo ministerial que flexibiliza y responde al ajuste del FMI.",
+      "citada": false
+    },
+    {
+      "url": "http://dorisgaibor.blogspot.com/2015/02/gobierno-de-gustavo-noboa-bejarano.html",
+      "titulo": "CAMBIOS CULTURALES EN EL ECUADOR: GOBIERNO DE GUSTAVO NOBOA BEJARANO",
+      "citada": false
+    },
+    {
+      "url": "https://gadgualaquiza.gob.ec/x2/wp-content/uploads/2024/04/CODIGO_DEL_TRABAJO_-_CT.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZDA1MzAzOWItMzhhNS00ZDRlLTgyYjktZDMxNjAzZjAxNTQwLnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL SUMARIO:",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/juridico/spanish/mesicic2_ecu_anexo36.pdf",
+      "titulo": "LEY PARA LA TRANSFORMACION ECONOMICA DEL ECUADOR.",
+      "citada": false
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/Resolucion/Api/xml/22103",
+      "titulo": "https://hj.tribunalconstitucional.es/Resolucion/Api/xml/22103",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2001/T-372-01.htm",
+      "titulo": "T-372-01 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiYTk4NjI5YjgtMWNhMy00NGMxLWEzMjItYTFhN2FlZTNkZDY0LnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambienteyenergia.gob.ec/wp-content/uploads/2023/02/CODIGO-DEL-TRABAJO-2-ACTUALIZADO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1549-00.htm",
+      "titulo": "C-1549-00 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2000/t-1431-00.htm",
+      "titulo": "T-1431/00 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZDA1NGQyYjYtNzgzZC00ZTg2LWFkYjgtZDVmYTc5YTFiOTkxLnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL EDMUNDO ARIZALA ANDRADE DIRECTOR ENCARGADO",
+      "citada": false
+    }
+  ]
+}

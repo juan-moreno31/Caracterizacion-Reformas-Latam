@@ -1,0 +1,197 @@
+{
+  "id": "ECU_2015",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2015,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0612,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar (Registro Oficial, Tercer Suplemento N.º 483, 20 de abril de 2015)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Enmiendas a la Constitución de la República del Ecuador (Registro Oficial, Suplemento N.º 653, 21 de diciembre de 2015) – componente laboral sobre el régimen de los trabajadores del sector público y la contratación colectiva"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2015-04-20",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según la exposición de motivos y la Asamblea Nacional, garantizar la estabilidad laboral mediante el contrato de plazo indefinido, declarar ineficaz el despido de mujeres embarazadas y de dirigentes sindicales, incluir a los trabajadores de actividades complementarias en el reparto de utilidades y establecer un tope a las utilidades como medida de equidad, cuyo excedente financiaría prestaciones de seguridad social.",
+    "descripcion_intenciones": "La ley busca convertir el contrato indefinido en la modalidad tipo, eliminando el contrato a plazo fijo, el contrato a prueba y el desahucio por parte del empleador. Crea la figura del despido ineficaz con reintegro para trabajadoras embarazadas o en maternidad y para dirigentes sindicales, y protege a quienes constituyen una organización sindical. Amplía la participación en utilidades a tercerizados y empresas vinculadas, pero a la vez fija un tope a las utilidades cuyo excedente se destina a la seguridad social. Extiende la afiliación obligatoria al trabajo no remunerado del hogar y, sin mencionarlo en el discurso de estabilidad, sustituye el aporte estatal fijo a las pensiones por una garantía subsidiaria.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Elimina el contrato a plazo fijo y el contrato a prueba, establece el contrato indefinido como contrato tipo e incorpora el período de prueba dentro del contrato indefinido."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Suprime el desahucio para el empleador, extiende la bonificación por desahucio a la terminación por acuerdo entre las partes y crea el despido ineficaz con reintegro, cuyo incumplimiento puede acarrear sanción penal."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Declara ineficaz el despido intempestivo de trabajadoras embarazadas o asociado a su condición de gestación o maternidad."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Declara ineficaz el despido de dirigentes sindicales, protege a los trabajadores durante la constitución de la organización y extiende el contrato colectivo a todos los trabajadores. Como salvedad, prohíbe cláusulas con privilegios desmedidos, posiblemente solo en el sector público (no verificado)."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Los trabajadores de actividades complementarias participan de las utilidades de las empresas usuarias, las empresas vinculadas pueden tratarse como una sola y se amplía la responsabilidad de los obligados subsidiarios."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Impone un tope a las utilidades (artículo 97.1 del Código del Trabajo) a la vez que amplía la base de beneficiarios. Mensualiza por defecto los décimos tercero y cuarto y amplía las atribuciones del Consejo Nacional de Salarios."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Amplía la cobertura al trabajo no remunerado del hogar e introduce la portabilidad de aportes, pero sustituye el aporte estatal fijo a las pensiones por una garantía subsidiaria."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Sector público: reforma la Ley Orgánica de Servicio Público y el Mandato Constituyente N.º 2, por ejemplo en la forma de pago del décimo cuarto."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres",
+      "informales",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Iniciativa del Ejecutivo de Rafael Correa, aprobada con la mayoría de Alianza PAIS; Correa firmó el ejecútese el 17 de abril de 2015. Se adoptó en una coyuntura fiscal adversa por la caída del precio del petróleo, con protestas que rechazaban la eliminación del aporte estatal al IESS. Modifica el Código del Trabajo, la Ley Orgánica de Servicio Público y el Mandato Constituyente N.º 2, y profundiza la línea del Mandato Constituyente N.º 8 de 2008, que prohibió la tercerización e intermediación laboral. No revierte una reforma previa identificable.",
+    "notas": "Estado de vigencia: la sentencia N.º 002-18-SIN-CC de la Corte Constitucional (21 de marzo de 2018) declaró inconstitucionales el tope a las utilidades (artículo 15 de la ley) y la eliminación del aporte estatal a las pensiones (artículo 68.1, incisos segundo y tercero), con efectos solo a futuro; el aporte estatal se retomó desde 2019. Se codifica como 'vigente' porque, según el codebook, los fallos que amplían la protección en vez de recortar el núcleo de la reforma no cambian la categoría: los componentes anulados eran los restrictivos y el núcleo protector sobre contratación, despido y derechos sindicales permaneció intacto. Una lectura alternativa defendible es 'anulada_o_suspendida_parcial', ya que el tope se presentó como objetivo declarado. Ambos componentes tuvieron aplicación real: el tope rigió para las utilidades de 2016 y la garantía subsidiaria entre 2015 y 2018. Según un despacho de abogados (fuente de menor jerarquía), el fallo también afectó el artículo 459 sobre elecciones en comités de empresa; no se verificó en fuente oficial. Vigencia escalonada: el tope a las utilidades entró en vigor el 1 de enero de 2016, y los contratos a plazo fijo y de enganche ya firmados se rigieron por la norma anterior hasta esa fecha. En la copia de la CEPAL algunas páginas indican 10 de abril de 2015, probable errata; la fecha correcta de publicación es el 20 de abril de 2015. Orientación: se clasifica como protectora por el peso de la contratación, el despido y los derechos sindicales; podría defenderse 'mixta' por el tope a las utilidades y el componente fiscal en pensiones. No verificado: NATLEX y EPLex, exposición de motivos completa, modalidad de obra o servicio dentro del giro del negocio, alcance de la cláusula sobre privilegios desmedidos, lo resuelto sobre los demás artículos impugnados y eventuales fallos o reformas posteriores a 2018."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2015/05/LEY-ORGANICA-PARA-LA-JUSTICIA-LABORAL-Y-RECONOCIMIENTO-DEL-TRABAJO-EN-EL-HOGAR.pdf",
+      "titulo": "LEY ORGANICA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN HOGAR Ley 0",
+      "citada": true
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/39030-ley-organica-para-la-justicia-laboral-y",
+      "titulo": "Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar (T195798)",
+      "citada": true
+    },
+    {
+      "url": "https://www.gobiernogalapagos.gob.ec/wp-content/uploads/downloads/2015/05/TEXTO-FINAL-LEY-ORGANICA-PARA-LA-JUSTICIA-LABORAL-Y-RECONOCIMIENTO-DEL-TRABAJO-EN-EL-HOGAR.pdf",
+      "titulo": "“LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y RECONOCIMIENTO DEL",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/ecuador_-_ley_org._para_la_justicia_labora_y_reconocimiento_del_trabajo_en_el_hogar.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN EL HOGAR",
+      "citada": true
+    },
+    {
+      "url": "https://paquisha.gob.ec/wp-content/uploads/2020/10/Ley-Organica-Para-La-Justicia-Laboral-y-Reconocimiento-del-Trabajo-en-el-Hogar.pdf",
+      "titulo": "LEY ORGÁNICA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN HOGAR Ley 0",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.ec/vid/ley-organica-justicia-laboral-643461557",
+      "titulo": "Ley Orgánica justicia laboral y reconocimiento del trabajo en hogar - vLex Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://nmslaw.com.ec/blog/2018/03/26/corte-constitucional-declaro-inconstitucional-techo-utilidades/",
+      "titulo": "La Corte Constitucional declaró inconstitucional el techo en el pago de utilidades a los trabajadores - NMS",
+      "citada": true
+    },
+    {
+      "url": "https://www.ferrere.com/es/novedades/corte-constitucional-del-ecuador-declara-inconstitucional-techo-en-el-pago-de-utilidades-a-favor-de-los-trabajadores/",
+      "titulo": "Novedades",
+      "citada": true
+    },
+    {
+      "url": "https://www.elcomercio.com/actualidad/negocios/utilidades-techo-pago-empresas-empleados/",
+      "titulo": "En Ecuador no hay techo al pago de las utilidades a los trabajadores - El Comercio",
+      "citada": true
+    },
+    {
+      "url": "https://www.tzvs.ec/noticiasdestacadas/se-declaran-inconstitucionales-las-disposiciones-limite-utilidades/",
+      "titulo": "Se declaran inconstitucionales las disposiciones sobre límite de utilidades - Tobar ZVS",
+      "citada": true
+    },
+    {
+      "url": "https://www.ambienteyenergia.gob.ec/wp-content/uploads/2023/02/CODIGO-DEL-TRABAJO-2-ACTUALIZADO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://www.elcomercio.com/actualidad/negocios/corte-utilidades-restituye-aporte-estatal/",
+      "titulo": "Utilidades ya no tienen tope y se restituye aporte estatal al IESS - El Comercio",
+      "citada": true
+    },
+    {
+      "url": "https://www.elcomercio.com/actualidad/negocios/iess-aporte-40porciento-corteconstitucional-sentencia/",
+      "titulo": "El IESS recibirá aporte del 40% del Estado desde el 2019 - El Comercio",
+      "citada": true
+    },
+    {
+      "url": "https://dspace.unl.edu.ec/items/ee429741-2e8f-4ee0-92d3-6f4e068b63f7",
+      "titulo": "Inconstitucionalidad del art. 68.1 de la Ley Orgánica de Justicia Laboral en relación a la eliminación del aporte estatal del 40% al instituto ecuatoriano de seguridad social (IESS) para las pensiones jubilares",
+      "citada": true
+    },
+    {
+      "url": "https://www.eluniverso.com/noticias/2015/04/27/nota/4817531/jubilados-presentan-demanda-contra-ley-que-elimina-aporte-estatal/",
+      "titulo": "Jubilados presentan demanda contra ley que elimina aporte estatal del 40%",
+      "citada": true
+    },
+    {
+      "url": "https://www.primicias.ec/noticias/economia/perdida-8927-millones-iess-fondo-pensiones/",
+      "titulo": "Así se perdieron USD 8.927 millones en el IESS, en tres años",
+      "citada": true
+    },
+    {
+      "url": "https://www.eluniverso.com/noticias/2021/01/27/nota/9603898/elecciones-presidenciales-ecuador-2021-seguridad-social-preguntas/",
+      "titulo": "¿Mantendrá el aporte del 40 % de las pensiones jubilares que el Estado le hace al IESS? Aquí las respuestas de los 16 candidatos presidenciales",
+      "citada": true
+    },
+    {
+      "url": "https://www.mites.gob.es/ficheros/ministerio/mundo/revista_ais/193/120.pdf",
+      "titulo": "120 Actualidad Internacional Sociolaboral nº 193 ECUADOR",
+      "citada": true
+    },
+    {
+      "url": "https://www.pudeleco.com/clegal/laboral/2018/il180413.pdf",
+      "titulo": "Segundo Suplemento del Registro Oficial No. 221, 13 de abril de 2018 -1-",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/CODIGO_DEL_TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/305743274_Ecuador_La_democracia_despues_de_nueve_anos_de_la_Revolucion_Ciudadana_de_Rafael_Correa",
+      "titulo": "(PDF) Ecuador: La democracia después de nueve años de la \"Revolución Ciudadana\" de Rafael Correa:",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/4964/496454141003.pdf",
+      "titulo": "e-l@tina. Revista electrónica de estudios latinoamericanos E-ISSN: 1666-9606",
+      "citada": true
+    },
+    {
+      "url": "https://library.fes.de/pdf-files/bueros/quito/21175.pdf",
+      "titulo": "EVOLUCIÓN DE LOS DERECHOS LABORALES Y SINDICALES EN ECUADOR 2008-2023",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/458/453/1776",
+      "titulo": "FORO Revista de Derecho, No. 24, UASB-Ecuador / CEN • Quito, 2015 FORO 5",
+      "citada": true
+    }
+  ]
+}

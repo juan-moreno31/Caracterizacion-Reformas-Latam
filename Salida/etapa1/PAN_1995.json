@@ -1,0 +1,234 @@
+{
+  "id": "PAN_1995",
+  "iso": "PAN",
+  "pais": "Panamá",
+  "anio": 1995,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3812,
+  "incompleto": false,
+  "norma": "Ley No. 44 de 12 de agosto de 1995",
+  "texto": "# Informe de investigación: PAN 1995, Ley No. 44 de 12 de agosto de 1995\n\n## 1. Objetivo declarado\n\nLa versión oficial y la crítica deben registrarse por separado.\n\n- **Gobierno.** El informe económico del Ministerio de Economía y Finanzas sobre el período 1994-1999 presenta la reforma como parte del programa de libre competencia. Según ese informe, la ley buscó reducir la intervención del gobierno en las relaciones obrero-patronales y dar más flexibilidad a los empresarios en sus decisiones sobre salarios, reasignación de personal, adecuación del empleo a las necesidades del mercado y reducción de las condiciones y costos de despido. Una fuente cercana al expresidente, que es partidaria y solo sirve como contexto, señala dos metas: la flexibilización del trabajo, es decir, que la empresa pudiera asignar distintas funciones a su personal, algo que el Código prohibía, y resolver las indemnizaciones por despido injustificado, un asunto que tenía en crisis al sector empresarial.\n- **Crítica.** Un artículo de la revista *Tareas* (CELA) sostiene que el objetivo central de la ley fue abaratar el despido en favor de los empleadores.\n\n## 2. Qué cambia efectivamente, por dimensión\n\nLa principal fuente usada aquí es la transcripción del texto en Laboremia, un sitio comercial de jerarquía baja. La contrasté con ediciones consolidadas del Código (Justia/OIT, CETIPPAT del Estado y el PDF de la Superintendencia de Bancos).\n\n**despido_e_indemnizacion (reduce, aunque mejora la garantía de cobro).**\n- Ante un despido, el trabajador puede pedir el reintegro o la indemnización. Si el empleador no prueba la causa, se le reconocen además los salarios caídos, pero con un tope temporal para quienes entren a laborar después de la vigencia de la ley. Para quienes ya estaban empleados rige un tope distinto (ver §6).\n- Se amplían las causas económicas de despido, que ahora incluyen crisis económicas graves, incosteabilidad parcial por menor producción, innovaciones en procedimientos y equipos, revocación de concesiones y cancelación de pedidos.\n- Se crea el **fondo de cesantía**: en los contratos por tiempo indefinido el empleador debe establecer un fondo para pagar al trabajador, al cesar la relación, la prima de antigüedad y la indemnización por despido injustificado o renuncia justificada. Los aportes se depositan mediante fideicomisos en entidades privadas autorizadas por la Ley 10 de 1993, que no pueden ser subsidiarias ni afiliadas del empleador. El MEF sostiene que así se garantiza el pago aun si la empresa cierra. A la vez, el empleador es el único con derecho a los réditos del fondo.\n- Hay una discrepancia que conviene registrar. Prensa y literatura crítica afirman que la ley eliminó la prima de antigüedad para trabajadores de larga antigüedad y la sustituyó por un seguro de desempleo de aportes obrero-patronales. El texto consolidado no lo confirma: conserva la prima a la terminación de todo contrato por tiempo indefinido, cualquiera que sea la causa, y la financia por adelantado mediante el fondo, donde el aporte del trabajador es voluntario. Lo que sí se restringe es el derecho de los trabajadores ya empleados sobre el tiempo trabajado antes del fondo (ver §6). Recomiendo codificar según el texto.\n\n**contratacion_temporal (reduce).** El texto mantiene una cláusula antifraude: la contratación sucesiva por tiempo definido se trata como indefinida si de la cantidad y duración de los contratos se desprende la intención de encubrir una relación indefinida. Pero añade excepciones donde no hay sucesión de contratos: plazas permanentes para una nueva actividad de la empresa, contrataciones durante el primer año de actividad del empleador y modalidades aprobadas por el Ministerio o pactadas con el sindicato. También permite prorrogar el contrato por obra determinada.\n\n**jornada_y_horas_extra (reduce).** En jornadas nocturnas o mixtas, empleador y trabajador pueden convenir cómo distribuir los descansos para no interrumpir la producción. Ante una crisis económica grave, caso fortuito o fuerza mayor, se permite modificar o reducir temporalmente horarios o la semana de trabajo, con consentimiento del sindicato o de los trabajadores. Un análisis publicado por MITRADEL señala además pactos para ampliar o reducir la jornada. El aumento del máximo de horas extra solo lo afirma una columna sindical; no lo verifiqué en el texto.\n\n**salario_y_negociacion_salarial (reduce).** Las partes pueden convenir y modificar las condiciones del salario por tareas, piezas, comisiones o primas, y las fluctuaciones del ingreso no se consideran aumento ni reducción salarial. Bonificaciones, primas de producción y participación en utilidades no se consideran costumbres o usos ni condiciones de trabajo, y quedan exentas del seguro educativo y de las cotizaciones de seguridad social. Se mantiene el piso del salario mínimo.\n\n**otro: flexibilidad funcional (reduce).** Se agrega que las órdenes que impliquen movilidad funcional u horizontal no se consideran alteración unilateral si son compatibles con la posición, jerarquía y aptitudes del trabajador. Hay salvaguardas para el fuero sindical y el de maternidad.\n\n**derechos_colectivos_sindicales (reorganiza).** Esta dimensión mezcla elementos en ambas direcciones.\n- *A favor del trabajador:* se presume represalia todo despido de un trabajador que apoye el pliego, aunque el empleador puede probar lo contrario. El reintegro por violación del fuero sindical se tramita por vía administrativa con prueba al menos indiciaria. Si vence el plazo sin objeción, el sindicato se considera inscrito automáticamente.\n- *A favor del empleador:* según *Tareas*, la ley prohíbe negociar convenciones colectivas durante los primeros años de operación de la empresa (no lo verifiqué en el texto). Además, el artículo 452 modificado busca evitar la paralización de los servicios públicos sometiendo el conflicto, ya iniciada la huelga, a un mecanismo de solución.\n- *Institucional:* se crean comités de empresa paritarios.\n\n**genero_y_conciliacion (aumenta).** Durante la licencia de maternidad, bajo pena de nulidad, el empleador no puede iniciar, adoptar ni comunicar medidas o sanciones a la trabajadora, y se suspenden los términos de caducidad a su favor. No verifiqué si cambió la duración del descanso.\n\n**justicia_laboral_e_inspeccion (reorganiza).** El Ministerio establecerá las Juntas de Conciliación y Decisión necesarias, especialmente para evitar la acumulación de salarios caídos. El contrato debe constar por escrito y un ejemplar se remite a la Dirección General de Trabajo, con facultad de inspección. Se regulan las agencias privadas de colocación \"tomando en consideración los convenios de la OIT\".\n\n**formalizacion_y_mipymes (reorganiza, menor).** El fondo no es obligatorio para las empresas de los numerales 3 y 6 del artículo 212 ni para las cooperativas, que según la prensa son principalmente empresas pequeñas.\n\n## 3. Población objetivo\n\n- **Principal:** `asalariados_formales`, sobre todo con contrato indefinido.\n- **Secundarias:** `mujeres` (fuero de maternidad), `empleadores_mipymes` (exención del fondo).\n- No encontré disposiciones dirigidas a informales, jóvenes ni al sector público.\n\n## 4. Contexto político y económico\n\n- **Origen.** La reforma formaba parte de la propuesta de gobierno de Ernesto Pérez Balladares para las elecciones de 1994, y la condujo el ministro de Trabajo Mitchell Doens.\n- **Programa de ajuste.** IPS ubica la reforma en la primera fase del plan de ajuste, que también incluyó la reducción de aranceles, la privatización parcial de la telefónica y el arriendo de puertos y del ferrocarril. El CIJUL la atribuye a presiones de las instituciones financieras de crédito y a la orientación neoliberal del gobierno, pero no encontré un documento de condicionalidad que lo confirme.\n- **Conflicto.** Hubo una huelga en agosto de 1995 convocada por sindicatos contra la reforma, con obreros muertos y heridos en enfrentamientos con la policía. Según el CIJUL, el episodio deterioró de forma importante las relaciones entre el Gobierno y los trabajadores organizados.\n\n## 5. ¿Revierte una reforma previa?\n\nNo encontré evidencia de que sea una contrarreforma en el sentido del codebook. Revisa el núcleo protector del Código de 1971, pero no restituye una norma previa derogada. La prensa menciona reformas anteriores, como la Ley 2 de 1993 del gobierno Endara, pero no verifiqué su contenido ni si la Ley 44 las revierte. Propuesta: `revierte_reforma_previa` = false, con confianza media.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Fecha.** Según la transcripción, el artículo final dispone que la ley empezará a regir a partir de su promulgación. Como NATLEX registra la publicación en la Gaceta Oficial el 14 de agosto de 1995, propongo `fecha_entrada_vigencia` = 1995-08-14. La confianza es media, porque el artículo final no está en fuente oficial.\n- **Escalonamiento.** Propongo `vigencia_escalonada` = true por tres razones:\n  1. Los empleadores tenían un plazo, posterior a la entrada en vigencia de la ley, para cotizar al fondo y establecer los fideicomisos. Además, el fondo solo cubre prima e indemnización causadas desde su vigencia.\n  2. El tope de salarios caídos y el recargo sobre la indemnización varían según el trabajador estuviera ya empleado o ingresara después. Los procesos en trámite se rigen por las normas vigentes al entrar en vigencia la ley.\n  3. A los trabajadores ya empleados la prima se les computa desde el inicio del fondo. El período anterior se les paga solo si hubieran servido de manera continua durante un período largo.\n- **Reglamentación.** El fondo fue reglamentado con el Decreto Ejecutivo 106 de ese mismo año. Un registro judicial cita también el Decreto Ejecutivo Nº 87 de 31 de octubre de 1995, cuyo objeto no verifiqué. Ambos van en `normas_relacionadas`.\n\n## 7. Estado de vigencia posterior\n\n- **Fallos de la Corte Suprema de Justicia:**\n  - Fallo No. 2 de 1997, de fecha 31/01/1997, sobre la demanda de Humberto Ricord en nombre de sindicalistas contra la Ley Nº 44 de 12 de agosto de 1995. **No verifiqué el resultado.** Como impugnó la ley en su conjunto, es el fallo decisivo para la categoría.\n  - Advertencia de 1996 contra el artículo 377 del Código, reformado por el artículo 50 de la ley: resultado no verificado.\n  - Sentencia de 24 de agosto de 2007 contra el artículo 42, por las frases que fijan el plazo de inscripción sindical en el artículo 352: resultado no verificado. Aunque fuera estimatoria, afectaría un plazo procesal, es decir, un aspecto menor que iría en `notas`.\n- **Indicios de vigencia.** La OIT presenta la ley como la base de la edición consolidada del Código. Hay reglamentos de 2009 y 2010 que se refieren a artículos del Código \"modificado por la Ley 44 de 1995\". Una guía de 2026 sigue aplicando el fondo de cesantía de la Ley 44, aunque es una fuente comercial.\n- **Modificaciones posteriores.** No las investigué.\n- **Propuesta provisional:** `estado_vigencia` = `vigente`, con la reserva de que falta confirmar el fallo de 1997 y revisar reformas posteriores.\n\n## 8. Pendientes y no verificado\n\n1. El resultado de los fallos de 1996, 1997 y 2007.\n2. Las modificaciones legislativas posteriores a 1995.\n3. El texto oficial en la Gaceta 22847. La transcripción usada viene de un sitio comercial con errores de OCR.\n4. Las cláusulas sobre horas extra, la restricción temporal a la negociación colectiva y la licencia de maternidad: solo las conozco por fuentes secundarias o fragmentos.\n5. El contenido de una exposición de motivos oficial: no la encontré.\n\n**Codificación preliminar:**\n- `orientacion_general` = `flexibilizadora`. Tiene componentes protectores (garantía del fondo, fuero de maternidad, tutela antirrepresalia), pero pesan menos que los cambios en despido, contratación, salario y movilidad.\n- `tipo_instrumento` = `ley`.\n- `confianza_identificacion` = `alta`.",
+  "fuentes": [
+    {
+      "url": "https://www.superbancos.gob.pa/documentos/fiduciarias/leyes/ley44_1995.pdf",
+      "titulo": "República de Panamá ASAMBLEA LEGISLATIVA LEY N°44 ( De 12 de agosto de 1995)",
+      "citada": true
+    },
+    {
+      "url": "https://blog.laboremia.com/leyes/reforma-codigo-del-trabajo-4-agosto-1995",
+      "titulo": "Leyes Panamá - Reforma Código del trabajo - Ley 44 del 12 de Agosto de 1995 - Laboremia",
+      "citada": true
+    },
+    {
+      "url": "https://docs.panama.justia.com/federales/codigos/codigo-de-trabajo.pdf",
+      "titulo": "codigo-de-trabajo.pdf - Panamá",
+      "citada": true
+    },
+    {
+      "url": "https://cetippat.gob.pa/wp-content/uploads/2021/06/codigo-detrabajo.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO DECRETO DE GABINETE No. 252 De 30 de diciembre de 1971",
+      "citada": true
+    },
+    {
+      "url": "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=41407",
+      "titulo": "Panama - Ley núm. 44, de 12 de agosto de 1995, por la cual se dictan normas para regularizar y modernizar las relaciones laborales.",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/impresa/economia/Fondo-Cesantia_0_3769873056.html",
+      "titulo": "Fondo de Cesantía",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pa/tags/ley-44-1995-codigo-trabajo-461593",
+      "titulo": "ley 44 1995 código trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://legispan.asamblea.gob.pa/norms/1115f37a-a497-42f4-a515-f30c9229251f",
+      "titulo": "Detalle de Norma",
+      "citada": true
+    },
+    {
+      "url": "https://toroperezballadares.com/2022/12/26/reforma-contra-el-desempleo/",
+      "titulo": "Reforma contra el desempleo",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/5350/535055609003.pdf",
+      "titulo": "Tareas E-ISSN: 0494-7061 cela@salacela.net Centro de Estudios Latinoamericanos",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/politica/reformas-anos_0_2856464348.html",
+      "titulo": "Ocho reformas en 39 años",
+      "citada": true
+    },
+    {
+      "url": "https://ipsnoticias.net/1996/09/panama-sindicatos-inician-protestas-contra-plan-de-ajuste/",
+      "titulo": "PANAMA: Sindicatos inician protestas contra plan de ajuste : IPS Agencia de Noticias",
+      "citada": true
+    },
+    {
+      "url": "https://cijulenlinea.ucr.ac.cr/portal/descargar.php?q=ODkz",
+      "titulo": "REFORMA AL CODIGO DE TRABAJO PANAMENO.odt",
+      "citada": true
+    },
+    {
+      "url": "https://www.mef.gob.pa/wp-content/uploads/2021/03/Informe-Economico-1994-1999.pdf",
+      "titulo": "Informe Economico",
+      "citada": true
+    },
+    {
+      "url": "https://www.mitradel.gob.pa/wp-content/uploads/flipbook/28/files/basic-html/page102.html",
+      "titulo": "Page 102 - Libro La Salud de los Trabajadores en Panamá",
+      "citada": true
+    },
+    {
+      "url": "https://www2019.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=41407&p_country=PAN&p_count=338&p_classification=01.02&p_classcount=11",
+      "titulo": "Panamá - Ley núm. 44, de 12 de agosto de 1995, por la cual se dictan normas para regularizar y modernizar las relaciones laborales.",
+      "citada": false
+    },
+    {
+      "url": "https://blog.laboremia.com/leyes-detalle/codigo-del-trabajo-titulo-vi-terminacion-de-las-relaciones-de-trabajo",
+      "titulo": "Leyes Panamá - Código del trabajo - LIBRO I. RELACIONES INDIVIDUALES (artículos 17-281) - TÍTULO VI. TERMINACIÓN DE LAS RELACIONES DE TRABAJO (artículos 210-229N) - Laboremia",
+      "citada": false
+    },
+    {
+      "url": "https://abogadospanama.net/codigo-de-trabajo-de-panama/",
+      "titulo": "Código de Trabajo de Panamá Versión On Line - ABOGADOSPANAMA.NET 1067 articulos",
+      "citada": false
+    },
+    {
+      "url": "https://cifrahq.com/insights/liquidacion-laboral-panama.html",
+      "titulo": "Liquidación Laboral en Panamá: Guía Completa 2026 - cifraHQ",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pa/tags/ley-44-1995-articulo-17-numeral-30-4060258",
+      "titulo": "ley 44 1995 articulo 17 numeral 30",
+      "citada": false
+    },
+    {
+      "url": "https://constitucion.te.gob.pa/efectos-de-las-sentencias-de-inconstitucionalidad/",
+      "titulo": "EFECTOS DE LAS SENTENCIAS DE INCONSTITUCIONALIDAD",
+      "citada": false
+    },
+    {
+      "url": "https://www.laestrella.com.pa/panama/csj-declara-inconstitucional-ley-que-delimitaba-la-cuenca-hidrografica-del-canal-de-panama-FH7854698",
+      "titulo": "CSJ declara inconstitucional ley que delimitaba la Cuenca Hidrográfica del Canal de Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pa/tags/ley-44-14-agosto-1995-3499626",
+      "titulo": "ley 44 14 agosto 1995 - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://constitucion.te.gob.pa/accion-inconstitucionalidad/",
+      "titulo": "ACCIÓN INCONSTITUCIONALIDAD",
+      "citada": false
+    },
+    {
+      "url": "https://constitucion.te.gob.pa/consulta-constitucional/",
+      "titulo": "CONSULTA CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.gacetaoficial.gob.pa/pdfTemp/26503/26785.pdf",
+      "titulo": "REPÚBLICA DE PANAMÁ ÓRGANO JUDICIAL CORTE SUPREMA DE JUSTICIA. PLENO.",
+      "citada": false
+    },
+    {
+      "url": "https://pdba.georgetown.edu/Parties/Panama/Leyes/constitucion.pdf",
+      "titulo": "Constitución Política de la República de Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pa/tags/ley-44-12-agosto-1995-3684831",
+      "titulo": "ley 44 12 agosto 1995 - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://panama.justia.com/federales/fallos/",
+      "titulo": "Justia Panama :: Federales :: Ley de Panama",
+      "citada": false
+    },
+    {
+      "url": "https://www.organojudicial.gob.pa/uploads/blogs.dir/2/2025/07/406/registro-judicial-septiembre-1997.pdf",
+      "titulo": "CORTE SUPREMA DE JUSTICIA 1997 DR. ARTURO HOYOS PRESIDENTE SALA PRIMERA (CIVIL)",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteidh.or.cr/docs/casos/articulos/Seriec_72_esp.pdf",
+      "titulo": "Corte Interamericana de Derechos Humanos Caso Baena Ricardo y otros Vs. Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/1/1990-1999/1997/02/8926B.PDF",
+      "titulo": "15-96 y Ac. Decreto Legislativo N° 668",
+      "citada": false
+    },
+    {
+      "url": "https://www.organojudicial.gob.pa/uploads/blogs.dir/2/2025/07/406/registro-judicial-septiembre-1999.pdf",
+      "titulo": "CORTE SUPREMA DE JUSTICIA 1999 DR. ARTURO HOYOS PRESIDENTE SALA PRIMERA (CIVIL)",
+      "citada": false
+    },
+    {
+      "url": "https://www.acnur.org/fileadmin/Documentos/BDL/2003/1896.pdf",
+      "titulo": "1 CORTE INTERAMERICANA DE DERECHOS HUMANOS CASO BAENA RICARDO Y OTROS",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/1997/c-469-97.htm",
+      "titulo": "Sentencia C-469/97",
+      "citada": false
+    },
+    {
+      "url": "https://www.laestrella.com.pa/opinion/columnistas/150809/fria-lucha-rufino-obrera",
+      "titulo": "Rufino Fría en la lucha obrera",
+      "citada": false
+    },
+    {
+      "url": "https://laestrella.com.pa/opinion/columnistas/210806/1995-legados-lucha-obrera",
+      "titulo": "1995: legados de la lucha obrera",
+      "citada": false
+    },
+    {
+      "url": "https://r9.ieee.org/panama/wp-content/uploads/sites/25/2013/05/Codigo_Trabajo.pdf",
+      "titulo": "PANAMA Código de Trabajo [La presente edición ...",
+      "citada": false
+    },
+    {
+      "url": "https://panama.justia.com/federales/codigos/codigo-de-trabajo/gdoc/",
+      "titulo": "Justia Panama :: Federales > Códigos > Código De Trabajo :: Ley de Panama",
+      "citada": false
+    },
+    {
+      "url": "https://blog.laboremia.com/leyes-detalle/codigo-de-trabajo-principios-generales",
+      "titulo": "Leyes Panamá - Código del trabajo - TITULO PRELIMINAR (Artículos 1-16) - Principios generales 1-16 - Laboremia",
+      "citada": false
+    },
+    {
+      "url": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/1/2000-2009/2009/01/1F7AB.PDF",
+      "titulo": "42-C-2007 Cámara Primera de lo Laboral.",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2020/su449-20.htm",
+      "titulo": "Sentencia SU449 de 2020 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.elsevier.es/es-revista-revista-latinoamericana-derecho-social-89-articulo-el-acceso-a-tutela-judicial-S1870467015000251",
+      "titulo": "EL ACCESO A TUTELA JUDICIAL EFECTIVA LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www2.scjn.gob.mx/juridica/engroses/3/2022/19/3_302125_6446_firmado.pdf",
+      "titulo": "ACCIÓN DE INCONSTITUCIONALIDAD 123/2022 PROMOVENTES: DIVERSOS DIPUTADOS Y",
+      "citada": false
+    }
+  ]
+}

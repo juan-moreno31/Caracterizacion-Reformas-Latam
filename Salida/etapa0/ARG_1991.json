@@ -1,0 +1,111 @@
+{
+  "id": "ARG_1991",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1497,
+  "incompleto": false,
+  "norma_propuesta": "Ley 24.013 (Ley Nacional de Empleo)",
+  "otras": "Decreto 1334/91; Decreto 2284/91; Decreto 2565/91; Decreto 2725/91",
+  "confianza": "alta",
+  "texto": "**Identificación: Argentina (ARG), 1991.** La reforma laboral principal es la **Ley 24.013, Ley Nacional de Empleo**. Según el texto oficial, fue sancionada el 13-11-1991 y publicada en el Boletín Oficial el 17-12-1991, y promulgada por el Decreto Nº 2565 del 5-11-91. Hay una discrepancia de fecha que debe resolverse en la etapa siguiente. Ese metadato oficial dice 5-11-91, mientras que el texto de la ley indica \"Promulgada parcialmente: Diciembre 5 de 1991\" y el propio decreto está fechado el 5/12/91. Lo más probable es que el 5-11-91 sea un error de carga y la fecha correcta sea el 5 de diciembre.\n\n**Qué es.** Es una ley amplia de política de empleo. Incluye la regularización del empleo no registrado, la promoción y defensa del empleo y la protección de los trabajadores desempleados. NATLEX (OIT) indica que modifica y deroga disposiciones de la Ley de Contrato de Trabajo y que introduce nuevas formas de contrato de trabajo: de tiempo determinado como fomento del empleo, por lanzamiento de nueva actividad, de práctica laboral para jóvenes, de trabajo-formación, de temporada y eventual. La literatura académica la ve como el punto de partida de la flexibilización de los años noventa. Con ella se introdujeron las primeras normas flexibilizadoras que se profundizarían luego, en 1995.\n\n**Por qué la elijo.** Aparece en fuente oficial (InfoLEG/Boletín Oficial) y en NATLEX para el año 1991. Es además la norma de mayor alcance sobre el mercado laboral ese año: cubre contratación temporal, registro, indemnizaciones, seguro de desempleo y la institucionalidad del salario mínimo. Por eso la confianza es alta.\n\n**Otras candidatas del mismo año:**\n- **Decreto 1334/91.** Es una norma salarial importante: el Decreto 1334, de julio de 1991, subordinaba el aumento de salarios a la productividad, prohibiendo cualquier tipo de mecanismo indexatorio de corrección salarial. Lo dejo como secundaria porque solo toca la dimensión salarial y es un decreto del Ejecutivo, no una reforma integral. Esta caracterización viene de una fuente académica; falta verificar el texto oficial.\n- **Decreto 2284/91 (desregulación).** El decreto reglamentario de la ley indica que las normas reglamentadas han sido compatibilizadas con las del Decreto N° 2284 de fecha 31 de octubre de 1991. No consulté su contenido laboral específico (sin fuente directa), así que lo incluyo como norma relacionada que hay que revisar.\n- **Decreto 2565/91 y Decreto 2725/91.** Son normas instrumentales de la propia ley. El 2565/91 la promulga con observaciones. El 2725/91 la reglamenta: tiene fecha de emisión 26 de diciembre de 1991 y Boletín Oficial 02 de enero de 1992.\n\n**Notas para las etapas siguientes:**\n- **Expedición tardía en el año:** la ley se expidió en diciembre de 1991 y su reglamentación se publicó en enero de 1992. Esto debe quedar en `notas`.\n- **Vigencia:** varias disposiciones sobre las modalidades promovidas fueron derogadas después. ARCA/AFIP registra derogaciones por la Ley N° 25013, Artículo N° 21, de 1998. Esto apunta a `modificada_o_derogada_despues`.\n- **Declarado vs. efectivo:** hay indicios de que el efecto real fue menor que el declarado. Según una fuente académica, debido a trabas burocráticas y a la necesidad del consenso sindical, la reforma de 1991 no tuvo demasiada incidencia. El texto oficial confirma que las modalidades promovidas se habilitarán a través de las convenciones colectivas de trabajo.\n\nNORMA: Ley 24.013 (Ley Nacional de Empleo)\nOTRAS: Decreto 1334/91; Decreto 2284/91; Decreto 2565/91; Decreto 2725/91\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24013-412/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 24013 - LEY DE EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/412/norma.htm",
+      "titulo": "LEY Nº 24.013 - INFOLEG",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.arca.gob.ar/dcp/LEY_C_024013_1991_11_13",
+      "titulo": "Ley N° 24013",
+      "citada": true
+    },
+    {
+      "url": "https://www.unse.edu.ar/trabajoysociedad/34%20COSCIA%20VANESA%20Reformas%20laborales%20de%20los%2090%20en%20Argentina.pdf",
+      "titulo": "Reformas laborales de los '90 en Argentina",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=26593",
+      "titulo": "NATLEX - Argentina - Ley núm. 24013 - Ley Nacional de Empleo.",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/DEC_C_002725_1991_12_26",
+      "titulo": "Decreto N° 2725/1991",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN24013.pdf",
+      "titulo": "EMPLEO Ley Nº 24.013 Ambito de aplicación, objetivos y ...",
+      "citada": false
+    },
+    {
+      "url": "https://leyes-ar.com/ley_de_empleo.htm",
+      "titulo": "Ley de empleo Ley 24.013, 17 de Diciembre de 1991 (Ley de empleo) - Legislación Argentina 2026",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24013-412/actualizacion",
+      "titulo": "Ley 24.013 (Fondo Nacional de Empleo)",
+      "citada": false
+    },
+    {
+      "url": "https://ar.vlex.com/vid/ley-24013-25624393",
+      "titulo": "Ley 24013 - Ley de empleo - vLex Argentina",
+      "citada": false
+    },
+    {
+      "url": "https://www.barraqueros.org.ar/assets/i_ckfinder/userfiles/files/ley_nacional_de_empleo_24013.pdf",
+      "titulo": "LEY BASICA Ley Nacional de Empleo 24.013 Fecha de Norma: 05/12/1991",
+      "citada": false
+    },
+    {
+      "url": "https://trabajo.misiones.gob.ar/wp-content/uploads/2020/03/Ley-de-empleo.pdf",
+      "titulo": "Ley Nº 24.013 Ambito de aplicación, objetivos y competencias. Regularización",
+      "citada": false
+    },
+    {
+      "url": "https://archivo.consejo.org.ar/Bib_elect/septiembre08_CT/documentos/L24013.htm",
+      "titulo": "Ley 24.013",
+      "citada": false
+    },
+    {
+      "url": "https://apunty.com/doc/ds-argentina-ley24013-leydelempleo-pdf-derecho-del",
+      "titulo": "Apunte: ley 24.013",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/5000-9999/7968/texact.htm",
+      "titulo": "EMPLEO",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_024013_1991_11_13",
+      "titulo": "Ley N° 24013",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&id=412",
+      "titulo": "Normas que modifican y/o complementan a - Jus.gob.ar - Infoleg",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-7812/texto",
+      "titulo": "TEXTO ORIGINAL - Decreto 2565 / 1991 - LEY DE EMPLEO",
+      "citada": false
+    },
+    {
+      "url": "https://www.cpcesfe2.org.ar/wp-content/uploads/2024/09/La-evolucion-de-la-Ley-de-Contrato-de-Trabajo-a-50-anos-de-su-sancion-Schiel.pdf",
+      "titulo": "a 50 años de la sanción de la ley de contrato de trabajo",
+      "citada": false
+    }
+  ]
+}

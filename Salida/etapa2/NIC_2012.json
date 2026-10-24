@@ -1,0 +1,116 @@
+{
+  "id": "NIC_2012",
+  "iso": "NIC",
+  "pais": "Nicaragua",
+  "anio": 2012,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0369,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley No. 815, Código Procesal del Trabajo y de la Seguridad Social de Nicaragua (aprobada el 30 de octubre de 2012, publicada en La Gaceta, Diario Oficial, el 29 de noviembre de 2012)",
+    "tipo_instrumento": "codigo",
+    "normas_relacionadas": [
+      "Aprobación legislativa del Convenio núm. 189 de la OIT sobre trabajo decente para las trabajadoras y trabajadores domésticos (17 de octubre de 2012; identificador del decreto no verificado)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2013-05-29",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según la OIT, NATLEX y el Poder Judicial (no se consultó la exposición de motivos), garantizar la aplicación efectiva de la legislación laboral y de las normas internacionales del trabajo, reducir la mora judicial en los procesos laborales, ampliar la tutela de los derechos laborales, crear una cultura de cumplimiento y simplificar, modernizar y profesionalizar la justicia laboral sin afectar el debido proceso.",
+    "descripcion_intenciones": "La reforma sustituye el procedimiento laboral escrito por un proceso oral, concentrado, público y con inmediación, y facilita el acceso a la justicia al no exigir abogado y admitir la demanda verbal. Establece la conciliación administrativa obligatoria previa para casos de menor cuantía y otorga fuerza ejecutiva a los acuerdos firmados ante el Ministerio del Trabajo. Refuerza procesalmente la protección frente al despido mediante reglas de carga de la prueba, la presunción de injustificación del despido verbal y el reintegro obligatorio en despidos discriminatorios o lesivos de derechos fundamentales. Crea un procedimiento urgente y preferente de tutela de la libertad sindical y de los derechos fundamentales, y amplía la competencia judicial en materia de seguridad social.",
+    "dimensiones": [
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la reforma: proceso oral y concentrado, sin obligación de abogado, con demanda verbal, conciliación administrativa previa con acuerdos ejecutivos y prioridad de la sentencia laboral firme frente a ciertos delitos penales."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "El empleador debe probar las causas consignadas en la carta de despido, el despido verbal se presume injustificado y, en despidos discriminatorios, se ordena el reintegro sin opción de doble indemnización. No se verificó si la autorización previa de la Inspectoría es nueva o ya existía en la Ley 185."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Procedimiento urgente y preferente de tutela de la libertad sindical, con inversión de la carga de la prueba ante indicios de discriminación y ejecución provisional de sentencias. Se crea un cauce para conflictos colectivos de carácter jurídico."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Los juzgados conocen de prestaciones, afiliación, inscripción, recaudación y cotización; las condenas a prestaciones periódicas se ejecutan provisionalmente sin obligación de devolución si se revocan."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "El artículo 81 permite llamar a la empresa principal para determinar su responsabilidad subsidiaria; facilita el acceso procesal, pero la doctrina advierte que podría limitar la responsabilidad solidaria prevista en normas sustantivas."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Peso menor: la competencia incluye expresamente la protección de los derechos laborales de las mujeres trabajadoras y la tutela cubre la no discriminación."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Iniciativa de la Corte Suprema de Justicia, consensuada según la OIT con organizaciones sindicales y de empleadores y con apoyo técnico de la OIT; sancionada por el presidente Daniel Ortega el 23 de noviembre de 2012. Sustituye el procedimiento escrito del Libro Segundo de la Ley 185 (Código del Trabajo) y, según NATLEX, modifica el Decreto 974 (Ley de Seguridad Social). Hubo tensión parlamentaria sobre la tercerización: una diputada criticó el cambio del dictamen original como concesión a los empleadores y atribuyó al COSEP el bloqueo de una ley específica sobre tercerización. Contexto macroeconómico no investigado (sin fuente).",
+    "notas": "Tipo de instrumento: código procesal aprobado formalmente como ley por la Asamblea Nacional; se caracteriza solo su componente laboral. Año de la base (2012) corresponde a la aprobación y publicación; la ley entró en vigor tras el plazo diferido del artículo 163, el 29 de mayo de 2013 según La Prensa y el Poder Judicial; NATLEX registra 2013-04-29, lo que parece un error (fecha con confianza media). Vigencia escalonada: la conciliación administrativa obligatoria se exige inicialmente solo en cabeceras departamentales o localidades con representación del Ministerio del Trabajo, y mientras no existan juzgados especializados en todo el país es competente el juez laboral más próximo, con creación diferida de juzgados por la Corte Suprema. Tercerización: el artículo 81 limita la responsabilidad de la empresa principal a subsidiaria frente a la responsabilidad solidaria del Código del Trabajo (art. 180) y de la Ley General de Higiene y Seguridad del Trabajo (art. 34), lo que justifica la codificación ambigua. La interpretación sobre la prioridad de la vía laboral frente a la penal proviene de un despacho de abogados (fuente de baja jerarquía). Estado de vigencia: no se halló recurso ni fallo de inconstitucionalidad (una columna de 2013 lo pedía y una tesis analizó la declaración de parte, aspecto menor); no se verificaron reformas posteriores ni su integración en el Digesto Jurídico. Discrepancia sobre la Ley 755 no resuelta: NATLEX no la incluye. Exposición de motivos no consultada. Jóvenes no se codifica como población: la ley solo reconoce capacidad procesal a trabajadores adolescentes de forma marginal."
+  },
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=91965",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 815 de Código Procesal del Trabajo y de la Seguridad Social.",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/SILEG/Iniciativas.nsf/ea79fa9f52c97aeb06256700005032db/90ad465bfdd0206506257896005ede24/$FILE/Ley%20No.%20815%20codigo%20procesal%20laboral.pdf",
+      "titulo": "1/48 El Presidente de la República de Nicaragua A sus habitantes, Sabed: Que,",
+      "citada": true
+    },
+    {
+      "url": "https://cam.gob.ni/wp-content/uploads/2023/12/9.-LEY-815-CODIGO-PROCESAL-DEL-TRABAJO-Y-DE-LA-SEGURUDAD-SOCIAL-DE-NICARAGUA.pdf",
+      "titulo": "LA GACETA - DIARIO OFICIAL 9696 29-11-12 229 ASAMBLEA NACIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.leybook.com/doc/1371",
+      "titulo": "Leybook - CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA",
+      "citada": true
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/2012/10/30/815",
+      "titulo": "Ley 815/2012, de 30 de octubre, del Código Procesal del Trabajo y de la Seguridad Social de Nicaragua - Diccionario panshipánico del español jurídico - RAE",
+      "citada": true
+    },
+    {
+      "url": "https://www.laprensani.com/2013/06/14/opinion/150760-codigo-procesal-del-trabajo",
+      "titulo": "Código Procesal del Trabajo - La Prensa",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/news/nicaragua-aprueba-trascendental-codigo-procesal-del-trabajo",
+      "titulo": "Nicaragua aprueba trascendental Código Procesal del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/6950445.pdf",
+      "titulo": "Revista de Derecho No. 25, Jul-Dic. 2018. ISSN 1993-4505 / eISSN 2409-1685 75",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/Diariodebate.nsf/1e91f0054ac77a85062572e50067fde4/a0879942113c14c306257b2f00550837",
+      "titulo": "CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA.",
+      "citada": true
+    },
+    {
+      "url": "https://www.poderjudicial.gob.ni/prensa/notas_prensa_detalle.asp?id_noticia=10949",
+      "titulo": "SITIO WEB OFICIAL DEL PODER JUDICIAL DE LA REPUBLICA DE NICARAGUA: Directorio de Abogados y Notarios, Nuevo codigo procesal civil de nicaragua, Codigo de Etica, Pruebas de ADN, Pruebas de paternidad, Medicina Legal",
+      "citada": true
+    }
+  ]
+}

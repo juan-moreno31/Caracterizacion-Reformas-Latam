@@ -1,0 +1,162 @@
+{
+  "id": "CRI_2000",
+  "iso": "CRI",
+  "pais": "Costa Rica",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0351,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N.° 7983, Ley de Protección al Trabajador (16 de febrero de 2000)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto N.° 28770-MP-MTSS (2000), reglamentario del artículo 74 de la Ley Constitutiva de la CCSS, vinculado a la Ley 7983"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2000-02-18",
+    "vigencia_escalonada": true,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "Según su artículo 1, crear el marco para regular los fondos de capitalización laboral propiedad de los trabajadores y establecer mecanismos para ampliar la cobertura y fortalecer el Régimen de Invalidez, Vejez y Muerte de la CCSS. Su impulsor, el presidente Miguel Ángel Rodríguez, declaró además la meta de convertir la cesantía en un beneficio percibido con independencia de la causa de terminación y romper el tope, pasando de una expectativa de derecho a un derecho indisputable.",
+    "descripcion_intenciones": "La ley busca reorganizar la protección ante la terminación laboral, dividiendo el antiguo auxilio de cesantía en un Fondo de Capitalización Laboral, retirable por cualquier causa de extinción, y una cesantía por despido con una escala menos generosa que conserva el tope. Al mismo tiempo crea el Régimen Obligatorio de Pensiones Complementarias de capitalización individual, reforma el régimen voluntario, fortalece el Régimen No Contributivo y el IVM, y amplía la supervisión de la SUPEN. También extiende la afiliación obligatoria a la CCSS de los trabajadores independientes. Lo declarado y lo efectivo difieren: la ruptura del tope ocurre solo vía el FCL y, según el MTSS, la cesantía por despido sigue siendo una expectativa de derecho.",
+    "dimensiones": [
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Reduce la escala de cesantía del artículo 29 del Código de Trabajo manteniendo el tope, pero crea el FCL, un aporte patronal que el trabajador recibe sin importar la causa de terminación. Baja el costo del despido injustificado mientras convierte parte del beneficio en un derecho cierto."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea el Régimen Obligatorio de Pensiones Complementarias, reforma el régimen voluntario, fortalece el Régimen No Contributivo y el IVM, y amplía la supervisión de la SUPEN. Incluye incentivos tributarios al ahorro previsional."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Dispone la afiliación gradual y obligatoria de los trabajadores independientes a la CCSS y exige estar al día con la CCSS (artículo 85). Es una extensión de la cobertura contributiva, no un régimen especial para mipymes (confianza media)."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Cambio institucional: la administración del FCL se asigna a operadoras de pensiones, asociaciones solidaristas y cooperativas, y se regulan los aportes de cesantía a estas entidades."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico",
+      "informales",
+      "general"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley surge del proceso de Concertación Nacional del gobierno de Miguel Ángel Rodríguez (Partido Unidad Social Cristiana), cuyo foro se instaló el 13 de julio de 1998; los temas de cesantía y pensiones se trataron por separado y luego se integraron en una sola ley, ante la dificultad de acordar reformas con el Partido Liberación Nacional en la oposición. Modifica el Código de Trabajo de 1943 (artículo 29 sobre cesantía) y reforma el régimen voluntario de pensiones creado por la Ley N.° 7523 de 1995, sin revertirlos. El contexto macroeconómico no se verificó (sin fuente).",
+    "notas": "Vigencia general desde 2000-02-18 según SCIJ y SUPEN. Vigencia escalonada: por el Transitorio IX, la reforma al artículo 29 del Código de Trabajo y el depósito del aporte al FCL rigen desde la vigencia del sistema, el 1 de marzo de 2001 según el MTSS; el régimen obligatorio se constituyó a partir de 2001 (CEPAL); la antigüedad acumulada se liquida con cálculo mixto. El tratamiento laboral efectivo comienza en 2001-03. La afiliación obligatoria de independientes fue gradual (fuente secundaria de CEPAL la ubica en 2005). Modificaciones posteriores: Ley 9906 de 2020 (reglas de retiro, registrada en NATLEX); Leyes 9839 de 2020 y 10707 de 2025 solo en fuente comercial, a confirmar; una ley posterior habría derogado para el INS las contribuciones de los artículos 78 y 80 (acción contra esa derogación declarada sin lugar). La Sala Constitucional avaló el núcleo FCL/cesantía en la consulta previa (Voto 643-2000) y no se hallaron anulaciones sustantivas; la Resolución 4453-2000 sobre convenciones colectivas del sector público se registra solo como contexto. No verificados: contenido de la reforma al artículo 30 del Código de Trabajo, exposición de motivos oficial, alcance del «vacío sancionatorio» señalado por la Sala Segunda (por ello no se codifica justicia_laboral_e_inspeccion) y la anulación de un «artículo 92». Orientación mixta por combinar la reducción de la cesantía por despido con una amplia expansión de la protección previsional."
+  },
+  "fuentes": [
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/74CD7B86081AABC4052582CC007700DD/$FILE/Ley_7983_Costa-Rica.pdf",
+      "titulo": "-Superintendencia de Pensiones Ley de Protección al Trabajador Anotada y",
+      "citada": true
+    },
+    {
+      "url": "https://www.supen.fi.cr/documents/20121/833751/Ley%20de%20Protecci%C3%B3n%20al%20Trabajador%20No.%207983.pdf/7d75e88d-6cbb-d2bb-28bf-7a360d9148ee",
+      "titulo": "Ley de Protección al Trabajador LEYES N° 7983 LA ...",
+      "citada": true
+    },
+    {
+      "url": "https://bufetedecostarica.com/ley-de-proteccion-al-trabajador-de-costa-rica/",
+      "titulo": "Ley de Protección al Trabajador en Costa Rica (Ley N° 7983)",
+      "citada": true
+    },
+    {
+      "url": "https://www.mtss.go.cr/elministerio/estructura/direccion-asuntos-juridicos/pronunciamientos/daj-ae-153-09Consulta-Cesantia%20Coopeorotina.pdf",
+      "titulo": "daj-ae-153-09Consulta-Cesantia Coopeorotina.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.aesscr.com/docs/Ley%20de%20Protecci%C3%B3n%20al%20Trabajador%20No.%207983%20anotada%20y%20concordada.pdf",
+      "titulo": "-Superintendencia de Pensiones Ley de Protección al Trabajador Anotada y",
+      "citada": true
+    },
+    {
+      "url": "https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=15360&param2=0",
+      "titulo": "Sinalevi",
+      "citada": true
+    },
+    {
+      "url": "https://www.mtss.go.cr/elministerio/estructura/direccion-asuntos-juridicos/pronunciamientos/daj-ae-765-06%20FLOR%20CHAVES.%20Tope%20de%208%20anos%20de%20cesantia.pdf",
+      "titulo": "DAJ-AE-765-06 FLOR CHAVES. Tope de ...",
+      "citada": true
+    },
+    {
+      "url": "https://proyectos.conare.ac.cr/asamblea/18885.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA PROYECTO DE LEY",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/costa_rica_-_ley_7.983.pdf",
+      "titulo": "7983 LEY DE PROTECCIÓN AL TRABAJADOR",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.cepal.org/server/api/core/bitstreams/a11f2e9c-beeb-4a0b-b1f1-09aa4dcc2879/content",
+      "titulo": "El sistema de pensiones en Costa Rica - repositorio .cepal .org",
+      "citada": true
+    },
+    {
+      "url": "https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-12592000000200005",
+      "titulo": "La Ley de Protección al Trabajador y la Caja Costarricense de Seguro Social",
+      "citada": true
+    },
+    {
+      "url": "https://www.supen.fi.cr/documents/20121/51346/Reforma+Pensiones.pdf/24e84187-c0b5-c8fe-9dc3-f0119655cde4?t=1633729972240&download=true",
+      "titulo": "Departamento de Estudios Especiales y Valoración de Riesgo DI-1999-01",
+      "citada": true
+    },
+    {
+      "url": "https://elsoca.org/index.php/america-central/costa-rica/6210-costa-rica-hacia-la-quiebra-de-los-fondos-de-pensiones-complementarias",
+      "titulo": "El Socialista Centroamericano - COSTA RICA.- ¿Hacia la quiebra de los fondos de pensiones complementarias?",
+      "citada": true
+    },
+    {
+      "url": "https://www.supen.fi.cr/documents/20121/71121/15+a%C3%B1os+de+la+Ley+de+Protecci%C3%B3n+al+Trabajador.pdf/ae698b7f-0ca9-3b3e-c902-9e3c6b0a1978?t=1635365540692",
+      "titulo": "15 aniversario de la ley de protección al trabajador",
+      "citada": true
+    },
+    {
+      "url": "https://www.rodriguez.cr/mar/index.php/blog-mainmenu-9/881-la-reforma-social-de-nuestro-tiempo",
+      "titulo": "La reforma social de nuestro tiempo",
+      "citada": true
+    },
+    {
+      "url": "https://www.supen.fi.cr/en/w/ley-de-protecci%C3%B3n-al-trabajador-25-a%C3%B1os-celebraci%C3%B3n-de-la-ley",
+      "titulo": "Ley de Protección al Trabajador-25 años-celebración de la Ley - Supen",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.co.cr/vid/698956973",
+      "titulo": "Sentencia nº 18609 de Sala Constitucional de la Corte Suprema de Justicia, de 17 de Noviembre de 2017 - vLex Costa Rica",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=55840",
+      "titulo": "NATLEX - Costa Rica - Ley núm. 7983, Ley de protección al trabajador.",
+      "citada": true
+    },
+    {
+      "url": "http://www.camtic.org/wp-content/uploads/2019/06/ReglamentoTrabajadorIndependienteCCSS.pdf",
+      "titulo": "La Junta Directiva de la Caja Costarricense del Seguro Social,",
+      "citada": true
+    },
+    {
+      "url": "https://cijulenlinea.ucr.ac.cr/portal/descargar.php?q=NDEwMA%3D%3D",
+      "titulo": "obligatoriedad del pago de cuotas a la ccss y la contratación ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.imprentanacional.go.cr/pub-boletin/2013/02/bol_11_02_2013.html",
+      "titulo": "BOLETÍN JUDICIAL Nº 29 DEL 11 DE FEBRERO DEL 2013",
+      "citada": true
+    }
+  ]
+}

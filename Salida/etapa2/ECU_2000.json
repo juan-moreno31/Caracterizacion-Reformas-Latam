@@ -1,0 +1,148 @@
+{
+  "id": "ECU_2000",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0474,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley para la Transformación Económica del Ecuador (Ley 2000-4, \"Trole I\"), Registro Oficial Suplemento 34, 13 de marzo de 2000",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley para la Promoción de la Inversión y la Participación Ciudadana (\"Trole II\"), Registro Oficial Suplemento 144, 18 de agosto de 2000",
+      "Decreto Ejecutivo N.º 1406, Reglamento del contrato de trabajo por horas (fecha no verificada)",
+      "Ley No. 10, Registro Oficial Suplemento 48, 31 de marzo de 2000 (reforma al artículo 19 del Código del Trabajo)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2000-03-13",
+    "vigencia_escalonada": true,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Según los considerandos de la ley, complementar las medidas para superar la crisis económica con una reforma laboral que asegure el acceso a las fuentes de trabajo y la competitividad de las empresas nacionales.",
+    "descripcion_intenciones": "La reforma busca abaratar y flexibilizar la contratación mediante la creación del contrato por horas, aplicable a cualquier actividad y con terminación libre por cualquiera de las partes. El valor por hora absorbe los beneficios legales y el reglamento excluye la estabilidad laboral en esta modalidad. En paralelo, unifica la estructura salarial del sector privado incorporando gradualmente componentes adicionales a la remuneración mensual, congela ciertos componentes y prohíbe usar el salario mínimo como referente de indexación. El componente laboral se inserta en un paquete de ajuste macroeconómico orientado a la dolarización.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Crea el contrato por horas mediante reforma al artículo 17 del Código del Trabajo, utilizable para cualquier actividad y con un valor por hora que incluye los beneficios legales. Se prohíbe convertir contratos existentes a esta modalidad."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "En el contrato por horas cualquiera de las partes puede terminar libremente la relación y el reglamento excluye la estabilidad laboral. El régimen general de despido no cambia."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Unifica la remuneración incorporando componentes adicionales de forma gradual, lo que simplifica la estructura salarial. A la vez congela ciertos componentes y prohíbe la indexación al salario mínimo, restringiendo los mecanismos de ajuste."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Obliga a afiliar al seguro social a quienes trabajan por horas, pero exime al empleador del fondo de reserva. La unificación amplía la base de aportes."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Régimen salarial del sector público: suprime en la Ley para la Reforma de las Finanzas Públicas la referencia a los salarios mínimos sectoriales del Código del Trabajo; alcance no verificado."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "general",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Ley impulsada por el presidente Gustavo Noboa tras la caída de Jamil Mahuad, en plena crisis económica, para dar marco jurídico a la dolarización y a la venta de empresas estatales; según CIDOB, fue urgida por Estados Unidos y el FMI y aprobada por el Congreso con los votos de DP-UDC, PSC y FRA. Reforma el Código del Trabajo (entre otros, su artículo 17) y la Ley para la Reforma de las Finanzas Públicas. No se encontró evidencia de que revierta una reforma previa.",
+    "notas": "Vigencia desde la publicación en el Registro Oficial (2000-03-13); la incorporación de componentes salariales a la remuneración fue gradual hasta el 1 de enero de 2005, de ahí la vigencia escalonada. El contrato por horas fue eliminado y prohibido por el Mandato Constituyente No. 8 (Registro Oficial Suplemento 330, 6 de mayo de 2008, vigente desde el 1 de mayo de 2008), que derogó expresamente los artículos 84 a 90 de esta ley; el artículo 327 de la Constitución de 2008 confirmó la prohibición. La unificación salarial y la prohibición de indexación siguen en la codificación del Código del Trabajo. La Resolución del Tribunal Constitucional No. 129 (Registro Oficial Suplemento 128, 26 de julio de 2000) declaró inconstitucional un artículo, aparentemente sobre escalas salariales fijadas por un Consejo; no se identificó con certeza y no afectó al contrato por horas, que siguió aplicándose, por lo que no se considera sustantivo (pendiente de verificación). La Trole II tuvo disposiciones laborales declaradas inconstitucionales por la Resolución TC 193-2000-TP; no se confirmó que su número sea \"Ley 2000-1\". No verificados: registro en NATLEX/EPLex, texto completo del capítulo laboral, fecha del Decreto Ejecutivo 1406, alcance de la reforma salarial del sector público y texto completo del artículo 95. Se omitieron magnitudes cuantitativas del informe."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.iess.gob.ec/documents/10162/2903501/I.2+Base_Legal+Codigo+de+Trabajo.pdf?version=1.0",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://www.net21.org/wp-content/uploads/2024/05/ELISA-LANAS-MEDINA.pdf",
+      "titulo": "LA CONTRATACIÓN LABORAL A PLAZO FIJO Y POR HORAS EN ECUADOR",
+      "citada": true
+    },
+    {
+      "url": "https://www.edec.gob.ec/sites/default/files/CODIGO_TRABAJO.pdf",
+      "titulo": "Ministerio de Trabajo y Empleo REGIMEN LABORAL ECUATORIANO 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.gporellana.gob.ec/wp-content/uploads/2015/03/CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexis.com.ec/blog/laboral/reincorporacion-del-contrato-por-horas-y-del-contrato-a-plazo-fijo-a-la-legislacion-laboral-en-ecuador",
+      "titulo": "¿Reincorporación del contrato por horas y del contrato a plazo fijo a la legislación laboral en Ecuador?",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/2331/233124421002.pdf",
+      "titulo": "Revista de Métodos Cuantitativos para la Economía y la Empresa",
+      "citada": true
+    },
+    {
+      "url": "https://www.defensoria.gob.ec/images/defensoria/pdfs/lotaip2014/info-legal/Mandato_constituyente_eliminacion_tercerizacion.pdf",
+      "titulo": "MANDATO CONSTITUYENTE 8 ELIMINACION Y PROHIBICION DE TERCERIZACION Norma:",
+      "citada": true
+    },
+    {
+      "url": "https://www.loreto.gob.ec/index.php/transparencia/transparencia-activa/01-estructura-organica-funcional/01-2-base-legal/1280-mandato-constituyente-no-8-eliminacion-y-prohibicion-de-la-tercerizacion-intermediacion-laboral-contratacion-laboral-por-horas-y-cualquier-forma-de-precarizacion-de-las-relaciones-de-trabajo-suplemento-del-registro-oficial-no-330-6-de-mayo-2008/file",
+      "titulo": "Suplemento del Registro Oficial No. 330 , 6 de Mayo 2008",
+      "citada": true
+    },
+    {
+      "url": "https://derechoecuador.com/reglamento-para-la-aplicacion-del-mandato-8/",
+      "titulo": "REGLAMENTO PARA LA APLICACION DEL MANDATO 8 - Derecho Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J2FsZnJlc2NvJywgdXVpZDonNDdhNDAwOTUtNWRkNi00NTMyLWI4NjYtZjI4MzMxMTE4OTgwLnBkZid9",
+      "titulo": "Corte Constitucional Quito, D. M, 03 de mayo del 2012",
+      "citada": true
+    },
+    {
+      "url": "https://www.primicias.ec/politica/daniel-noboa-adn-asamblea-leyes-trole-integridad-solidaridad-99982/",
+      "titulo": "Dos leyes aprobadas por la mayoría oficialista y una más en trámite que evocan la vieja fórmula de las ‘trole'",
+      "citada": true
+    },
+    {
+      "url": "https://www.economicoproductivo.gob.ec/wp-content/uploads/downloads/2012/08/trole.pdf",
+      "titulo": "1 Texto extraído de la página www.lexis.com.ec GOBIERNO NACIONAL DE",
+      "citada": true
+    },
+    {
+      "url": "https://www.cidob.org/lider-politico/gustavo-noboa-bejarano",
+      "titulo": "Gustavo Noboa Bejarano",
+      "citada": true
+    },
+    {
+      "url": "https://www.radiopichincha.com/leyes-trole-mas-de-dos-decadas-de-intentos-privatizadores-parte-1/",
+      "titulo": "Leyes Trole: más de dos décadas de intentos privatizadores, parte 1 - Radio Pichincha",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiNjRjNzE0YjAtNzQxNy00NTQwLWJmMjMtZjQ3NmEzZWFlZGI3LnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.ec/vid/ley-4-ley-transformacion-643461261",
+      "titulo": "Ley 4. Ley para la transformación económica del ecuador (trolebus) - vLex Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiOTdjZTZlZWMtMGE1Yi00ZDc2LWEyOGYtZGFmYmE4YmM5ZGZiLnBkZiJ9",
+      "titulo": "TRIBUNAL CONSTITUCIONAL SUMARIO:",
+      "citada": true
+    }
+  ]
+}

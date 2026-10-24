@@ -1,0 +1,113 @@
+{
+  "id": "SLV_2022",
+  "iso": "SLV",
+  "pais": "El Salvador",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0387,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Decreto Legislativo n.° 614 de 2022, Ley Integral del Sistema de Pensiones (LISP)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Legislativo n.° 615 de 2022, Ley de Creación del Instituto Salvadoreño de Pensiones",
+      "Decreto Legislativo n.° 450 de 2022 (reforma al art. 29 del Código de Trabajo)",
+      "Decreto Legislativo n.° 519 de 2022 (reforma al art. 627 del Código de Trabajo)",
+      "Decreto Legislativo n.° 510 de 2022, Ley Amor Convertido en Alimento para el Fomento, Protección y Apoyo a la Lactancia Materna"
+    ],
+    "confianza_identificacion": "media",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2022-12-30",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según los considerandos, sustituir un sistema de capitalización individual que no generaba pensiones dignas y suficientes, y corregir el esquema desigual creado por reformas acumuladas, mediante un nuevo sistema que incremente las pensiones y sea sostenible para las generaciones futuras. La iniciativa provino del Presidente de la República, por medio de los Ministros de Hacienda y de Trabajo y Previsión Social.",
+    "descripcion_intenciones": "La reforma busca elevar las pensiones de vejez, incluidos los pisos y techos, tanto para pensionados de las AFP como del ISSS y del INPEP, y aumenta la cotización a cargo del empleador sin cambiar el aporte del trabajador. Pese al discurso de un nuevo sistema, mantiene la capitalización individual administrada por las AFP, así como la edad de retiro y el tiempo mínimo de cotización. Elimina el anticipo de saldo y, según prensa, suprime el seguro de invalidez y sobrevivencia, cuyas pensiones pasan a financiarse con la cuenta individual y la Cuenta de Garantía Solidaria. En lo institucional y financiero, crea el Instituto Salvadoreño de Pensiones, que absorbe el FOP y el INPEP, y obliga a los fondos a adquirir Certificados de Obligación Previsional, lo que los críticos interpretan como una vía de financiamiento interno del Estado.",
+    "dimensiones": [
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Incrementa las pensiones de vejez y el aporte patronal, y mantiene la edad de retiro y la pensión vitalicia. Con matices que reducen la protección: elimina el anticipo de saldo y no incrementa las pensiones de invalidez y sobrevivencia, cuyo financiamiento pasa a la cuenta individual y a la Cuenta de Garantía Solidaria (dato de prensa)."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Componente institucional y fiscal: liquida el FOP, crea el ISP, que absorbe al INPEP, y redefine la inversión de los fondos hacia Certificados de Obligación Previsional sin límite máximo. El efecto sobre el riesgo para el afiliado es discutido."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "Aprobada durante el gobierno de Nayib Bukele, en un contexto de necesidades de financiamiento interno. Deroga la Ley del Sistema de Ahorro para Pensiones de 1996, sin revertir la privatización: se mantienen las AFP y las cuentas individuales. Elimina el anticipo de saldo introducido en la reforma previsional de 2017. Los críticos señalan que no amplía la cobertura y que sirve para financiar al Estado. Los inversores, entre ellos Barclays, valoraron que se descartara la nacionalización, mientras que sindicatos, en particular docentes, la rechazaron por no eliminar las AFP. El FMI pidió en 2025 ajustes para contener sus costos fiscales, y el acuerdo con ese organismo prevé una reforma paramétrica aún no aprobada.",
+    "notas": "Aprobada el 2022-12-20, publicada en el Diario Oficial el 2022-12-21 y vigente desde el 2022-12-30. La nueva distribución de la cotización y los primeros pagos con incremento rigen desde enero de 2023, por lo que algunas fuentes de prensa la sitúan como vigente desde 2023. Los seguros de invalidez ya contratados tienen un régimen de transición. Confianza media aunque el texto oficial está disponible: es una reforma de seguridad social más que de legislación laboral en sentido estricto, y existen otras candidatas laborales del mismo año (DL 450, 519 y 510) cuya selección metodológica está pendiente. revierte_reforma_previa = true solo de forma parcial: revierte el anticipo de saldo de la reforma de 2017 (número de decreto no verificado), no la privatización de 1996. Orientación protectora con confianza moderada; podría defenderse mixta si se da más peso a los recortes en invalidez y liquidez y a los riesgos sobre los fondos. Estado vigente: solo se halló una reforma menor sobre el calendario de pago del aguinaldo a pensionados (número de decreto no identificado). No se encontraron sentencias de inconstitucionalidad, aunque no se descartan. Sin verificar en el articulado: la supresión del seguro de invalidez y sobrevivencia (fuente de prensa) y si la afiliación voluntaria de patronos de mipymes y salvadoreños en el exterior es nueva; por ello no se codificó formalizacion_y_mipymes. La población incluye a los pensionados actuales, sin categoría propia, y excluye a los afiliados del Instituto de Previsión Social de la Fuerza Armada y a los no cotizantes. No se consultaron NATLEX ni fuentes multilaterales."
+  },
+  "fuentes": [
+    {
+      "url": "https://ssf.gob.sv/wp-content/uploads/2023/02/Ley-Integral-del-Sistema-de-Pensiones.pdf",
+      "titulo": "1 DECRETO N.° 614 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR,",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=5fc2efed-fd26-493f-bf4d-c4add01af907",
+      "titulo": "Nuevo sistema de pensiones - Ley integral del sistema de pensiones (LISP) - Lexology",
+      "citada": true
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/node/12614",
+      "titulo": "Cotizantes esperaron 26 años para tener una ley que brindara pensiones justas",
+      "citada": true
+    },
+    {
+      "url": "https://repo.funde.org/1940/1/Pensio-23.pdf",
+      "titulo": "Reforma del sistema de pensiones 2022 MARZO 2023",
+      "citada": true
+    },
+    {
+      "url": "https://moodyslocal.com.sv/wp-content/uploads/2024/11/Analisis-de-reformas-de-pensiones-en-El-Salvador.pdf",
+      "titulo": "Análisis de reforma de pensiones El Salvador",
+      "citada": true
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2022/12/20/el-salvador-gobierno-de-bukele-usara-la-reforma-de-pensiones-para-financiarse-hasta-las-elecciones-2024/",
+      "titulo": "El Salvador. Gobierno de Bukele usará la reforma de pensiones para financiarse hasta las elecciones 2024 - Resumen Latinoamericano",
+      "citada": true
+    },
+    {
+      "url": "https://www.fundaungo.org.sv/noticias-sobre-pensiones",
+      "titulo": "Noticias sobre pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/latinoamerica/el-salvador/reforma-de-pensiones-en-el-salvador-enfrenta-plazo-del-fmi-ante-riesgos-fiscales/",
+      "titulo": "Reforma de pensiones en El Salvador enfrenta plazo del FMI ante riesgos fiscales",
+      "citada": true
+    },
+    {
+      "url": "https://diario.elmundo.sv/politica/ya-esta-vigente-nueva-reforma-de-pensiones-en-el-salvador",
+      "titulo": "Ya está vigente nueva reforma de pensiones en El Salvador",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsalvador.com/h-noticias/h-negocios/fondos-de-pensiones-afp-deuda-publica-el-salvador-nayib-bukele/1195086/2025/",
+      "titulo": "Reforma de pensiones: Pocos ganadores y muchas deudas",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsalvador.com/dinero-y-negocios/entorno-economico/reforma-de-pensiones-fecha-fmi-el-salvador/1296576/2026/",
+      "titulo": "El Salvador aplaza reforma de pensiones, esta es la nueva fecha prevista",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsalvador.com/noticias/nacional/gobierno-aun-no-presenta-reforma-de-pensiones-al-fmi-/1262286/2026/",
+      "titulo": "Gobierno aún no presenta reforma de pensiones al FMI",
+      "citada": true
+    },
+    {
+      "url": "https://www.diariocolatino.com/asamblea-aprueba-paquete-de-reformas-que-amplia-plazo-de-entrega-del-aguinaldo/",
+      "titulo": "Asamblea aprueba paquete de reformas que amplía plazo de entrega del aguinaldo - Diario Co Latino",
+      "citada": true
+    }
+  ]
+}

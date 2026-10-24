@@ -1,0 +1,129 @@
+{
+  "id": "ECU_1991",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.054,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N.º 133, reformatoria al Código del Trabajo (Registro Oficial, Suplemento N.º 817, 21-11-1991)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley N.º 01 de Zonas Francas (Registro Oficial N.º 625, 19-02-1991)",
+      "Decreto Ejecutivo N.º 2710, Reglamento a la Ley de Zonas Francas (Registro Oficial N.º 769, 13-09-1991)",
+      "Acuerdo Ministerial N.º 039-A de 1992 del Ministerio de Trabajo y Recursos Humanos, Reglamento para la organización y funcionamiento de las Comisiones Sectoriales de Salarios y para la fijación del salario mínimo vital general (texto de aplicación según NATLEX)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "1991-11-21",
+    "vigencia_escalonada": false,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "No verificado en fuente primaria: no se encontró la exposición de motivos ni discursos oficiales. Según un informe del ISLSSL, el endurecimiento del requisito para formar sindicatos se justificó con el argumento de que los empleadores evitaban contratar más trabajadores por temor a la formación de sindicatos, es decir, como medida de promoción del empleo.",
+    "descripcion_intenciones": "La reforma revisa parcialmente el Código del Trabajo y se centra en el contrato de trabajo, la indemnización por despido intempestivo y las relaciones colectivas (OIT). Incorpora modalidades de contratación eventual, ocasional y de temporada, y modifica las condiciones del auxilio de cesantía y de la indemnización por despido (NATLEX). En lo colectivo, combina una liberalización formal, inspirada en la doctrina de los órganos de control de la OIT (sindicación rural, menor injerencia estatal), con restricciones efectivas: un requisito mínimo de afiliados más exigente y nuevos requisitos para declarar la huelga. Además, deroga normas tutelares sobre el trabajo de las mujeres, contempla contratos de aprendizaje en la industria, crea la Dirección y Subdirecciones de Mediación Laboral y modifica el régimen del trabajo doméstico.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Se añaden los contratos eventuales, ocasionales y de temporada como vía de flexibilidad, excluidos de la regla de estabilidad del contrato indefinido (NATLEX)."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "NATLEX indica que se modifican las condiciones del auxilio de cesantía y de la indemnización por despido intempestivo, sin precisar en qué sentido. La literatura ecuatoriana sugiere una reducción, pero no se verificó; codificación tentativa."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Eleva el número mínimo de trabajadores para constituir organizaciones, suspende la estabilidad en huelgas solidarias y exige un comité especial para declarar la huelga (ISLSSL, FES). La OIT destaca, en cambio, que derogó las trabas a la sindicación rural y limitó la injerencia estatal."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Deroga la prohibición del trabajo nocturno de mujeres y la del enganche de mujeres para trabajos en el exterior; puede leerse como pérdida de tutela o como avance en igualdad formal."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Contempla la celebración de contratos de aprendizaje en la industria para la enseñanza de oficios; no se verificó su régimen detallado."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea la Dirección y Subdirecciones de Mediación Laboral dentro del Código del Trabajo (ISLSSL) e introduce nuevas disposiciones sobre el trámite de conflictos colectivos (NATLEX)."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Tentativo: NATLEX vincula a la ley un reglamento de 1992 sobre Comisiones Sectoriales de Salarios y fijación del salario mínimo, y registra nuevas reglas de negociación colectiva cuyo contenido no se verificó."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Trabajo doméstico: se modifica su régimen (NATLEX); la dirección del cambio no se verificó."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "general",
+      "mujeres",
+      "jovenes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Iniciativa del presidente Rodrigo Borja aprobada por el Congreso Nacional en 1991; modifica el Código del Trabajo de 1978. Forma parte de un paquete de leyes de flexibilización laboral del mismo gobierno, junto con la Ley de Maquila (Ley 90 de 1990) y la Ley de Zonas Francas de 1991, y profundiza la línea de la Ley 90 sin revertir ninguna norma previa. La OIT sugiere una posible influencia de la reforma colombiana. La literatura ecuatoriana la considera una de las muestras más contundentes de flexibilización laboral. No se halló cobertura de prensa sobre la coyuntura macroeconómica ni la reacción sindical.",
+    "notas": "Fecha de adopción según NATLEX: 1991-11-13; publicación en el Suplemento del Registro Oficial N.º 817 el 1991-11-21. La cláusula de vigencia no se verificó (sin fuente); se asume vigencia desde la publicación. No hay aplicación escalonada, pero una disposición transitoria permite a las organizaciones laborales constituidas antes de la ley con menos afiliados que el nuevo mínimo conservar su personería jurídica, por lo que el nuevo requisito solo afecta a organizaciones nuevas. Estado posterior: el régimen de contratos temporales fue reformado (Mandato Constituyente 8 de 2008, Ley s/n de 2010) y el Código fue recodificado en 1997 y 2005; el núcleo sindical y la Dirección de Mediación Laboral siguen vigentes, y el requisito mínimo de afiliados sigue siendo objeto de observaciones de la Comisión de Expertos de la OIT. No se encontraron fallos de inconstitucionalidad, aunque no puede descartarse su existencia. Discrepancia: una cita secundaria ante la Corte Constitucional fecha el aumento del requisito sindical en 1985, mientras que las demás fuentes lo atribuyen a esta ley; pendiente de contraste. La orientación flexibilizadora se adopta pese al componente de liberalización sindical formal que destaca la OIT; una codificación mixta sería defendible. Una frase de la OIT sobre rigideces contractuales podría referirse a otra reforma regional y no se usó como objetivo declarado. Los trabajadores rurales y domésticos también son destinatarios, sin categoría propia en el codebook. No se codificó empleadores_mipymes, pese a que el requisito sindical afecta sobre todo a empresas pequeñas, por falta de fuente que lo declare."
+  },
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=26599",
+      "titulo": "NATLEX - Ecuador - Ley núm. 133, reformatoria al Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/419/414",
+      "titulo": "La reforma antes de la reforma. La construcción del nuevo Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/CODIGO_DEL_TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": true
+    },
+    {
+      "url": "https://islssl.org/wp-content/uploads/2013/12/Tema2-Ecuador-DrCarlosSalmonAlvear.pdf",
+      "titulo": "1 INFORME NACIONAL DE ECUADOR TEMA 2: LA REPRESENTACIÓN COLECTIVA DE LOS",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.ec/vid/codigo-trabajo-631473899",
+      "titulo": "Código del Trabajo - vLex Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://ecuador.fes.de/fileadmin/user_upload/pdf/283%20ORGSIN1997_0309.pdf",
+      "titulo": "organizaciones sindicales",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J2VzY3JpdG8nLCB1dWlkOic4YzY1NTQ1Mi0wMWQxLTQ0NjMtYjMyMC05NTBmZWZmMDU0MDcucGRmJ30=",
+      "titulo": "Quito, 27 de septiembre de 2021 Caso No. 1760-21-EP ...",
+      "citada": true
+    },
+    {
+      "url": "https://library.fes.de/pdf-files/bueros/quito/21175.pdf",
+      "titulo": "EVOLUCIÓN DE LOS DERECHOS LABORALES Y SINDICALES EN ECUADOR 2008-2023",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.iaen.edu.ec/bitstream/24000/4499/1/Mor%C3%A1n%20Gonz%C3%A1lez%20Miguel.pdf",
+      "titulo": "REPUBLlCA DEL ECUADOR SECRETARIA GENERAL DEL CONSEJO DE SEGURIDAD NACIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://webapps.ilo.org/public/spanish/region/ampro/mdtsanjose/papers/pasado.htm",
+      "titulo": "PASADO Y PRESENTE DE LA LEGISLACION LABORAL EN AMERICA LATINA",
+      "citada": true
+    }
+  ]
+}

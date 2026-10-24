@@ -1,0 +1,139 @@
+{
+  "id": "BOL_2022",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0473,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 1468 de 30 de septiembre de 2022, Procedimiento Especial para la Restitución de Derechos Laborales (publicada en la Gaceta Oficial el 3 de octubre de 2022)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Supremo N° 4668 de 16 de febrero de 2022 (derechos laborales adquiridos)",
+      "Decreto Supremo N° 4708 de 1 de mayo de 2022 (licencias especiales)",
+      "Decreto Supremo N° 4709 de 1 de mayo de 2022 (fraccionamiento y acumulación de vacaciones)",
+      "Decreto Supremo N° 4711 de 1 de mayo de 2022 (incremento salarial y salario mínimo nacional)",
+      "Resolución Ministerial N° 1377/2022 de 1 de noviembre de 2022 (Protocolo de Actuación y formulario de denuncias)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2022-11",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Resguardar el derecho al trabajo, la estabilidad laboral frente al despido injustificado, la inamovilidad laboral, el pago de la remuneración y el cumplimiento del fuero sindical mediante un procedimiento administrativo especial de restitución, en respuesta a la lentitud del sistema anterior y a la demanda de la COB respecto de los trabajadores despedidos durante el gobierno de Jeanine Añez.",
+    "descripcion_intenciones": "La ley busca convertir la restitución de derechos laborales en un trámite administrativo rápido y de cumplimiento inmediato ante el Ministerio de Trabajo, Empleo y Previsión Social. Define el despido sin causa justificada, invierte la carga de la prueba en favor del trabajador y presume la vulneración si el empleador no comparece. Suprime los recursos de revocatoria y jerárquico, deja un único recurso de revisión sin efecto suspensivo y habilita la ejecución judicial mediante retención, embargo y remate de bienes. Crea resoluciones ejecutables de reincorporación, de pago de salarios y de cumplimiento del fuero sindical, y otorga al sindicato un papel procesal en la denuncia. No crea derechos sustantivos nuevos, sino que refuerza la exigibilidad de los existentes.",
+    "dimensiones": [
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la reforma: resoluciones ministeriales de cumplimiento inmediato, recurso único sin efecto suspensivo y ejecución judicial con excepciones tasadas y apelación en efecto devolutivo. La caducidad de la vía administrativa acota secundariamente la protección."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Define el despido sin causa justificada, ordena la reincorporación con pago de salarios devengados e invierte la carga de la prueba. Excluye la reincorporación de quien cobró beneficios sociales, pero impide que la consignación judicial o el depósito sin autorización se tengan por pago."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea una Resolución de Cumplimiento del Fuero Sindical con fuerza ejecutiva y permite denunciar mediante la organización sindical o de forma conjunta."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "No modifica la fijación salarial; crea una resolución ejecutable para exigir el pago de remuneraciones adeudadas."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Componente secundario: la reincorporación incluye subsidios por maternidad cuando corresponda y el protocolo de 2024 refuerza la inamovilidad de embarazadas y progenitores."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley surge de una negociación entre el gobierno de Luis Arce y la Central Obrera Boliviana, a partir del pliego petitorio anual y de demandas de fabriles y mineros. Fue elaborada por el Ministerio de Trabajo, Empleo y Previsión Social con participación de los ministerios de Justicia y Minería. Diputados la aprobó el 7 de julio de 2022 con cambios consensuados con la oposición y el Senado la sancionó a fines de agosto. Abroga el Decreto Supremo N° 0495 de 2010 y deroga partes del Decreto Supremo N° 28699 de 2006, ambos de orientación protectora, cuyo procedimiento sustituye y endurece. Los industriales anunciaron acciones por considerarla inconstitucional y violatoria de la seguridad jurídica. El contexto macroeconómico no fue verificado.",
+    "notas": "Fecha de entrada en vigor: la Disposición Transitoria Primera fija la vigencia a un plazo contado desde la publicación (3 de octubre de 2022), pero las fuentes discrepan: la ministra anunció el 30 de octubre, despachos privados el 31 de octubre, la SCP 0092/2023-S4 el 1 de noviembre y la SCP 0418/2026-S1 el 3 de noviembre de 2022, junto con el Protocolo aprobado por la RM 1377/2022; se codifica 2022-11. La aplicación dependió operativamente de la RM 1377/2022, pero no hubo partes clave diferidas. Los trámites iniciados bajo el DS 28699 y el DS 0495 debían adecuarse; el Tribunal Constitucional resolvió que la ley no se aplica retroactivamente a conminatorias previas. Vigencia: registrada como vigente y aplicada en 2024; desarrollada por la RM 635/24 (nuevo protocolo) y el protocolo 21/2024 del Tribunal Supremo de Justicia, sin modificar la ley. No se verificó si se presentó una acción de inconstitucionalidad, por lo que la confianza en esta variable es media. Prensa indica posible observación del Ejecutivo y nueva sanción el 23 de septiembre de 2022 (sin confirmar). No se incluye sector_publico porque el ámbito es la Ley General del Trabajo, que en principio excluye a servidores públicos (sin verificación adicional). Seguridad social no se codifica como dimensión autónoma: la ley solo ordena restituir esos derechos como parte de la reincorporación. Revierte_reforma_previa = false: profundiza una línea protectora; sin fuente, el DS 28699 había revertido la libre contratación del DS 21060 de 1985. No se consultó una exposición de motivos formal."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N1468.html",
+      "titulo": "Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/116606/L%201468%20BOL.pdf",
+      "titulo": "Contenido Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-1468-911855192",
+      "titulo": "Ley 1468 - vLex Bolivia - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://emba.com.bo/procedimiento-especial-para-la-restitucion-de-derechos-laborales/",
+      "titulo": "PROCEDIMIENTO ESPECIAL PARA LA RESTITUCIÓN DE DERECHOS LABORALES",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/7909/procedimiento-especial-para-la-restitucio-",
+      "titulo": "Procedimiento especial para la restitución de derechos laborales (1468) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://soloderecho.com.bo/de-la-aplicacion-de-la-ley-1468-de-30-de-septiembre-de-2022/",
+      "titulo": "De la aplicación de la Ley 1468 de 30 de septiembre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://www.opinion.com.bo/opinion/author/restitucion-derechos-laborales/20221007204752882955.html",
+      "titulo": "Restitución de derechos laborales",
+      "citada": true
+    },
+    {
+      "url": "https://revista.uasb.edu.bo/ciencias-juridicas/article/download/13/3/632",
+      "titulo": "Universidad Andina Simón Bolívar (Sede Central) 67 LIBERTAD DE EMPRESA Y SU",
+      "citada": true
+    },
+    {
+      "url": "https://emba.com.bo/protocolo-de-la-ley-para-la-restitucion-de-derechos-laborales/",
+      "titulo": "Protocolo de La Ley para la Restitución de Derechos Laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.mintrabajo.gob.bo/?p=13207",
+      "titulo": "Reincorporan a trabajadora a su fuente laboral mediante la Ley 1468 - Ministerio de Trabajo, Empleo y Previsión Social",
+      "citada": true
+    },
+    {
+      "url": "https://jurisprudenciaconstitucional.com/resolucion/239355-sentencia-constitucional-plurinacional-0418-2026-s1",
+      "titulo": "Sentencia Constitucional Plurinacional 0418/2026-S1",
+      "citada": true
+    },
+    {
+      "url": "https://eju.tv/2022/10/industriales-advierten-acciones-contra-la-ley-1468-de-restitucion-de-derechos-laborales-por-considerarla-inconstitucional/",
+      "titulo": "Industriales advierten acciones contra la Ley 1468 de restitución de derechos laborales por considerarla inconstitucional",
+      "citada": true
+    },
+    {
+      "url": "https://diputados.gob.bo/noticias/diputados-aprueban-norma-que-simplifica-procedimiento-para-restitucion-de-derechos-laborales/",
+      "titulo": "Diputados aprueban norma que simplifica procedimiento para restitución de derechos laborales - Cámara de Diputados",
+      "citada": true
+    },
+    {
+      "url": "https://abi.bo/index.php/noticias/gobierno/37-notas/noticias/sociedad/28215-ley-para-la-restitucion-de-derechos-laborales-entrara-en-vigencia-el-30-de-octubre",
+      "titulo": "ABI - Ley para la Restitución de Derechos Laborales entrará en vigencia el 30 de octubre",
+      "citada": true
+    },
+    {
+      "url": "https://web.senado.gob.bo/prensa/noticias/senado-sanciona-normativa-de-procedimiento-especial-para-la-restituci%C3%B3n-de-derechos",
+      "titulo": "Senado sanciona normativa de procedimiento especial para la restitución de Derechos Laborales",
+      "citada": true
+    }
+  ]
+}

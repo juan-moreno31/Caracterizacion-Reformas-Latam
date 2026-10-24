@@ -1,0 +1,81 @@
+{
+  "id": "CUB_2013",
+  "iso": "CUB",
+  "pais": "Cuba",
+  "anio": 2013,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1162,
+  "incompleto": false,
+  "norma_propuesta": "Ley No. 116 de 2013, \"Código de Trabajo\"",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "**Identificación: Cuba (CUB), 2013**\n\nLa reforma laboral principal de Cuba en 2013 es la **Ley No. 116, \"Código de Trabajo\"**. La Asamblea Nacional del Poder Popular la aprobó en su sesión de 20 de diciembre de 2013, correspondiente al Segundo Período Ordinario de Sesiones de la Octava Legislatura, y sustituye a la Ley No. 49 de 28 de diciembre de 1984, Código de Trabajo. Al ser un código completo, en etapas posteriores habrá que caracterizar su contenido laboral sustantivo. Ese contenido incluye organizaciones sindicales, contrato de trabajo, protección a la trabajadora y protección especial en el trabajo a los jóvenes de quince a dieciocho años, además de la extensión explícita del derecho al empleo tanto en el sector estatal como no estatal. La identifico como la norma correcta porque es la de mayor alcance de ese año y porque así la registra la OIT: NATLEX la clasifica como \"Labour codes, general labour and employment acts\", adoptada el 2013-12-20.\n\n**Notas para la base**\n- **El año de la base no coincide con el de entrada en vigor.** Según la propia ley, esta Ley conjuntamente con su Reglamento y las restantes disposiciones complementarias, entran en vigor dentro de los ciento ochenta días posteriores a su aprobación. En la Gaceta Oficial No.29 Extraordinaria de fecha 17 de junio de 2014 se publicó la Ley No.116/2013 y el Decreto No.326/2014 \"Reglamento del Código de Trabajo\". NATLEX indica como fecha de entrada en vigor 2014-06-18. Esto debe registrarse en `notas`.\n- **Error en la fecha de publicación.** La versión actualizada que se encuentra en el portal de la Gaceta dice \"Gaceta Oficial Extraordinaria No. 29, de 17 de junio de 2013\". Lo considero un error tipográfico, porque Granma, NATLEX y FAOLEX coinciden en que la publicación fue en 2014.\n- **Normas relacionadas.** El Decreto No. 326 (Reglamento) es complementario pero es de 2014, por eso no lo incluyo en OTRAS. El Decreto-Ley 313 de 2013 sobre la Zona Especial de Desarrollo Mariel podría tener un componente laboral, pero no lo verifiqué con fuentes (\"sin fuente\"), así que no lo incluyo.\n- **Vigencia.** Para la etapa de `estado_vigencia`: el texto oficial disponible es una versión actualizada al 20 de febrero de 2020. Además, en el Parlamento cubano hay un proyecto de nuevo Código de Trabajo que reconoce a la Ley 116 como vigente desde junio de 2014 y la incluye entre las disposiciones normativas que se modifican, complementan o derogan. Hay que verificar si ese proyecto ya fue aprobado.\n\nNORMA: Ley No. 116 de 2013, \"Código de Trabajo\"\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.gacetaoficial.gob.cu/es/ley-no-116-codigo-de-trabajo",
+      "titulo": "Ley No. 116 “Código de Trabajo”",
+      "citada": true
+    },
+    {
+      "url": "https://www.3ce.cu/sites/default/files/2023-01/ley-116-codigo-del-trabajo.pdf",
+      "titulo": "Ley No. 116, Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.granma.cu/cuba/2014-06-17/publicado-el-codigo-del-trabajo-en-la-gaceta-oficial",
+      "titulo": "Publicado el Código del Trabajo en la Gaceta Oficial › Cuba › Granma - Órgano oficial del PCC",
+      "citada": true
+    },
+    {
+      "url": "https://www.parlamentocubano.gob.cu/sites/default/files/documento/2026-06/proyecto-ley-codigo-del-trabajo_vf-en-a3_0.pdf",
+      "titulo": "Proyecto de ley «Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=96404",
+      "titulo": "NATLEX - Cuba - Ley núm. 116 por la que se dicta el Código del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://derechodelacultura.org/wp-content/uploads/2018/09/Cuba-Reglamento-Codigo-de-Trabajo-2013.pdf?view=download",
+      "titulo": "Cuba Reglamento Codigo de Trabajo 2013",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=96404&p_lang=es",
+      "titulo": "NATLEX - Cuba - Ley núm. 116 por la que se dicta el Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.minjus.gob.cu/sites/default/files/archivos/publicacion/2019-11/ley_116_codigo_de_trabajo.pdf",
+      "titulo": "Ley No. 116, “Código de Trabajo”",
+      "citada": false
+    },
+    {
+      "url": "https://www.gacetaoficial.gob.cu/es/decreto-no-326-reglamento-del-codigo-de-trabajo",
+      "titulo": "Decreto No. 326 “Reglamento del Código de Trabajo\"",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecolex.org/es/details/legislation/ley-no-116-codigo-de-trabajo-lex-faoc134815/",
+      "titulo": "Ley Nº 116 - Código de Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.law.cornell.edu/gender-justice/resource/c%C3%B3digo_de_trabajo_(labor_code_-_law_no._116_of_december_20_2013)",
+      "titulo": "Código de Trabajo (Labor Code - Law No. 116 of December 20, 2013)",
+      "citada": false
+    },
+    {
+      "url": "https://www.valuarte.cu/wp-content/uploads/2024/05/DL-116-2020-Codigo-de-Trabajo.pdf",
+      "titulo": "[Escriba texto] ACTUALIZADO: 20 de febrero de 2020",
+      "citada": false
+    },
+    {
+      "url": "http://repssan.upr.edu.cu/items/b8935703-69b9-443e-87e4-93c236d659a5",
+      "titulo": "Ley No. 116. Código del Trabajo",
+      "citada": false
+    }
+  ]
+}

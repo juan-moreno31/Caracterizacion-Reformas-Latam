@@ -1,0 +1,166 @@
+{
+  "id": "BRA_2017",
+  "iso": "BRA",
+  "pais": "Brasil",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1704,
+  "incompleto": false,
+  "norma_propuesta": "Lei nº 13.467, de 13 de julho de 2017",
+  "otras": "Lei nº 13.429, de 31 de março de 2017; Medida Provisória nº 808, de 14 de novembro de 2017; Lei nº 13.419, de 13 de março de 2017",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Brasil en 2017 es la **Lei nº 13.467, de 13 de julho de 2017**, conocida como \"Reforma Trabalhista\". El registro oficial de LexML indica que altera la Consolidação das Leis do Trabalho (CLT), aprobada por el Decreto-Lei nº 5.452, de 1º de mayo de 1943, y las Leis nºs 6.019/1974, 8.036/1990 y 8.212/1991, \"a fim de adequar a legislação às novas relações de trabalho\". Se publicó en el DOU n. 134, de 14 de julio de 2017, sección 1, y su artículo 6º fijó la entrada en vigor tras un período de vacancia, que se cumplió el 11 de noviembre de 2017.\n\n**Por qué la elijo.** Es la norma de mayor alcance sobre el mercado laboral ese año. Según el repositorio del TST, provocó cambios sustanciales en el derecho material y procesal del trabajo. La otra candidata seria es la **Lei nº 13.429, de 31 de março de 2017** (\"Lei da Terceirização\"). Esta ley reguló la tercerización y amplió los supuestos del trabajo temporal, modificando la ley 6.019/1974. Su objeto es sectorial y la propia Lei 13.467 vuelve a tocar la Ley 6.019, así que la registro como relacionada y no como principal.\n\n**Notas para etapas posteriores:**\n- **MP 808/2017.** El Ejecutivo publicó la Medida Provisória 808 el 14 de noviembre de 2017 para modificar la reforma. Perdió su validez a partir del 23 de abril de 2018, pero produjo efectos jurídicos entre el 14/11/2017 y el 22/04/2018. Desde entonces, los artículos que había alterado volvieron a la redacción original de la Lei 13.467/2017.\n- **Fechas de expedición y vigencia.** La ley se expidió en julio, pero entró en vigor en noviembre. Ambas fechas caen en 2017, así que el año de la base coincide.\n- **Lei 13.419/2017 (propinas).** También se aprobó en 2017 la ley sobre propinas en la CLT, que la reforma luego afectó. Al caducar la MP 808, la gorjeta volvió a la situación anterior a mayo de 2017. Esto último proviene de una fuente secundaria de menor jerarquía, así que conviene verificarlo en el Planalto.\n\n**Confianza.** Es alta: la norma aparece en fuentes oficiales (Planalto, Câmara dos Deputados, LexML, DOU). No consulté NATLEX/EPLex de la OIT, pero las fuentes oficiales bastan para esta categoría.\n\nNORMA: Lei nº 13.467, de 13 de julho de 2017\nOTRAS: Lei nº 13.429, de 31 de março de 2017; Medida Provisória nº 808, de 14 de novembro de 2017; Lei nº 13.419, de 13 de março de 2017\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2017-07-13;13467",
+      "titulo": "Lei nº 13.467, de 13 de Julho de 2017 - Reforma Trabalhista - 13467/17 :: Legislação::Lei 13467/2017 (Federal - Brasil) ::",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.cgu.gov.br/handle/1/33433",
+      "titulo": "Repositório de Conhecimento da CGU: Lei n. 13.467, de 13 de julho de 2017",
+      "citada": true
+    },
+    {
+      "url": "https://juslaboris.tst.jus.br/handle/20.500.12178/107629",
+      "titulo": "Brasil. Lei n. 13.467, de 13 de julho de 2017",
+      "citada": true
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/as-alteracoes-procedidas-pela-lei-13429-2017-da-regulamentacao-do-trabalho-terceirizado-e-das-alteracoes-do-trabalho-temporario/448813121",
+      "titulo": "As alterações procedidas pela lei 13.429/2017: da regulamentação do trabalho terceirizado e das alterações do trabalho temporário",
+      "citada": true
+    },
+    {
+      "url": "https://www.guiatrabalhista.com.br/tematicas/mp808-2017-perde-a-validade.htm",
+      "titulo": "MEDIDA PROVISÓRIA 808/2017 PERDE A VALIDADE E MUDA REGRAS DA REFORMA TRABALHISTA",
+      "citada": true
+    },
+    {
+      "url": "https://www.trenchrossi.com/alertas-legais/mpdareformatrabalhista/",
+      "titulo": "MP 808/2017: perda de validade da MP 808/2017 - Trench Rossi Watanabe",
+      "citada": true
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/fim-da-vigencia-da-mp-808-o-que-e-importante-saber/576755159",
+      "titulo": "Fim da Vigência da MP 808: o que é importante saber?",
+      "citada": true
+    },
+    {
+      "url": "https://conjur.com.br/2018-abr-27/reflexoes-trabalhistas-reforma-trabalhista-medida-provisoria-808-seguranca-juridica/",
+      "titulo": "A reforma trabalhista, a Medida Provisória 808 e a segurança jurídica - Consultor Jurídico",
+      "citada": true
+    },
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm",
+      "titulo": "Lei nº 13.467, de 13 de julho de 2017 - Planalto",
+      "citada": false
+    },
+    {
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2017/lei-13467-13-julho-2017-785204-norma-pl.html",
+      "titulo": "Lei nº 13.467, de 13 de Julho de 2017",
+      "citada": false
+    },
+    {
+      "url": "https://www.semesp.org.br/legislacao/lei-n-13-467-de-13-de-julho-de-2017/",
+      "titulo": "LEI N° 13.467, DE 13 DE JULHO DE 2017",
+      "citada": false
+    },
+    {
+      "url": "https://vagasebeneficios.com/reforma-trabalhista/",
+      "titulo": "Reforma Trabalhista 2026: o guia completo das mudanças na CLT desde a Lei 13.467/2017 - Vagas e Benefícios",
+      "citada": false
+    },
+    {
+      "url": "https://ambitojuridico.com.br/cadernos/direito-do-trabalho/a-reforma-trabalhista-com-o-advento-da-lei-13-467-de-2017/",
+      "titulo": "A Reforma Trabalhista Com o Advento da Lei 13.467 de 2017",
+      "citada": false
+    },
+    {
+      "url": "https://revista.laborjuris.com.br/laborjuris/en/article/view/137",
+      "titulo": "REFORMA TRABALHISTA BRASILEIRA E SUAS PRINCIPAIS MUDANÇAS",
+      "citada": false
+    },
+    {
+      "url": "https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0000357159-ALPDF%2F2018",
+      "titulo": "LEI Nº 13.467, DE 13 DE JULHO DE 2017.",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/nova-lei-da-terceirizacao-n-13429-17/521120538",
+      "titulo": "Nova Lei da Terceirização nº 13.429/17",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2017-03-31;13429",
+      "titulo": "Lei nº 13.429, de 31 de Março de 2017 - Lei da Terceirização - 13429/17 :: Legislação::Lei 13429/2017 (Federal - Brasil) ::",
+      "citada": false
+    },
+    {
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2017/lei-13429-31-marco-2017-784561-norma-pl.html",
+      "titulo": "Lei nº 13.429, de 31 de Março de 2017",
+      "citada": false
+    },
+    {
+      "url": "https://pt.wikipedia.org/wiki/Lei_da_Terceiriza%C3%A7%C3%A3o",
+      "titulo": "Lei da Terceirização",
+      "citada": false
+    },
+    {
+      "url": "https://jus.com.br/artigos/57303/terceirizacao-e-trabalho-temporario",
+      "titulo": "Terceirização e trabalho temporário: alterações da Lei nº 13.429/2017 - Jus.com.br",
+      "citada": false
+    },
+    {
+      "url": "https://jus.com.br/artigos/57460/terceirizacao-segundo-a-lei-n-6-019-1974-com-a-redacao-da-lei-n-13-429-2017",
+      "titulo": "Terceirização: mudanças da Lei nº 13.429/2017 - Jus.com.br",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/a-terceirizacao-a-lei-n-13429-2017-e-seus-impactos-vantagens-desvantagens-e-modificacoes/446554177",
+      "titulo": "A terceirização, a Lei nº 13.429/2017 e seus impactos - vantagens, desvantagens e modificações*",
+      "citada": false
+    },
+    {
+      "url": "https://rhportal.com.br/noticias/legislacao-trabalhista/lei-da-terceirizacao/",
+      "titulo": "Lei da Terceirização de atividade-fim e trabalho temporário é considerada constitucional pelo STF",
+      "citada": false
+    },
+    {
+      "url": "https://editoraforum.com.br/noticias/nova-lei-da-terceirizacao-lei-no-13-4292017-um-cheque-em-branco-ao-empresariado/",
+      "titulo": "A nova Lei da Terceirização",
+      "citada": false
+    },
+    {
+      "url": "https://melocampos.com.br/2018/06/26/mp-808-da-reforma-trabalhista-perde-validade/",
+      "titulo": "MP-808 da reforma trabalhista perde validade.",
+      "citada": false
+    },
+    {
+      "url": "https://www.migalhas.com.br/depeso/279370/queda-da-mp-808-17--reforma-trabalhista",
+      "titulo": "Queda da MP 808/17 (Reforma Trabalhista) - Migalhas",
+      "citada": false
+    },
+    {
+      "url": "https://www.fecomercio.com.br/noticia/perda-da-validade-da-mp-808-reverte-regras-do-trabalho-intermitente",
+      "titulo": "Perda da validade da MP 808 reverte regras do trabalho intermitente",
+      "citada": false
+    },
+    {
+      "url": "https://www.rsm.global/brazil/pt-br/news/alteracoes-reforma-trabalhista-encerramento-da-vigencia-da-medida-provisoria-no-8082017",
+      "titulo": "Alterações à Reforma Trabalhista - Encerramento da vigência da Medida Provisória nº 808/2017",
+      "citada": false
+    },
+    {
+      "url": "https://blog.fortestecnologia.com.br/gestao-pessoas/reforma-trabalhista-medida-provisoria-808-perde-sua-validade/",
+      "titulo": "Reforma Trabalhista: Medida Provisória 808 perde sua validade",
+      "citada": false
+    },
+    {
+      "url": "https://advogadosergioramos.wordpress.com/2018/04/25/a-mp-que-reformou-a-reforma-trabalhista-perdeu-a-validade-e-agora/",
+      "titulo": "A MP que reformou a Reforma Trabalhista perdeu a validade. E agora?",
+      "citada": false
+    }
+  ]
+}

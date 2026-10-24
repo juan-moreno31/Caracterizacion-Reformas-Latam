@@ -1,0 +1,186 @@
+{
+  "id": "HTI_2006",
+  "iso": "HTI",
+  "pais": "Haití",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.2118,
+  "incompleto": false,
+  "norma_propuesta": "Décret du 1er février 2006 fixant les principes fondamentaux de gestion des emplois de la fonction publique territoriale et de ses établissements publics (candidata tentativa)",
+  "otras": "ninguna",
+  "confianza": "baja",
+  "texto": "**Etapa 0: Haití (HTI), 2006**\n\nNo encontré una reforma del Código del Trabajo de Haití en 2006. En NATLEX, el Código del Trabajo vigente figura como el Décret du 24 février 1984 portant code du travail actualisé. La única modificación que aparece registrada después es la Loi n° CL-05-2009-006 du 6 mai 2009 modifiant l'article 257 du Code du travail relatif au travail domestique. La actualización anterior más cercana es de 2003: el Código fue updated by the law of 5 June 2003 and the decree of 24 February 1984.\n\n**Candidata tentativa.** La única norma laboral de 2006 que encontré es el Decreto del 1.º de febrero de 2006, que regula el empleo en la función pública territorial. Una fuente de prensa lo identifica como el Décret fixant les principes fondamentaux de gestion des emplois de la fonction publique territoriale et de ses établissements publics du 1 février 2006. El mismo artículo señala que su artículo 6 dresse les cadres d'emplois sont répartis en cinq catégories désignées dans l'ordre hiérarchique décroissant par les lettres A, B, C, D et E. Un repositorio de documentos haitianos también lo clasifica como decreto de 2006 sobre la función pública.\n\nForma parte de un conjunto de decretos de descentralización de la misma fecha. Por ejemplo, el *Moniteur* cita el Décret du 1er février 2006 définissant le cadre général de la Décentralisation, les principes de fonctionnement et d'organisation des Collectivités Territoriales Haïtiennes. Ese decreto de descentralización es de organización administrativa, no una reforma laboral, por lo que lo dejo fuera de `normas_relacionadas`.\n\n**Por qué la confianza es baja:**\n1. La norma solo cubre al personal de las colectividades territoriales (`sector_publico`), no a los trabajadores asalariados del sector privado.\n2. La encontré solo en prensa y en un repositorio secundario, no en NATLEX ni en el texto del *Moniteur*.\n3. Parece complementar el estatuto general de la función pública, el décret du 17 mai 2005 portant révision du statut général de la fonction publique. Si la base buscaba la reforma de la función pública, el país-año correcto podría ser 2005.\n\n**Pendiente para la etapa siguiente:**\n- Comprobar el texto oficial en el *Moniteur* y la fecha exacta de entrada en vigor.\n- Definir el `tipo_instrumento`. Según mi conocimiento propio, sin fuente, fue dictado por el gobierno de transición sin Parlamento en funciones; habría que decidir entre `decreto` y `decreto_ley`.\n- Revisar si el país-año de la base corresponde en realidad a otro hecho. Por ejemplo, la ley HOPE de Estados Unidos de diciembre de 2006 (sin fuente) es una norma extranjera de comercio, no una reforma laboral haitiana.\n\nNORMA: Décret du 1er février 2006 fixant les principes fondamentaux de gestion des emplois de la fonction publique territoriale et de ses établissements publics (candidata tentativa)\nOTRAS: ninguna\nCONFIANZA: baja",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=135",
+      "titulo": "NATLEX - Haiti - Décret du 24 février 1984 portant code du travail actualisé.",
+      "citada": true
+    },
+    {
+      "url": "https://www.haitidocs.org/doc/hti-code-du-travail-2003",
+      "titulo": "Labour Code of Haiti",
+      "citada": true
+    },
+    {
+      "url": "https://www.omrh.gouv.ht/Media/news/rfph_201802.pdf",
+      "titulo": "RAPPORT SUR LES EFFECTIFS DE LA FONCTION PUBLIQUE EN HAÏTI",
+      "citada": true
+    },
+    {
+      "url": "https://budget.gouv.ht/storage/app/uploads/public/5f5/a88/000/5f5a88000b6b3701567895.pdf",
+      "titulo": "Paraissant Le Lundi et le Jeudi JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAÏTI",
+      "citada": true
+    },
+    {
+      "url": "https://rtvhaiti.com/article/2/les-",
+      "titulo": "Les collectivités territoriales : Une alternative au fléau migratoire intense et continue.",
+      "citada": true
+    },
+    {
+      "url": "https://www.hcwpolicylab.org/wp-content/uploads/2023/11/1961_Haiti_Code-du-travail-actualise-rev.-1984-French-version.pdf",
+      "titulo": "12/10/23, 17:03 HAITI. CODE DU TRAVAIL,1961 MODIFIE",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=105289",
+      "titulo": "NATLEX - Haiti - Loi du 11 septembre 2017 portant organisation et réglementation du travail sur la durée de vingt-quatre (24) heures, répartie en trois (3) tranches de huit (8) heures.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=41380",
+      "titulo": "NATLEX - Haiti - Loi organique du 4 novembre 1983 du ministère des Affaires sociales.",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=41398&p_country=HTI&p_count=60&p_classification=12.02&p_classcount=4",
+      "titulo": "Haïti - Décret du 4 mai 1995 fixant le salaire minimum dans les établissements industriels, commerciaux et agricoles.",
+      "citada": false
+    },
+    {
+      "url": "https://betterwork.org/reports-and-publications/practical-guide-to-haitian-labor-law/",
+      "titulo": "Guide pratique du droit du travail haïtien",
+      "citada": false
+    },
+    {
+      "url": "https://www.refworld.org/legal/legislation/natlegbod/1984/73117",
+      "titulo": "Haiti: Code du travail du 1961",
+      "citada": false
+    },
+    {
+      "url": "https://rivermate.com/guides/haiti/rights",
+      "titulo": "Droits des employés en Haïti",
+      "citada": false
+    },
+    {
+      "url": "https://uprdoc.ohchr.org/uprweb/downloadfile.aspx?filename=3105&file=FrenchTranslation",
+      "titulo": "1 secteur du travail informel haïtien afin de créer plus d' ...",
+      "citada": false
+    },
+    {
+      "url": "https://hditcabinetvolmar.com/fr/code-du-travail-mis-a-jour/",
+      "titulo": "Code Du Travail Mis à Jour",
+      "citada": false
+    },
+    {
+      "url": "https://hditcabinetvolmar.com/ressources/code-du-travail/",
+      "titulo": "Code du travail mis à jour — HDIT Cabinet Volmar",
+      "citada": false
+    },
+    {
+      "url": "https://www.haitidocs.org/legal",
+      "titulo": "Haiti Legal Framework: Laws and Decrees",
+      "citada": false
+    },
+    {
+      "url": "https://hditcabinetvolmar.com/fr/pour-une-modification-du-regime-du-sous-entreprise-en-haiti/",
+      "titulo": "POUR UNE MODIFICATION DU RÉGIME DU SOUS-ENTREPRISE EN HAÏTI",
+      "citada": false
+    },
+    {
+      "url": "https://ambassade-haiti.ca/wp-content/uploads/2021/01/Moniteur-2021-05.pdf",
+      "titulo": "Paraissant du Lundi au Vendredi JOURNAL OFFICIEL DE LA REPUBLIQUE D’HAITI",
+      "citada": false
+    },
+    {
+      "url": "https://mspp.gouv.ht/site/downloads/loi_sur_la_fonction_publique.pdf",
+      "titulo": "Législation et Réglementation DECRET PORTANT REVISION DU STATUT GENERAL DE LA",
+      "citada": false
+    },
+    {
+      "url": "https://pdf4pro.com/amp/view/code-du-travail-haiti-justice-52d0ae.html",
+      "titulo": "Code du travail - Haiti Justice / code-du-travail-haiti-justice.pdf / PDF4PRO",
+      "citada": false
+    },
+    {
+      "url": "https://www.village-justice.com/articles/salaire-droit-haitien,17984.html",
+      "titulo": "Le salaire en droit haïtien. Par Jean-Paul Eluther.",
+      "citada": false
+    },
+    {
+      "url": "https://archivesjuridiquesht.com/archives/53",
+      "titulo": "Décret portant cadre général de la décentralisation organisation et fonctionnment des collectivités territoriales Haïtien",
+      "citada": false
+    },
+    {
+      "url": "https://www.omrh.gouv.ht/Media/2-DocumentsStrategiques/fp/arrete_205_pension_civile_retraite.pdf",
+      "titulo": "Paraissant du Lundi au Vendredi JOURNAL OFFICIEL DE LA REPUBLIQUE D’HAITI",
+      "citada": false
+    },
+    {
+      "url": "https://lenouvelliste.com/article/153019/un-decret-pour-ameliorer-la-retraite-des-agents-de-ladministration-publique",
+      "titulo": "Un décret pour améliorer la retraite des agents de l’administration publique",
+      "citada": false
+    },
+    {
+      "url": "https://archivesjuridiquesht.com/archives/54",
+      "titulo": "Décret portant organisation et fonctionnement de la section communale",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/juridico/PDFs/mesicic4_hti_dec05_pub.pdf",
+      "titulo": "Les dispositions du présent Décret fixent les principes ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/en/sla/dlc/mesicic/docs/mesicic5_hti_annex48.pdf",
+      "titulo": "SYSTÈME DE RÉMUNÉRATION DANS LA FONCTION PUBLIQUE HAÏTIENNE",
+      "citada": false
+    },
+    {
+      "url": "https://budget.gouv.ht/fonction-publique-des-millions-pour-un-nouveau-programme-de-depart-volontaire",
+      "titulo": "DGB - Fonction publique : Des millions pour un nouveau programme de départ volontaire",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/juridico/pdfs/mesicic4_hti_dec06.pdf",
+      "titulo": "République d'Haïti Ministère de l'Économie et des Finances (MEF)",
+      "citada": false
+    },
+    {
+      "url": "https://www.omrh.gouv.ht/Media/Publications/3-Decrets/Moniteur%20N%20179.pdf",
+      "titulo": "Paraissant du Lundi au Vendredi JOURNAL OFFICIEL DE LA REPUBLIQUE D’HAITI",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/hai65901.pdf",
+      "titulo": "Paraissant Le Lundi et Ie Jeudi LtilemeAllllee No. 11",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/en/sla/dlc/mesicic/docs/mesicic5_hti_annex43.pdf",
+      "titulo": "Guide de Recrutement de la Fonction Publique - OMRH",
+      "citada": false
+    },
+    {
+      "url": "https://mef.gouv.ht/storage/app/uploads/public/622/115/79b/62211579bc814535571340.pdf",
+      "titulo": "Paraissant Le Lundi et le Jeudi JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAÏTI",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/juridico/PDFs/mesicic4_hti_dec_org.pdf",
+      "titulo": "1 Décret portant Organisation de l'Administration Centrale de l'Etat ",
+      "citada": false
+    }
+  ]
+}

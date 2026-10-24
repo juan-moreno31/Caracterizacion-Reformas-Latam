@@ -1,0 +1,66 @@
+{
+  "id": "BOL_2006",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0604,
+  "incompleto": false,
+  "norma_propuesta": "Decreto Supremo N° 28699 de 1 de mayo de 2006",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "Para Bolivia en 2006 identifiqué el **Decreto Supremo N° 28699, de 1 de mayo de 2006**. Su título oficial es \"Disposición Reglamentaria a la Ley General del Trabajo (Decreto Supremo N° 21060 Art. 55)\". Aparece en la Gaceta Oficial, que registra su publicación en la edición 2882, con fecha 2006-05-01.\n\n**Qué hace:** deroga el Artículo 55 del Decreto Supremo Nº 21060 de 29 de agosto de 1985 y el Artículo 39 del Decreto Supremo Nº 22407 de 11 de enero de 1990. Esos artículos permitían que las empresas y entidades del sector público y privado podrán libremente convenir o rescindir contratos de trabajo. Además, el decreto busca establecer la concordancia y aplicación del Artículo 13 de la Ley Nº 1182, a la estricta sujeción que debe tener a la Ley General del Trabajo, e incluye un capítulo sobre despidos.\n\n**Lo que dijo el gobierno que buscaba:** en sus considerandos, el gobierno afirma que esas normas desampara a los trabajadores asalariados, contradiciendo el principio proteccionista señalado por la normativa laboral y la Constitución Política del Estado. Agrega que el gobierno debe crear condiciones favorables que permitan la estabilidad laboral y el mutuo respeto que debe existir entre empleadores y empleados.\n\n**Por qué es la norma que corresponde:** pone fin a más de dos décadas de libre contratación y despido iniciadas en 1985, así que es una contrarreforma del modelo de 1985/1990. El cambio que produce en el mercado laboral es de mucho alcance, y la fecha de expedición coincide con el año de la base. Un despacho de abogados confirma que marcó un antes y un después en el derecho laboral boliviano. Lo uso solo como contexto, porque según la jerarquía de fuentes no es una fuente preferente.\n\n**Advertencias para las siguientes etapas:**\n- **Tipo de instrumento:** es un decreto supremo del Ejecutivo, no una ley, y se presenta como reglamento de la Ley General del Trabajo. Corresponde `decreto`.\n- **Vigencia:** el Artículo 10 fue modificado después. El repositorio LexiVox registra que se cambió su Parágrafo III y se añadieron los Parágrafos IV y V, pero no indica qué norma lo hizo. Esto habrá que verificarlo antes de completar `estado_vigencia`.\n- **Pendiente:** no revisé NATLEX ni otras normas laborales de 2006 (por ejemplo, decretos sobre el salario mínimo). Por eso no incluyo otras normas.\n\nNORMA: Decreto Supremo N° 28699 de 1 de mayo de 2006\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-28699.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 28699, 1 de mayo de 2006",
+      "citada": true
+    },
+    {
+      "url": "http://gacetaoficialdebolivia.gob.bo/normas/buscar/28699",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/decreto-supremo-28699-disposicion-874368901",
+      "titulo": "Decreto Supremo 28699. Disposicion Reglamentaria a la Ley General del Trabajo - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.emavias.com.bo/img/Normativas/DecretoSupremoNo.28699.pdf",
+      "titulo": "DECRETO SUPREMO N° 28699 DE 1 DE MAYO DE 2006 EVO MORALES AYMA",
+      "citada": false
+    },
+    {
+      "url": "https://www.vobolex.org/bolivia/decreto-supremo-28699-del-01-mayo-2006/",
+      "titulo": "Bolivia - Decreto Supremo No 28699 del 01 Mayo 2006",
+      "citada": false
+    },
+    {
+      "url": "https://jorgemachicado.blogspot.com/2009/02/bolovia-decreto-supremo-n-21060-de-29.html",
+      "titulo": "APUNTES JURIDICOS™: ¿Que es el Decreto Supremo 21060?",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/packages/lexml/enviar_norma.php?dcmi_identifier=BO-DS-28699&lang=es",
+      "titulo": "Envío de norma",
+      "citada": false
+    },
+    {
+      "url": "https://cedla.org/obess/d-s-28699-anulacion-del-articulo-55-del-d-s-21060/",
+      "titulo": "D.S. 28699. Anulación del artículo 55 del D.S. 21060",
+      "citada": false
+    },
+    {
+      "url": "https://lexivox.org/packages/lexml/buscar_normas.php?con_jurisprudencia=f&fecha_promulgacion_max=2025-10-31&fecha_promulgacion_min=1825-08-08&id_tipo_norma=5&lang=es&sacb524current=4321&sacb524lastorder=&sacb524order=",
+      "titulo": "Buscar normas - LexiVox",
+      "citada": false
+    },
+    {
+      "url": "https://www.ppolegal.com/blog/2022/10/24/estabilidad-laboral-entre-el-derecho-de-los-trabajadores-y-la-seguridad-juridica-del-empleador/",
+      "titulo": "Estabilidad laboral: entre el derecho de los trabajadores y la seguridad jurídica del empleador - PPO Indacochea",
+      "citada": false
+    }
+  ]
+}

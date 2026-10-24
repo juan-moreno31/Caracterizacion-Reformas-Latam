@@ -1,0 +1,156 @@
+{
+  "id": "PER_2010",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2010,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1742,
+  "incompleto": false,
+  "norma_propuesta": "Ley N.º 29497, Nueva Ley Procesal del Trabajo (publicada en El Peruano el 15 de enero de 2010)",
+  "otras": "Ley N.º 29549 (modifica el Decreto Legislativo N.º 688); Decreto Supremo N.º 003-2010-TR (planillas de pago); Decreto Supremo N.º 009-2010-TR (trabajadores de guardianía y portería); Decreto Supremo N.º 011-2010-TR (remuneración mínima vital); Decreto Supremo N.º 014-2010-TR (reglamento de la licencia por paternidad, Ley N.º 29409); Decreto Supremo N.º 016-2010-TR (reglamento de la ley de libre disponibilidad temporal de la CTS)",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Perú en 2010 es la **Ley N.º 29497, Nueva Ley Procesal del Trabajo (NLPT)**.\n\n**Qué es.** Es una ley del Congreso. Según el texto oficial, se aprobó en Lima el treinta de diciembre de dos mil nueve y se promulgó en Casa de Gobierno a los trece días del mes de enero del año dos mil diez. Se publicó en El Peruano el 15 de enero de 2010, y NATLEX registra como fecha de entrada en vigor 2010-07-15. La ficha de la OIT indica que la ley establece que el proceso laboral se inspira, entre otros, en los principios de inmediación, oralidad, concentración, celeridad, economía procesal y veracidad. También deroga la Ley núm. 26636, Ley Procesal del Trabajo, y sus modificatorias. Además del cambio procesal, incluye elementos que inciden en la protección del trabajador: si se acredita que hubo prestación personal de servicios, se presume la existencia de vínculo laboral a plazo indeterminado, salvo prueba en contrario.\n\n**Por qué la elijo.**\n- Está respaldada por fuentes de los dos niveles más altos de la jerarquía: el texto oficial (Congreso y gob.pe) y NATLEX, que la clasifica en Labour codes, general labour and employment acts.\n- Ninguna otra norma de 2010 que encontré tiene un alcance comparable. Las demás son decretos supremos reglamentarios, ajustes puntuales o una sola ley modificatoria de alcance acotado.\n\n**Advertencia para la etapa siguiente.** Es una reforma de la justicia laboral, no del contrato de trabajo. Probablemente se clasifique como `administrativa` o en `justicia_laboral_e_inspeccion`, con efectos protectores secundarios. Hay que considerar además que su aplicación fue gradual por distrito judicial:\n- La ley dispone que la aplicación de la presente Ley se hará de forma progresiva en la oportunidad y en los distritos judiciales que disponga el Consejo Ejecutivo del Poder Judicial.\n- El primer ámbito territorial en el que se implementó fue el distrito judicial de Tacna.\n- Lima no la aplicó hasta 2012: el 05 de noviembre del 2012 la Nueva Ley Procesal del Trabajo entra en vigencia en el distrito judicial de Lima.\n- Según una fuente académica, recién en el año 2022, entraría en vigor en los treinta y cuatro distritos judiciales del país.\n\nPor eso habrá que marcar `vigencia_escalonada = true`. Como tratamiento a nivel nacional en 2010, su intensidad efectiva fue limitada.\n\n**Otras normas laborales del mismo año (secundarias):**\n- **D.S. N.º 003-2010-TR** (15/04/2010): modifica el D.S Nº 001-98-TR, que establece normas reglamentarias relativas a la obligación de los empleadores de llevar planillas de pago.\n- **Ley N.º 29549** (03/07/2010): Ley que modifica el decreto legislativo núm. 688, ley de consolidación de beneficios sociales.\n- **D.S. N.º 009-2010-TR** (15/09/2010): fija condiciones de trabajo aplicables a las personas naturales que brindan servicios de guardianía o portería.\n- **D.S. N.º 011-2010-TR** (11/11/2010): incrementan la remuneración mínima vital de los trabajadores sujetos al régimen laboral de la actividad privada.\n- **D.S. N.º 014-2010-TR** (16/12/2010): reglamenta la Ley N.º 29409 sobre licencia por paternidad.\n- **D.S. N.º 016-2010-TR** (25/12/2010): reglamenta la Ley que establece la libre disponibilidad temporal y posterior intangibilidad de la compensación por tiempo de servicios.\n- **Contexto (no es una norma):** en 2010 el Tribunal Constitucional resolvió el expediente 00002-2010-PI, contra el Decreto Legislativo N.º 1057 que regula el Régimen Especial de Contratación Administrativa de Servicios (CAS). No lo incluyo en el bloque porque es un fallo judicial.\n\nNORMA: Ley N.º 29497, Nueva Ley Procesal del Trabajo (publicada en El Peruano el 15 de enero de 2010)\nOTRAS: Ley N.º 29549 (modifica el Decreto Legislativo N.º 688); Decreto Supremo N.º 003-2010-TR (planillas de pago); Decreto Supremo N.º 009-2010-TR (trabajadores de guardianía y portería); Decreto Supremo N.º 011-2010-TR (remuneración mínima vital); Decreto Supremo N.º 014-2010-TR (reglamento de la licencia por paternidad, Ley N.º 29409); Decreto Supremo N.º 016-2010-TR (reglamento de la ley de libre disponibilidad temporal de la CTS)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/F02942FC7BA6590305257E2A005C5CB2/$FILE/3_29497_15_01_2010.pdf",
+      "titulo": "CONGRESO DE LA REPUBLICA Nueva Ley Procesal del Trabajo LEY Nº 29497",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=83255",
+      "titulo": "NATLEX - Peru - Ley núm. 29497, Nueva Ley Procesal del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://revistajurisconsulto.wordpress.com/2010/12/30/las-novedades-de-la-nueva-ley-procesal-del-trabajo-ley-n%C2%BA-29497/",
+      "titulo": "LAS NOVEDADES DE LA NUEVA LEY PROCESAL DEL TRABAJO: LEY Nº 29497.",
+      "citada": true
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/document/file/2845242/LEY%20N%C2%BA%2029497%20-%20Nueva%20Ley%20Procesal%20del%20Trabajo.pdf",
+      "titulo": "Nueva Ley Procesal del Trabajo LEY Nº 29497 Descargado del SPIJ el 11.02.2022",
+      "citada": true
+    },
+    {
+      "url": "https://laboraperu.pe/nueva-ley-procesal-del-trabajo-el-peruano.html/",
+      "titulo": "Ley 29497: Nueva Ley Procesal del Trabajo (edición de El Peruano)",
+      "citada": true
+    },
+    {
+      "url": "https://www.estudiorodrigo.com/balance-del-proceso-laboral-a-trece-anos-de-vigencia-de-la-nueva-ley-procesal-del-trabajo-carlos-quispe/",
+      "titulo": "Balance del proceso laboral a trece años de vigencia de la Nueva Ley Procesal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/e39398877e100a4a05257e37005c2e26/$file/compendio_normas_laborales_mintra_2013.pdf",
+      "titulo": "sobre legislación laboral del régimen privado",
+      "citada": true
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/document/file/4001600/Compendio%20Normas%20Legales%20Regimenes%20Laborales%20Especi.pdf",
+      "titulo": "COMPENDIO DE NORMAS LEGALES DE REGÍMENES LABORALES ESPECIALES",
+      "citada": true
+    },
+    {
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2017/12/Descargue-el-%C2%ABCompendio-de-Normas-sobre-la-Legislaci%C3%B3n-Laboral%C2%BB.pdf",
+      "titulo": "COMPENDIO DE NORMAS SOBRE LA LEGISLACIÓN LABORAL DEL RÉGIMEN PRIVADO 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.servir.gob.pe/rectoria/topicos-del-servicio-civil/contratacion-administrativa-de-servicios-cas/",
+      "titulo": "Contratación Administrativa de Servicios (CAS)",
+      "citada": true
+    },
+    {
+      "url": "https://lpderecho.pe/nueva-ley-procesal-trabajo-ley-29497-actualizada/",
+      "titulo": "Nueva Ley Procesal del Trabajo (Ley 29497) [actualizada 2026]",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/n-nueva-procesal-373210414",
+      "titulo": "Ley Nº. 29497, Nueva Ley Procesal del Trabajo - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://derechoperu.wordpress.com/2010/01/15/ley-n%C2%BA-29497-nueva-ley-procesal-del-trabajo/",
+      "titulo": "Ley Nº 29497 Nueva Ley Procesal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/document/file/536909/Ley_29497_-_Nueva_Ley_Procesal_del_Trabajo.pdf",
+      "titulo": "Nueva Ley Procesal del Trabajo LEY Nº 29497",
+      "citada": false
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/IV-Congreso-Nacional-Cusco-2010-121-140.pdf",
+      "titulo": "121 TRABAJO DECENTE Y MODERNIZACIÓN DE LA JUSTICIA LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://lexlatin.com/reportajes/peru-nuevo-codigo-procesal-trabajo-reforma-fujimori",
+      "titulo": "LexLatin",
+      "citada": false
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/IV-Congreso-Nacional-Cusco-2010-141-156.pdf",
+      "titulo": "141 EL LADO OSCURO DE LA NUEVA LEY PROCESAL DEL TRABAJO Carlos Cornejo Vargas",
+      "citada": false
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/09/Laborem13-205-218.pdf",
+      "titulo": "205 EL NUEVO PROCESO LABORAL PERUANO DENTRO",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.pj.gob.pe/revista/index.php/rdpt/article/view/760",
+      "titulo": "Balance del proceso laboral a trece años de vigencia de la Nueva Ley Procesal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://iuslatin.pe/wp-content/uploads/2020/07/doctrinayanalisis-ley-trabajo.pdf",
+      "titulo": "DOCTRINA Y ANÁLISIS SOBRE LA NUEVA LEY PROCESAL DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://static.legis.pe/wp-content/uploads/2019/08/Revista-Nueva-Ley-Procesal-del-Trabajo-Legis.pe_.pdf",
+      "titulo": "LEY N° 29497 - NLPT PROMUEVE CELERIDAD EN LA JUSTICIA LABORAL En esta edición:",
+      "citada": false
+    },
+    {
+      "url": "https://www.aadtyss.org.ar/files/documentos/304/15._Ulloa,_Daniel_-_El_surgimiento_del_derecho_laboral_en_el_Peru.pdf",
+      "titulo": "1 EL SURGIMIENTO DEL DERECHO LABORAL EN EL PERU*",
+      "citada": false
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/461BA953DFF2CDD205257E270074B136/$FILE/2_DECRETO_SUPREMO_003_15_04_2010.pdf",
+      "titulo": "TRABAJO Y PROMOCION DEL EMPLEO",
+      "citada": false
+    },
+    {
+      "url": "https://diariooficial.elperuano.pe/Normas/obtenerDocumento?idNorma=35",
+      "titulo": "1 NORMAS LEGALES ACTUALIZADAS NORMAS LEGALES ACTUALIZADAS",
+      "citada": false
+    },
+    {
+      "url": "https://lpderecho.pe/descargue-compendio-normas-laborales-regimen-privado/",
+      "titulo": "Compendio LP de normas laborales [actualizado 2023]",
+      "citada": false
+    },
+    {
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2089488-1",
+      "titulo": "Decreto Supremo que modifica el Reglamento de la Ley de Relaciones Colectivas de Trabajo, aprobado por Decreto Supremo N° 011-92-TR - DECRETO SUPREMO -",
+      "citada": false
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/C193CFC944F42B4805257E2700599F8F/$FILE/2_DECRETO_SUPREMO_039_91_TR.pdf",
+      "titulo": "Establecen el Reglamento Interno de Trabajo, que ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.jibble.io/es/legislacion-laboral/peru",
+      "titulo": "Legislación laboral del Perú",
+      "citada": false
+    }
+  ]
+}

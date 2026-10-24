@@ -1,0 +1,132 @@
+{
+  "id": "PAN_2020",
+  "iso": "PAN",
+  "pais": "Panamá",
+  "anio": 2020,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0545,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 157 de 3 de agosto de 2020",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley 126 de 18 de febrero de 2020",
+      "Decreto Ejecutivo 81 de 20 de marzo de 2020",
+      "Decreto Ejecutivo 95 de 2020",
+      "Decreto Ejecutivo 97 de 2020",
+      "Decreto Ejecutivo 100 de 2020",
+      "Decreto Ejecutivo 133 de 16 de septiembre de 2020",
+      "Decreto Ejecutivo 229 de 2020",
+      "Decreto Ejecutivo 231 de 2020"
+    ],
+    "confianza_identificacion": "media",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2020-08-03",
+    "vigencia_escalonada": false,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "Según el Ejecutivo (ministra Doris Zapata), proteger la mayor cantidad de empleos y la supervivencia del sector empresarial durante la pandemia, evitando despidos que las empresas no podrían indemnizar, así como evitar la discriminación laboral y proteger a los trabajadores y la maternidad; se presentó como un conjunto de medidas temporales y no como una reforma al Código de Trabajo.",
+    "descripcion_intenciones": "La ley da cobertura legal a la prolongación de la suspensión de los efectos de los contratos de trabajo, sin salario, más allá del límite que admitía el Código de Trabajo, hasta el 31 de diciembre de 2020, exigiendo aprobación expresa del Mitradel para cada prórroga. Otorga a las empresas que reabren libertad para modificar turnos con preaviso, pero prohíbe contratar reemplazos de trabajadores suspendidos y protege al trabajador en el mutuo acuerdo y en la liquidación de prestaciones. Traslada al Estado el pago de un bono sustitutivo del Décimo Tercer Mes para los suspendidos y prohíbe usar el reintegro como represalia o discriminación. De forma permanente, adiciona el artículo 116-A al Código de Trabajo, que suspende el cómputo del fuero de maternidad durante la suspensión contractual.",
+    "dimensiones": [
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Suspensión de los efectos del contrato: permite prorrogar las suspensiones sin salario más allá del límite del Código de Trabajo. Como contrapeso, elimina el silencio administrativo y exige aprobación expresa del Mitradel."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Exige forma escrita y prohíbe la renuncia de derechos en el mutuo acuerdo, con presunción a favor del trabajador; impone pago inmediato de prestaciones y su cálculo con el salario más favorable. Prohíbe contratar reemplazos de trabajadores suspendidos en las empresas que reabren."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Las empresas que reactivan operaciones pueden fijar turnos distintos con solo un preaviso; las que operaron durante toda la emergencia solo pueden variarlos de común acuerdo."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Los trabajadores suspendidos que no perciben el Décimo Tercer Mes reciben un bono definido por el Órgano Ejecutivo y pagado por el Ministerio de Economía y Finanzas, trasladando la obligación del empleador al Estado."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Prohíbe usar el reintegro gradual como represalia o discriminación por motivos sindicales, de raza, sexo, religión, salud o discapacidad, con multas impuestas por el Mitradel."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "El artículo 116-A, de carácter permanente, suspende el cómputo del fuero de maternidad durante la suspensión por fuerza mayor o incapacidad económica; el Mitradel lo presenta como protección y la literatura académica como precarización."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Expedida durante el estado de emergencia declarado el 13 de marzo de 2020 (Resolución de Gabinete N. 11), tras una cadena de decretos ejecutivos de suspensión y prórroga de contratos (81, 95, 97 y 100 de 2020). Modifica temporalmente límites del Código de Trabajo de 1971 sobre la prórroga de suspensiones y le adiciona el artículo 116-A; no revierte una reforma específica anterior. El Proyecto de Ley 354, presentado el 13 de julio de 2020, sufrió importantes modificaciones y se aprobó en tercer debate el 31 de julio. Los sindicatos negaron que hubiera consenso en la Mesa Tripartita y protestaron en todo el país; los gremios empresariales tuvieron posiciones encontradas. La coyuntura era de grave crisis económica por la paralización de la actividad comercial.",
+    "notas": "Confianza 'media': el texto se consultó en una edición anotada y en fuentes secundarias (despachos jurídicos y prensa); no se consultaron directamente la Gaceta Oficial 29.082-A ni NATLEX, aunque el contenido sustantivo coincide entre fuentes. Fecha de vigencia asumida provisionalmente por la publicación en Gaceta Oficial (3 de agosto de 2020); no se verificó el artículo de vigencia. La ley tiene alcance retroactivo al inicio del estado de emergencia y caducidad incorporada: sus artículos temporales rigieron hasta el 31 de diciembre de 2020 y el núcleo caducó por sí mismo, no por derogación expresa. El régimen continuó mediante los Decretos Ejecutivos 229 y 231 de 2020, el Decreto Ejecutivo 8 de 2021 (que, según la literatura académica, modificaron la ley pese a su menor jerarquía normativa) y la Ley 201 de 2021. El artículo 116-A seguía vigente según una fuente académica de 2023; no se verificó su vigencia actual. Según una edición anotada (fuente secundaria), la Corte Suprema declaró constitucional mediante Sentencia de 15 de marzo de 2021 un artículo de la ley (aparentemente el artículo 1); al confirmar la norma, no altera la categoría de vigencia. No se hallaron fallos de inconstitucionalidad. La prohibición de contratar reemplazos se codificó en despido_e_indemnizacion y no en contratacion_temporal, porque no regula contratos temporales. En jornada se codificó 'reduce' por la nueva facultad de las empresas que reabren; la restricción a las que siguieron operando reafirma lo dispuesto en el Código de Trabajo. El recargo único de horas extra del proyecto original aparentemente se eliminó en los debates (sin verificar en el texto oficial), por lo que no se codificó. No se verificaron la exposición de motivos, el decreto reglamentario del bono ni la posición formal de los gremios empresariales."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.sijusa.com/wp-content/uploads/2021/05/l_157_2020_Lab.pdf",
+      "titulo": "Ley Nº 157 de 2020",
+      "citada": true
+    },
+    {
+      "url": "https://publicaciones.bdsasesores.com/blog/panam%C3%A1-alertalaboralbds-ley-157",
+      "titulo": "#Panamá 🇵🇦 #AlertaLaboralBDS: Ley 157",
+      "citada": true
+    },
+    {
+      "url": "https://chanis.pa/es/ley-57-de-3-de-agosto-de-2020/",
+      "titulo": "Ley 157 de agosto 3, 2020 - Chanis",
+      "citada": true
+    },
+    {
+      "url": "https://icazalaw.com/2020/07/law-157-of-august-3-2020/",
+      "titulo": "Law 157 of August 3, 2020 - Icaza, González-Ruiz & Alemán",
+      "citada": true
+    },
+    {
+      "url": "https://quijano.com/ley-no-157-de-2020-dicta-medidas-temporales-de-proteccion-de-empleo/?lang=es",
+      "titulo": "Ley No. 157 de 2020 dicta medidas temporales de protección de empleo",
+      "citada": true
+    },
+    {
+      "url": "https://centroinvestigacionhumanidades.up.ac.pa/sites/centroinvestigacionhumanidades/files/2023-07/Anayansi%20Turner.pdf",
+      "titulo": "CÁTEDRA, N.º 20, AGOSTO 2023 - JULIO 2024, PP. 149-166 ISSN L 2523-0115 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/politica/aprueban-en-primer-debate-el-proyecto-de-ley-que-prorroga-la-suspension-de-contratos/",
+      "titulo": "Aprueban en primer debate el proyecto de ley que prorroga la suspensión de contratos",
+      "citada": true
+    },
+    {
+      "url": "https://paradigma.hn/panama-aprueba-flexibilizar-normas-laborales-pese-al-rechazo-de-sindicatos/",
+      "titulo": "Panamá aprueba flexibilizar normas laborales pese al rechazo de sindicatos - Diario Paradigma",
+      "citada": true
+    },
+    {
+      "url": "https://www.panamaamerica.com.pa/economia/extienden-contratos-suspendidos-hasta-el-31-de-diciembre-de-2020-1168971",
+      "titulo": "Extienden contratos suspendidos hasta el 31 de diciembre de 2020",
+      "citada": true
+    },
+    {
+      "url": "https://destinopanama.com.pa/2020/07/asamblea-nacional-de-diputados-aprueba-reformas-al-codigo-de-trabajo/",
+      "titulo": "Asamblea Nacional de Diputados aprueba reformas al Código de Trabajo - Destino Panamá",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/economia/sindicatos-se-oponen-a-proyecto-de-ley-presentado-por-mitradel/",
+      "titulo": "Sindicatos se oponen a proyecto de ley presentado por Mitradel",
+      "citada": true
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2020/08/01/panama-asamblea-nacional-aprueba-reforma-del-codigo-de-trabajo-que-facilita-despidos/",
+      "titulo": "Panamá. Asamblea Nacional aprueba reforma del Código de Trabajo que facilita despidos - Resumen Latinoamericano",
+      "citada": true
+    }
+  ]
+}

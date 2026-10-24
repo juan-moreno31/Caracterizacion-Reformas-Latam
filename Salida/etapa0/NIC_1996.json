@@ -1,0 +1,66 @@
+{
+  "id": "NIC_1996",
+  "iso": "NIC",
+  "pais": "Nicaragua",
+  "anio": 1996,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0663,
+  "incompleto": false,
+  "norma_propuesta": "Ley No. 185, Código del Trabajo (aprobada 1996-09-05; La Gaceta No. 205, 1996-10-30)",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "Para NIC 1996, la reforma principal es el nuevo **Código del Trabajo, Ley No. 185**. La Asamblea Nacional la aprobó el 05 de septiembre de 1996 y se publicó en La Gaceta, Diario Oficial N°. 205 del 30 de octubre de 1996.\n\n**Por qué corresponde a este país-año:** es un código completo que reemplaza al anterior. Su texto deroga expresamente el Decreto No. 336 del 12 de enero de 1945, es decir, el código de 1945. Lo respaldan las fuentes de mayor rango:\n- el portal de legislación de la Asamblea Nacional y el Ministerio del Trabajo (MITRAB);\n- NATLEX de la OIT, que lo clasifica en libertad sindical, negociación colectiva y relaciones de trabajo, y en códigos y leyes generales del trabajo.\n\n**Contenido según la OIT (solo como orientación, sin caracterizar todavía):**\n- menos funciones del Ministerio de Trabajo para constituir y reconocer sindicatos;\n- un procedimiento más simple para presentar pliegos de peticiones y ejercer el derecho de huelga;\n- más protección a la trabajadora embarazada.\n\nEsto sugiere una orientación sobre todo protectora en lo colectivo. Como es un código completo, en etapas posteriores habrá que caracterizar solo su componente laboral sustantivo frente al código de 1945.\n\n**Fechas y vigencia (para `notas` en etapas posteriores):**\n- El código dispone que entrará en vigencia sesenta días después de su publicación en *La Gaceta*. NATLEX da como fecha de entrada en vigor 1996-12-29, así que la expedición y la vigencia caen en el mismo año.\n- Después fue reformado varias veces, por ejemplo por la Ley N°. 442, Ley Interpretación Auténtica del Artículo N°. 236 del Código del Trabajo y por la Ley No. 474 de 2003 sobre trabajo adolescente. Esto apunta a `modificada_o_derogada_despues`, aunque falta verificarlo.\n\n**Otras normas de 1996:** no encontré otras normas laborales relevantes de ese año en las fuentes revisadas. No descarto que existan reglamentos menores.\n\nNORMA: Ley No. 185, Código del Trabajo (aprobada 1996-09-05; La Gaceta No. 205, 1996-10-30)\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "http://legislacion.asamblea.gob.ni/Normaweb.nsf/($All)/FA251B3C54F5BAEF062571C40055736C",
+      "titulo": "Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "http://www.mitrab.gob.ni/documentos/publicaciones/cod_trab_rubr.pdf",
+      "titulo": "ley núm. 185, código del trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=45784",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 185 por la que se dicta el Código del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/Indice.nsf/344673776869a7cf0625701400553938/75c560294667c2e806256ffc006185f3?OpenDocument=",
+      "titulo": "Códigos 185",
+      "citada": true
+    },
+    {
+      "url": "https://nicatributos.com/codigo-del-trabajo/",
+      "titulo": "Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "http://www.mitrab.gob.ni/documentos/leyes/Ley185Nic.pdf/view",
+      "titulo": "Ley No. 185 — Ministerio del Trabajo Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://www.saltra.una.ac.cr/images/SALTRA/Documentacion/Compendio_Normativa/Codigo_del_trabajo_NIC.pdf",
+      "titulo": "LEY No. 185 “CODIGO DEL TRABAJO”",
+      "citada": false
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/1996/09/05/185",
+      "titulo": "Ley 185/1996, de 5 de septiembre, del Código del Trabajo - Diccionario panshipánico del español jurídico - RAE",
+      "citada": false
+    },
+    {
+      "url": "https://www.ineter.gob.ni/leyes/codigo-trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO ( CON SUS REFORMAS, ADICIONES E INTERPRETACIÓN AUTENTICA)",
+      "citada": false
+    },
+    {
+      "url": "https://www.serviciocontablenicaragua.com/codigo-del-trabajo-ley-185/",
+      "titulo": "CODIGO DEL TRABAJO (Ley 185) - GCH Accounting Firm.",
+      "citada": false
+    }
+  ]
+}

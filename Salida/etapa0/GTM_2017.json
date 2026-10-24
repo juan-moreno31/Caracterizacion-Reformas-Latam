@@ -1,0 +1,111 @@
+{
+  "id": "GTM_2017",
+  "iso": "GTM",
+  "pais": "Guatemala",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1708,
+  "incompleto": false,
+  "norma_propuesta": "Decreto 7-2017 del Congreso de la República (Reformas al Decreto 1441, Código de Trabajo)",
+  "otras": "Acuerdo Ministerial 285-2017 del Ministerio de Trabajo y Previsión Social (reglamentario, publicado en 2018; contenido no verificado)",
+  "confianza": "alta",
+  "texto": "## Identificación: Guatemala, 2017\n\nLa reforma laboral principal es el **Decreto 7-2017 del Congreso de la República**, que reforma el Código de Trabajo (Decreto 1441). El Congreso lo aprobó el 16 de marzo de 2017 y se publicó en el Diario de Centro América el 6 de abril de 2017. Según el texto oficial, busca establecer un sistema de aplicación de sanciones a cargo de la Inspección General de Trabajo, que contribuya a generar una cultura de cumplimiento de las normas nacionales e internacionales del trabajo. En la práctica, otorga al Delegado Departamental de la Inspección General de Trabajo la facultad de determinar la sanción administrativa en caso de infracción laboral, cuando el caso no sea competencia exclusiva de los tribunales de trabajo. Además crea el Registro de Faltas de Trabajo y Previsión Social y establece un nuevo procedimiento para las inspecciones en los centros de trabajo. La identifico como la norma correspondiente por tres razones: está en la fuente oficial (el Diario de Centro América, en el sitio del Congreso), FAOLEX la registra con fecha de 2017, y no encontré otra norma de rango legal en materia laboral para ese año.\n\n**Notas para las etapas siguientes:**\n- **Lo que se declaró como motivo:** el decreto invoca los Convenios 81 y 129 de la OIT ratificados por Guatemala. Una fuente secundaria (un blog de asesoría laboral, de bajo nivel en la jerarquía de fuentes) lo vincula con un compromiso adquirido ante la OIT y con el riesgo inminente de que se instalara una Comisión de Encuesta. Este contexto debe confirmarse con fuentes de la OIT.\n- **Fecha de entrada en vigor, con fuentes en conflicto:** un informe del Ministerio de Trabajo enviado a la ONU indica que cobró vigencia inmediatamente el día de su publicación. En cambio, fuentes de despachos comerciales indican el 6 de junio de 2017. Por ahora la fecha queda sin resolver hasta verificar el artículo final del decreto.\n- **Posibles problemas de vigencia:** hay cuestionamientos académicos que sostienen que esta facultad sancionatoria corresponde a la Corte Suprema de Justicia, y específicamente a los Tribunales de Trabajo y Previsión Social por mandato constitucional. Esa misma tesis cita una sentencia de la Corte de Constitucionalidad de 2004 sobre una reforma anterior. No verifiqué si existe un fallo contra el Decreto 7-2017; esto debe revisarse para el campo `estado_vigencia`.\n- **Norma relacionada:** el 18 de enero de 2018 se publicó el Acuerdo Ministerial Número 285-2017. Parece ser una norma para aplicar el decreto, pero no verifiqué su contenido.\n\nNORMA: Decreto 7-2017 del Congreso de la República (Reformas al Decreto 1441, Código de Trabajo)\nOTRAS: Acuerdo Ministerial 285-2017 del Ministerio de Trabajo y Previsión Social (reglamentario, publicado en 2018; contenido no verificado)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2017/07-2017.pdf",
+      "titulo": "decreto número 7-2017",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=563c4ac1-1681-43fa-a11e-8d4989e4d5c4",
+      "titulo": "Reformas al Código de Trabajo en Guatemala - Lexology",
+      "citada": true
+    },
+    {
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadFile?gId=35889",
+      "titulo": "información del ministerio de trabajo y previsión social del ...",
+      "citada": true
+    },
+    {
+      "url": "http://www.defensoriadeltrabajador.com/2017/08/decreto-7-2017-reformas-al-codigo-de.html",
+      "titulo": "Decreto 7-2017 Reformas al Código de Trabajo de Guatemala ~ Asesoría Laboral en Guatemala - Capacitación Laboral - Abogado Laboralista",
+      "citada": true
+    },
+    {
+      "url": "https://www.expertostributarios.com/reformas-al-codigo-trabajo/",
+      "titulo": "Reformas al Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://leyes.infile.com/index.php?id=182&id_publicacion=75879",
+      "titulo": "Leyes de Guatemala",
+      "citada": true
+    },
+    {
+      "url": "http://www.repositorio.usac.edu.gt/10304/1/Tesis%20Juan%20Miguel%20Rodas%20Pineda.pdf",
+      "titulo": "UNIVERSIDAD DE SAN CARLOS DE GUATEMALA CENTRO UNIVERSITARIO DE SUROCCIDENTE",
+      "citada": true
+    },
+    {
+      "url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC205822/",
+      "titulo": "Decreto Nº 7-2017 - Reformas al Decreto número 1441 del Congreso de la República, Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://leyesdeguatemala.wordpress.com/wp-content/uploads/2017/07/decreto-7-2017-guatemala.pdf",
+      "titulo": "decreto-7-2017-guatemala.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecolex.org/es/details/legislation/decreto-no-7-2017-reformas-al-decreto-numero-1441-del-congreso-de-la-republica-codigo-del-trabajo-lex-faoc205822/",
+      "titulo": "Decreto Nº 7-2017 - Reformas al Decreto número 1441 del Congreso de la República, Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "http://bvs.gt/eblueinfo/ML/ML_027.pdf",
+      "titulo": "Reformas al Decreto Número 1441 del Congreso de la ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.refworld.org/es/leg/legis/pleg/2017/es/127193",
+      "titulo": "Guatemala: Decreto Nº 7-2017, Reformas al Código del Trabajo de fecha 5 de abril de 2017",
+      "citada": false
+    },
+    {
+      "url": "https://www.refworld.org/es/leg/decre/pleg/2017/127042",
+      "titulo": "Guatemala: Decreto Nº 7-2017. Reformas al Decreto Nº 1441, Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC205813",
+      "titulo": "Decreto Nº 1441 - Código de Trabajo de Guatemala.",
+      "citada": false
+    },
+    {
+      "url": "https://repositoriosiidca.csuca.org/Record/RepoUSAC10304",
+      "titulo": "Description: La Facultad de la Inspección General de Trabajo de Suchitepéquez de Administrar Justicia, a la Luz Del Decreto 7-2017, Bajo el Análisis de los Criterios y Preceptos Constitucionales",
+      "citada": false
+    },
+    {
+      "url": "http://www.repositorio.usac.edu.gt/10304/",
+      "titulo": "La Facultad de la Inspección General de Trabajo de Suchitepéquez de Administrar Justicia, a la Luz Del Decreto 7-2017, Bajo el Análisis de los Criterios y Preceptos Constitucionales - Repositorio Institucional USAC",
+      "citada": false
+    },
+    {
+      "url": "https://actualidadjuridica.doe.cl/tribunal-constitucional-estimo-que-el-articulo-506-del-codigo-del-trabajo-establece-parametros-para-que-la-inspeccion-del-trabajo-pueda-imponer-sanciones-a-las-empresas/",
+      "titulo": "Tribunal Constitucional estimó que el artículo 506 del Código del Trabajo establece parámetros para que la Inspección del Trabajo pueda imponer sanciones a las empresas - DOE",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2022/01/31/normas-que-le-reconoce-potestad-sancionatoria-a-la-inspeccion-del-trabajo-en-accidentes-laborales-se-impugnan-en-sede-de-inaplicabilidad-ante-el-tribunal-constitucional/",
+      "titulo": "Normas que le reconoce potestad sancionatoria a la Inspección del Trabajo en accidentes laborales, se impugnan en sede de inaplicabilidad ante el Tribunal Constitucional.",
+      "citada": false
+    },
+    {
+      "url": "https://infopublic.bpaprocorp.com/banco-de-leyes/decreto-supremo-007-2017-tr",
+      "titulo": "Decreto Supremo N° 007-2017-TR - InfoPublic",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "PER_1991",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1362,
+  "incompleto": false,
+  "norma_propuesta": "Decreto Legislativo N.º 728 (Ley de Fomento del Empleo), 1991",
+  "otras": "Decreto Legislativo N.º 650; Decreto Legislativo N.º 677; Decreto Legislativo N.º 688; Decreto Legislativo N.º 689; Decreto Legislativo N.º 713; Decreto Legislativo N.º 765",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Perú en 1991 es el **Decreto Legislativo N.º 728, Ley de Fomento del Empleo**. En NATLEX (OIT) figura adoptado el 1991-11-08, con entrada en vigor el 1991-12-12 y publicado en El Peruano el 12 de noviembre de 1991. Por lo tanto, el año de expedición coincide con el año de la base. El gobierno lo dictó con facultades delegadas: el Congreso mediante Ley 25327, ha delegado en el Poder Ejecutivo la facultad de legislar sobre el fomento del empleo. Según el texto oficial, la política de empleo buscaba la generación masiva de empleo, a flexibilizar el mercado de trabajo. NATLEX indica que la norma cubre la capacitación para el trabajo (contratos de formación laboral, prácticas preprofesionales y aprendizaje), y también remuneración, período de prueba, suspensión del contrato de trabajo, causas de extinción, motivos de despido. Además regula las empresas de servicios temporales y a las empresas de servicios complementarios.\n\n**Por qué la elijo entre varias candidatas.** En 1991 se dictaron varios decretos legislativos laborales. La prensa económica destaca que el 23 de julio de 1991 se promulgó el Decreto Legislativo Nº 650 que reformó el régimen de la compensación por tiempo de servicios. Otra fuente menciona también los decretos legislativos 650 (CTS), 713 (descansos remunerados), 677 (participación en las utilidades), 688 (consolidación de beneficios sociales), 689 (contratación de trabajadores extranjeros). Esa misma fuente incluye el DL 854 (jornadas) en la lista de 1991, pero lo excluyo porque, hasta donde sé y sin haberlo verificado aquí, es de 1996.\n\nElijo el DL 728 porque es la norma con mayor alcance sobre el mercado laboral. La literatura académica lo llama un instrumento completo en materia de relaciones individuales de trabajo, y Saavedra (IPE) lo presenta como el centro de la reforma: En 1991 se promulgó la Ley de Fomento del Empleo que facilitó la utilización de un amplio conjunto de modalidades contractuales temporales. Las demás normas son sectoriales (beneficios específicos) o, como el DL 674, sobre privatización y no estrictamente laborales.\n\n**Notas para etapas siguientes:**\n- **Modificación inmediata:** el DL 765, publicado el 15 de noviembre de 1991, ya cambió un artículo del DL 728.\n- **Separación posterior:** en 1997, el DL 855 dividió la Ley de Fomento del Empleo en dos textos normativos: Ley de Formación y Promoción Laboral (Decreto Supremo 002-97-TR) y Ley de Productividad y Competitividad Laboral. Esto importa al codificar `estado_vigencia`.\n- **Derechos colectivos:** la reforma sindical (Decreto Ley 25593) es de 1992, así que no corresponde a este país-año.\n\nNORMA: Decreto Legislativo N.º 728 (Ley de Fomento del Empleo), 1991\nOTRAS: Decreto Legislativo N.º 650; Decreto Legislativo N.º 677; Decreto Legislativo N.º 688; Decreto Legislativo N.º 689; Decreto Legislativo N.º 713; Decreto Legislativo N.º 765\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=25534",
+      "titulo": "NATLEX - Peru - Decreto legislativo núm. 728, por el que dictan ley de fomento del empleo.",
+      "citada": true
+    },
+    {
+      "url": "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00728.pdf",
+      "titulo": "DECRETO LEGISLATIVO Nº 728 CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://lpderecho.pe/tuo-decreto-legislativo-728-ley-formacion-promocion-laboral-decreto-supremo-002-97-tr/",
+      "titulo": "TUO del DL 728, Ley de Formación y Promoción Laboral (DS 002-97-TR) [actualizado 2026]",
+      "citada": true
+    },
+    {
+      "url": "https://gestion.pe/economia/duro-camino-flexibilizacion-laboral-peru-94405-noticia/",
+      "titulo": "El duro camino a la flexibilización laboral en Perú",
+      "citada": true
+    },
+    {
+      "url": "https://www.ipe.org.pe/wp-content/uploads/2018/01/1999-La-Flexibilizacion-del-Mercado-Laboral.pdf",
+      "titulo": "La Flexibilización del Mercado Laboral Jaime Saavedra",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/themis/article/download/11860/12428/47191",
+      "titulo": "LA REFORMA LABORAL Y SUS EFECTOS",
+      "citada": true
+    },
+    {
+      "url": "https://www.peruweek.pe/dialogo-por-la-productividad-y-la-competitividad-laboral/",
+      "titulo": "Diálogo por la productividad y la competitividad laboral",
+      "citada": true
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/document/file/861865/Decreto_Legislativo_728.pdf?v=1592495415",
+      "titulo": "DECRETO LEGISLATIVO Nº 728 CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://www.scribd.com/document/507141163/DECRETO-LEGISLATIVO-No-728-Version-original-publicada-en-el-Diario-Oficial-El-Peruano-el-12-de-noviembre-de-1991",
+      "titulo": "DECRETO LEGISLATIVO No. 728. Versión Original Publicada en El Diario Oficial El Peruano El 12 de Noviembre de 1991.",
+      "citada": false
+    },
+    {
+      "url": "https://lpderecho.pe/breve-historia-de-la-728-una-escultura-fujimorista-del-derecho-laboral/",
+      "titulo": "Breve historia de «la 728», una escultura fujimorista del derecho laboral",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/decreto-legislativo-n-728-937989068",
+      "titulo": "Decreto Legislativo Nº 728. Dictan Ley de Fomento del Empleo - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://www.slideshare.net/slideshow/decreto-legislativo-n-728/35890798",
+      "titulo": "Decreto legislativo nº 728",
+      "citada": false
+    },
+    {
+      "url": "https://www.slideshare.net/slideshow/ley-de-fomento-y-promocion-del-empleo-decreto-legislativo-n-728-semana-3-y-4-pptx/273413763",
+      "titulo": "Ley de Fomento y Promoción del Empleo (DECRETO LEGISLATIVO N°728) semana 3 y 4.pptx",
+      "citada": false
+    },
+    {
+      "url": "https://www.slideshare.net/slideshow/decreto-legislativo-728/45679012",
+      "titulo": "Decreto legislativo 728",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=25534",
+      "titulo": "NATLEX - Peru - Decreto legislativo núm. 728, por el que dictan ley de fomento del empleo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Homenaje-bodas-de-plata-full-133-152.pdf",
+      "titulo": "133 LA FLEXIBILIDAD REVISITADA: A 25 años de las reformas laborales sobre",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/noticias-y-reformas-laborales/nueva-ley-general-del-trabajo-en-peru/",
+      "titulo": "Reforma Laboral Perú 2026: Guía a las 40 Horas y el DL 728",
+      "citada": false
+    }
+  ]
+}

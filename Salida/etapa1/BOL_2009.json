@@ -1,0 +1,234 @@
+{
+  "id": "BOL_2009",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2009,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.347,
+  "incompleto": false,
+  "norma": "Constitución Política del Estado Plurinacional de Bolivia, promulgada el 7 de febrero de 2009 (componente laboral: arts. 46-55)",
+  "texto": "# Informe de investigación: Bolivia (BOL), 2009. Constitución Política del Estado, Sección III \"Derecho al trabajo y al empleo\" (arts. 46-55)\n\n**Resumen para codificar:** tipo_instrumento `constitucion`; orientación `protectora`; estado de vigencia `vigente`; fecha de entrada en vigor 2009-02-07; vigencia escalonada: no en sentido formal (ver §6); confianza `media`, que se mantiene del informe previo.\n\n## 1. Objetivo declarado\n\nNo encontré una exposición de motivos ni un discurso oficial sobre la sección laboral, así que el objetivo declarado se reconstruye a partir del propio texto. La Constitución ordena interpretar las normas laborales bajo los principios de protección de las trabajadoras y de los trabajadores como principal fuerza productiva de la sociedad; de primacía de la relación laboral; de continuidad y estabilidad laboral; de no discriminación y de inversión de la prueba. El marco general es el nuevo Estado Unitario Social de Derecho Plurinacional Comunitario.\n\nLa orientación del mismo gobierno ya estaba explícita en el DS 28699 (2006). Ese decreto criticó el DS 21060 por ser pilar fundamental de una política extraña a las normas laborales en vigencia y a la política de estabilidad laboral.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**despido_e_indemnizacion — aumenta.** La Constitución reconoce el derecho a una fuente laboral estable, en condiciones equitativas y satisfactorias. Además, el Estado protegerá la estabilidad laboral. Se prohíbe el despido injustificado y toda forma de acoso laboral. La ley determinará las sanciones correspondientes.\n\nEl cambio efectivo es que la estabilidad, que antes tenía rango reglamentario (DS 28699), pasa a tener rango constitucional. El Tribunal Constitucional Plurinacional (TCP) la interpreta como \"estabilidad propia\": en el estado Plurinacional de Bolivia no está permitido el despido arbitrario. La indemnización y el desahucio se remiten a la ley (art. 49.II).\n\n**genero_y_conciliacion — aumenta.** El Estado promoverá la incorporación de las mujeres al trabajo y garantizará la misma remuneración que a los hombres por un trabajo de igual valor, tanto en el ámbito público como en el privado. Se prohíbe despedir a las mujeres por su estado civil, situación de embarazo, edad, rasgos físicos o número de hijas o hijos.\n\nLa inamovilidad laboral se garantiza a las embarazadas y también a los progenitores. Incluir al padre es la novedad sustantiva, y el DS 0012 la desarrolló después.\n\n**derechos_colectivos_sindicales — aumenta.** El texto reconoce el derecho a la negociación colectiva y el derecho a sindicalizarse. También establece que los sindicatos gozarán de personalidad jurídica por el solo hecho de organizarse y ser reconocidos por sus entidades matrices, y que su patrimonio es inembargable.\n\nLos dirigentes tienen fuero sindical frente al despido y la persecución. Las trabajadoras y los trabajadores por cuenta propia tienen el derecho a organizarse para la defensa de sus intereses. El derecho a la huelga queda garantizado de acuerdo con la ley.\n\n**salario_y_negociacion_salarial — aumenta.** Se garantiza un salario justo, equitativo y satisfactorio, que le asegure para sí y su familia una existencia digna. Los salarios y beneficios impagos tienen privilegio y preferencia sobre cualquier otra acreencia, y son inembargables e imprescriptibles. Los salarios mínimos y sus incrementos se remiten a la ley.\n\n**justicia_laboral_e_inspeccion — aumenta.** Las normas laborales son de cumplimiento obligatorio. Los derechos no pueden renunciarse, y son nulas las convenciones contrarias o que tiendan a burlar sus efectos. La prueba se invierte a favor del trabajador. Además, el Estado, mediante tribunales y organismos administrativos especializados, resolverá todos los conflictos emergentes de las relaciones laborales.\n\n**empleo_juvenil_y_aprendizaje — aumenta (norma programática).** El Estado garantizará la incorporación de las jóvenes y los jóvenes en el sistema productivo, de acuerdo con su capacitación y formación. No establece un mecanismo concreto.\n\n**formalizacion_y_mipymes — aumenta (vía política productiva, no laboral).** Los trabajadores de pequeñas unidades productivas, por cuenta propia y gremialistas tendrán un régimen de protección especial, mediante una política de intercambio comercial equitativo y de precios justos para sus productos.\n\n**contratacion_temporal y tercerizacion_subcontratacion — efecto indirecto, por inferencia.** Ningún artículo regula estas figuras de forma expresa. Los principios de primacía de la relación laboral y de continuidad pueden restringirlas por vía interpretativa. Esto es inferencia del analista, no texto expreso, y sugiero no codificarlas o marcarlas como \"indirecto\".\n\n**otro — aumenta.** Se prohíbe el trabajo forzoso (art. 46.III). El Estado debe establecer políticas de empleo contra la desocupación (art. 54.I). Los trabajadores podrán, de acuerdo con la ley, reactivar y reorganizar empresas en proceso de quiebra, concurso o liquidación, cerradas o abandonadas de forma injustificada, y conformarán empresas comunitarias o sociales. También se fomentan las cooperativas (art. 55). Como contrapeso, se garantiza la libre asociación empresarial (art. 52).\n\n**Declarado vs. efectivo.** Buena parte del contenido eleva a rango constitucional garantías que ya existían en normas inferiores: la estabilidad del DS 28699 y el fuero de la madre de la Ley 975. Las novedades efectivas son:\n- la inamovilidad del padre;\n- la inversión de la prueba;\n- la personalidad jurídica sindical por reconocimiento de las entidades matrices;\n- la facultad de reactivar empresas.\n\nMuchas cláusulas remiten a una ley (\"de acuerdo con la ley\"). Su efecto real depende de esa legislación posterior o de que los jueces las apliquen directamente.\n\n## 3. Población objetivo\n\nLos grupos son `asalariados_formales`, `mujeres` (también progenitores), `jovenes` e `informales` (cuenta propia y gremialistas, arts. 47 y 51.VII). El derecho a una fuente laboral estable, al tener alcance universal, justifica también `general`. El texto se aplica expresamente tanto en el ámbito público como en el privado en materia de igualdad salarial. No basta para codificar `sector_publico` como población específica.\n\n## 4. Contexto político y económico\n\nEl 6 de marzo de 2006 fue promulgada por el presidente de Bolivia, Evo Morales Ayma la Ley por medio de la cual se convocaba a una Asamblea Constituyente, que se instaló el 6 de agosto de 2006. El texto de la Asamblea se presentó el 15 de diciembre de 2007. Luego fue ajustado por el Congreso Nacional en los términos establecidos en el anexo a la Ley 3942 de 21/10/2008 y se aprobó en referéndum.\n\nEl proceso estuvo polarizado. La literatura académica destaca la oposición regionalista y la visión dividida que tienen los bolivianos de su propio país.\n\nEn lo laboral, la Constitución da continuidad a la política iniciada con el DS 28699. Ese decreto reconoció el derecho a la estabilidad laboral y derogó el artículo 55 del Decreto Supremo N.º 21060, que permitía la libre contratación y despido.\n\n**Sin fuente:** el contexto macroeconómico (auge exportador de hidrocarburos y minería, efectos de la crisis financiera internacional de 2008-2009) no lo verifiqué con fuentes consultadas.\n\n## 5. ¿Revierte una reforma previa?\n\nSí, de forma indirecta. La Constitución eleva a rango constitucional la reversión de la libre rescisión de contratos del art. 55 del DS 21060 (1985), que ya había hecho el DS 28699 de 2006. La reversión operativa es de 2006, y la Constitución la vuelve más difícil de deshacer. Además, queda abrogada la Constitución Política del Estado de 1967 y sus reformas posteriores.\n\nSugiero codificar `revierte_reforma_previa` = true y explicar en `notas` que la reversión es por consolidación.\n\n## 6. Entrada en vigor\n\nLa disposición final establece que la Constitución entrará en vigencia el día de su publicación en la Gaceta Oficial. Se firmó el 7 de febrero de 2009 en El Alto. No consulté directamente la ficha de la Gaceta, aunque las fuentes oficiales tratan el 7 de febrero de 2009 como fecha de vigencia.\n\nLas disposiciones transitorias que vi fijan plazos para el régimen electoral, no para la sección laboral. Por eso la vigencia escalonada es \"no\" en sentido formal. En la práctica, sin embargo, el efecto de varias cláusulas (sanciones por despido, huelga, salarios) depende de una ley de desarrollo. Las fuentes consultadas mencionan la Ley General del Trabajo como legislación vigente; no verifiqué si se dictó una nueva ley general. Recomiendo anotarlo en `notas`.\n\n## 7. Vigencia posterior\n\n**Vigente.** No hallé reformas constitucionales a los arts. 46-55 (sin fuente que lo confirme de forma exhaustiva).\n\n- **Jurisprudencia (amplía la protección; no cambia la categoría).** El TCP aplica la estabilidad de forma directa. En la SCP 0009/2017 consideró que el art. 12 de la LGT y el Artículo Único del DS 06813 acarrean una inconstitucionalidad sobreviniente, por ir en contra de la estabilidad laboral. Esa es la lógica de la demanda; la sentencia, por su parte, tachó el preaviso de contrario a la estabilidad. El mismo texto también afirma que el art. 12 de la LGT no está en colisión con la garantía de la estabilidad laboral y está sujeto a la aplicación del art. 49.II de la CPE, que reconoce como derecho laboral al desahucio. **No pude verificar la parte resolutiva exacta.** En cualquier caso, son fallos que amplían la protección y van en `notas`.\n- **Intento de flexibilización (2025-2026).** El DS 5503 de 17 de diciembre de 2025 introdujo la libre negociación del salario entre empleadores y trabajadores, de manera individual o colectiva, como expresión de la autonomía de la voluntad. Lo abrogó el DS 5516 tras la presión sindical, que restituyó la \"tutela del Órgano Ejecutivo\" en las discusiones obrero-patronales. Son normas infraconstitucionales que no alteran la Constitución, pero confirman que su núcleo protector sigue vigente.\n\n## 8. Lo que no pude verificar\n\n- La ficha de la Constitución en NATLEX.\n- Una exposición de motivos oficial de la sección laboral.\n- La fecha exacta de la edición de la Gaceta Oficial.\n- La parte resolutiva de la SCP 0009/2017.\n- Si se aprobó una ley general del trabajo de desarrollo.\n- El contexto macroeconómico.\n- La ausencia total de reformas constitucionales posteriores.\n- **Advertencia de fuente:** la traducción inglesa de Constitute Project traduce mal \"inversión de la prueba\" como the making of investments in favor of the worker. Conviene usar siempre el texto en español.",
+  "fuentes": [
+    {
+      "url": "https://bolivia.justia.com/nacionales/nueva-constitucion-politica-del-estado/primera-parte/titulo-ii/capitulo-quinto/seccion-iii/",
+      "titulo": "Justia Bolivia :: Nueva Constitución Política Del Estado > PRIMERA PARTE > TÍTULO II > CAPÍTULO QUINTO > SECCIÓN III :: Ley de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/5430",
+      "titulo": "Constitution of 2009 of the Plurinational State of Bolivia, Bolivia (Plurinational State of), WIPO Lex",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/8848",
+      "titulo": "Artículo 48., Constitución Política del Estado (CPE) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.constituteproject.org/constitution/Bolivia_2009",
+      "titulo": "Bolivia (Plurinational State of) 2009 Constitution - Constitute",
+      "citada": true
+    },
+    {
+      "url": "https://jurisprudenciaconstitucional.com/resolucion/111213-sentencia-constitucional-plurinacional-0009-2017",
+      "titulo": "Sentencia Constitucional Plurinacional 0009/2017",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-CPE-20090207.html",
+      "titulo": "Bolivia: Constitución Política del Estado de 2009, 7 de febrero de 2009",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/8851",
+      "titulo": "Artículo 51., Constitución Política del Estado (CPE) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/es/legislation/details/5430",
+      "titulo": "Constitución de 2009 del Estado Plurinacional de Bolivia, Bolivia (Estado Plurinacional de), WIPO Lex",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-28699.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 28699, 1 de mayo de 2006",
+      "citada": true
+    },
+    {
+      "url": "https://www.ppolegal.com/blog/2022/10/24/estabilidad-laboral-entre-el-derecho-de-los-trabajadores-y-la-seguridad-juridica-del-empleador/",
+      "titulo": "Estabilidad laboral: entre el derecho de los trabajadores y la seguridad jurídica del empleador - PPO Indacochea",
+      "citada": true
+    },
+    {
+      "url": "https://correodelsur.com/politica/20260114/gobierno-reduce-a-32-articulos-el-ds-5503-para-contentar-a-la-cob.html",
+      "titulo": "Gobierno reduce a 32 artículos el DS 5503 para contentar a la COB",
+      "citada": true
+    },
+    {
+      "url": "https://erbol.com.bo/econom%C3%ADa/conozca-el-decreto-5503-m%C3%A1s-de-120-art%C3%ADculos-del-ajuste",
+      "titulo": "Conozca el Decreto 5503: más de 120 artículos del ajuste",
+      "citada": true
+    },
+    {
+      "url": "https://revistaselectronicas.ujaen.es/index.php/rej/article/download/541/483/1882",
+      "titulo": "Evo Morales y la nueva Constitución Política del Estado ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/sedia/sia/spe/SPE-ISS-04-09.pdf",
+      "titulo": "Referéndum Constitucional de Bolivia 2009",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N110.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 110, 1 de mayo de 2009",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4401.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 4401, 26 de noviembre de 2020",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4668.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 4668, 17 de febrero de 2022",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4708.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 4708, 1 de mayo de 2022",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N3770.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 3770, 9 de enero de 2019",
+      "citada": false
+    },
+    {
+      "url": "https://pdba.georgetown.edu/Constitutions/Bolivia/bolivia09.html",
+      "titulo": "Bolivia: Constitution, 2009",
+      "citada": false
+    },
+    {
+      "url": "https://diputados.gob.bo/wp-content/uploads/2022/02/cpe.pdf",
+      "titulo": "nueva constitución política del estado - Cámara de Diputados",
+      "citada": false
+    },
+    {
+      "url": "https://sea.gob.bo/digesto/CompendioNormativo/01.pdf",
+      "titulo": "Constitución Política del Estado Febrero de 2009 PREÁMBULO",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/dil/esp/constitucion_bolivia.pdf",
+      "titulo": "http://bolivia.infoleyes.com/shownorm.php?id=469[12/28/2011 4:30:59 PM]",
+      "citada": false
+    },
+    {
+      "url": "https://www.senapi.gob.bo/normativas/constitucion-politica-del-estado/constitucion-politica-del-estado-plurinacional-de-bolivia",
+      "titulo": "CONSTITUCIÓN POLÍTICA DEL ESTADO",
+      "citada": false
+    },
+    {
+      "url": "https://www.planificacion.gob.bo/uploads/marco-legal/nueva_constitucion_politica_del_estado.pdf",
+      "titulo": "\u0002\u0003\u0004\u0002\u0005\u0006\u0007\b \u0005 \u0007 \u0005\u0006\u0003 \u0006\u0003 \u0003\u000e\u0003 \u000f \u0010\u0011\u0006\u0012\u0005 \u0013\u0002\u0014\u0002\u0010\u0015\u0003 \u0002\u0003 \u0003\u0006\u0003 \u0003 \u0005\u0006 \u0003\u0006\u0016\u0017\u0017\u0018",
+      "citada": false
+    },
+    {
+      "url": "https://pdba.georgetown.edu/Comp/Derechos/huelga.html",
+      "titulo": "Derecho a la Sindicalizacion y huelga",
+      "citada": false
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/189098",
+      "titulo": "WIPO Lex",
+      "citada": false
+    },
+    {
+      "url": "https://www.derechoteca.com/legal-tech-bolivia-bo-d-lex-norma/decreto-supremo-28699-del-01-mayo-2006",
+      "titulo": "Bolivia: Decreto Supremo No 28699 del 01 Mayo 2006",
+      "citada": false
+    },
+    {
+      "url": "https://www.vobolex.org/bolivia/decreto-supremo-28699-del-01-mayo-2006/",
+      "titulo": "Bolivia - Decreto Supremo No 28699 del 01 Mayo 2006",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/decreto-supremo-28699-disposicion-874368901",
+      "titulo": "Decreto Supremo 28699. Disposicion Reglamentaria a la Ley General del Trabajo - vLex Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://cedla.org/obess/d-s-28699-anulacion-del-articulo-55-del-d-s-21060/",
+      "titulo": "D.S. 28699. Anulación del artículo 55 del D.S. 21060",
+      "citada": false
+    },
+    {
+      "url": "https://jorgemachicado.blogspot.com/2009/02/bolovia-decreto-supremo-n-21060-de-29.html",
+      "titulo": "APUNTES JURIDICOS™: ¿Que es el Decreto Supremo 21060?",
+      "citada": false
+    },
+    {
+      "url": "http://gacetaoficialdebolivia.gob.bo/normas/buscar/28699",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.opinion.com.bo/opinion/author/libertad-contractual/20260118000017987165.html",
+      "titulo": "Libertad contractual",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.uptc.edu.co/index.php/derecho_realidad/article/download/5091/4126/11135",
+      "titulo": "113 Estabilidad laboral vs. libre rescisión laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.urgente.bo/noticia/ds-5503-inconstitucional-golpe-al-estado-social-de-derecho-constitucional-plurinacional",
+      "titulo": "DS 5503 inconstitucional: Golpe al estado social de derecho constitucional plurinacional comunitario",
+      "citada": false
+    },
+    {
+      "url": "https://emba.com.bo/el-decreto-n-5503-y-el-nuevo-rumbo-laboral-en-bolivia/",
+      "titulo": "El Decreto N° 5503 y el Nuevo Rumbo Laboral en Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://cambioclimatico.org.bo/documento/analisis-y-propuestas-del-decreto-supremo-no-5503-inconstitucionalidad-y-profundizacion-de-la-crisis-climatica-en-bolivia/",
+      "titulo": "Análisis y propuestas del Decreto Supremo Nº 5503: Inconstitucionalidad y profundización de la crisis climática en Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2017/su049-17.htm",
+      "titulo": "i. demanda y solicitud - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Homenaje-bodas-de-plata-full-153-169.pdf",
+      "titulo": "153 ESTABILIDAD LABORAL: 43 AÑOS DESPUÉS ALFONSO DE LOS HEROS(1)",
+      "citada": false
+    },
+    {
+      "url": "https://tc.gob.pe/jurisprudencia/2023/02392-2021-AA.pdf",
+      "titulo": "Pleno. Sentencia 283/2023 EXP. N.° 02392-2021-PA/TC SULLANA VERÓNIKA ANTONELLA",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.uaq.mx/index.php/albores/article/download/757/777/2416",
+      "titulo": "Reflexiones en torno a una Constitución Plurinacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.idea.int/sites/default/files/publications/miradas-nuevo-texto-constitucional.pdf",
+      "titulo": "miradas-nuevo-texto-constitucional.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660852/",
+      "titulo": "Sexual and reproductive rights regarding contraception in a human rights framework in Bolivia, Colombia, and Uruguay",
+      "citada": false
+    }
+  ]
+}

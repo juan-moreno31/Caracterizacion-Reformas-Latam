@@ -1,0 +1,121 @@
+{
+  "id": "VEN_1997",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 1997,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0473,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley de Reforma Parcial de la Ley Orgánica del Trabajo (Gaceta Oficial N° 5.152 Extraordinario, 19 de junio de 1997)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley Orgánica del Sistema de Seguridad Social Integral (Gaceta Oficial N° 5.199 Extraordinario, 30 de diciembre de 1997)",
+      "Reglamento de la Ley Orgánica del Trabajo (número y fecha no verificados)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "1997-06-19",
+    "vigencia_escalonada": true,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Según fuentes secundarias, modernizar el sistema de seguridad social y las relaciones de trabajo, reactivar la economía y generar empleo, en desarrollo del Acuerdo Tripartito sobre Seguridad Social Integral y Política Salarial (ATSSI) firmado por la Comisión Tripartita el 17 de marzo de 1997; también se planteó recomponer el salario eliminando las bonificaciones no computables para prestaciones.",
+    "descripcion_intenciones": "La reforma elimina la retroactividad en el cálculo de las prestaciones sociales de antigüedad, que dejan de recalcularse con el último salario y pasan a consolidarse y liquidarse mensualmente, en forma definitiva, en un fideicomiso, un fondo o la contabilidad de la empresa. Independiza la indemnización por despido injustificado de la prestación de antigüedad, poniendo fin al llamado \"pago doble\" y fijándole un tope. En lo salarial, integra al salario bonos antes excluidos, pero a la vez crea una lista de beneficios sociales no remunerativos y el \"salario de eficacia atípica\", que permite excluir por pacto parte del salario de la base de cálculo. Un régimen de transición liquidó lo acumulado bajo el sistema anterior con una compensación por transferencia, y se exigió consulta tripartita para fijar el salario mínimo.",
+    "dimensiones": [
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Núcleo de la reforma: elimina el recálculo retroactivo de la antigüedad, la sustituye por depósitos mensuales definitivos y desvincula la indemnización por despido de la prestación de antigüedad, con tope. Se compensa parcialmente con intereses exentos de impuesto y la obligación patronal de otorgar crédito o aval."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Salariza bonos antes no computables, pero crea beneficios sociales no remunerativos y el salario de eficacia atípica pactable colectiva o individualmente. Además exige consulta a la instancia tripartita para fijar el salario mínimo."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Prevé Fondos de Prestaciones de Antigüedad como forma de administración de las prestaciones, cuya regulación remite a las leyes del sistema de seguridad social integral; efecto menor."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Modifica la Ley Orgánica del Trabajo de 1990 durante el segundo gobierno de Rafael Caldera, en el marco de la Agenda Venezuela (anunciada en 1996) orientada a restablecer el equilibrio macroeconómico y reducir la inflación; según una fuente académica, la eliminación de la retroactividad formaba parte de condiciones asociadas al FMI. Surgió de la Comisión Tripartita de 1997, con sindicatos que buscaban redefinir el concepto de salario y empleadores que buscaban reducir el costo de las prestaciones, en un contexto previo de 'bonificación' de los salarios. Hubo oposición parlamentaria, entre otros de La Causa R.",
+    "notas": "Orientación: se codifica como flexibilizadora porque su núcleo reduce el costo de prestaciones y despido para el empleador; existe un argumento razonable a favor de 'mixta' por el peso de la salarización de bonos exigida por los sindicatos (a decidir por el equipo). No revierte una reforma previa en sentido estricto, aunque elimina el método de recálculo vigente desde la legislación de 1936. Vigencia escalonada: la integración de los bonos al salario fue gradual dentro de un plazo transitorio y el abono adicional de antigüedad por año solo comienza tras un período bajo el nuevo régimen; la entrada en vigor del 19-06-1997 la confirma la Sala de Casación Social del TSJ. Estado judicial: la Sala Constitucional declaró sin lugar el recurso de nulidad contra la totalidad de la ley (sentencia Nº 2884 del 4 de noviembre de 2003) e improcedente la impugnación de artículos del régimen de transición; la jurisprudencia osciló entre lectura taxativa y enunciativa de los beneficios no remunerativos, sin afectar la categoría. Derogada por la LOTTT (Decreto 8938, G.O. N° 6.076 Extraordinario, 7 de mayo de 2012), que restituye el recálculo con el último salario manteniendo los depósitos como garantía (contrarreforma parcial, corresponde a la ficha VEN 2012). La dimensión derechos_colectivos_sindicales se omite: no se reforma la libertad sindical y la ampliación de lo pactable se registra en la dimensión salarial. No se consultó la exposición de motivos ni la Gaceta directamente, ni NATLEX/EPLex; el objetivo declarado proviene de fuentes secundarias (incluida una partidista del PSUV). No se verificó si hubo pago diferido especial para el sector público ni el número y fecha del Reglamento."
+  },
+  "fuentes": [
+    {
+      "url": "https://servicio.bc.uc.edu.ve/derecho/revista/idc21/21-14.pdf",
+      "titulo": "La Seguridad Social: hacia un nuevo Régimen de Prestaciones Sociales",
+      "citada": true
+    },
+    {
+      "url": "https://pandectasdigital.blogspot.com/2016/06/ley-de-reforma-parcial-de-la-ley.html",
+      "titulo": "Ley de Reforma Parcial de la Ley Orgánica del Trabajo <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: red;\"><b><i>Derogada</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": true
+    },
+    {
+      "url": "https://venezuelanalysis.com/wp-content/uploads/2018/11/lott_tabloideminciweb.pdf",
+      "titulo": "LOT Ley Orgánica del Trabajo, las trabajadoras y los trabajadores",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsevier.es/pt-revista-suma-negocios-208-articulo-impacto-economico-legislacion-laboral-venezuela-S2215910X15000075",
+      "titulo": "Impacto económico de la legislación laboral en Venezuela",
+      "citada": true
+    },
+    {
+      "url": "https://www.produccioncientificaluz.org/index.php/gaceta/article/view/3630",
+      "titulo": "Tripartita y diálogo social en la Venezuela de 1997",
+      "citada": true
+    },
+    {
+      "url": "http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1315-85972010000100002",
+      "titulo": "Tripartita y diálogo social en la Venezuela de 1997",
+      "citada": true
+    },
+    {
+      "url": "http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1012-25082002000300009",
+      "titulo": "La reforma de la seguridad social en venezuela",
+      "citada": true
+    },
+    {
+      "url": "http://www.psuv.org.ve/gerrilla-mediatica/como-legislaba-iv/ley-trabajo/",
+      "titulo": "Como se legislaba en la IV: Ley del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://talcualdigital.com/25-anos-de-la-comision-tripartita-de-1997-por-humberto-villasmil-prieto/",
+      "titulo": "25 años de la Comisión Tripartita de 1997, por Humberto Villasmil Prieto",
+      "citada": true
+    },
+    {
+      "url": "https://cedice.org.ve/wp-content/uploads/2020/07/Mision-Imposible_compressed.pdf",
+      "titulo": "Misión Imposible La reforma laboral y Previsional venezolana 1",
+      "citada": true
+    },
+    {
+      "url": "https://html.rincondelvago.com/derecho-laboral-venezolano_2.html",
+      "titulo": "Encuentra aquí información de Derecho laboral venezolano para tu escuela ¡Entra ya!",
+      "citada": true
+    },
+    {
+      "url": "http://www.ulpiano.org.ve/revistas/bases/artic/texto/DERYSO/11/deryso_2012_11_19-35.pdf",
+      "titulo": "Las prestaciones sociales en Venezuela, ¿fin de la historia?",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/2949-141204-00-1244.HTM",
+      "titulo": "2949-141204-00-1244.htm",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scs/Noviembre/1697-291105-041825.htm",
+      "titulo": "1697-291105-041825.htm",
+      "citada": true
+    }
+  ]
+}

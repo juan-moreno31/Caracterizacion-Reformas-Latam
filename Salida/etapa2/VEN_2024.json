@@ -1,0 +1,136 @@
+{
+  "id": "VEN_2024",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 2024,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0461,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista (Gaceta Oficial N.° 6.806 Extraordinario, 8 de mayo de 2024)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto N.° 4.952 (Gaceta Oficial N.° 42.880, 16 de mayo de 2024), que fija la alícuota de la contribución y exonera temporalmente a los emprendimientos registrados",
+      "Providencia SNAT/2024/000042 (Gaceta Oficial N.° 42.881, 17 de mayo de 2024), que regula la oportunidad y los medios de declaración y pago",
+      "Providencia SNAT/2025/000092 (Gaceta Oficial N.° 43.273, 9 de diciembre de 2025), calendario de declaración y pago para 2026",
+      "Decreto N.° 5.070 de inamovilidad laboral (Gaceta Oficial N.° 6.868 Extraordinario, 27 de diciembre de 2024)",
+      "Reforma Parcial del Régimen Prestacional de Vivienda y Hábitat (2024)",
+      "Ley Orgánica para la Inclusión, Igualdad y Desarrollo Integral de las Personas con Discapacidad (2024)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2024-05-08",
+    "vigencia_escalonada": true,
+    "orientacion_general": "administrativa",
+    "objetivo_declarado": "Establecer mecanismos transparentes y participativos para proteger las pensiones de seguridad social (vejez, incapacidad, invalidez y sobrevivencia) frente al impacto de las medidas coercitivas unilaterales, y favorecer un nivel de ingreso digno para los pensionados; la exposición de motivos y el discurso presidencial la presentan como una vía para obtener recursos adicionales que permitan elevar las pensiones.",
+    "descripcion_intenciones": "La ley crea una contribución especial sobre la nómina a cargo de las personas jurídicas y sociedades privadas, calculada sobre el total de pagos salariales y bonificaciones no salariales, con una base mínima atada al ingreso mínimo integral definido por el Ejecutivo. La contribución es distinta e independiente de los aportes al IVSS, la recauda y controla el SENIAT y es deducible del Impuesto sobre la Renta. La ley delega en el Ejecutivo la fijación anual de la alícuota y la facultad de exonerar categorías de sujetos y sectores. Pese a su objetivo declarado, no modifica pensiones, requisitos ni prestaciones, no crea derechos exigibles para los pensionados ni un fondo con destino específico (esto último según una consultora, sin fuente oficial), y no obliga al Estado a aportar.",
+    "dimensiones": [
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea una nueva fuente de financiamiento recaudada por el SENIAT, separada de los aportes al IVSS, sin crear prestaciones exigibles ni asignar los recursos a un fondo. Por el objetivo declarado sería 'aumenta', pero según la prensa las pensiones no variaron en los meses siguientes."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Tributo sobre la nómina que eleva el costo laboral no salarial del sector privado, con alícuota delegada al Ejecutivo. Fedecámaras advirtió que podría derivar en congelamiento salarial, advertencia no comprobada."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "La ley faculta al Ejecutivo a exonerar categorías de sujetos; el Decreto N.° 4.952 exoneró temporalmente a los emprendimientos inscritos en el Registro Nacional de Emprendimientos. El efecto proviene de la norma conexa, no de la ley."
+      }
+    ],
+    "poblacion_objetivo": [
+      "general",
+      "asalariados_formales",
+      "empleadores_mipymes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley se anunció el 1 de mayo de 2024 y la Asamblea Nacional la aprobó en cuestión de horas, el mismo día en que se anunció un aumento del ingreso mínimo integral mediante bonos y a poco tiempo de las elecciones presidenciales del 28 de julio de 2024. El discurso oficial se apoya en las sanciones de Estados Unidos iniciadas en 2017. El salario mínimo no se ajustaba desde marzo de 2022 y los aumentos se canalizaban por bonos sin incidencia en pasivos laborales. Fedecámaras presentó propuestas de modificación que no fueron admitidas. La contribución se suma a los aportes existentes al IVSS previstos en la legislación de seguridad social, sin modificarlos ni derogarlos.",
+    "notas": "Confianza 'alta' porque la norma está identificada sin ambigüedad en reproducciones de la Gaceta Oficial y en la Asamblea Nacional; el informe proponía 'media' por la duda sobre si es una reforma laboral en sentido estricto, cuestión que se refleja en la orientación y no en la identificación. No se consultaron NATLEX ni EPLex. Orientación codificada como 'administrativa' porque efectivamente es un instrumento fiscal sin ampliación de derechos ni flexibilización; la orientación declarada sería 'protectora'. Población: 'general' representa a los pensionados beneficiarios declarados (categoría ausente en el codebook); 'asalariados_formales' por ser su remuneración la base del tributo; 'empleadores_mipymes' solo por la exoneración del decreto conexo; pagan las personas jurídicas y sociedades privadas, quedando fuera el sector público y las personas naturales. Vigencia escalonada: la ley rige desde su publicación el 8 de mayo de 2024 (una nota de despacho indica el 9 de mayo, probablemente un error), pero solo pudo cobrarse tras el Decreto N.° 4.952 (16 de mayo de 2024), que fijó la alícuota, y la Providencia SNAT/2024/000042 (17 de mayo de 2024); según una nota profesional, los pagos comenzaron en junio de 2024. La base mínima depende del ingreso mínimo integral que el Ejecutivo ajusta y, según Acceso a la Justicia, comunica por redes sociales y no en Gaceta. Estado: sigue aplicándose (calendario 2026 dictado en diciembre de 2025); no se hallaron recursos de nulidad. Una sentencia de la Sala Político-Administrativa del TSJ sobre una fundación fue procesal (inadmisibilidad) y no anula nada; hay impugnaciones administrativas menores de multas. No verificado: disposición final y texto oficial completo de algunos artículos, destino de los fondos, renovación anual del decreto de alícuota y prórroga de la exoneración, y eventuales modificaciones posteriores a abril de 2026."
+  },
+  "fuentes": [
+    {
+      "url": "https://tributos.ivecofi.net/informacion/legislacion/leyes/ley-proteccion-pensiones",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social Frente al Bloqueo Imperialista - IVECOFI",
+      "citada": true
+    },
+    {
+      "url": "https://impactovecdn.eleco.com.ar/media/2024/05/Ley-proteccion-pensiones-020524-2.pdf",
+      "titulo": "Ley de protección de las pensiones de seguridad social",
+      "citada": true
+    },
+    {
+      "url": "https://venetributos.com/leyes/ley-de-proteccion-de-las-pensiones-de-seguridad-social-frente-al-bloqueo-imperialista/",
+      "titulo": "Ley De Protección De Las Pensiones De Seguridad Social Frente Al Bloqueo Imperialista",
+      "citada": true
+    },
+    {
+      "url": "https://pandectasdigital.blogspot.com/2024/05/ley-de-proteccion-de-las-pensiones-de.html",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social Frente al Bloqueo Imperialista <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: #04ff00;\"><b><i>Vigente</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": true
+    },
+    {
+      "url": "https://naymaconsultores.com/ley-de-proteccion-de-las-pensiones-como-afecta-a-su-empresa-en-venezuela/",
+      "titulo": "Guía DPP Mayo 2026: Cómo declarar con Base USD 240.00",
+      "citada": true
+    },
+    {
+      "url": "https://www.moore-venezuela.com/noticias/mayo-2024/ley-de-proteccion-de-las-pensiones-de-seguridad-so",
+      "titulo": "NUEVA CONTRIBUCIÓN ESPECIAL PARA LA PROTECCIÓN DE LAS PENSIONES DE SEGURIDAD SOCIAL - MOORE",
+      "citada": true
+    },
+    {
+      "url": "https://www.moore-venezuela.com/wp-content/uploads/sites/15/2025/12/Conoce-mas-sobre-la-nueva-contribucion-especial-para-la-Proteccion-de-las-Pensiones-de-Seguridad-Social.pdf",
+      "titulo": "NUEVA CONTRIBUCIÓN ESPECIAL PARA LA",
+      "citada": true
+    },
+    {
+      "url": "https://www.eluniversal.com/economia/182459/seniat-establece-normas-para-pagos-de-nueva-ley-de-pensiones",
+      "titulo": "Seniat establece normas para pagos de nueva Ley de Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/ley-de-proteccion-de-las-pensiones-de-seguridad-social/",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://www.bakermckenzie.com/-/media/files/insight/publications/2026/01/venezuela-seniat-dict-calendario-de-proteccin-de-pensiones-2026.pdf?sc_lang=en&rev=d79e797123ce4dd0b76f91280562a7ed&hash=F2B4EC3E32D7409F29E3029F881DA246",
+      "titulo": "SENIAT dictó calendario de protección de pensiones 2026",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/las-fundaciones-estan-obligadas-a-pagar-la-contribucion-especial/",
+      "titulo": "Las fundaciones están obligadas a pagar la contribución especial para la protección de las pensiones │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://cnnespanol.cnn.com/2024/05/21/empresarios-venezolanos-incentivos-ley-pensiones-gobierno-maduro-orix",
+      "titulo": "Empresarios venezolanos piden incentivos para cumplir con la ley de pensiones aprobada por el Gobierno de Maduro",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/cinco-preocupaciones-nueva-ley-pensiones/",
+      "titulo": "Cinco preocupaciones sobre la nueva Ley de Pensiones │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/noticias/presidente-nicolas-maduro-promulga-ley-para-proteccion-de-las-pensiones",
+      "titulo": "Presidente Nicolás Maduro promulga Ley para Protección de las Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://runrun.es/noticias/558879/aumenta-el-monto-del-bono-de-guerra-economica-pero-las-pensiones-se-mantienen-en-bs-130/",
+      "titulo": "Aumenta el monto del \"bono de guerra económica\" pero las pensiones se mantienen en Bs. 130 - Runrun.es: En defensa de tus derechos humanos",
+      "citada": true
+    },
+    {
+      "url": "https://www.elnacional.com/2024/05/ley-de-pensiones-se-aprobo-sin-incluir-recomendaciones-de-fedecamaras/",
+      "titulo": "Ley de Pensiones se aprobó sin incluir recomendaciones de Fedecámaras - EL NACIONAL",
+      "citada": true
+    }
+  ]
+}

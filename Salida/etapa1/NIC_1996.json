@@ -1,0 +1,249 @@
+{
+  "id": "NIC_1996",
+  "iso": "NIC",
+  "pais": "Nicaragua",
+  "anio": 1996,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3289,
+  "incompleto": false,
+  "norma": "Ley No. 185, Código del Trabajo (aprobada 1996-09-05; La Gaceta No. 205, 1996-10-30)",
+  "texto": "# Informe de investigación: Nicaragua, 1996. Ley No. 185, Código del Trabajo\n\n**Resumen:** Las fuentes respaldan una orientación sobre todo **protectora**, con la mayor fuerza en lo colectivo y en las protecciones para la trabajadora embarazada y el trabajo adolescente. Es tentativo: no localicé la exposición de motivos ni un análisis artículo por artículo frente al código de 1945. El estado de vigencia probable es `modificada_o_derogada_despues`.\n\n## 1. Objetivo declarado\n\nNo localicé la exposición de motivos ni discursos oficiales. Lo más cercano son los principios del propio texto. El código declara que el trabajo es un derecho, una responsabilidad social y goza de la especial protección del Estado, y que el Estado procurará la ocupación plena y productiva de todos los nicaragüenses. Según su artículo 1, regula las relaciones de trabajo estableciendo los derechos y deberes mínimos de empleadores y trabajadores.\n\nSobre cómo se elaboró, un estudio académico de Cornell afirma que fue aprobado mediante un consenso entre representantes de empleadores y trabajadores, con apoyo del gobierno. No hallé una declaración gubernamental directa, así que el objetivo declarado queda como **no verificado en fuente primaria**.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**derechos_colectivos_sindicales (aumenta).** Es el núcleo del cambio frente al código anterior. Según NATLEX:\n- disminuyen las funciones del Ministerio de Trabajo para constituir y reconocer sindicatos;\n- se reduce el número de trabajadores necesario para constituir un sindicato;\n- se simplifica el procedimiento para interponer pliego de peticiones y ejercer el derecho de huelga.\n\nEl texto añade otras garantías:\n- los sindicatos no estarán sometidos a otros requisitos para su constitución y funcionamiento que los establecidos en este Código;\n- todo empleador con trabajadores sindicalizados está obligado a negociar con ellos una convención colectiva cuando se lo soliciten;\n- quienes notifican al Ministerio su voluntad de sindicalizarse gozan de protección del Estado contra el despido injustificado y el traslado sin motivo real;\n- mientras dure la huelga, el empleador no puede contratar nuevos trabajadores.\n\nEl código también fija límites:\n- la huelga debe ser acordada por la mayoría de los trabajadores;\n- toda huelga que no cumpla los requisitos, así como la toma de empresas, es ilegal y debe declararla así la Inspectoría General del Trabajo;\n- si la huelga es ilegal, el empleador puede dar por terminados los contratos de quienes continúen en huelga.\n\nAdemás, el código reconoce que los trabajadores pueden participar, a través de sus organizaciones, en la gestión de empresas privadas, instituciones autónomas y empresas estatales (podría ir en `otro`).\n\n**despido_e_indemnizacion (reorganiza; posible inclinación protectora, sin comparación verificada).**\n- No se exige causa para despedir, pero tiene costo: si el empleador rescinde un contrato indefinido sin causa justificada, debe pagar una indemnización por antigüedad, con un tope.\n- Hay reintegro cuando el despido viola disposiciones prohibitivas, restringe derechos o es represalia por ejercer derechos laborales o sindicales. Si el empleador incumple el reintegro, la indemnización se agrava.\n- El despido por causa justa requiere autorización previa del Inspector Departamental del Trabajo, quien debe dar audiencia al trabajador.\n- La renuncia o el mutuo acuerdo no afectan el derecho del trabajador a la indemnización por antigüedad.\n- Un blog jurídico afirma que el código anterior permitía despedir por \"reestructuración\". Es una fuente débil y no lo pude contrastar, así que no lo considero verificado.\n\n**contratacion_temporal (efecto no determinable).** El contrato se presume por tiempo indeterminado, salvo excepciones como el plazo convenido o la obra determinada. No pude comparar esto con el régimen de 1945. Un estudio posterior describe que en la práctica se recurre a contratos cortos y encadenados para evitar obligaciones; eso es efecto práctico, no contenido normativo.\n\n**tercerizacion_subcontratacion (aumenta, moderado).** Contratistas, subcontratistas y empresas que contratan trabajadores para obras en beneficio de terceros, con elementos propios, tienen carácter de empleadores. Además, quien contrata a través de intermediarios responde por los riesgos profesionales de esos trabajadores.\n\n**genero_y_conciliacion (aumenta).** Se amplía la protección a la trabajadora embarazada, según NATLEX. El código también garantiza igualdad de trato y oportunidades y prohíbe toda forma de discriminación.\n\n**empleo_juvenil_y_aprendizaje (aumenta).** Según el Departamento de Estado de EE. UU., el nuevo código elevó la edad mínima para trabajar con permiso de los padres, limitó la jornada de los menores y prohibió para ellos el trabajo nocturno. Es una fuente gubernamental extranjera (rango 3–4); el texto oficial vigente lo confirma, pero en su versión ya reformada.\n\n**seguridad_social_y_pensiones (aumenta, en riesgos profesionales).** Si el trabajador no está cubierto por la seguridad social o no fue afiliado, el empleador debe pagar las indemnizaciones por muerte o incapacidad. A la vez, en pequeñas empresas o servicio doméstico, el juez o inspector puede fijar una indemnización menor que la legal, una matización a favor de las mipymes.\n\n**jornada_y_horas_extra (sin cambio verificado).** El código mantiene la jornada constitucional. Las horas extra tienen recargo y la jornada en centros insalubres es reducida y no admite horas extra. No pude establecer si esto difiere del régimen anterior.\n\n**justicia_laboral_e_inspeccion (reorganiza).** El Libro Segundo regulaba el procedimiento laboral. Un estudio señala que el código no prevé un procedimiento administrativo para que los inspectores resuelvan solicitudes de despido por causa justa, lo que dificulta el debido proceso. Esto parece contradecir la autorización previa del Inspector citada arriba y merece revisión.\n\n**otro.** El código exige contratar una mayoría de trabajadores nicaragüenses; el Ministerio puede exceptuar a algunos empleadores por razones técnicas.\n\n## 3. Población objetivo\n\n`asalariados_formales` (principal), `mujeres`, `jovenes` y `general`. `empleadores_mipymes` aparece solo de forma marginal, por la cláusula de riesgos profesionales. No pude confirmar si el código cubre al `sector_publico`.\n\n## 4. Contexto político y económico\n\nCuando el gobierno de Chamorro asumió en 1990 terminó la guerra civil y se inició un proceso de reforma estructural. Ese gobierno heredó una deuda elevada del régimen sandinista y la renegoció. Un dato relevante del proceso legislativo: el texto indica que la Asamblea Nacional aprobó el código el veintiocho de octubre de mil novecientos noventa y cuatro y que contiene el veto de la Presidenta, aceptado después. La tramitación duró, por tanto, unos dos años. El contexto electoral de 1996 no lo verifiqué (**sin fuente**).\n\n## 5. ¿Revierte una reforma previa?\n\nNo. Sustituye un código de la etapa somocista: el primer Código del Trabajo se creó durante la dictadura de Somoza García. El texto deroga expresamente el decreto del código anterior, sus reformas y sus reglamentos. No es una contrarreforma: `revierte_reforma_previa` = false.\n\nHay una discrepancia menor sobre el año del código anterior: el estudio de Cornell dice 1944 y la cláusula derogatoria remite al decreto de 1945.\n\n## 6. Fecha de entrada en vigor\n\nEl código entra en vigor sesenta días después de su publicación en La Gaceta. Contando desde el 1996-10-30, eso coincide con la fecha que da NATLEX, **1996-12-29**. Hay fuentes en conflicto: el Departamento de Estado dice que entró en vigor en noviembre de 1996, y una guía no académica dice 1997-01-01. Prevalece NATLEX porque es consistente con el texto oficial.\n\nNo encontré aplicación escalonada de partes clave: `vigencia_escalonada` = false. La expedición y la vigencia caen en el mismo año de la base.\n\n## 7. Estado de vigencia posterior\n\nReformas identificadas:\n- **Ley No. 815 de 2012:** derogó los Títulos I al V del Libro Segundo, Derecho Procesal del Trabajo, de la Ley n.º 185, y entró en vigor de forma diferida tras su publicación.\n- **Título VI (trabajo de niños, niñas y adolescentes):** fue reformado (la Ley 474 de 2003, según el informe previo).\n- **Ley 442:** interpretación auténtica del artículo 236.\n\n**Fallos judiciales:** no encontré ninguna sentencia que anulara o suspendiera partes del código. Un amparo de 2018 de la Sala Constitucional reafirmó los beneficios del código como garantías mínimas y la interpretación más favorable al trabajador. Ese fallo amplía la protección y no recorta la reforma, así que no cambia la categoría.\n\n**Observación de la OIT:** en el marco del Convenio 87, la OIT recomendó modificar artículos del código. El Estado nicaragüense lo rechazó invocando soberanía. Es contexto, no anulación.\n\n→ **`modificada_o_derogada_despues`**. El derecho sustantivo sigue esencialmente vigente.\n\n## 8. Lo que no pude verificar\n\n- La exposición de motivos y el objetivo gubernamental declarado.\n- Una comparación artículo por artículo con el código de 1945 en despido, temporalidad y jornada.\n- El texto de la Ley 474 y de la Ley 442.\n- Si hubo recursos de inconstitucionalidad contra la Ley 185.\n- La fecha exacta de vigencia (hay conflicto entre fuentes).\n- Si el código cubre a los servidores públicos.\n\nComo varias dimensiones no se pudieron contrastar con el código anterior, convendría etiquetar la caracterización como `mixta` o `protectora` con confianza media en el contenido, aunque la identificación de la norma tiene confianza alta.",
+  "fuentes": [
+    {
+      "url": "http://legislacion.asamblea.gob.ni/Normaweb.nsf/($All)/FA251B3C54F5BAEF062571C40055736C",
+      "titulo": "Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=45784",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 185 por la que se dicta el Código del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/1996/09/05/185",
+      "titulo": "Ley 185/1996, de 5 de septiembre, del Código del Trabajo - Diccionario panshipánico del español jurídico - RAE",
+      "citada": true
+    },
+    {
+      "url": "https://www.serviciocontablenicaragua.com/codigo-del-trabajo-ley-185/",
+      "titulo": "CODIGO DEL TRABAJO (Ley 185) - GCH Accounting Firm.",
+      "citada": true
+    },
+    {
+      "url": "https://nicatributos.com/codigo-del-trabajo/",
+      "titulo": "Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.saltra.una.ac.cr/images/SALTRA/Documentacion/Compendio_Normativa/Codigo_del_trabajo_NIC.pdf",
+      "titulo": "LEY No. 185 “CODIGO DEL TRABAJO”",
+      "citada": true
+    },
+    {
+      "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/16a196fa-75f5-490a-9921-52c304e6214f/content",
+      "titulo": "“Flexibility”: The Labor Strategy of Free Trade",
+      "citada": true
+    },
+    {
+      "url": "https://1997-2001.state.gov/issues/economic/trade_reports/latin_america96/nicaragua96.html",
+      "titulo": "Nicaragua:Economic Policy and Trade Practices Report (1996)",
+      "citada": true
+    },
+    {
+      "url": "https://1997-2001.state.gov/issues/economic/trade_reports/1999/nicaragua.html",
+      "titulo": "U.S. Department of State, Country Reports on Economic Policy and Trade Practices for 1999: Nicaragua",
+      "citada": true
+    },
+    {
+      "url": "http://aisgut.web.wesleyan.edu/papers/nicaragua.pdf",
+      "titulo": "Wesleyan",
+      "citada": true
+    },
+    {
+      "url": "https://www.law.cornell.edu/gender-justice/resource/C%C3%B3digo_del_Trabajo_de_Nicaragua_1996",
+      "titulo": "Código del Trabajo de Nicaragua (1996)",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1996_codtrabajo_nic.pdf",
+      "titulo": "Nicaragua. Código del Trabajo NICARAGUA Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/gacetas/1996/10/g205.pdf",
+      "titulo": "REPUBLICA DE NICARAGUA AMERICA CENTRAL LA GACETA DIARIO OFICIAL",
+      "citada": true
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/2012/10/30/815",
+      "titulo": "Ley 815/2012, de 30 de octubre, del Código Procesal del Trabajo y de la Seguridad Social de Nicaragua - Diccionario panshipánico del español jurídico - RAE",
+      "citada": true
+    },
+    {
+      "url": "http://www.mitrab.gob.ni/documentos/publicaciones/cod_trab_rubr.pdf",
+      "titulo": "ley núm. 185, código del trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://desc.scjn.gob.mx/recurso-de-amparo-sentencia-no-282",
+      "titulo": "Recurso de amparo. Sentencia No. 282",
+      "citada": true
+    },
+    {
+      "url": "https://www.ineter.gob.ni/wp-content/uploads/2024/11/Codigo-del-Trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO ( CON SUS REFORMAS, ADICIONES E INTERPRETACIÓN AUTENTICA)",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/derechos-del-trabajador/derechos-laborales-en-nicaragua/",
+      "titulo": "Derechos Laborales en Nicaragua 2026",
+      "citada": false
+    },
+    {
+      "url": "https://ecommons.cornell.edu/bitstreams/16a196fa-75f5-490a-9921-52c304e6214f/download",
+      "titulo": "An Examination of Six Basic Labor Rights in Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://www.americasquarterly.org/article/the-journalist-daniel-ortega-couldnt-silence/",
+      "titulo": "The Journalist Daniel Ortega Couldn’t Silence",
+      "citada": false
+    },
+    {
+      "url": "https://wageindicator.org/labour-laws/labour-law-around-the-world/minimum-wages-regulations/minimum-wages-regulations-nicaragua",
+      "titulo": "Salary, Minimum Wage, Regular Pay - Nicaragua - WageIndicator.org - WageIndicator.org",
+      "citada": false
+    },
+    {
+      "url": "https://expatguidenicaragua.com/archives/17532/notes-on-the-nicaraguan-labor-code/",
+      "titulo": "Notes On The Nicaraguan Labor Code - Nicaragua Expat Guide - Nicaragua Expat Guide",
+      "citada": false
+    },
+    {
+      "url": "https://ccpn-ni.org/sites/default/files/publicaciones/SEMBICL.pdf",
+      "titulo": "Colegio de Contadores Públicos de Nicaragua - CCPN",
+      "citada": false
+    },
+    {
+      "url": "https://djdarce.wordpress.com/2014/01/28/sobre-el-articulo-45-del-codigo-del-trabajo-de-nicaragua/",
+      "titulo": "Sobre el Artículo 45 del Código del Trabajo de Nicaragua.",
+      "citada": false
+    },
+    {
+      "url": "https://www.gchnicaragua.com/errores-comunes-al-despedir-a-un-trabajador-en-nicaragua",
+      "titulo": "Errores comunes al despedir a un trabajador en Nicaragua - GCH LAW FIRM, S.A.",
+      "citada": false
+    },
+    {
+      "url": "https://delepesoasuspesos.com/finanzas-personales/13038-como-calcular-liquidacion-laboral-en-nicaragua",
+      "titulo": "Cómo se calcula liquidación laboral en Nicaragua - Dele Peso a sus Pesos",
+      "citada": false
+    },
+    {
+      "url": "https://oterovidaurre.com/blog/derechos-trabajador-despido-nicaragua",
+      "titulo": "Despido Injustificado en Nicaragua: 7 Derechos que Todo Trabajador Debe Conocer",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=91965",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 815 de Código Procesal del Trabajo y de la Seguridad Social.",
+      "citada": false
+    },
+    {
+      "url": "https://catalogosiidca.csuca.org/Record/UNANM.139/Description",
+      "titulo": "Description: [Ley N° 815] : Código procesal del trabajo y de la seguridad social de Nicaragua :: Catálogo SIIDCA-CSUCA",
+      "citada": false
+    },
+    {
+      "url": "https://www.monografias.com/trabajos101/analisis-comparativo-ley-185-y-ley-815-del-procedimiento-laboral-nicaraguense/analisis-comparativo-ley-185-y-ley-815-del-procedimiento-laboral-nicaraguense",
+      "titulo": "Análisis Comparativo Ley 185 y Ley 815 del Procedimiento Laboral Nicaragüense",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambitojuridico.com/noticias/laboral/tributario-y-contable/extra-este-es-el-nuevo-codigo-procesal-del-trabajo",
+      "titulo": "EXTRA: Este es el nuevo Código Procesal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.unan.edu.ni/id/eprint/475/",
+      "titulo": "Análisis de los principios procesales del trabajo establecidos en el Código Procesal del Trabajo y la Seguridad Social de Nicaragua Ley 815 - Repositorio Institucional UNAN-Managua",
+      "citada": false
+    },
+    {
+      "url": "https://www.laprensani.com/2013/06/14/opinion/150760-codigo-procesal-del-trabajo",
+      "titulo": "Código Procesal del Trabajo - La Prensa",
+      "citada": false
+    },
+    {
+      "url": "https://ni.vlex.com/vid/codigo-procesal-trabajo-seguridad-706339129",
+      "titulo": "Código Procesal del Trabajo y de la Seguridad Social de Nicaragua (Ley n° 815) - vLex Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "http://www.mitrab.gob.ni/documentos/leyes/Ley185Nic.pdf/view",
+      "titulo": "Ley No. 185 — Ministerio del Trabajo Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/news/nicaragua-aprueba-trascendental-codigo-procesal-del-trabajo",
+      "titulo": "Nicaragua aprueba trascendental Código Procesal del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://noticias.asamblea.gob.ni/codigo-procesal-del-trabajo-aprobado-en-lo-general/",
+      "titulo": "CÓDIGO PROCESAL DEL TRABAJO APROBADO EN LO GENERAL",
+      "citada": false
+    },
+    {
+      "url": "https://wageindicator.org/es-ni/trabajo-en-nicaragua/leyes-laborales/sindicatos/",
+      "titulo": "Sindicatos, Negociación colectiva, Convenios Colectivos - Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/media/561121/download",
+      "titulo": "CAN/PV.5 (Nicaragua / C.87)",
+      "citada": false
+    },
+    {
+      "url": "https://hrlibrary.umn.edu/research/nicaragua-constitution.html",
+      "titulo": "constitucion de nicaragua 1987",
+      "citada": false
+    },
+    {
+      "url": "https://desc.scjn.gob.mx/sites/default/files/2020-05/NIC28-Sentencia.pdf",
+      "titulo": "Centro Especializado de Documentación, Investigación e Información Judicial",
+      "citada": false
+    },
+    {
+      "url": "https://ni.vlex.com/vid/codigo-trabajo-706211593",
+      "titulo": "Código del Trabajo (Ley n° 185) - vLex Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/5973552.pdf",
+      "titulo": "121 Jurisprudencia Nicaragua Fernando Malespín Martínez fermalma@yahoo.com",
+      "citada": false
+    },
+    {
+      "url": "https://www.leybook.com/doc/1371",
+      "titulo": "Leybook - CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA",
+      "citada": false
+    },
+    {
+      "url": "http://www.chiongyasociados.com/wp-content/uploads/2013/01/Ley-No-815-C%C3%B3digo-Procesal-del-Trabajo-y-de-la-Seguridad-Social-de-Nicaragua.pdf",
+      "titulo": "1/48 El Presidente de la República de Nicaragua A sus habitantes, Sabed: Que,",
+      "citada": false
+    },
+    {
+      "url": "https://e-revistas.uc3m.es/index.php/CDT/article/download/8457/6547/",
+      "titulo": "Cuadernos de Derecho Transnacional (Marzo 2024), Vol. 16, Nº 1, pp. 930-953",
+      "citada": false
+    },
+    {
+      "url": "https://cam.gob.ni/wp-content/uploads/2023/12/9.-LEY-815-CODIGO-PROCESAL-DEL-TRABAJO-Y-DE-LA-SEGURUDAD-SOCIAL-DE-NICARAGUA.pdf",
+      "titulo": "LA GACETA - DIARIO OFICIAL 9696 29-11-12 229 ASAMBLEA NACIONAL",
+      "citada": false
+    }
+  ]
+}

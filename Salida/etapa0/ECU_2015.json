@@ -1,0 +1,111 @@
+{
+  "id": "ECU_2015",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2015,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.123,
+  "incompleto": false,
+  "norma_propuesta": "Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar (Registro Oficial, Tercer Suplemento N.º 483, 20 de abril de 2015)",
+  "otras": "Enmiendas a la Constitución de la República del Ecuador (Registro Oficial, Suplemento N.º 653, 21 de diciembre de 2015) – componente laboral sobre el régimen de los trabajadores del sector público y la contratación colectiva",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Ecuador en 2015 es la **Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar**. Se publicó en el R.O. 483, Tercer Suplemento, del 20-04-2015. La Función Legislativa la discutió y aprobó en primer debate el 29 de diciembre de 2014 y el 6 de enero de 2015, y en segundo debate el 14 de abril de 2015.\n\n**Qué es.** Es una ley de alcance amplio. Su capítulo I reforma el Código del Trabajo. Entre otras cosas, define el contrato individual a tiempo indefinido como la modalidad típica de la contratación laboral estable o permanente y regula el período de prueba. También pone un tope a las utilidades que se reparten a los trabajadores, elimina el desahucio en varias disposiciones y refuerza la protección de los dirigentes sindicales: su despido intempestivo será considerado ineficaz. Además, reforma la Ley de Seguridad Social para cubrir a quien hace trabajo no remunerado del hogar contra las contingencias de vejez, muerte e invalidez.\n\n**Por qué la elijo.** El texto aparece en fuentes oficiales: el Registro Oficial alojado por la Asamblea Nacional, el Ministerio del Trabajo y el portal gob.ec, que la clasifica como Laboral y seguridad social. Es la norma de 2015 que más cambia el mercado laboral privado. No pude revisar NATLEX ni EPLex.\n\n**Otra candidata descartada como principal.** Las **Enmiendas a la Constitución** (Suplemento del R.O. 653, 21-XII-2015) tienen un componente laboral importante, pero más acotado. Los trabajadores de entidades públicas que estaban regulados por el Código del Trabajo pasaron a regirse por la Ley Orgánica de Servicio Público, y la contratación colectiva quedó solo para el sector privado. Las descarto como principales porque son un paquete constitucional sobre muchos temas, su efecto laboral se limita al sector público y llegaron casi a fin de año. Además, una fuente académica indica que la Corte Constitucional, en la sentencia N.º 018-18-SIN-CC, declaró inconstitucionales algunas de las enmiendas constitucionales del año 2015. Las registro en OTRAS.\n\n**Notas para la siguiente etapa:**\n- **Vigencia escalonada.** La ley rige desde su publicación, pero la reforma del Artículo 15 de esta Ley entrará en vigor a partir del 1 de enero del 2016. Además, los contratos a plazo fijo ya firmados siguieron con las reglas anteriores, en algunos casos hasta el 01 de enero de 2016.\n- **Estado de vigencia por verificar.** La versión del Ministerio del Trabajo cita una resolución de la Corte Constitucional (E.C. 40, 16-IV-2018) según la cual el artículo 15 de la Ley Orgánica de Justicia Laboral y Reconocimiento del Trabajo en el Hogar no se encuentra vigente. Falta confirmar cuál es la disposición afectada y si es un componente central de la reforma.\n- **Descartada por año.** Hay una ley posterior sobre trabajo juvenil, jornada y seguro de desempleo que, sin fuente consultada, ubico en 2016 y no en 2015. Por eso no la incluyo.\n\nNORMA: Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar (Registro Oficial, Tercer Suplemento N.º 483, 20 de abril de 2015)\nOTRAS: Enmiendas a la Constitución de la República del Ecuador (Registro Oficial, Suplemento N.º 653, 21 de diciembre de 2015) – componente laboral sobre el régimen de los trabajadores del sector público y la contratación colectiva\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.asambleanacional.gob.ec/es/system/files/ro_ley_organica_para_la_justicia_laboral_y_reconocimiento_del_trabajo_en_el_hogar_ro_3er_supl_20-04-2015.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN EL HOGAR",
+      "citada": true
+    },
+    {
+      "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2015/05/LEY-ORGANICA-PARA-LA-JUSTICIA-LABORAL-Y-RECONOCIMIENTO-DEL-TRABAJO-EN-EL-HOGAR.pdf",
+      "titulo": "LEY ORGANICA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN HOGAR Ley 0",
+      "citada": true
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/39030-ley-organica-para-la-justicia-laboral-y",
+      "titulo": "Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar (T195798)",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/LEY_ORGANICA_PARA_LA_JUSTICIA_LABORAL.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y …",
+      "citada": true
+    },
+    {
+      "url": "https://www.gob.ec/regulaciones/ley-organica-justicia-laboral-reconocimiento-trabajo-hogar",
+      "titulo": "LEY ORGANICA PARA LA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN EL HOGAR",
+      "citada": true
+    },
+    {
+      "url": "https://dspace.ueb.edu.ec/items/310209f3-1ab6-4eb9-a28a-65b3d82b4478",
+      "titulo": "Situación jurídica de los obreros del GAD Municipal del Cantón Chimbo luego de la aprobación de las enmiendas constitucionales de diciembre del año 2015.",
+      "citada": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/400251316_Las_enmiendas_constitucionales_de_2015_y_su_impacto_en_la_estabilidad_democratica_en_el_Ecuador",
+      "titulo": "(PDF) Las enmiendas constitucionales de 2015 y su impacto en la estabilidad democrática en el Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.defensoria.gob.ec/handle/37000/3403",
+      "titulo": "Defensoría Pública del Ecuador - Biblioteca digital: Ley Orgánica para la Justicia Laboral y reconocimiento del trabajo en el hogar (Última Reforma 16-04-2018)",
+      "citada": false
+    },
+    {
+      "url": "https://www.emapasr.gob.ec/htm/archivos/LOTAIP_2024/mayo/link/LEY%20ORG%C3%81NICA%20DE%20JUSTICIA%20LABORAL.pdf",
+      "titulo": "LEY ORGÁNICA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN HOGAR Ley 0",
+      "citada": false
+    },
+    {
+      "url": "https://www.elecaustro.gob.ec/jdownloads/Rendicion%20de%20Cuentas/ley-organica-para-la-justicia-laboral-y-reconocimiento-del-trabajo-en-el-hogar.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN EL HOGAR",
+      "citada": false
+    },
+    {
+      "url": "https://corralbarrigaabogados.wordpress.com/2015/12/10/reformas-al-codigo-del-trabajo/",
+      "titulo": "REFORMAS AL CÓDIGO DEL TRABAJO |",
+      "citada": false
+    },
+    {
+      "url": "https://www.mondaq.com/employee-rights-labour-relations/525648/",
+      "titulo": "Reformas al Código del Trabajo - Employee Rights/ Labour Relations - Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.institutopesca.gob.ec/wp-content/uploads/2016/04/ENMIENDAS-A-LA-CONSTITUCION-DE-LA-REPUBLICA-DEL-ECUADOR.pdf",
+      "titulo": "ENMIENDA S/N (ENMIENDAS A LA CONSTITUCIÓN DE LA REPÚBLICA DEL ECUADOR)",
+      "citada": false
+    },
+    {
+      "url": "https://www.superbancos.gob.ec/bancos/wp-content/uploads/downloads/2017/06/Enmiendas_constitucion.pdf",
+      "titulo": "Superbancos",
+      "citada": false
+    },
+    {
+      "url": "https://dspace-test.ucuenca.edu.ec/bitstream/123456789/34795/1/Trabajo%20de%20Titulaci%C3%B3n.pdf",
+      "titulo": "Facultad de Jurisprudencia y Ciencias Políticas y Sociales",
+      "citada": false
+    },
+    {
+      "url": "https://uprdoc.ohchr.org/uprweb/downloadfile.aspx?filename=4031&file=Annexe1",
+      "titulo": "SUMARIO: Págs. FUNCIÓN LEGISLATIVA asamblea nacional: -",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.ec/vid/relacion-laboral-empresas-publicas-845036399",
+      "titulo": "Relación laboral en las empresas públicas - vLex Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://eljuegodelacorte.nexos.com.mx/ecuador-y-sus-enmiendas-constitucionales-antidemocraticas/",
+      "titulo": "Ecuador y sus enmiendas constitucionales antidemocráticas",
+      "citada": false
+    },
+    {
+      "url": "https://www.congope.gob.ec/wp-content/uploads/2024/12/001-18-DRC-CC_Aprobacion-de-Enmiendas.pdf",
+      "titulo": "Corte Constitucional del ecuador Quito, D. M., 20 de junio de 2018",
+      "citada": false
+    }
+  ]
+}

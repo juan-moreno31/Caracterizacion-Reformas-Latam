@@ -1,0 +1,314 @@
+{
+  "id": "BRA_2017",
+  "iso": "BRA",
+  "pais": "Brasil",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.4264,
+  "incompleto": false,
+  "norma": "Lei nº 13.467, de 13 de julho de 2017",
+  "texto": "# Informe de investigación: BRA 2017, Lei nº 13.467, de 13 de julho de 2017 (Reforma Trabalhista)\n\n**Advertencia sobre fuentes.** No pude consultar en esta etapa el texto consolidado del Planalto ni NATLEX/EPLex. El contenido material se basa en fuentes de tres tipos. Las de mayor jerarquía son el STF, el TST, el TRT-3 y el dictamen de la Comisión Especial de la Cámara. Luego vienen artículos académicos. Por último hay portales jurídicos secundarios, como Jusbrasil o despachos, que señalo cuando son la única fuente. El portal de la CNI es una parte interesada del lado empleador.\n\n## 1. Objetivo declarado\n\nLa reforma nació del PL 6.787/2016, de iniciativa del Poder Ejecutivo, que fue llevado a la Cámara de Diputados a fines de 2016. El ministro de Trabajo Ronaldo Nogueira, que firmó la exposición de motivos, sostuvo que los pactos colectivos \"vem tendo a sua autonomia questionada judicialmente, trazendo insegurança jurídica às partes quanto ao que foi negociado\". El dictamen del relator en la Comisión Especial afirma la \"plena convicção de que essa reforma contribuirá para gerar mais empregos formais e para movimentar a economia\". También declara la intención de disciplinar en la CLT las nuevas modalidades de contratación derivadas de las innovaciones tecnológicas, como el contrato intermitente y el teletrabajo.\n\nEl discurso oficial tuvo así tres ejes: modernizar la CLT, dar seguridad jurídica a los empleadores y crear empleo formal. El Ministerio Público del Trabajo lo rebatió. Su nota técnica sostuvo que la reforma no reduce la inseguridad jurídica, no incentiva la creación de empleos y viola principios y normas constitucionales.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**derechos_colectivos_sindicales: reduce.**\n- La ley consagró la prevalencia de lo negociado sobre lo legislado. Fijó límites expresos para la negociación colectiva, con una lista de derechos que no pueden suprimirse, y puso fin a la ultraactividad de las cláusulas colectivas.\n- Los acuerdos que supriman cláusulas no necesitan prever contrapartidas (fuente secundaria): \"Estes acordos não precisarão prever contrapartidas para um item acordado.\"\n- La contribución sindical pasó a ser facultativa. Su descuento queda condicionado a la autorización previa y expresa del trabajador.\n\n**salario_y_negociacion_salarial: reduce.** El art. 611-A permite que el convenio negocie el plan de cargos y salarios, entre otras materias (fuente secundaria): jornada, banco de horas, plan de cargos y salarios o teletrabajo pueden ajustarse entre empresa y sindicato aunque difieran de la CLT.\n\n**jornada_y_horas_extra: reduce.**\n- Las horas de desplazamiento (\"in itinere\") dejaron de computarse en la jornada: la ley excluyó las horas in itinere del cómputo de la jornada y actualizó las reglas de compensación y banco de horas.\n- El banco de horas puede pactarse por acuerdo individual. El régimen de turnos 12×36 se formalizó en el art. 59-A (fuente secundaria): banco de horas individual.\n- El intervalo intrajornada pasó a ser negociable por convenio.\n\n**nuevas_formas_de_trabajo: reduce.**\n- Se creó el trabajo intermitente, definido como aquel en que la prestación con subordinación no es continua y alterna períodos de prestación de servicios y de inactividad.\n- Se creó un capítulo de teletrabajo. La ley lo excluyó del capítulo sobre cumplimiento y control de jornada.\n- Los costos de equipos se rigen por contrato escrito, lo que permite trasladarlos al trabajador (fuente secundaria).\n\nNota de codificación: el trabajo intermitente también podría codificarse en `contratacion_temporal`. Sugiero dejarlo en `nuevas_formas_de_trabajo` y explicarlo en el comentario.\n\n**tercerizacion_subcontratacion: reduce.** La ley reformó la Lei 6.019/1974 y pasó a permitir la tercerización de la actividad-fin, además de la actividad-medio. Lo hizo complementando la Lei 13.429/2017, que conviene mantener en `normas_relacionadas`.\n\n**despido_e_indemnizacion: reduce.**\n- Se creó la extinción del contrato por mutuo acuerdo, con verbas pagadas por la mitad en lo relativo al aviso previo indemnizado y a la indemnización sobre el FGTS.\n- Se eliminó la homologación sindical obligatoria de las rescisiones.\n- Los despidos masivos ya no requieren concordancia sindical (fuente secundaria): la demisión en masa excluye la concordancia del sindicato.\n\n**justicia_laboral_e_inspeccion: reduce.**\n- Se introdujeron honorarios de sucumbencia y la responsabilidad del beneficiario de justicia gratuita por honorarios periciales y de abogado.\n- La indemnización por daño extrapatrimonial quedó sujeta a tarifas.\n- Se creó la homologación de acuerdos extrajudiciales.\n- El fiscal general Janot describió el \"declarado objetivo de reduzir o número de demandas na justiça\".\n\n**genero_y_conciliacion: reduce.** La ley permitió que gestantes y lactantes trabajaran en ambientes insalubres salvo presentación de un certificado médico. Fue anulado después (ver sección 7).\n\n**seguridad_social_y_pensiones y formalizacion_y_mipymes: no verificado.** La ley altera las Leis 8.036/1990 (FGTS) y 8.212/1991, pero no verifiqué el contenido de esos cambios. La exposición de motivos proponía actualizar las multas por falta de registro como medida contra la informalidad (tesis UFPB). No confirmé que esa disposición figure en el texto final.\n\n**Orientación general sugerida:** `flexibilizadora`.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: es la población principal.\n- `empleadores_mipymes`: los defensores invocaron el beneficio a pequeñas y medianas empresas, según la crítica presentada en audiencia pública.\n- `mujeres`: por la disposición sobre gestantes.\n- `informales`: es población objetivo declarada. El dictamen afirma que la rigidez de la CLT deja al margen de la cobertura legal a los desempleados y a los trabajadores informales. Es una intención, no un efecto verificado.\n\n## 4. Contexto político y económico\n\nLa reforma fue propuesta en el gobierno de Michel Temer, en un contexto de fuerte crisis económica y política. El gobierno la presentó como una forma de combatir la crisis económica y el desempleo.\n\n- La aprobó en pocos meses después de la Lei 13.429/2017 sobre tercerización. La FIEP señalaba que, ya sancionada la tercerización, la Cámara se volcaba a la reforma laboral.\n- *Sin fuente en esta etapa:* la llegada de Temer tras el impeachment de Dilma Rousseff (2016) y la recesión de 2015-2016. Es contexto conocido, pero no lo verifiqué.\n\n## 5. ¿Revierte una reforma previa?\n\nNo revierte de forma integral ninguna ley anterior. Lo que hace es sobre todo derogar por vía legislativa jurisprudencia del TST, como la Súmula 277 sobre ultraactividad y la Súmula 331 sobre actividad-medio.\n\nHay una excepción parcial que conviene registrar. Sobre gestantes y lactantes, la regla anterior a la reforma exigía apartarlas, durante la gestación y la lactancia, de cualesquiera actividades insalubres. Una fuente secundaria atribuye esa regla a la Lei 13.287/16; habría que confirmarlo en el Planalto. Sugiero `revierte_reforma_previa` = parcial, limitado a ese punto, que además fue anulado después.\n\n## 6. Entrada en vigor\n\n- La fecha es 2017-11-11, según el informe de identificación.\n- No hay aplicación escalonada de partes clave: la ley entró en vigor en bloque (`vigencia_escalonada` = false).\n- La MP 808/2017 modificó temporalmente varios artículos entre noviembre de 2017 y abril de 2018. Por ejemplo, invirtió la lógica sobre gestantes y exigió un certificado que autorizara su permanencia. Al caducar, los artículos volvieron a la redacción original.\n- No verifiqué en el Planalto lo relativo a la Lei 13.419/2017 (propinas).\n\n## 7. Estado de vigencia posterior\n\n**Modificaciones legislativas.** La Lei 14.442, de 2 de septiembre de 2022, revisó el teletrabajo. Ahora el control de jornada del teletrabajador pasa a ser la regla, y solo queda exceptuado quien presta servicios por producción o tarea. Esto revierte un componente de la reforma en sentido protector.\n\n**Fallos que validaron componentes centrales:**\n- **Contribución sindical facultativa.** El STF la declaró constitucional en la ADI 5794, el 29 de junio de 2018 ([portal STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=382819)).\n- **Negociado sobre legislado (Tema 1046, 2 de junio de 2022).** El STF fijó que los convenios que pactan limitaciones o supresiones de derechos laborales, sin necesidad de explicitar ventajas compensatorias, son constitucionales si respetan los derechos absolutamente indisponibles.\n- **Fin de la ultraactividad.** En la ADPF 323 el STF declaró inconstitucional la Súmula 277 del TST.\n- **Trabajo intermitente.** En 2024 los ministros también avalaron la modalidad de trabajo intermitente (ADI 5826, ADI 5829 y ADI 6154).\n- **Tarifas del daño moral.** El STF no las anuló, pero las interpretó como una mera sugerencia que no impide fijar indemnizaciones más altas, si están debidamente motivadas (ADI 6050, 6069 y 6082).\n\n**Fallos que anularon partes:**\n- **ADI 5938 (29 de mayo de 2019).** El STF anuló la expresión que condicionaba el apartamiento de gestantes y lactantes a un certificado médico. Fue el primer dispositivo de la reforma declarado inconstitucional.\n- **ADI 5766 (20 de octubre de 2021).** El STF declaró inconstitucional que el beneficiario de justicia gratuita pague honorarios periciales y de abogado con créditos obtenidos en juicio. Mantuvo el pago de costas por ausencia injustificada a la audiencia (art. 844 §2). En embargos de declaración rechazó la modulación de efectos.\n\n**Clasificación sugerida: `modificada_o_derogada_despues`.** El núcleo de la reforma fue validado por el STF: negociado sobre legislado, contribución sindical, intermitente, ultraactividad y tercerización. Los fallos de las ADI 5938 y 5766 deben ir en `notas`. Advierto un caso límite. La ADI 5766 recortó un instrumento central de la dimensión `justicia_laboral_e_inspeccion`, ligada al objetivo declarado de reducir la litigiosidad. Un codificador estricto podría ver ahí una anulación parcial sustantiva. Conviene fijar un criterio uniforme para la base.\n\n## 8. Pendiente de verificar\n\n- El texto oficial en el Planalto, incluido el art. 6º sobre vigencia.\n- NATLEX/EPLex de la OIT.\n- El contenido de los cambios a las Leis 8.036/1990 y 8.212/1991.\n- Si sobrevivió al texto final la actualización de multas por falta de registro.\n- Lo relativo a la Lei 13.419/2017 (propinas).\n- El estado de otras impugnaciones: régimen 12×36, depósito recursal y homologación extrajudicial.\n- La relación entre la tesis del STF de 2022 que exige intervención sindical previa para el despido masivo y el art. 477-A introducido por la reforma. La fuente no los vincula expresamente.\n- La confirmación de que la regla previa sobre gestantes provenía de la Lei 13.287/2016.",
+  "fuentes": [
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/as-principais-alteracoes-com-o-advento-da-lei-n-13467-2017-reforma-trabalhista/489115348",
+      "titulo": "As principais alterações com o advento da Lei nº 13.467/2017 (Reforma Trabalhista)",
+      "citada": true
+    },
+    {
+      "url": "https://www.revistaft.com/ft/article/view/1033",
+      "titulo": "Reforma trabalhista: principais mudanças, quadro comparativo e críticas.",
+      "citada": true
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/a-reforma-trabalhista-lei-13467-2017-e-seus-efeitos-consolidados/4971815862",
+      "titulo": "A Reforma Trabalhista (Lei 13.467/2017) e Seus Efeitos Consolidados",
+      "citada": true
+    },
+    {
+      "url": "https://vagasebeneficios.com/reforma-trabalhista/",
+      "titulo": "Reforma Trabalhista 2026: o guia completo das mudanças na CLT desde a Lei 13.467/2017 - Vagas e Benefícios",
+      "citada": true
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/publicacoes/detalhe/trabalhista/modernizacao-e-desburocratizacao-trabalhista/5-anos-da-modernizacao-trabalhista-lei-1346717-principais-decisoes-do-stf-sobre-temas-da-reforma/",
+      "titulo": "5 anos da Modernização Trabalhista (Lei 13.467/17): principais decisões do STF sobre temas da reforma - Conexão Trabalho - Uma nova Relação Trabalhista",
+      "citada": true
+    },
+    {
+      "url": "https://www.conteudojuridico.com.br/consulta/Artigos/51771/reforma-trabalhista-mudancas-importantes-da-lei-13-467-2017",
+      "titulo": "Conteúdo Jurídico",
+      "citada": true
+    },
+    {
+      "url": "https://ambitojuridico.com.br/cadernos/direito-do-trabalho/a-reforma-trabalhista-com-o-advento-da-lei-13-467-de-2017/",
+      "titulo": "A Reforma Trabalhista Com o Advento da Lei 13.467 de 2017",
+      "citada": true
+    },
+    {
+      "url": "https://www.projuris.com.br/blog/adi-5766/",
+      "titulo": "ADI 5766: impactos para a advocacia trabalhista",
+      "citada": true
+    },
+    {
+      "url": "https://netcpa.com.br/colunas/noticia-suprema-tera-que-analisar-tres-pontos-importantes-da-reforma-trabalhista/24332",
+      "titulo": "Suprema terá que analisar três pontos importantes da ...",
+      "citada": true
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/media/publication/files/Modernizacao%20Trabalhista%20-%20Observatorio%20do%20STF.pdf",
+      "titulo": "MODERNIZAÇÃO TRABALHISTA: OBSERVATÓRIO DO STF",
+      "citada": true
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/acao-direta-de-inconstitucionalidade-adin-5938/715308547",
+      "titulo": "Ação Direta de Inconstitucionalidade (ADIN 5938)",
+      "citada": true
+    },
+    {
+      "url": "https://diariofiscal.com.br/20mnAomgH5lkQbjZXOOkKIw1r77E9jRjJvJyI13/ctrabase/module_2_85.html",
+      "titulo": "Reforma trabalhista",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1544961&amp=&filename=SBT+1+PL678716+%3D%3E+PL+6787%2F2016",
+      "titulo": "COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER AO PROJETO",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.ufpb.br/jspui/bitstream/123456789/11457/1/RMJP22112017.pdf",
+      "titulo": "UNIVERSIDADE FEDERAL DA PARAÍBA CENTRO DE CIÊNCIAS JURÍDICAS",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.leg.br/noticias/509072-procurador-contesta-argumentos-para-reforma-trabalhista-industria-defende-modernizacao",
+      "titulo": "Procurador contesta argumentos para reforma trabalhista; indústria defende modernização - Portal da Câmara dos Deputados",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.leg.br/noticias/505870-proposta-estabelece-prevalencia-de-acordo-coletivo-sobre-legislacao-trabalhista/",
+      "titulo": "Proposta estabelece prevalência de acordo coletivo sobre legislação trabalhista - Notícias - Portal da Câmara dos Deputados",
+      "citada": true
+    },
+    {
+      "url": "https://www.jorgesoutomaior.com/blog/pl-678716-sobre-um-parecer-de-leigos-para-ignorantes-ou-de-ignorantes-para-leigos",
+      "titulo": "PL 6787/16: sobre um Parecer de leigos para ignorantes; ou de ignorantes para leigos - Jorge Luiz Souto Maior",
+      "citada": true
+    },
+    {
+      "url": "https://portal.trt3.jus.br/internet/jurisprudencia/boletim-de-precedentes-trt-mg/download/36___Boletim_de_Precedentes_Junho_2022.pdf",
+      "titulo": "1046 STF REPERCUSSÃO GERAL ADI, ADC e ADPF",
+      "citada": true
+    },
+    {
+      "url": "https://www.robortella.com.br/tese-firmada-para-o-tema-1046-de-repercussao-geral-celeumas-e-aspectos-praticos-na-aplicacao/",
+      "titulo": "Tese firmada para o tema 1046 de repercussão geral",
+      "citada": true
+    },
+    {
+      "url": "https://fetranscarga.org.br/2022/09/06/lei-14-442-2022-e-as-alteracoes-no-auxilio-alimentacao-e-no-teletrabalho/",
+      "titulo": "Lei 14.442/2022 e as alterações no Auxílio-Alimentação e no Teletrabalho",
+      "citada": true
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/o-teletrabalho-e-as-alteracoes-trazidas-pela-lei-n-13467-2017-reforma-trabalhista/747677502",
+      "titulo": "O teletrabalho e as alterações trazidas pela Lei nº. 13.467/2017 - Reforma Trabalhista",
+      "citada": false
+    },
+    {
+      "url": "https://www.guiatrabalhista.com.br/tematicas/sinopse-reforma-trabalhista.htm",
+      "titulo": "SINOPSE DAS PRINCIPAIS ALTERAÇÕES DA REFORMA TRABALHISTA",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/mudancas-na-reforma-trabalhista-e-seus-impactos/2959655238",
+      "titulo": "Mudanças na Reforma Trabalhista e seus Impactos",
+      "citada": false
+    },
+    {
+      "url": "https://informativos.trilhante.com.br/julgados/stf-adi-5766-df",
+      "titulo": "ADI 5.766-DF - STF",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/busca?q=adi+5766",
+      "titulo": "Adi 5766 - Jurisprudência",
+      "citada": false
+    },
+    {
+      "url": "https://legale.com.br/blog/gratuidade-de-justica-no-trabalho-impactos-e-adi-5766/",
+      "titulo": "Gratuidade de Justiça no Trabalho: Impactos e ADI 5766 - Legale Educacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.cognijus.com/blog/reforma-trabalhista-e-beneficiarios-da-justica-gratuita-adi-5766df-supremo-tribunal-federal-stf",
+      "titulo": "Reforma trabalhista e beneficiários da justiça gratuita",
+      "citada": false
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/noticias/detalhe/trabalhista/-geral/stf-afasta-cobranca-de-honorarios-advocaticios-e-periciais-de-beneficiarios-de-justica-gratuita/",
+      "titulo": "STF afasta cobrança de honorários advocatícios e periciais de beneficiários de justiça gratuita - Conexão Trabalho - Uma nova Relação Trabalhista",
+      "citada": false
+    },
+    {
+      "url": "https://www.conjur.com.br/2021-out-28/pratica-trabalhista-aspectos-praticos-polemicos-decisao-stf-adi-5766/",
+      "titulo": "Aspectos práticos e polêmicos da decisão do STF na ADI 5.766",
+      "citada": false
+    },
+    {
+      "url": "https://juslaboris.tst.jus.br/handle/20.500.12178/230955?show=full",
+      "titulo": "O limite para pagamento dos honorários advocatícios sucumbenciais após a decisão do STF na ADI 5766",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/adi-5766/1303453900",
+      "titulo": "ADI 5766",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/stf/1487363037",
+      "titulo": "Supremo Tribunal Federal STF - AÇÃO DIRETA DE INCONSTITUCIONALIDADE: ADI 5766 DF XXXXX-08.2017.1.00.0000",
+      "citada": false
+    },
+    {
+      "url": "https://www.gazetadopovo.com.br/justica/reforma-trabalhista-stf-inconstitucionalidade-trabalho-intermitente/",
+      "titulo": "Reforma trabalhista: STF julga constitucionalidade do trabalho intermitente",
+      "citada": false
+    },
+    {
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=382819",
+      "titulo": "STF declara constitucionalidade do fim da contribuição sindical obrigatória",
+      "citada": false
+    },
+    {
+      "url": "https://www.migalhas.com.br/depeso/286230/julgamento-stf-de-29-6-18--constitucionalidade-da-contribuicao-sindical",
+      "titulo": "Julgamento STF de 29/6/18: Constitucionalidade da contribuição ...- Migalhas",
+      "citada": false
+    },
+    {
+      "url": "https://www.migalhas.com.br/depeso/310236/reforma-trabalhista---adin-e-adc---lei-13-467-17",
+      "titulo": "Reforma trabalhista - ADIn e ADC - Lei 13.467/17 - Migalhas",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/o-stf-e-a-tarifacao-do-dano-moral-trabalhista/1890702769",
+      "titulo": "O STF e a tarifação do dano moral trabalhista",
+      "citada": false
+    },
+    {
+      "url": "https://legale.com.br/blog/gestante-e-insalubre-art-394-a-clt-e-adi-5938/",
+      "titulo": "Gestante e Insalubre: Art. 394-A CLT e ADI 5938 - Legale Educacional",
+      "citada": false
+    },
+    {
+      "url": "https://www2.camara.leg.br/atividade-legislativa/discursos-e-notas-taquigraficas/discursos-em-destaque/projeto-de-lei-no-6787-2016-reforma-trabalhista/reuniao-0132-17-de-230317",
+      "titulo": "CÂMARA DOS DEPUTADOS DEPARTAMENTO DE TAQUIGRAFIA, REVISÃO E REDAÇÃO",
+      "citada": false
+    },
+    {
+      "url": "https://www.fiepr.org.br/reforma-trabalhista-modernizar-para-gerar-empregos-2-95-340804.shtml",
+      "titulo": "Reforma Trabalhista: modernizar para gerar empregos - Notícias - Fiep",
+      "citada": false
+    },
+    {
+      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/55a-legislatura/pl-6787-16-reforma-trabalhista/documentos/audiencias-publicas/prof-jorge-luiz-souto-maior",
+      "titulo": "1 Vamos falar séria e honestamente sobre a Reforma Trabalhista?",
+      "citada": false
+    },
+    {
+      "url": "https://jus.com.br/artigos/54761/comentarios-artigo-por-artigo-a-proposta-de-reforma-trabalhista-do-governo-temer-pl-6-787-2016",
+      "titulo": "Comentários à proposta de reforma trabalhista do governo Temer (PL 6.787/2016) - Jus.com.br",
+      "citada": false
+    },
+    {
+      "url": "https://www.camara.leg.br/noticias/511958-representantes-da-justica-do-trabalho-sao-contra-proposta-de-reforma-trabalhista",
+      "titulo": "Representantes da Justiça do Trabalho são contra proposta de reforma trabalhista - Portal da Câmara dos Deputados",
+      "citada": false
+    },
+    {
+      "url": "https://revista.tst.jus.br/rtst/article/view/42",
+      "titulo": "Tema 1.046 do STF: o direito fundamental ambiental do trabalho e a impossibilidade de prevalência de negociação coletiva restritiva sobre adicional de insalubridade frente à Súmula 448 do TST",
+      "citada": false
+    },
+    {
+      "url": "https://juslaboris.tst.jus.br/handle/20.500.12178/226274?locale-attribute=pt_BR",
+      "titulo": "A ultratividade das normas coletivas e a incorporação das cláusulas normativas aos contratos individuais de trabalho",
+      "citada": false
+    },
+    {
+      "url": "https://www.migalhas.com.br/coluna/direito-trabalhista-nos-negocios/367862/tese-firmada-para-o-tema-1046-de-repercussao-geral",
+      "titulo": "Tese firmada para o tema 1046 de repercussão geral - Migalhas",
+      "citada": false
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/publicacoes/detalhe/trabalhista/-geral/negociado-sobre-o-legislado-evolucao-e-impactos-da-reforma-trabalhista-e-do-tema-1046-do-stf/",
+      "titulo": "Negociado sobre o legislado: Evolução e Impactos da Reforma Trabalhista e do Tema 1.046 do STF - Conexão Trabalho - Uma nova Relação Trabalhista",
+      "citada": false
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/publicacoes/detalhe/sindical/negociacao-coletiva/negociado-x-legislado-aplicacao-do-tema-1046-de-repercussao-geral-pelo-tst/",
+      "titulo": "Negociado x Legislado: A aplicação do Tema 1046 de Repercussão Geral pelo TST - Conexão Trabalho - Uma nova Relação Trabalhista",
+      "citada": false
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/noticias/detalhe/trabalhista/modernizacao-e-desburocratizacao-trabalhista/stf-reafirma-supremacia-do-negociado-sobre-o-legislado/",
+      "titulo": "STF reafirma supremacia do negociado sobre o legislado - Conexão Trabalho - Uma nova Relação Trabalhista",
+      "citada": false
+    },
+    {
+      "url": "https://silveiro.com.br/negociado-x-legislado-stf-julga-o-tema-da-1046-e-conclui-que-sao-validas-as-convencoes-e-acordos-coletivos-que-limitem-ou-afastem-direitos-trabalhistas/",
+      "titulo": "Negociado x legislado: STF julga o tema da 1046 e conclui que são válidas as Convenções e Acordos Coletivos que limitem ou afastem direitos trabalhistas",
+      "citada": false
+    },
+    {
+      "url": "https://fetracom.org.br/negociado-sobre-o-legislado-nova-decisao-do-stf/",
+      "titulo": "Negociado sobre o legislado: nova decisão do STF - FETRACOM",
+      "citada": false
+    },
+    {
+      "url": "https://escala.app/blog/regras-de-teletrabalho/",
+      "titulo": "Regras de teletrabalho: sancionada a Lei 14.442 - Escala App",
+      "citada": false
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/teletrabalho-pos-lei14442-2022-deveres-do-empregador-e-direitos-do-empregado/4119635366",
+      "titulo": "Teletrabalho pós‑Lei14.442/2022: deveres do empregador e direitos do empregado",
+      "citada": false
+    },
+    {
+      "url": "https://www.mandaliti.com.br/noticia/lei-14-442-2022-e-alteracoes-na-legislacao-trabalhista-quanto-ao-teletrabalho-ou-trabalho-remoto",
+      "titulo": "Lei 14.442/2022 e alterações na legislação trabalhista quanto ao teletrabalho ou trabalho remoto |",
+      "citada": false
+    },
+    {
+      "url": "https://eshoje.com.br/colunistas/2022/09/alteracao-do-regime-de-teletrabalho-pela-lei-n-14-442-2022-parte-ii/",
+      "titulo": "Alteração do regime de teletrabalho pela Lei n. 14.442/2022",
+      "citada": false
+    },
+    {
+      "url": "https://www.conjur.com.br/2022-set-17/barbosa-garcia-normas-jornada-teletrabalho/",
+      "titulo": "Barbosa Garcia: Normas sobre jornada no teletrabalho",
+      "citada": false
+    },
+    {
+      "url": "https://www.rotajuridica.com.br/rota-trabalhista/teletrabalho-alteracoes-introduzidas-pela-lei-14-442-2022/",
+      "titulo": "Teletrabalho: Alterações introduzidas pela Lei 14.442/2022 - Rota Jurídica",
+      "citada": false
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/publicacoes/detalhe/trabalhista/-geral/novidades-no-teletrabalho-lei-1444222/",
+      "titulo": "Novidades no Teletrabalho (Lei 14.442/22) - Conexão Trabalho - Uma nova Relação Trabalhista",
+      "citada": false
+    },
+    {
+      "url": "https://juridiconews.com.br/lei-14-442-2022-e-o-regime-de-teletrabalho/",
+      "titulo": "Lei 14.442/2022 e o regime de teletrabalho - Jurídico News",
+      "citada": false
+    },
+    {
+      "url": "https://www.mayerbrown.com/pt/insights/publications/2022/09/law-no-14442-of-2022-which-regulates-teleworking-and-meal-allowance-rules-is-published",
+      "titulo": "Publicada a Lei 14.442/2022 que dispõe sobre as regras aplicáveis ao teletrabalho e o auxílio-alimentação",
+      "citada": false
+    }
+  ]
+}

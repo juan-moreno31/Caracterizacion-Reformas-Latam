@@ -1,0 +1,116 @@
+{
+  "id": "PER_2014",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2014,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1143,
+  "incompleto": false,
+  "norma_propuesta": "Ley 30288",
+  "otras": "Ley 30222; Decreto Supremo 006-2014-TR",
+  "confianza": "media.** asigno \"media\" y no \"alta\" porque hay dos candidatas plausibles. además, no consulté directamente natlex ni el texto oficial de la ley 30288; la identificación se apoya en el peruano (vía la ley 30300), faolex, un artículo académico y prensa de referencia.",
+  "texto": "Elijo la **Ley 30288, \"Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social\"**, conocida como \"Ley Pulpín\", como reforma laboral principal de Perú en 2014.\n\n**Qué es.** Fue publicada el 16 de diciembre de 2014. Según un análisis académico, su contenido comprendía la creación de un \"régimen laboral especial temporal\", su ámbito de aplicación, el \"contrato laboral juvenil\", los derechos aplicables, la obligación de capacitación a cargo del empleador y los incentivos pertinentes, además de la afiliación obligatoria del joven trabajador a la seguridad social. La prensa nacional informó que el régimen reducía las vacaciones de los trabajadores jóvenes y los privaba del derecho a recibir dos gratificaciones anuales y CTS.\n\n**Por qué la elijo.** Es la norma de 2014 con mayor alcance sobre el mercado laboral, porque crea un régimen de contratación propio para un grupo de trabajadores. La otra norma, la Ley 30222, se limita a la seguridad y salud en el trabajo y a la inspección. Su existencia y número se confirman en el diario oficial El Peruano, donde se publicó la ley que la deroga, y en FAOLEX.\n\n**Advertencia sobre su vigencia.** Para la variable de tratamiento importa que la Ley 30300 derogó la Ley 30288. Fue aprobada por el Congreso el veintiséis de enero de 2015 y publicada en El Peruano, el 28 de enero de 2015, luego de que en un mes se produjeran cinco movilizaciones en contra del régimen laboral juvenil. Por tanto, se aplicó apenas unas semanas, y en etapas posteriores habrá que registrar el estado de vigencia con cuidado.\n\n**Otra candidata: Ley 30222.** Se publicó en julio de 2014 y es la otra norma laboral relevante del año. Su objetivo declarado es facilitar su implementación, manteniendo el nivel efectivo de protección de la salud y seguridad y reduciendo los costos para las unidades productivas y los incentivos a la informalidad. Además, durante un período transitorio, el sistema de inspección debía privilegiar acciones orientadas a la prevención y corrección de conductas infractoras. A diferencia de la Ley 30288, sí se aplicó de forma sostenida. Si la base prefiere normas con tratamiento efectivo, esta sería la alternativa. Otra norma relacionada es el Decreto Supremo 006-2014-TR, que modificó el reglamento de la Ley 29783 para adecuarlo a la Ley 30222.\n\n**Confianza: media.** Asigno \"media\" y no \"alta\" porque hay dos candidatas plausibles. Además, no consulté directamente NATLEX ni el texto oficial de la Ley 30288; la identificación se apoya en El Peruano (vía la Ley 30300), FAOLEX, un artículo académico y prensa de referencia.\n\nNORMA: Ley 30288\nOTRAS: Ley 30222; Decreto Supremo 006-2014-TR\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://elcomercio.pe/politica/gobierno/ley-pulpin-ejecutivo-promulgo-norma-deroga-328650-noticia/?outputType=amp",
+      "titulo": "Ley Pulpín: Poder Ejecutivo promulgó norma que la deroga",
+      "citada": true
+    },
+    {
+      "url": "https://elcomercio.pe/politica/gobierno/ley-pulpin-ejecutivo-promulgo-norma-deroga-328650-noticia/",
+      "titulo": "Ley Pulpín: Poder Ejecutivo promulgó norma que la deroga",
+      "citada": true
+    },
+    {
+      "url": "https://ejcls.adapt.it/index.php/rlde_adapt/article/download/289/376",
+      "titulo": "Adapt",
+      "citada": true
+    },
+    {
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/1193847-1",
+      "titulo": "Ley que deroga la Ley 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social - LEY -",
+      "citada": true
+    },
+    {
+      "url": "https://leap.unep.org/en/countries/pe/national-legislation/ley-no-30300-deroga-la-ley-no-30288-ley-que-promueve-el-acceso-de",
+      "titulo": "Ley Nº 30300 - Deroga la Ley Nº 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social.",
+      "citada": true
+    },
+    {
+      "url": "https://www.urp.edu.pe/pdf/id/41588/n/d.s.-006-2014-tr-reglamento-de-lsst-n-29783",
+      "titulo": "MODIFICAN EL REGLAMENTO DE LA LEY N° 29783, LEY DE SEGURIDAD Y SALUD EN EL",
+      "citada": true
+    },
+    {
+      "url": "https://cisemp-sac.blogspot.com/2014/07/ley-n-30222-que-modifica-la-ley-29783.html",
+      "titulo": "Estudio Mac Dowall, Isla y Asociados: LEY N° 30222 QUE MODIFICA LA LEY 29783, LEY DE SEGURIDAD Y SALUD EN EL TRABAJ",
+      "citada": true
+    },
+    {
+      "url": "http://storeirtp.blob.core.windows.net/archivos/ley30222leyquemodificalaley29783leydesst.pdf",
+      "titulo": "LEY Nº 30222 EL PRESIDENTE DE LA REPÚBLICA POR CUANTO:",
+      "citada": true
+    },
+    {
+      "url": "https://peru21.pe/politica/ley-pulpin-regimen-laboral-juvenil-derogado-oficialmente-164282-noticia/",
+      "titulo": "Ley Pulpín: Régimen laboral juvenil fue derogado oficialmente",
+      "citada": false
+    },
+    {
+      "url": "https://www.radionacional.gob.pe/informa/politica/congreso-deroga-ley-del-empleo-juvenil",
+      "titulo": "Congreso deroga ley del empleo juvenil",
+      "citada": false
+    },
+    {
+      "url": "https://www.industriall-union.org/es/luego-de-cinco-marchas-se-derogo-la-ley-de-regimen-laboral-juvenil-en-peru/",
+      "titulo": "Luego de cinco marchas se derogó la ley de régimen laboral juvenil en Perú - industriall-union",
+      "citada": false
+    },
+    {
+      "url": "https://www.informea.org/en/legislation/ley-n%C2%BA-30300-deroga-la-ley-n%C2%BA-30288-ley-que-promueve-el-acceso-de-j%C3%B3venes-al-mercado",
+      "titulo": "Ley Nº 30300 - Deroga la Ley Nº 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social.",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-30300-ley-555294798",
+      "titulo": "LEY N° 30300 - Ley que deroga la Ley 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://sni.org.pe/ley-que-modifica-la-ley-29783-ley-de-seguridad-y-salud-en-el-trabajo-ley-n-30222/",
+      "titulo": "Ley que modifica la Ley 29783, Ley de Seguridad y Salud en el Trabajo - LEY N° 30222",
+      "citada": false
+    },
+    {
+      "url": "https://www.gob.pe/institucion/minedu/normas-legales/118483-30222",
+      "titulo": "Ley N.° 30222 - Normas y documentos legales - Ministerio de Educación - Plataforma del Estado Peruano",
+      "citada": false
+    },
+    {
+      "url": "https://pe.isotools.org/la-ley-30222-modifica-a-la-ley-29783/",
+      "titulo": "La Ley 30222 modifica a la Ley 29783 - ISOTools Perú",
+      "citada": false
+    },
+    {
+      "url": "https://seguridad-salud-ocupacional.overblog.com/2014/07/ley-n-30222-modificatoria-de-la-ley-29783-de-seguridad-y-salud-en-el-trabajo.html",
+      "titulo": "LEY N° 30222 - MODIFICATORIA DE LA LEY 29783 DE SEGURIDAD Y SALUD EN EL TRABAJO - SEGURIDAD Y SALUD OCUPACIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecolex.org/details/legislation/ley-no-30222-modifica-la-ley-no-29783-ley-de-seguridad-y-salud-en-el-trabajo-lex-faoc138346/",
+      "titulo": "Ley Nº 30222 - Modifica la Ley Nº 29783, Ley de Seguridad y Salud en el Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://laboraperu.blogspot.com/2014/07/ley-30222.html",
+      "titulo": "Derecho Laboral Peruano de Ricardo Candela : Ley 30222",
+      "citada": false
+    },
+    {
+      "url": "https://pe.isotools.org/lo-mas-importante-de-la-ley-30222/",
+      "titulo": "Lo más importante de la Ley 30222 - ISOTools Perú",
+      "citada": false
+    }
+  ]
+}

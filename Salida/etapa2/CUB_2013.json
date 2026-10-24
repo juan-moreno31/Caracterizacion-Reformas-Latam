@@ -1,0 +1,143 @@
+{
+  "id": "CUB_2013",
+  "iso": "CUB",
+  "pais": "Cuba",
+  "anio": 2013,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0501,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley No. 116 de 2013, \"Código de Trabajo\"",
+    "tipo_instrumento": "codigo",
+    "normas_relacionadas": [
+      "Decreto 326 de 2014, Reglamento del Código de Trabajo"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2014-06-18",
+    "vigencia_escalonada": false,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "Adecuar el régimen laboral a la actualización del modelo económico definida en los Lineamientos del VI Congreso del Partido. El preámbulo reconoce, junto a la empresa estatal, formas de gestión no estatal y busca elevar la eficiencia del trabajo. También busca consolidar y perfeccionar la protección de los derechos y deberes en la relación laboral, con una cláusula antidiscriminatoria.",
+    "descripcion_intenciones": "El Código busca incorporar formalmente al sector no estatal al derecho laboral, aunque sujeta a los asalariados de personas naturales al régimen del contrato por tiempo determinado u obra. En el sector estatal consolida la figura de los trabajadores \"disponibles\", que se determina por idoneidad demostrada y solo exige informar al sindicato. Mantiene el modelo de sindicato único y crea una vía dual de reclamación: el Sistema de Justicia Laboral para el sector estatal y los tribunales municipales para los empleados de personas naturales. Incorpora garantías para la maternidad, los menores y la no discriminación, incluida la orientación sexual. Sin una comparación con la Ley 49 de 1984, la dirección de varios cambios es una interpretación del texto vigente.",
+    "dimensiones": [
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Los asalariados de personas naturales, cooperativas y formas asociativas entran en el Código. Sin embargo, quedan bajo el régimen del contrato por tiempo determinado u obra, con protección mínima."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Regula los contratos indeterminados y los determinados u obra, estos últimos con una causal abierta, y el período de prueba. Al parecer no prohibía el uso de contratos temporales para labores permanentes."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Consolida la disponibilidad de trabajadores estatales por idoneidad demostrada, con obligación de informar al sindicato pero no de obtener su acuerdo. No se verificó si la figura ya existía en normas anteriores."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Las horas extras requieren acuerdo con el sindicato y no son obligatorias, salvo por interés social. Admite el trabajo a tiempo parcial y el pluriempleo mediante otro contrato."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "El Consejo de Ministros fija el salario mínimo, oído el parecer sindical. Se admiten componentes de la remuneración condicionados a la eficiencia."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Consagra el sindicato único, protege a los dirigentes y extiende el convenio colectivo a los no afiliados. No se identificó una regulación del derecho de huelga."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Establece una vía dual: el Sistema de Justicia Laboral para el sector estatal y los tribunales municipales para los empleados de personas naturales. La inspección queda a cargo de la Oficina Nacional de Inspección del Trabajo del MTSS."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Permite contratar excepcionalmente a menores por debajo de la edad general con salvaguardas: consentimiento de los padres, examen médico, tutoría y prohibición de trabajos riesgosos o nocturnos."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Protege la maternidad y el cuidado de los hijos, e incluye una cláusula antidiscriminatoria que abarca la orientación sexual. No se verificó si amplía la Ley 49."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reconoce derechos y obligaciones de seguridad social a los trabajadores no subordinados, como los cuentapropistas. La caracterización es tentativa."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico",
+      "empleadores_mipymes",
+      "jovenes",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "El Código sustituye a la Ley 49 de 1984 como código general de trabajo, sin que las fuentes lo describan como una contrarreforma. Se enmarca en los Lineamientos del VI Congreso del Partido y en la \"actualización del modelo económico\", que reconoce formas de gestión no estatal. Según el informe, quedan sin fuente el programa de reducción de plantillas estatales, la ampliación del trabajo por cuenta propia y las consultas previas a la aprobación.",
+    "notas": "La ley se aprobó el 2013-12-20 y entró en vigor el 2014-06-18, junto con su Reglamento (Decreto 326), según NATLEX citado en el informe previo. El año de la base (2013) no coincide con el de vigencia. La portada de la versión oficial actualizada consigna 2013 en lugar de 2014. Existe una versión oficial actualizada al 20 de febrero de 2020, pero no se identificaron las normas que la modificaron. La Ley 141 \"Código de Procesos\", de 28 de octubre de 2021, introdujo cambios en el acceso a la vía judicial. La Ley 189 la derogó: se aprobó el 30 de julio de 2026, se publicó en la Gaceta Oficial el 2026-09-18 y entró en vigor el 2026-09-25, según una transcripción de un sitio espejo que conviene contrastar con el PDF oficial. No se identificaron fallos judiciales que anularan partes de la Ley 116. No se encontraron valoraciones de la OIT (EPLex ni informes de país). Falta una comparación con la Ley 49, por lo que la dirección de cada dimensión es interpretativa. La inclusión de sector_publico se justifica porque la disponibilidad y el Sistema de Justicia Laboral se aplican a los empleados estatales."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.gacetaoficial.gob.cu/es/ley-no-116-codigo-de-trabajo",
+      "titulo": "Ley No. 116 “Código de Trabajo”",
+      "citada": true
+    },
+    {
+      "url": "https://www.minjus.gob.cu/sites/default/files/archivos/publicacion/2019-11/ley_116_codigo_de_trabajo.pdf",
+      "titulo": "Ley No. 116, “Código de Trabajo”",
+      "citada": true
+    },
+    {
+      "url": "https://www.3ce.cu/sites/default/files/2023-01/ley-116-codigo-del-trabajo.pdf",
+      "titulo": "Ley No. 116, Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.parlamentocubano.gob.cu/sites/default/files/documento/2026-06/proyecto-ley-codigo-del-trabajo_vf-en-a3.pdf",
+      "titulo": "PROYECTO LEY DEL CÓDIGO DE TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.cubafull.com/noticia/ley-189-codigo-trabajo-cuba",
+      "titulo": "Ley 189 Cuba: qué cambia en el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.tvyumuri.cu/cuba/codigo/",
+      "titulo": "Publicado el nuevo Código de Trabajo - TV Yumurí",
+      "citada": true
+    },
+    {
+      "url": "https://www.valuarte.cu/wp-content/uploads/2024/05/DL-116-2020-Codigo-de-Trabajo.pdf",
+      "titulo": "[Escriba texto] ACTUALIZADO: 20 de febrero de 2020",
+      "citada": true
+    },
+    {
+      "url": "https://cubajobs.net/blog/nuevo-codigo-trabajo-cuba-2026/",
+      "titulo": "Nuevo Código de Trabajo en Cuba 2026: cambios clave",
+      "citada": true
+    },
+    {
+      "url": "https://www.cibercuba.com/s/gacetaoficial/ley-189-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Ley 189 - Código de Trabajo - Asamblea Nacional del Poder Popular de la Repóblica de Cuba",
+      "citada": true
+    },
+    {
+      "url": "http://www.cubadebate.cu/noticias/2026/09/18/publicado-el-nuevo-codigo-de-trabajo-estas-son-sus-principales-novedades-pdf/",
+      "titulo": "Publicado el nuevo Código de Trabajo: estas son sus principales novedades (+ PDF) - Cubadebate",
+      "citada": true
+    },
+    {
+      "url": "https://www.mtss.gob.cu/noticias/actualizacion-del-codigo-de-trabajo-en-cuba-que-novedades-trae-el-anteproyecto",
+      "titulo": "Actualización del Código de Trabajo en Cuba: ¿Qué novedades trae el anteproyecto?",
+      "citada": true
+    }
+  ]
+}

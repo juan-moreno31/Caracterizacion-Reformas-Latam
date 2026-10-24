@@ -1,0 +1,66 @@
+{
+  "id": "ARG_1998",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 1998,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0734,
+  "incompleto": false,
+  "norma_propuesta": "Ley 25.013",
+  "otras": "Decreto 1111/98",
+  "confianza": "alta",
+  "texto": "Para Argentina en 1998, la reforma laboral principal es la **Ley 25.013 de Reforma Laboral**. El Congreso de la Nación la sancionó el 2 de septiembre de 1998. Fue promulgada parcialmente el 22 de septiembre de 1998 y se publicó en el Boletín Oficial el 24 de septiembre de 1998 (Boletín Oficial número 28987).\n\n**Qué es.** Según su texto oficial, la ley establece un régimen de reforma laboral que modifica aspectos del Contrato de Trabajo y de las Leyes Nros. 24.013, 24.465 y 24.467, así como de la normativa vigente en materia de convenciones colectivas de trabajo.\n\n**Temas que cubre.** Estas son solo las áreas que toca; su caracterización corresponde a etapas posteriores:\n- contrato de aprendizaje y pasantías;\n- período de prueba;\n- preaviso e indemnización por despido, incluido el despido discriminatorio;\n- articulación de la negociación colectiva;\n- un servicio de mediación y arbitraje para conflictos colectivos a cargo del Ministerio de Trabajo y Seguridad Social;\n- la obligación de registrar todos los contratos de trabajo y las pasantías ante los organismos de seguridad social y tributarios.\n\nLa ley también deroga diversos artículos de la Ley 24.013, la ley de empleo de 1991.\n\n**Por qué la elijo.** La identificación está confirmada en fuentes oficiales: InfoLEG, argentina.gob.ar y la biblioteca de AFIP, que la registra como vigente. Es la ley con mayor alcance sobre el mercado laboral argentino en 1998, porque modifica al mismo tiempo la contratación, el despido y la negociación colectiva. No encontré otra norma laboral comparable de ese año.\n\n**Única candidata adicional.** El **Decreto 1111/98** promulgó la ley con un veto parcial. Entre otras cosas, observó del artículo 11 los términos \"nacionalidad\", \"orientación sexual\", \"ideología\" y \"u opinión política o gremial\", sobre despido discriminatorio. No es una reforma independiente, pero conviene registrarlo porque cambió el contenido de la ley antes de su vigencia.\n\n**Pendiente para etapas posteriores.** Hay que verificar con fuentes si la ley fue modificada o derogada después. Recuerdo, sin haberlo comprobado en esta búsqueda, que la Ley 25.250 (2000) y la Ley 25.877 (2004) la reformaron. Lo único confirmado es que su artículo 2º fue derogado por la Ley 26.427.\n\nNORMA: Ley 25.013\nOTRAS: Decreto 1111/98\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN25013.pdf",
+      "titulo": "REFORMA LABORAL Ley 25.013",
+      "citada": true
+    },
+    {
+      "url": "https://stipa-osipa.org.ar/docs/ley%2025013.pdf",
+      "titulo": "Ley 25.013 REFORMA LABORAL -.: STIPA :.",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/53159/norma.htm",
+      "titulo": "Ley 25.013 del 02/09/98",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25013-53159/actualizacion",
+      "titulo": "TEXTO ACTUALIZADO - Ley 25013 - REFORMA LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25013-53159/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25013 - REFORMA LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://trivia.consejo.org.ar/ficha/18601-ley_25.013._reforma_laboral",
+      "titulo": "Ley 25.013. Reforma Laboral.",
+      "citada": true
+    },
+    {
+      "url": "https://upcndigital.org/~legislacion/Ley%20Contrato%20de%20Trabajo/1998-Ley%2025013_textact.pdf",
+      "titulo": "Ley Nº 25.013 (texto actualizado)",
+      "citada": true
+    },
+    {
+      "url": "https://www.uart.org.ar/ley-25-013/",
+      "titulo": "Ley 25.013",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025013_1998_09_02",
+      "titulo": "Ley N° 25013",
+      "citada": true
+    },
+    {
+      "url": "https://ar.vlex.com/vid/ley-25013-219627362",
+      "titulo": "Ley 25013 - Ley de reforma laboral - vLex Argentina",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "PAN_2020",
+  "iso": "PAN",
+  "pais": "Panamá",
+  "anio": 2020,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.33,
+  "incompleto": false,
+  "norma": "Ley 157 de 3 de agosto de 2020",
+  "texto": "# Informe de investigación: PAN 2020, Ley 157 de 3 de agosto de 2020\n\n## 1. Objetivo declarado\n\nEl Ejecutivo presentó la norma como una medida de protección del empleo en plena crisis sanitaria. Según la ministra Doris Zapata, el proyecto buscaba proteger la mayor cantidad de empleos en el país, así como la supervivencia del sector empresarial. El argumento era que prorrogar las suspensiones evitaría tener que recurrir a la figura de destituirlos en medio de la pandemia, cuando muchas empresas ni siquiera tienen la capacidad de pagar las indemnizaciones. La ministra resumió el objetivo como la protección del empleo, evitar la discriminación laboral, la protección a los trabajadores y de la maternidad. Gobierno y diputados insistieron en que eran normas temporales y no se pretende reformas al Código Laboral.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**Ámbito.** La ley se aplicará exclusivamente a las empresas que cerraron, total o parcialmente sus operaciones, desde el inicio del estado de emergencia nacional y hasta el 31 de diciembre de 2020, y a los trabajadores cuyos contratos han sido suspendidos mediante autorización tácita o expresa del Ministerio de Trabajo y Desarrollo Laboral.\n\n**otro — suspensión de los efectos del contrato** (efecto: reduce, con matiz procesal que aumenta). La ley permite mantener suspendidos los contratos más allá del límite del Código de Trabajo. Según la literatura académica, el Código solo admitía prórrogas que vencían en agosto de 2020, por lo cual había que expedir una Ley -y no un decreto ejecutivo- para ir más allá. Las suspensiones podrán ser prorrogadas, mes a mes, hasta el 31 de diciembre de 2020. Esto prolonga el periodo en que el trabajador no recibe salario. Como contrapeso, en estos casos no se aplicará la figura del silencio administrativo, de modo que cada prórroga necesita la aprobación expresa del Mitradel. El efecto neto sobre la protección es una reducción, con un control administrativo más estricto.\n\n**contratacion_temporal / contratación de reemplazo** (aumenta). La ley prohíbe la contratación de nuevos trabajadores, en igual o similar posición a la de un trabajador suspendido en las empresas que reabren. Solo se admite contratar para puestos nuevos, y la decisión deberá ser informada por escrito a la organización sindical o a los trabajadores donde no exista esta. Ninguna de estas reglas se refiere a contratos temporales en sentido estricto. Sugiero codificarlas en `otro` o en `despido_e_indemnizacion` y no en `contratacion_temporal`; la decisión queda para la etapa siguiente.\n\n**jornada_y_horas_extra** (reduce para las empresas que reabren; aumenta para las que siguieron operando). El empleador que reactivó operaciones podrá establecer turnos de trabajo distintos a los existentes con solo un preaviso a los trabajadores. En cambio, las empresas que operaron durante toda la emergencia no podrán variar los turnos, sino de común acuerdo y en apego a lo dispuesto en el Código de Trabajo, reglamentos internos y convenciones colectivas. Según La Prensa, el proyecto original fijaba un recargo único para las horas extra, menor que los del Código. Los resúmenes del texto final no incluyen esa medida, así que parece haberse eliminado en los debates, pero no lo verifiqué en el texto oficial.\n\n**despido_e_indemnizacion** (aumenta). Hay tres cambios:\n- Toda terminación por mutuo consentimiento deberá constar por escrito y no implicará renuncia de derechos. El trabajador que firma sin haber tenido el plazo legal para responder puede demandar la nulidad. Además, se presume cierta la afirmación del trabajador acerca de que no se le otorgó el término.\n- Si la relación termina (por mutuo acuerdo, despido o decisión unilateral del empleador) poco después del reintegro, el empleador debe pagar de inmediato todas las prestaciones en un solo pago .\n- La prima de antigüedad y la indemnización se calculan con los salarios anteriores a la emergencia, según sea más favorable al trabajador.\n\nLos sindicatos cuestionaron esta lectura protectora. Argumentaron que la ley no protege el empleo, porque no prohíbe el despido y sigue protegiendo el mutuo acuerdo que ha sido desfavorable a los trabajadores.\n\n**salario_y_negociacion_salarial** (reorganiza). Los trabajadores que no cobran la segunda partida del Décimo Tercer Mes por estar suspendidos tendrán derecho a percibir un bono, cuya cuantía será determinada por el Órgano Ejecutivo y pagada a través del Ministerio de Economía y Finanzas. Quienes trabajaron parte del periodo la reciben de forma proporcional. La obligación pasa del empleador al Estado. Un dirigente sindical sostuvo que el bono es una medida que favorece a los empresarios. No verifiqué el decreto que reglamentó el bono.\n\n**justicia_laboral_e_inspeccion** (aumenta). El reintegro gradual may not be used as a measure of retaliation or discrimination for reasons of union, race, sex, religion, health, disability. Las infracciones se sancionan con multas que impone el Mitradel.\n\n**genero_y_conciliacion** (reduce; es el único componente permanente). La ley adiciona el artículo 116-A al Código de Trabajo: se suspende el cómputo del tiempo correspondiente al fuero de maternidad durante el periodo de suspensión de los efectos de los contratos de trabajo cuando la causa es fuerza mayor o incapacidad económica. El tiempo restante del fuero se reactivará tan pronto se reintegre la trabajadora. El Mitradel lo presenta como una protección. La literatura académica lo considera parte de la precarización laboral que ya habían generado los decretos ejecutivos.\n\n**Orientación sugerida: mixta.** La norma da cobertura legal a la prolongación de suspensiones sin salario, a la libertad de cambiar turnos y a la congelación del fuero de maternidad. Al mismo tiempo, protege el reintegro, el mutuo acuerdo y la liquidación. La prensa internacional la describió como un proyecto que flexibiliza de manera temporal las normas laborales en medio de la pandemia.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: trabajadores con contrato suspendido en empresas afectadas.\n- `mujeres`: trabajadoras con fuero de maternidad.\n\nLa norma también regula a los empleadores afectados en general, sin distinguir por tamaño, por lo que `empleadores_mipymes` no aplica de forma específica. No hay medidas para informales ni para el sector público.\n\n## 4. Contexto político y económico\n\n- **Antecedentes.** El estado de emergencia se declaró el 13 de marzo de 2020 (mediante la Resolución de Gabinete N. 11). Le siguió una cadena de decretos ejecutivos de suspensión y prórroga: el 81, el 95, el 97 y el 100 de 2020.\n- **Trámite.** El Proyecto de Ley 354, presentado en la Asamblea de Diputados el 13 de julio de 2020, tuvo importantes modificaciones en su contenido. Se aprobó en tercer debate el 31 de julio.\n- **Diálogo social.** La ministra dijo que el texto se basaba en la Mesa Tripartita, pero sindicalistas negaron que alcanzaran consenso. Hubo protestas sindicales en todo el país, y se informó que también los gremios empresariales tenían posiciones encontradas.\n- **Coyuntura económica.** La prensa describía la peor crisis de carácter económico debido a la paralización de las actividades comerciales.\n\n## 5. ¿Revierte una reforma previa?\n\nNo. No es una contrarreforma: suspende de forma temporal límites del Código de Trabajo de 1971 (las prórrogas de suspensión) sin revertir ninguna reforma específica anterior. `revierte_reforma_previa` = false.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Publicación.** La ley se publicó en la Gaceta Oficial 29.082-A de 3 de agosto de 2020.\n- **Entrada en vigor.** No verifiqué el artículo de vigencia. Asumo provisionalmente el 2020-08-03, por promulgación.\n- **Alcance retroactivo.** Se aplica a situaciones desde el inicio del estado de emergencia.\n- **Expiración.** Las disposiciones contenidas en los artículos 1, 2, 3, 4, 5, 6, 7 y 8 de la presente Ley estarán vigentes hasta el 31 de diciembre de 2020. El artículo 116-A es permanente.\n\nNo hay aplicación diferida (`vigencia_escalonada` = false). Lo que hay es una caducidad incorporada en la propia norma, y debe registrarse en `notas`.\n\n## 7. Estado de vigencia posterior\n\n- **Expiración y continuidad.** Los artículos temporales vencieron el 31 de diciembre de 2020. El régimen siguió por otras vías: los Decretos Ejecutivos 229 y 231 de 2020 y el 8 de 2021, que según la literatura académica llegaron a modificar la Ley 157 de 2020, lo cual no correspondía de acuerdo con el orden jerárquico normativo. Después vino la Ley 201 de 2021. La ministra explicó que esa ley rescataba algunos elementos oportunos ya extintos en la Ley 157 de 2020.\n- **Artículo 116-A.** no fue derogado y se mantiene vigente, según una fuente académica de 2023. No verifiqué si sigue vigente a la fecha.\n- **Fallos judiciales.** Una edición anotada del texto (de una editorial jurídica, fuente secundaria) indica que mediante Sentencia de 15 de marzo de 2021, el Pleno de la Corte Suprema declaró este Artículo, Constitucional. La nota parece referirse al artículo 1. Es un fallo que confirma la norma, no la anula, así que no cambia la categoría. No encontré fallos de inconstitucionalidad contra la ley.\n- **Categoría sugerida.** `modificada_o_derogada_despues`, porque se aplicó, caducó y fue reemplazada y prolongada por la Ley 201 de 2021, aunque el artículo 116-A sigue vigente. Hay que aclarar en `notas` que el núcleo de la ley caducó por sí mismo, no por derogación expresa.\n\n## 8. Lo que no pude verificar\n\n- El artículo de entrada en vigor en la Gaceta Oficial (no consulté la Gaceta directamente; el texto proviene de una edición anotada).\n- La exposición de motivos oficial.\n- El decreto que reglamentó el bono del Décimo Tercer Mes.\n- El registro en NATLEX.\n- El número de expediente y el contenido de la sentencia de 15 de marzo de 2021, ni si hubo otras demandas.\n- Que el recargo único de horas extra se eliminara del texto final.\n- La posición formal de los gremios empresariales.\n\n**Confianza en el contenido:** alta para las disposiciones sustantivas, que coinciden en el Mitradel, la prensa y el texto anotado. Media para el estado judicial.",
+  "fuentes": [
+    {
+      "url": "https://www.sijusa.com/wp-content/uploads/2021/05/l_157_2020_Lab.pdf",
+      "titulo": "Ley Nº 157 de 2020",
+      "citada": true
+    },
+    {
+      "url": "https://publicaciones.bdsasesores.com/blog/panam%C3%A1-alertalaboralbds-ley-157",
+      "titulo": "#Panamá 🇵🇦 #AlertaLaboralBDS: Ley 157",
+      "citada": true
+    },
+    {
+      "url": "https://chanis.pa/es/ley-57-de-3-de-agosto-de-2020/",
+      "titulo": "Ley 157 de agosto 3, 2020 - Chanis",
+      "citada": true
+    },
+    {
+      "url": "https://icazalaw.com/2020/07/law-157-of-august-3-2020/",
+      "titulo": "Law 157 of August 3, 2020 - Icaza, González-Ruiz & Alemán",
+      "citada": true
+    },
+    {
+      "url": "https://quijano.com/ley-no-157-de-2020-dicta-medidas-temporales-de-proteccion-de-empleo/?lang=es",
+      "titulo": "Ley No. 157 de 2020 dicta medidas temporales de protección de empleo",
+      "citada": true
+    },
+    {
+      "url": "https://centroinvestigacionhumanidades.up.ac.pa/sites/centroinvestigacionhumanidades/files/2023-07/Anayansi%20Turner.pdf",
+      "titulo": "CÁTEDRA, N.º 20, AGOSTO 2023 - JULIO 2024, PP. 149-166 ISSN L 2523-0115 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/politica/aprueban-en-primer-debate-el-proyecto-de-ley-que-prorroga-la-suspension-de-contratos/",
+      "titulo": "Aprueban en primer debate el proyecto de ley que prorroga la suspensión de contratos",
+      "citada": true
+    },
+    {
+      "url": "https://paradigma.hn/panama-aprueba-flexibilizar-normas-laborales-pese-al-rechazo-de-sindicatos/",
+      "titulo": "Panamá aprueba flexibilizar normas laborales pese al rechazo de sindicatos - Diario Paradigma",
+      "citada": true
+    },
+    {
+      "url": "https://www.panamaamerica.com.pa/economia/extienden-contratos-suspendidos-hasta-el-31-de-diciembre-de-2020-1168971",
+      "titulo": "Extienden contratos suspendidos hasta el 31 de diciembre de 2020",
+      "citada": true
+    },
+    {
+      "url": "https://destinopanama.com.pa/2020/07/asamblea-nacional-de-diputados-aprueba-reformas-al-codigo-de-trabajo/",
+      "titulo": "Asamblea Nacional de Diputados aprueba reformas al Código de Trabajo - Destino Panamá",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/economia/sindicatos-se-oponen-a-proyecto-de-ley-presentado-por-mitradel/",
+      "titulo": "Sindicatos se oponen a proyecto de ley presentado por Mitradel",
+      "citada": true
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2020/08/01/panama-asamblea-nacional-aprueba-reforma-del-codigo-de-trabajo-que-facilita-despidos/",
+      "titulo": "Panamá. Asamblea Nacional aprueba reforma del Código de Trabajo que facilita despidos - Resumen Latinoamericano",
+      "citada": true
+    },
+    {
+      "url": "https://www.mitradel.gob.pa/normas-temporales-para-la-proteccion-del-empleo-son-ley-de-la-republica/",
+      "titulo": "Normas temporales para la protección del empleo son Ley de la República - Ministerio de Trabajo y Desarrollo Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://destinopanama.com.pa/2020/10/la-relacion-laboral-y-sus-efectos-en-la-nueva-normalidad/",
+      "titulo": "La relación laboral y sus efectos en la nueva normalidad - Destino Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://acclawyers.com/2020/08/10/normas-temporales-para-la-proteccion-del-empleo/",
+      "titulo": "NORMAS TEMPORALES PARA LA PROTECCION DEL EMPLEO - ACC Lawyers",
+      "citada": false
+    },
+    {
+      "url": "https://www.panamaamerica.com.pa/economia/medidas-temporales-para-la-proteccion-del-empleo-ya-son-ley-de-la-republica-1169142",
+      "titulo": "Medidas temporales para la protección del empleo ya son Ley de la República",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=1f9c1a0f-a010-4435-b7b2-009dfc8bf5a8",
+      "titulo": "PANAMA LEGAL TASK FORCE COVID-19 - UPDATE #19 - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://repositoriodigital.organojudicial.gob.pa/handle/001/136",
+      "titulo": "EA. Fallos sobre Inconstitucionalidad",
+      "citada": false
+    },
+    {
+      "url": "https://repositoriodigital.organojudicial.gob.pa/handle/001/136/browse?type=title",
+      "titulo": "Listar EA. Fallos sobre Inconstitucionalidad por título",
+      "citada": false
+    },
+    {
+      "url": "https://repositoriodigital.organojudicial.gob.pa/bitstream/handle/001/694/Entrada%20No.%2020725-2022.pdf?sequence=1&isAllowed=y",
+      "titulo": "REPÚBLICA DE PANAMÁ ÓRGANO JUDICIAL CORTE ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.gacetaoficial.gob.pa/pdfTemp/29972/103034.pdf",
+      "titulo": "No. 29972 Gaceta Oficial Digital, martes 20 de febrero de 2024 1",
+      "citada": false
+    },
+    {
+      "url": "https://www.gacetaoficial.gob.pa/storage/gacetas/2023/03/29735/97201.pdf",
+      "titulo": "No. 29735 Gaceta Oficial Digital, miércoles 08 de marzo de 2023 1",
+      "citada": false
+    },
+    {
+      "url": "https://revistasalacons.poder-judicial.go.cr/images/Catalogo/Articulo/HTML/El%20control%20de%20constitucionalidad%20%20en%20Panama.htm",
+      "titulo": "El control de constitucionalidad en Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://infojuridica.procuraduria-admon.gob.pa/fallos/12451.pdf",
+      "titulo": "fl REPÚBLICA DE PANAMÁ sffÉ W óRc*.¡o JUDtctAL CORTE SUPREMA DE JUSTICIA PLENO",
+      "citada": false
+    },
+    {
+      "url": "https://www.panamaamerica.com.pa/economia/mitradel-contratos-solo-pueden-estar-suspendidos-hasta-fin-ano-1175639",
+      "titulo": "Mitradel: Contratos solo pueden estar suspendidos hasta fin de año",
+      "citada": false
+    },
+    {
+      "url": "https://www.sijusa.com/wp-content/uploads/2021/05/l_201_2021_Lab.pdf",
+      "titulo": "Ley Nº 201 de 2021",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pa/vid/resume-cierta-afirmacion-trabajador-926351258",
+      "titulo": "Decreto Ejecutivo N° 229. Que establece medidas laborales temporales para el reintegro de los trabajadores con contrato suspendido - vLex Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://www.prensa.com/impresa/economia/evaluan-extender-la-suspension-de-los-contratos/",
+      "titulo": "Evalúan extender la suspensión de los contratos",
+      "citada": false
+    },
+    {
+      "url": "https://www.telemetro.com/nacionales/2020/11/16/a-partir-del-2021-suspensiones-de-contratos-seran-regidas-por-el-codigo-de-trabajo-mitradel/3462881.html",
+      "titulo": "A partir del 2021 suspensiones de contratos serán regidas por el Código de Trabajo, Mitradel",
+      "citada": false
+    },
+    {
+      "url": "https://www.midiario.com/nacionales/la-suspension-de-contratos-de-trabajo-y-los-decretos-del-mitradel/",
+      "titulo": "La suspensión de contratos de trabajo y los decretos del Mitradel",
+      "citada": false
+    },
+    {
+      "url": "https://laverdadoculta1.blogspot.com/2020/08/trabajadores-rechazan-reformas.html",
+      "titulo": "Trabajadores rechazan reformas laborales en Panamá - La verdad oculta",
+      "citada": false
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2020/08/04/panama-trabajadores-mantienen-su-rechazo-a-reformas-del-codigo-laboral/",
+      "titulo": "Panamá. Trabajadores mantienen su rechazo a reformas del código laboral - Resumen Latinoamericano",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=52fb058c-475e-4eb3-9c59-adb341ec9a3b",
+      "titulo": "Panamá aprueba Ley que establece medidas temporales de protección al empleo por razón del COVID-19 - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://www.mitradel.gob.pa/aprueban-en-tercer-debate-proyecto-de-ley-temporal-para-la-proteccion-del-empleo-en-empresas-afectadas-por-la-pandemia-de-covid-19/",
+      "titulo": "Aprueban en Tercer Debate Proyecto de Ley Temporal para la Protección del Empleo en Empresas Afectadas por la Pandemia de Covid-19 - Ministerio de Trabajo y Desarrollo Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.laestrella.com.pa/panama/nacional/tercer-debate-proyecto-ley-modifica-codigo-panama-OOLE430619",
+      "titulo": "A tercer debate proyecto de ley que modifica el Código de Trabajo de Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2021/c-157-21.htm",
+      "titulo": "Sentencia C-157/21 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://normograma.mincultura.gov.co/mincultura/compilacion/docs/C-157_2021.htm",
+      "titulo": "Compilación Jurídica Mincultura - Sentencia de Control de Constitucionalidad C-157 de 2021",
+      "citada": false
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/26795",
+      "titulo": "Sistema HJ - Resolución: SENTENCIA 157/2021",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2021/su150-21.htm",
+      "titulo": "Sentencia SU150/21 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.iberley.es/jurisprudencia/sentencia-constitucional-n-157-2021-tc-pleno-rec-recurso-inconstitucionalidad-315-2020-16-09-2021-48380255",
+      "titulo": "Sentencia Constitucional Nº 157/2021, TC, Pleno, Rec Recurso de inconstitucionalidad 315/2020, 16-09-2021 - Iberley",
+      "citada": false
+    },
+    {
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/c-157_2021.html",
+      "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [C-157_2021]",
+      "citada": false
+    },
+    {
+      "url": "https://apps.procuraduria.gov.co/relatoria/index.jsp?option=co.gov.pgn.relatoria.frontend.component.pagefactory.FlasJuridicoPageFactory&action=view_flash_juridico&numero=465",
+      "titulo": "Boletín Jurídico No. 465 - Guía Disciplinaria",
+      "citada": false
+    },
+    {
+      "url": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/c-157_2020.htm",
+      "titulo": "Ministerio de Relaciones Exteriores - Normograma [Corte Constitucional, S. C- 157 de 2020]",
+      "citada": false
+    },
+    {
+      "url": "https://cancilleria.gov.co/normograma/compilacion/docs/c-157_2020.htm",
+      "titulo": "Compilación jurídica de la Cancillería de Colombia - Sentencia de Control de Constitucionalidad C-157 de 2020",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "DOM_2001",
+  "iso": "DOM",
+  "pais": "República Dominicana",
+  "anio": 2001,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0439,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley núm. 87-01 que crea el Sistema Dominicano de Seguridad Social (SDSS), promulgada el 9 de mayo de 2001",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto núm. 774-01 que establece el Reglamento Orgánico y Funcional de la Secretaría de Estado de Trabajo",
+      "Decreto núm. 560-01 (publicación oficial de la Ley 87-01)",
+      "Ley General de Salud núm. 42-01, que crea el Sistema Nacional de Salud"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2001-05-09",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Desarrollar progresivamente la seguridad social conforme al mandato constitucional, para proteger a toda persona contra la desocupación, la enfermedad, la incapacidad y la vejez bajo los principios de universalidad y obligatoriedad. Según CEPAL, busca mejorar la calidad de vida, reducir la pobreza y las desigualdades sociales y aumentar los niveles de protección social.",
+    "descripcion_intenciones": "La ley crea un sistema integral de seguridad social que abarca pensiones, salud y riesgos laborales, con una nueva arquitectura institucional (CNSS, TSS, superintendencias, AFP y ARS) y libre elección de administradores. En pensiones sustituye el reparto por la capitalización individual administrada por el sector privado, aunque conserva el reparto para ciertos trabajadores públicos y garantiza una pensión mínima estatal. Extiende la cobertura a trabajadores por cuenta propia, independientes, desempleados e indigentes mediante regímenes subsidiado y contributivo subsidiado. Aumenta las cargas no salariales del empleador, que financia la mayor parte de las cotizaciones y la totalidad del seguro de riesgos laborales, sin modificar las reglas de contratación ni de despido.",
+    "dimensiones": [
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea el Seguro Familiar de Salud y el Seguro de Riesgos Laborales y amplía la cobertura obligatoria. En pensiones, el paso del reparto a la capitalización individual es más bien una reorganización del régimen financiero."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Codificación tentativa: los regímenes subsidiado y contributivo subsidiado extienden la protección a trabajadores por cuenta propia e independientes. Su propósito es ampliar la cobertura más que formalizar laboralmente."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "El Seguro Familiar de Salud cubre embarazo y parto. Además, otorga subsidios por maternidad y servicios de estancias infantiles."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Arquitectura institucional nueva (CNSS, TSS, superintendencias, AFP, ARS), con libre elección de administradores. También tipifica como delito las infracciones en materia de salud y riesgos laborales."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico",
+      "informales",
+      "mujeres",
+      "general"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley se aprobó bajo el gobierno de Hipólito Mejía, iniciado en agosto de 2000, que denominó 2001 como el 'Año de Lucha Contra la Pobreza'. El presidente la presentó como parte de una trilogía de reformas junto a las reformas tributaria y arancelaria. Según SIPEN, surgió del consenso entre gobierno, empleadores y trabajadores, precedido de una consulta nacional con vistas públicas. Reemplaza el régimen de seguros sociales del IDSS regido por la Ley 1896 de 1948 y la Ley 379-81 y otros regímenes de reparto, preservando los derechos adquiridos de los pensionados. El Gabinete Social señaló la caída de los ingresos públicos como restricción fiscal.",
+    "notas": "Vigencia: se usa provisionalmente la fecha de promulgación (2001-05-09); no se verificó la publicación en Gaceta Oficial. Aplicación escalonada: los regímenes se activan por decretos y calendarios graduales del CNSS (arts. 7 y 8) y las cotizaciones aumentan de forma gradual. El Seguro de Vejez, Discapacidad y Sobrevivencia arrancó el 1 de junio de 2003 (según prensa); el Seguro Familiar de Salud contributivo, tras un acuerdo del 19 de diciembre de 2006. Sin fuente: la fecha de inicio del Seguro de Riesgos Laborales y si el régimen contributivo subsidiado llegó a aplicarse. Modificaciones posteriores: Ley 370-05 (art. 1), Ley 188-07 (financiamiento de pensiones y salud), Ley 397-19 (crea IDOPPRIL, disuelve el IDSS, deroga los arts. 134 a 139 y modifica otros) y Ley 13-20 (TSS, DIDA, recargos y comisiones de AFP). Fallos judiciales: la TC/0295/24 declaró conformes los arts. 4 y 95; la TC/0879/23 anuló una resolución del CNSS, no la ley. No se verificó el resultado de la TC/0435/15 (art. 31) ni de la TC/0311/22 (art. 46). El componente de pensiones podría considerarse reorganizador más que protector. La lectura sobre ahorro nacional y mercado de capitales proviene de un centro privado, no del texto de la norma. No se consultaron EPLex ni NATLEX. La Ley 42-01 se incluye en normas_relacionadas por recomendación del informe."
+  },
+  "fuentes": [
+    {
+      "url": "https://dgii.gov.do/legislacion/leyesTributarias/Documents/Leyes%20de%20Instituciones%20y%20Fondos%20de%20Terceros/87-01.pdf",
+      "titulo": "Ley No. 87-01 que crea el Sistema Dominicano de Seguridad Social.",
+      "citada": true
+    },
+    {
+      "url": "https://www.hacienda.gob.do/wp-content/uploads/2023/12/ley_87-01-1.pdf",
+      "titulo": "i SECRETARÍA DE ESTADO DE TRABAJO CONSEJO NACIONAL DE SEGURIDAD SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "https://cnss.gob.do/wp-content/uploads/2024/09/Ley-87-01-que-crea-el-SDSS-y-las-modificaciones-de-las-leyes-397-19-y-13-20.pdf",
+      "titulo": "i LEY NO. 87-01 QUE CREA EL SISTEMA DOMINICANO DE SEGURIDAD",
+      "citada": true
+    },
+    {
+      "url": "https://phlaw.com/wp-content/uploads/2025/01/Ley-No.-87-01-que-crea-el-Sistema-el-Sistema-Dominicano-de-Seguridad-Social.pdf",
+      "titulo": "Ley No. 87-01 que crea el Sistema Dominicano de Seguridad ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.dgjp.gob.do/wp-content/uploads/2022/05/Ley-No.87-01.pdf",
+      "titulo": "Ley No. 87-01 que crea El Sistema Dominicano de Seguridad ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.secmca.org/wp-content/uploads/2023/11/SECMCA-Caracterizacion-del-sistema-de-pensiones-dominicano.pdf",
+      "titulo": "CARACTERIZACIÓN DEL SISTEMA DE PENSIONES DOMINICANO Secretaría Ejecutiva",
+      "citada": true
+    },
+    {
+      "url": "https://phlaw.com/es/34ley-no-87-01-que-crea-sistema-dominicano-seguridad-social34/",
+      "titulo": "Ley 87-01 que crea el Sistema Nacional de Seguridad Social - Pellerano & Herrera",
+      "citada": true
+    },
+    {
+      "url": "https://sipen.gob.do/index.php/descarga/leyes_2007_08_20191202115906.pdf",
+      "titulo": "Ley No. 188-07 que introduce modificaciones a la ...",
+      "citada": true
+    },
+    {
+      "url": "https://docs.republica-dominicana.justia.com/nacionales/leyes/ley-188-07.pdf",
+      "titulo": "CONSIDERANDO PRIMERO: Que la Seguridad Social es ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc029524/",
+      "titulo": "Tribunal Constitucional",
+      "citada": true
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc087923/",
+      "titulo": "Tribunal Constitucional",
+      "citada": true
+    },
+    {
+      "url": "http://www.arssenasa3.gob.do/index/AutoGestionTransparencia/Archivos/BaseLegalInstitucional/BLI_Leyes/leyes/Leyno._397_19.pdf",
+      "titulo": "Ley No. 397-19 que crea el Instituto Dominicano de Prevención y Protección de",
+      "citada": true
+    },
+    {
+      "url": "https://hoy.com.do/el-pais/sistema-dominicano-de-seguridad-social-avances-en-el-2003-y-desafios-para-el-2004_22631.html",
+      "titulo": "Sistema Dominicano de Seguridad Social: avances en el 2003 y desafíos para el 2004",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.cepal.org/server/api/core/bitstreams/7247e497-f4ee-43d4-9d00-e62ecaa0f95b/content",
+      "titulo": "Avances y desafíos en la implementación del sistema de pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://mepyd.gob.do/mepyd/wp-content/uploads/archivos/planificacion/politica-social-del-gobierno-dominicano-vol.-i.pdf",
+      "titulo": "Presidencia de la República Gabinete Social POLITICA SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "https://sipen.gob.do/index.php/sobre-nosotros/historia",
+      "titulo": "SIPEN - Superintendencia de Pensiones · SIPEN",
+      "citada": true
+    },
+    {
+      "url": "https://lafundacion.do/en/articles-in-text-format/2021/reactivadores-o-destructores/",
+      "titulo": "Fundación Economía y Desarrollo, Inc. - ¿Reactivadores o Destructores?",
+      "citada": true
+    }
+  ]
+}

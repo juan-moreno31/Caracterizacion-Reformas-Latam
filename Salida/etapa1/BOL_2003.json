@@ -1,0 +1,274 @@
+{
+  "id": "BOL_2003",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2003,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.4459,
+  "incompleto": false,
+  "norma": "Ley N° 2450 de 9 de abril de 2003, Ley de Regulación del Trabajo Asalariado del Hogar",
+  "texto": "# Informe de investigación: Bolivia 2003, Ley N° 2450 de Regulación del Trabajo Asalariado del Hogar\n\n## 1. Objetivo declarado\n\n**No encontré la exposición de motivos ni declaraciones del gobierno de 2003.** Lo que sigue proviene de fuentes posteriores y no del Ejecutivo que promulgó la ley.\n\n- Una evaluación oficial del Servicio Plurinacional de la Mujer y de la Despatriarcalización dice que la ley se promulgó con la finalidad de que el trabajo de las trabajadoras del hogar sea reconocido, valorado y remunerado, que los derechos que tienen sean similares al resto de la fuerza laboral en el país.\n- WIEGO describe la ley como una concesión obtenida por los movimientos sociales bolivianos del gobierno del presidente Gonzalo Sánchez de Lozada en un contexto muy específico de fuertes movilizaciones sociales contra el neoliberalismo.\n\nPor eso el objetivo de equiparar derechos fue planteado por el movimiento sindical del sector y no por la agenda propia del gobierno. Habría que anotarlo en la distinción entre lo declarado y lo efectivo.\n\n## 2. Qué cambia efectivamente, por dimensión\n\nLa ley abroga la Resolución Ministerial de 19 de mayo de 1954; y deroga los Artículos 36° al 40° de la Ley General del Trabajo, los Artículos 27° y 28° de su Decreto Reglamentario. Antes, la Ley General del Trabajo establecía que los domésticos no estarán sujetos a horario, acomodándose su trabajo a la naturaleza de la labor. Además, los derechos reconocidos por la presente Ley son irrenunciables.\n\n**`jornada_y_horas_extra` → aumenta.**\n- Fija por primera vez una jornada máxima para el sector y distingue entre quienes viven en el hogar del empleador y quienes no (Art. 11). El tiempo destinado a la alimentación, no se computará en la jornada laboral.\n- Reconoce descanso semanal y feriados (Art. 12) y vacaciones según las escalas generales (Art. 13). Las horas extraordinarias, serán remuneradas de acuerdo a la Ley General del Trabajo.\n- Matiz: la jornada de quienes viven en el hogar sigue siendo más larga que la del régimen general. Según la evaluación oficial, esto las pone en desventaja en relación al Régimen General de la LGT.\n\n**`salario_y_negociacion_salarial` → aumenta.**\n- El salario debe pagarse mensualmente en moneda de curso legal, quedando prohibido el pago fraccionado y en especie, con un salario no inferior al mínimo nacional cuando la jornada es completa.\n- La ley establece una regla de proporcionalidad para el trabajo parcial o por horas y reconoce el aguinaldo (Art. 15).\n- La evaluación oficial afirma que por primera vez se puso un parámetro mínimo para que las trabajadoras del hogar puedan negociar con sus empleadores.\n\n**`despido_e_indemnizacion` → aumenta.**\n- Reconoce indemnización y desahucio por despido injustificado (Arts. 8 y 17) y establece un preaviso más largo para el empleador que para la trabajadora (Art. 7).\n- pasado este período, se adquieren los derechos establecidos por la presente Ley, desde el inicio del contrato, incluyendo el término de prueba.\n- No puede efectuarse el despido, cuando el contrato de trabajo se encuentra en suspenso, por ejemplo durante enfermedad, vacaciones o descanso por maternidad.\n- Contrapeso: el Art. 20 enumera causales en las que no se pagan beneficios sociales.\n\n**`contratacion_temporal` → aumenta, con una exclusión.**\n- El contrato puede ser verbal o escrito; será escrito cuando exceda del año; a falta de éste, se presume indefinido.\n- Pero los contratos realizados sin horario o de manera discontinua, serán considerados como trabajos eventuales, por tanto, no sujetos a la presente Ley. Esto deja fuera al trabajo por días o intermitente.\n\n**`seguridad_social_y_pensiones` → aumenta en lo formal, con aplicación diferida.**\n- El Art. 9 establece que el trabajo del hogar está sujeto a afiliación a la Caja Nacional de Salud, para cuyos efectos se realizarán los aportes y descuentos correspondientes.\n- El Art. 24 dejó el trámite para un decreto supremo (ver sección 6).\n- Mientras no haya afiliación, el empleador cubrirá los gastos que demande la atención médica.\n\n**`genero_y_conciliacion` → aumenta.**\n- Obliga al empleador a otorgar descanso pre y posnatal (Art. 21).\n- Abre vías de denuncia: la Brigada de Protección de la Mujer y Familia, la Policía y el Ministerio Público recibirán quejas o demandas de trabajadores(as) asalariados(as) del hogar, sobre: abusos, agresión física, acoso sexual o de otra índole.\n\n**`derechos_colectivos_sindicales` → aumenta.** La sindicalización figura entre los derechos del Art. 8. Es un reconocimiento declarativo sin desarrollo adicional.\n\n**`justicia_laboral_e_inspeccion` → aumenta.** La institución que compruebe una denuncia deberá remitir de inmediato los antecedentes del hecho a la Inspectoría del Trabajo, para la regulación del pago de salarios y beneficios sociales.\n\n**`empleo_juvenil_y_aprendizaje` → reorganiza.** El trabajo de niños, niñas y adolescentes en el hogar se remite al Código Niño, Niña y Adolescente y a la Ley General del Trabajo (Art. 5). No crea un régimen propio.\n\n**`otro` → aumenta (dignidad y trato).** Prohíbe retener los efectos personales de la trabajadora (Art. 16). El empleador debe dar un trato acorde a la dignidad humana y respetar la identidad cultural de los(as) trabajadores(as).\n\n**Orientación propuesta: `protectora`.** No identifiqué componentes de flexibilización con un peso comparable.\n\n## 3. Población objetivo\n\nLa ley se aplica a quienes realizan trabajos de cocina, limpieza, lavandería, aseo, cuidado de niños, asistencia y otros que se encuentren comprendidos en la definición. Excluye el trabajo en locales de servicio y comercio.\n\nEl texto es neutro en género, pero según WIEGO la mayoría de estas trabajadoras are poor, indigenous women of rural origin (mujeres pobres, indígenas y de origen rural).\n\n**Propuesta: `mujeres`, `informales` y, de forma secundaria, `jovenes`.** El codebook no tiene una categoría para un sector específico. Sugiero no usar `asalariados_formales`, porque la mayoría de los contratos del sector seguían siendo verbales y sin registro (ver sección 7).\n\n## 4. Contexto político y económico\n\n- **El movimiento del sector.** La federación nacional de trabajadoras del hogar (FENATRAHOB) lideraron una campaña de diez años de duración para conseguir una ley que protegiese sus derechos. Sus alianzas con ONG feministas, el movimiento obrero y el MAS fueron determinante para obtener la aprobación.\n- **La crisis de febrero.** Dos meses antes de la ley, en febrero de 2003, el anuncio de un impuesto al salario provocó enfrentamientos entre la policía y el ejército en La Paz. The serious economic recession (una grave recesión económica) agravó esas protestas.\n- **El desenlace.** En octubre, las protestas por la exportación de gas brought about the resignation of President Gonzalo Sánchez de Lozada, who was replaced by the Vice-President, Carlos Mesa Gisbert. (provocaron la renuncia del presidente, que fue reemplazado por el vicepresidente Carlos Mesa).\n\n## 5. ¿Revierte una reforma previa?\n\n**Propuesta: `revierte_reforma_previa` = false.** La ley sustituye el régimen especial del trabajo doméstico de la Ley General del Trabajo y la Resolución Ministerial de 1954. No revierte ninguna reforma flexibilizadora reciente. El régimen general del D.S. 21060 no fue tocado.\n\n## 6. Entrada en vigor y aplicación diferida\n\n- **Fecha.** La ley fue promulgada el 9 de abril de 2003. vLex registra como Fecha de Publicación · 11 de Abril de 2003. **No verifiqué si la ley tiene una cláusula expresa de entrada en vigor.** Sugiero `fecha_entrada_vigencia` = 2003-04-09 y anotar en `notas` la fecha de publicación del 11 de abril, además de la fecha del 3 de abril que da NATLEX (no la verifiqué directamente). La evaluación oficial menciona además un \"19 de abril\", que parece una errata.\n- **Salud, `vigencia_escalonada` = true (confirmado).** El Art. 24 establece que se dejará para la reglamentación, el trámite concerniente a la afiliación en la Caja Nacional de Seguro Social, debiendo aprobarse un Decreto Supremo. Ese decreto es el D.S. 4589 de 28 de septiembre de 2021. Prensa nacional lo describe como aprobado tras casi dos décadas. El decreto condiciona la afiliación a que la trabajadora perciba al menos el salario mínimo nacional.\n- **Pensiones.** Según WIEGO, the right to pension coverage was recognized by the 2450/2003 Law but the implementation of this right was conditional on a Decree (el derecho estaba reconocido, pero su aplicación dependía de un decreto). **No pude verificar si ese decreto se dictó.**\n- **Contrato escrito.** Como el artículo 2 no fue implementado en los años que siguieron a la aprobación de la ley, casi todos los contratos siguieron siendo orales. Lo puso en práctica la Resolución Ministerial 218/14, que regula el Contrato Individual de Trabajo – CIT con la finalidad de generar certezas en las condiciones de trabajo de éste sector. Nota: WIEGO atribuye esta norma al \"artículo 2\", pero en el texto oficial la regla del contrato está en el Art. 3.\n\n## 7. Estado de vigencia posterior\n\n**Propuesta: `vigente`.**\n- Infoleyes registra la ley como Vigente.\n- No encontré ninguna norma que la modifique o derogue. Las normas posteriores la complementan: el D.S. 28655 de 2006, la Ley N° 309 de 2012 que ratifica el Convenio 189 de la OIT, la Resolución Ministerial 218/14 y el D.S. 4589.\n- No encontré fallos del Tribunal Constitucional sobre la ley. Esto no prueba que no existan.\n\n**Advertencia para el análisis econométrico:** hay una gran distancia entre lo que la ley establece y lo que se cumple.\n- WIEGO señala que las condiciones laborales de las trabajadoras del hogar no mejoraron de forma inmediata.\n- La evaluación oficial concluye que casi todas las trabajadoras asalariadas del hogar tienen contratos verbales, que no pueden ser registrados en el Ministerio de Trabajo.\n- En la práctica, el tratamiento fue parcial y gradual, sobre todo en salud.\n\n## 8. Lo que no pude verificar\n\n1. La exposición de motivos y el discurso del gobierno en 2003.\n2. La cláusula de entrada en vigor y la fecha que da NATLEX.\n3. Si existe un decreto que reglamente las pensiones.\n4. La ausencia de fallos constitucionales: no encontré ninguno, pero no se puede descartar.\n5. El D.S. 26877: no lo investigué en esta etapa.",
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-2450.xhtml",
+      "titulo": "Bolivia: Ley de regulación del Trabajo Asalariado del Hogar, 9 de abril de 2003",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/1309/ley-de-regulacion-del-trabajo-asalariado-del-hogar-2450",
+      "titulo": "Ley de Regulacion del Trabajo Asalariado del Hogar (2450) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "http://www.silep.gob.bo/norma/4204/texto_ordenado",
+      "titulo": "SILEP - Sistema de Información Legal",
+      "citada": true
+    },
+    {
+      "url": "https://sepmud.gob.bo/wp-content/uploads/2025/08/2450.pdf",
+      "titulo": "2450.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://siip.produccion.gob.bo/repSIIP2/files/normativa_12345_29092021d567.pdf",
+      "titulo": "DECRETO SUPREMO N° 4589 LUIS ALBERTO ARCE CATACORA",
+      "citada": true
+    },
+    {
+      "url": "https://lapatria.bo/enfoque-nacional/gestion/promulgan-decreto-que-permite-la-afiliacion-de-trabajadoras-del-hogar-a-la-cns/",
+      "titulo": "Promulgan decreto que permite la afiliación de trabajadoras del hogar a la CNS - La Patria 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://www.wiego.org/wp-content/uploads/2019/09/Castano_Movilizaciones_trabajadoras_hogar-Bolivianas_WIEGO_OB10.pdf",
+      "titulo": "Las movilizaciones de las trabajadoras del hogar bolivianas",
+      "citada": true
+    },
+    {
+      "url": "https://www.wiego.org/wp-content/uploads/2019/09/Castano_Tierno-poli%CC%81ticas-derechos-trabajadoras-del-hogar-Bolivia-WIEGO-PB17.pdf",
+      "titulo": "Leyes, legitimidad y lucha: lecciones de las políticas sobre ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.wiego.org/wp-content/uploads/2019/09/Castano_Tierno-Bolovian-Policies-Domestic-Workers-Rights-WIEGO-PB17.pdf",
+      "titulo": "Lessons from Bolivian Policies on Domestic Workers' Rights",
+      "citada": true
+    },
+    {
+      "url": "https://www.derechoteca.com/legal-tech-bolivia-bo-d-lex-norma/ley-2450-del-09-abril-2003",
+      "titulo": "Bolivia: Ley No 2450 del 09 Abril 2003",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-trabajo-hogar-474285038",
+      "titulo": "Ley 2450 - vLex Bolivia - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://reliefweb.int/report/bolivia/bolivia-crisis-and-justice-days-violence-feb-and-oct-2003",
+      "titulo": "Bolivia: Crisis and Justice - Days of violence in Feb and Oct 2003 - Bolivia (Plurinational State of)",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/4969/resoluci%C3%B3n-ministerial-mt-2014-218-14",
+      "titulo": "Resolución Ministerial MT 2014 218/14 - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "http://gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/18860",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://docs.bolivia.justia.com/nacionales/leyes/ley-2450-2002-2003.pdf",
+      "titulo": "LEY DE REGULACION DEL TRABAJO ASALARIADO DEL HOGAR",
+      "citada": false
+    },
+    {
+      "url": "https://legislacion.com.bo/norma/6877-ley-n-2450",
+      "titulo": "LEY N° 2450 - LEY DE REGULACION DEL TRABAJO ...",
+      "citada": false
+    },
+    {
+      "url": "https://medium.com/@andre.aguilera/derechos-laborales-de-trabajadoras-y-trabajadores-del-hogar-en-bolivia-d9fdcce0d486",
+      "titulo": "Derechos laborales de trabajadoras y trabajadores del hogar en Bolivia.",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.justia.com/nacionales/leyes/ley-2450-2002-2003/gdoc/",
+      "titulo": "Justia Bolivia :: Nacionales > Leyes > Ley 2450 2002-2003 :: Ley de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-19390524.html",
+      "titulo": "Bolivia: Ley General del Trabajo, 24 de mayo de 1939",
+      "citada": false
+    },
+    {
+      "url": "https://mitrabajobolivia.com/beneficios-para-trabajadores-domesticos/",
+      "titulo": "Beneficios para Trabajadores Domésticos - Mi Trabajo Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4589.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 4589, 28 de septiembre de 2021",
+      "citada": false
+    },
+    {
+      "url": "https://leyesdecretosbolivia.blogspot.com/2021/09/decreto-supremo-n-4589-reglamentar-la.html",
+      "titulo": "DECRETO SUPREMO N° 4589 - Reglamentar la Ley N° 2450, de 9 de abril de 2003, de Regulación del Trabajo Asalariado del Hogar, referido a la afiliación de las trabajadoras o trabajadores asalariados del hogar ante la Caja Nacional de Salud.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117431/DS%204589%20BOL.pdf",
+      "titulo": "Contenido Bolivia: Decreto Supremo Nº 4589, 28 de septiembre de 2021",
+      "citada": false
+    },
+    {
+      "url": "http://gacetaoficialdebolivia.gob.bo/normas/buscar/4589",
+      "titulo": "Decreto Supremo 4589",
+      "citada": false
+    },
+    {
+      "url": "https://www.atb.com.bo/2021/09/28/presidente-promulga-decreto-supremo-4589-que-permite-la-afiliacion-de-trabajadores-del-hogar-a-la-caja-nacional-de-salud/",
+      "titulo": "Presidente promulga Decreto Supremo 4589 que permite la afiliación de trabajadores del hogar a la Caja Nacional de Salud - ATB Digital",
+      "citada": false
+    },
+    {
+      "url": "https://erbol.com.bo/gente/el-gobierno-aprueba-decreto-que-permite-la-afiliaci%C3%B3n-de-trabajadoras-del-hogar-la-cns",
+      "titulo": "El Gobierno aprueba decreto que permite la afiliación de trabajadoras del hogar a la CNS",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/7703/decreto-supremo-4589",
+      "titulo": "Decreto Supremo 4589 - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.opinion.com.bo/articulo/pais/arce-promulga-decreto-que-permite-afiliacion-trabajadores-hogar-cns/20210928133837836671.html",
+      "titulo": "Arce promulga decreto que permite la afiliación de trabajadores del hogar a la CNS",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Federaci%C3%B3n_Nacional_de_Trabajadoras_del_Hogar_de_Bolivia",
+      "titulo": "Federación Nacional de Trabajadoras del Hogar de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-28655.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 28655, 25 de marzo de 2006",
+      "citada": false
+    },
+    {
+      "url": "https://amecopress.net/Bolivia-Las-trabajadoras-domesticas-uno-de-los-sectores-laborales-mas-vulnerables",
+      "titulo": "Bolivia: Las trabajadoras domésticas, uno de los sectores laborales mas vulnerables |  Ameco Press",
+      "citada": false
+    },
+    {
+      "url": "https://revistalabrava.com/males-cronicos-la-carga-de-las-trabajadoras-del-hogar-tras-anos-de-servicios/",
+      "titulo": "Males crónicos, la carga de las trabajadoras del hogar tras años de servicios",
+      "citada": false
+    },
+    {
+      "url": "https://www.americas.org/household-workers-in-latin-america-and-the-caribbean-uniting-for-justice/",
+      "titulo": "HOUSEHOLD WORKERS IN LATIN AMERICA AND THE CARIBBEAN, Uniting for Justice",
+      "citada": false
+    },
+    {
+      "url": "https://www.care.org.ec/wp-content/uploads/2014/03/informe-care-trabajadoras-hogar-para-cd1.pdf",
+      "titulo": "Situación organizativa de las trabajadoras remuneradas del hogar en la región",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/2021_dto4589_bol.pdf",
+      "titulo": "DECRETO SUPREMO N° 4589 LUIS ALBERTO ARCE CATACORA",
+      "citada": false
+    },
+    {
+      "url": "https://oiss.org/wp-content/uploads/2021/09/Decreto-Supremo-4589-filiacion-de-las-trabajadoras-o-trabajadores-asalariados-del-hogar-ante-la-Caja-Nacional-de-Salud..pdf",
+      "titulo": "DECRETO SUPREMO N° 4589 LUIS ALBERTO ARCE CATACORA",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/2003_ley2450_bol.pdf",
+      "titulo": "LEY Nº 2450 LEY DE 9 DE ABRIL DE 2003 GONZALO SANCHEZ DE LOZADA",
+      "citada": false
+    },
+    {
+      "url": "https://www.comunidad.org.bo/index.php/indicadores/mostrarNormativas/cod/NO20120226174851",
+      "titulo": "Comunidad",
+      "citada": false
+    },
+    {
+      "url": "https://www.diariolibre.com/economia/empleo/2025/04/15/aumento-salarial-trabajadoras-del-hogar-y-sentencia-del-tc/3074001",
+      "titulo": "Aumento salarial trabajadoras del hogar y sentencia del TC - Diario Libre",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/64101/BOL64101.pdf",
+      "titulo": "GACETA OFICIAL DEL ESTADO PLURINACIONAL DE BOLIVIA LEY N° 2450",
+      "citada": false
+    },
+    {
+      "url": "https://www.tc.gob.pe/jurisprudencia/2010/02463-2010-AA.html",
+      "titulo": "02463-2010-AA",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Masacre_de_Octubre",
+      "titulo": "Masacre de Octubre",
+      "citada": false
+    },
+    {
+      "url": "https://ahoraelpueblo.bo/index.php/opinion/tribuna/el-impuestazo-de-2003",
+      "titulo": "El impuestazo de 2003",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Guerra_del_Gas_(Bolivia)",
+      "titulo": "Guerra del Gas (Bolivia)",
+      "citada": false
+    },
+    {
+      "url": "https://eju.tv/2022/02/todo-lo-que-tiene-que-saber-19-anos-despues-de-la-crisis-de-febrero-negro/",
+      "titulo": "Todo lo que tiene que saber 19 años después de la crisis de «Febrero negro»",
+      "citada": false
+    },
+    {
+      "url": "https://www.swissinfo.ch/spa/s%C3%A1nchez-de-lozada-dice-que-bolivia-ha-vivido-dos-d%C3%A9cadas-de-ilusiones-traicionadas/48899622",
+      "titulo": "Sánchez de Lozada dice que Bolivia ha vivido dos décadas de \"ilusiones traicionadas\" - SWI swissinfo.ch",
+      "citada": false
+    },
+    {
+      "url": "https://www.cepc.gob.es/sites/default/files/2021-12/27332franco-gamboa-rocabado.pdf",
+      "titulo": "LAS RAZONES DEL FRACASO: LA ASAMBLEA CONSTITUYENTE EN BOLIVIA COMO",
+      "citada": false
+    },
+    {
+      "url": "https://www.opinion.com.bo/articulo/informe-especial/20-anos-guerra-gas-justicia-tiene-aun-temas-pendientes/20231013211358924090.html",
+      "titulo": "A 20 años de la “Guerra del Gas”, la justicia tiene aún temas pendientes",
+      "citada": false
+    },
+    {
+      "url": "https://www.internationalist.org/boliviaarde1003.html",
+      "titulo": "Bolivia arde - La guerra del gas",
+      "citada": false
+    },
+    {
+      "url": "https://www.refworld.org/reference/annualreport/cpj/2004/en/56020",
+      "titulo": "Attacks on the Press in 2003 - Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://comunidad.org.bo/assets/normativas/formato_contrato_cit_(1).pdf",
+      "titulo": "Ministerio de Trabajo, Empleo y Previsión Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.minedu.gob.bo/files/publicaciones/veaye/spcc/Estandar-Tecnico-de-Trabajador-Asalariado-del-Hogar.pdf",
+      "titulo": "TRABAJADOR/A ASALARIADO/A DEL HOGAR",
+      "citada": false
+    }
+  ]
+}

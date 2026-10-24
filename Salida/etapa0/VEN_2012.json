@@ -1,0 +1,101 @@
+{
+  "id": "VEN_2012",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 2012,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1073,
+  "incompleto": false,
+  "norma_propuesta": "Decreto N° 8.938 con Rango, Valor y Fuerza de Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT), Gaceta Oficial N° 6.076 Extraordinaria del 7 de mayo de 2012",
+  "otras": "Decreto N° 9.322 de inamovilidad laboral (27 de diciembre de 2012)",
+  "confianza": "alta",
+  "texto": "Para VEN 2012, la reforma principal es el **Decreto N° 8.938, con Rango, Valor y Fuerza de Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT)**.\n\n**Qué es.** Es una nueva ley orgánica del trabajo completa: su texto oficial dice que el Decreto Nº 8.938 es del 30 de abril de 2012, firmado por Hugo Chávez. Se publicó en la Gaceta Oficial N° 6.076 Extraordinaria, de fecha 07/05/2012. Según su artículo 1, su objetivo declarado es \"proteger al trabajo como hecho social y garantizar los derechos de los trabajadores y de las trabajadoras\". El Presidente no la dictó con facultades propias, sino dentro del marco de la Ley Habilitante dictada por la Asamblea Nacional el 17 de diciembre de 2010. Por eso, en el codebook corresponde a `decreto_legislativo` y no a `ley`, aunque la Asamblea Nacional la clasifica como \"Ley\".\n\n**Por qué la elijo.** Aparece en fuente oficial (portal de la Asamblea Nacional y Gaceta Oficial) y en la base NATLEX de la OIT, donde está clasificada como \"Labour codes, general labour and employment acts\". Es claramente la norma laboral de mayor alcance del año, porque sustituye por completo el régimen laboral anterior. Para las etapas siguientes conviene tener en cuenta dos puntos:\n- **Vigencia diferida:** aunque rige desde su publicación, existen disposiciones que tienen vigencia diferida e incluso retroactiva. Esto apunta a `vigencia_escalonada = true`, pero esa fuente es un boletín de análisis jurídico, así que habría que confirmarlo en el texto oficial.\n- **Diferencia de fechas:** el decreto se dictó el 30 de abril y se publicó el 7 de mayo de 2012. Para la fecha de entrada en vigor debe usarse el 7 de mayo.\n\n**Otra candidata.** NATLEX registra como norma de desarrollo del mismo año el Decreto núm. 9322 (2012-12-27), que establece la inamovilidad laboral a favor de los trabajadores y trabajadoras del sector privado y del sector público regidos por la Ley Orgánica del Trabajo. La pongo como relacionada y no como principal, porque es una medida puntual que prolonga la protección contra el despido. No reorganiza el régimen laboral como lo hace la LOTTT.\n\nNORMA: Decreto N° 8.938 con Rango, Valor y Fuerza de Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT), Gaceta Oficial N° 6.076 Extraordinaria del 7 de mayo de 2012\nOTRAS: Decreto N° 9.322 de inamovilidad laboral (27 de diciembre de 2012)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.asambleanacional.gob.ve/leyes/sancionadas/decreto-n0-8938-mediante-el-cual-se-dicta-el-decreto-con-rango-valor-y-fuerza-de-la-ley-organica-del-trabajo-los-trabajadores-y-las-trabajadoras",
+      "titulo": "Decreto N° 8.938, mediante el cual se dicta el Decreto con Rango, Valor y Fuerza de la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras.",
+      "citada": true
+    },
+    {
+      "url": "https://www.inces.gob.ve/wp-content/uploads/2017/10/lot.pdf",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras",
+      "citada": true
+    },
+    {
+      "url": "https://www.lablabor.com.ve/wp-content/uploads/2020/03/Pub-59III.pdf",
+      "titulo": "nueva ley orgánica del trabajo, los ...",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=90040",
+      "titulo": "NATLEX - Venezuela (Bolivarian Republic of) - Decreto núm. 8938 mediante el cual se dicta el Decreto con rango, valor y fuerza de Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras.",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Mario-Pasco-Homenaje-full-405-420.pdf",
+      "titulo": "405 UNA LEY DE TRANSICIÓN: LA LEY ORGÁNICA DEL TRABAJO, LOS TRABAJADORES Y LAS",
+      "citada": true
+    },
+    {
+      "url": "https://www.mpppst.gob.ve/mpppstweb/wp-content/uploads/2014/03/LEY_ORGANICA_DEL_TRABAJO_LOS_TRABAJADORES_Y_LAS_TRABAJADORAS.pdf",
+      "titulo": "GACETA OFICIAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA LEY ORGÁNICA",
+      "citada": false
+    },
+    {
+      "url": "https://www.banescopedia.banesco.com/handle/100/7529",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras LOTTT (GO N° 6.076, 07 de mayo de 2012)",
+      "citada": false
+    },
+    {
+      "url": "https://www.conalot.gob.ve/2020/01/ley-organica-del-trabajo-los-trabajadores-y-las-trabajadoras-publicado-en-la-gaceta-oficial-de-la-republica-bolivariana-de-venezuela-n-6-076-de-fecha-07-05-2012/",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras, publicado en la Gaceta Oficial de la República Bolivariana de Venezuela N° 6.076, de fecha 07-05-2012.",
+      "citada": false
+    },
+    {
+      "url": "https://www.academia.edu/9162267/Ley_Org%C3%A1nica_del_Trabajo_los_Trabajadores_y_las_Trabajadoras",
+      "titulo": "(PDF) Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras",
+      "citada": false
+    },
+    {
+      "url": "https://zenodo.org/records/17160581",
+      "titulo": "La jornada de trabajo en la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras",
+      "citada": false
+    },
+    {
+      "url": "https://www.ivpa.gob.ve/wp-content/uploads/2025/03/LOTTT.pdf",
+      "titulo": "Ley Orgánica - del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.littler.com/news-analysis/asap/alerta-los-empleadores-venezolanos-nuevo-reglamento-establece-requisitos",
+      "titulo": "Alerta a los Empleadores Venezolanos: Nuevo Reglamento Establece Requisitos Adicionales a la Jornada Laboral y Días de Descanso",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/2012_leyorgtrabajo_ven.pdf",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras",
+      "citada": false
+    },
+    {
+      "url": "https://www.refworld.org/legal/legislation/natlegbod/2012/es/102518",
+      "titulo": "Venezuela: Ley orgánica del trabajo, las trabajadoras y los trabajadores",
+      "citada": false
+    },
+    {
+      "url": "https://vlexvenezuela.com/vid/ley-organica-trabajo-trabajadores-739935589",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y Trabajadoras - vLex Venezuela",
+      "citada": false
+    },
+    {
+      "url": "https://www.academia.edu/44534925/Ley_orgnica_del_trabajo_los_trabajadores_y_las_trabajadoras",
+      "titulo": "(PDF) Ley orgnica del trabajo los trabajadores y las trabajadoras",
+      "citada": false
+    },
+    {
+      "url": "https://www.sistematemis.com/ley-organica-del-trabajo-las-trabajadoras-y-trabajadores/",
+      "titulo": "LOTTT Venezuela: Ley del Trabajo vigente 2026",
+      "citada": false
+    }
+  ]
+}

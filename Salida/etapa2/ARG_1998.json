@@ -1,0 +1,151 @@
+{
+  "id": "ARG_1998",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 1998,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0429,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 25.013 de Reforma Laboral (Argentina, 1998)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto 1111/98 (promulgación parcial con veto de la Ley 25.013)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "1998-10-03",
+    "vigencia_escalonada": true,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "Según el texto formal, establecer un régimen de reforma laboral que modifica aspectos de la regulación del Contrato de Trabajo, de las Leyes 24.013, 24.465 y 24.467 y de la normativa sobre convenciones colectivas. El decreto de promulgación presenta el despido discriminatorio como una figura acorde con preceptos constitucionales y legislaciones modernas. La intención declarada de generar empleo o combatir la precarización queda sin fuente, porque no se consultó el Mensaje 296/98.",
+    "descripcion_intenciones": "La ley elimina las modalidades de contratación temporal promovidas y mantiene solo las tradicionales basadas en causas objetivas. Como contrapartida, abarata el despido en los contratos por tiempo indeterminado celebrados tras su vigencia, al suprimir la indemnización mínima y habilitar su disponibilidad colectiva. Devuelve el carácter laboral al contrato de aprendizaje y reorganiza el período de prueba, que se acorta pero puede ampliarse por convenio. En el plano colectivo centraliza la negociación en las asociaciones de grado superior, admite la articulación entre convenios y limita la ultraactividad de los convenios antiguos.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Deroga las modalidades promovidas de la Ley 24.013 y artículos de la Ley 24.465; los contratos vigentes continúan hasta su finalización sin renovación ni prórroga."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Para los contratos nuevos suprime la indemnización mínima, cambia la base de cálculo y habilita la disponibilidad colectiva de las indemnizaciones. Incorpora como contrapeso la presunción de conducta temeraria ante falta de pago y el despido discriminatorio con indemnización agravada."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Período de prueba: sustituye el artículo 92 bis de la Ley de Contrato de Trabajo con un plazo legal más corto pero ampliable por convenio colectivo homologado."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Devuelve la naturaleza laboral al contrato de aprendizaje, exige programa formativo y forma escrita, y lo convierte en contrato por tiempo indeterminado si el empleador incumple."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Priva a los sindicatos de primer grado de la facultad de negociar salvo delegación, admite la articulación entre convenios y limita la ultraactividad de los convenios no renegociados."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea una comisión de seguimiento y prevé la difusión pública de los incumplimientos del deber de negociar de buena fe. La creación de un servicio de mediación y arbitraje no fue verificada."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Deroga el artículo 89 de la Ley 24.467 y obliga a registrar el contrato a prueba, incluso en el libro especial pyme."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "El efecto es menor: el Decreto 1111/98 vetó el párrafo que protegía los regímenes jubilatorios convencionales frente a modificaciones unilaterales. La exención de aportes durante el período de prueba no fue contrastada con el texto original."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "jovenes",
+      "empleadores_mipymes"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley se dictó en el tramo final del gobierno de Carlos Menem y el ministro de Trabajo era Antonio E. González. Modifica la Ley de Contrato de Trabajo (Ley 20.744), la Ley Nacional de Empleo 24.013 (1991), la Ley 24.465 (1995) y la Ley pyme 24.467. La ultraactividad fue el punto más conflictivo de la negociación con empresarios y sindicatos. Según una fuente académica, la centralización sindical se incluyó a pedido de la cúpula sindical, probablemente como compensación por la reducción indemnizatoria. Otro estudio califica el resultado de ambiguo: hubo desprotección individual, pero sin avance sobre las prerrogativas sindicales. El contexto macroeconómico de desempleo y recesión queda sin fuente sólida.",
+    "notas": "Publicación en el Boletín Oficial: 1998-09-24. La fecha de vigencia 1998-10-03 proviene de una fuente secundaria (circular gremial) y coincide con el plazo supletorio del Código Civil de entonces, inferencia sin fuente. Vigencia escalonada: el régimen de despido y preaviso rige solo para los contratos celebrados después de la vigencia, y los contratos a prueba y promovidos en curso continúan bajo su régimen de origen. La reversión es parcial: deroga las modalidades promovidas de la Ley 24.013 y el período de prueba de la Ley 24.465, aunque la rebaja indemnizatoria sigue la línea flexibilizadora previa. Modificaciones posteriores: la Ley 25.250 (2000) derogó los artículos 12, 14, 15 y 16, derogación ratificada por la Ley 25.877. La Ley 25.877 (2004) derogó los artículos 4º a 8º, 10, 11 y 13, que contenían el régimen de despido, el preaviso y el despido discriminatorio. La Ley 26.390 sustituyó el artículo 1º y la Ley 26.427 derogó el artículo 2º. El artículo 9º fue derogado por el Decreto 70/2023, un decreto de necesidad y urgencia, y por la Ley 27.742; no se verificó el control judicial de ese decreto. Hoy sigue esencialmente vigente el aprendizaje modificado y la derogación de las modalidades promovidas. El Decreto 1111/98 vetó parcialmente la ley y redujo los motivos del despido discriminatorio a raza, sexo y religión antes de la vigencia; no se encontraron fallos que anularan la ley. La prensa (La Nación) atribuye por error a un decreto la derogación de los contratos promovidos, que el texto oficial atribuye al artículo 21 de esta ley. No se consultaron NATLEX ni EPLex, el Mensaje 296/98, ni el texto original sobre pasantías, mediación y arbitraje y la consecuencia de no registrar el período de prueba."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN25013.pdf",
+      "titulo": "REFORMA LABORAL Ley 25.013",
+      "citada": true
+    },
+    {
+      "url": "https://stipa-osipa.org.ar/docs/ley%2025013.pdf",
+      "titulo": "Ley 25.013 REFORMA LABORAL -.: STIPA :.",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-53159/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25013 - REFORMA LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://upcndigital.org/~legislacion/Ley%20Contrato%20de%20Trabajo/1998-Ley%2025013_textact.pdf",
+      "titulo": "Ley Nº 25.013 (texto actualizado)",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025013_1998_09_02",
+      "titulo": "Ley N° 25013",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25013-53159/actualizacion",
+      "titulo": "TEXTO ACTUALIZADO - Ley 25013 - REFORMA LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.uart.org.ar/ley-25-877/",
+      "titulo": "Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "http://www.acopiadorescba.com/deq-download/DigitalCircular/4301/document/9270",
+      "titulo": "Ordenamiento del Régimen Laboral Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://agora.edu.es/descarga/articulo/5085206.pdf",
+      "titulo": "Reforma y contrarreforma laboral en Argentina, crónica simple de un proceso",
+      "citada": true
+    },
+    {
+      "url": "https://www.aadtyss.org.ar/files/documentos/360/03.%20LA%20NEGOCIACI%C3%93N%20COLECTIVA%20DESPU%C3%89S%20DE%20LA%20REFORMA%202000%20RM%20Septiembre%202001.pdf",
+      "titulo": "LA NEGOCIACIÓN COLECTIVA DESPUÉS DE LA REFORMA 2000",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/economia/la-ultraactividad-en-el-centro-de-la-discusion-nid88413/",
+      "titulo": "La ultraactividad, en el centro de la discusión - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/3873/387334696002.pdf",
+      "titulo": "El proceso político de la reforma laboral en ...",
+      "citada": true
+    },
+    {
+      "url": "http://www.geocities.ws/adtysscba/ultra.htm",
+      "titulo": "ULTRAACTIVIDAD DE LOS CONVENIOS COLECTIVOS EN LA LEY 25",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/economia/negocios/reforma-laboral-una-historia-de-intentos-fallidos-y-una-anomia-persistente-nid27122025/",
+      "titulo": "Reforma laboral: una historia de intentos fallidos y una anomia persistente - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://www.unse.edu.ar/trabajoysociedad/34%20COSCIA%20VANESA%20Reformas%20laborales%20de%20los%2090%20en%20Argentina.pdf",
+      "titulo": "Reformas laborales de los '90 en Argentina",
+      "citada": true
+    }
+  ]
+}

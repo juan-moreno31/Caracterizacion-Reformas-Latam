@@ -1,0 +1,161 @@
+{
+  "id": "SLV_2022",
+  "iso": "SLV",
+  "pais": "El Salvador",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1889,
+  "incompleto": false,
+  "norma_propuesta": "Decreto Legislativo n.° 614 de 2022, Ley Integral del Sistema de Pensiones",
+  "otras": "Decreto Legislativo n.° 450 de 2022 (reforma al art. 29 del Código de Trabajo); Decreto Legislativo n.° 519 de 2022 (reforma al art. 627 del Código de Trabajo); Decreto Legislativo n.° 510 de 2022, Ley Amor Convertido en Alimento para el Fomento, Protección y Apoyo a la Lactancia Materna; Decreto Legislativo n.° 615 de 2022, Ley de Creación del Instituto Salvadoreño de Pensiones",
+  "confianza": "media",
+  "texto": "Mi elección es el **Decreto Legislativo n.° 614 de 2022, Ley Integral del Sistema de Pensiones**. Hay varias candidatas para 2022 y ninguna es claramente una reforma del mercado laboral, por eso la confianza queda en \"media\".\n\n**Por qué la elijo.** La Asamblea Legislativa la aprobó el 20 de diciembre de 2022, con entrada en vigor ocho días después de su publicación en el Diario Oficial. Además, deroga la Ley del Sistema de Ahorro para Pensiones de 1996. Apliqué el criterio de \"mayor alcance\". La ley crea el sistema de pensiones para los trabajadores del sector privado, público y municipal, bajo regulación, coordinación y gestión del Estado salvadoreño. También vuelve obligatoria e irrevocable la afiliación de esos trabajadores. Cambia el reparto de la cotización entre trabajador y empleador, sube las pensiones de vejez y elimina el anticipo de saldo. Es decir, afecta a todos los asalariados formales.\n\n**Objetivo declarado.** En los considerandos, el Ejecutivo afirma que el sistema de capitalización individual no es capaz de generar pensiones dignas y suficientes. Lo que la ley cambia en la práctica se verificará en la etapa siguiente. Un artículo académico señala que su contenido es muy similar al de la ley anterior.\n\n**Fechas.** Se publicó en el Diario Oficial con fecha del 21 de diciembre de 2022 y entró en vigor el 30 de diciembre de 2022. Coinciden el año de expedición y el de vigencia.\n\n**Otras candidatas del mismo año:**\n- **Decreto Legislativo n.° 450** (19 de julio de 2022): reforma el Código de Trabajo. Agrega a las obligaciones del empleador la de inscribir a sus empleados en el seguro social. Aclara que la obligación incluye a quienes están en período de prueba y a los trabajadores temporales. Está en NATLEX, que da como fecha de vigencia el 18 de agosto de 2022. El listado de la Asamblea es ambiguo sobre su número, que conviene confirmar en el Diario Oficial.\n- **Decreto Legislativo n.° 519** (4 de octubre de 2022): reforma el artículo 627 del Código de Trabajo y gradúa las multas por incumplimiento según el tamaño de la empresa. Su finalidad es garantizar que los patronos cumplan sus obligaciones con multas proporcionales a la realidad actual. Se publicó en el D. O. N° 205, del 31 de octubre de 2022.\n- **Decreto Legislativo n.° 510, Ley Amor Convertido en Alimento**: aprobada el 27 de septiembre de 2022. Obliga a los empleadores a instalar salas de lactancia y a dar pausas remuneradas a las trabajadoras. Su vigencia es diferida, porque entra en vigor ciento ochenta días después de su publicación, así que el tratamiento podría caer en 2023.\n- **Leyes complementarias de la reforma de pensiones**, publicadas junto con el DL 614: la Ley de Creación del Instituto Salvadoreño de Pensiones y la Ley Especial para la Emisión de Certificados de Obligaciones Previsionales y Disolución del Fideicomiso de Obligaciones Previsionales.\n\n**Una decisión que conviene revisar.** Si la base excluye las reformas de seguridad social, la principal pasaría a ser el DL 450, el único de 2022 que encontré en NATLEX como reforma del Código de Trabajo. Para el DL 450, el DL 519 y la ley de lactancia solo encontré fuentes de 2022; no comprobé si se modificaron después.\n\nNORMA: Decreto Legislativo n.° 614 de 2022, Ley Integral del Sistema de Pensiones\nOTRAS: Decreto Legislativo n.° 450 de 2022 (reforma al art. 29 del Código de Trabajo); Decreto Legislativo n.° 519 de 2022 (reforma al art. 627 del Código de Trabajo); Decreto Legislativo n.° 510 de 2022, Ley Amor Convertido en Alimento para el Fomento, Protección y Apoyo a la Lactancia Materna; Decreto Legislativo n.° 615 de 2022, Ley de Creación del Instituto Salvadoreño de Pensiones\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=114293",
+      "titulo": "NATLEX - El Salvador - Decreto de la Asamblea Legislativa núm. 450, de 19 de julio de 2022, que reforma el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=748e604f-21a3-4eda-8eb4-f99963057909",
+      "titulo": "Reformas al Código de Trabajo - El Salvador - Lexology",
+      "citada": true
+    },
+    {
+      "url": "https://goldservice.com.sv/wp-content/uploads/2022/11/reformas-codigo-de-trabajo-el-salvador-aumento-de-multas.pdf",
+      "titulo": "Reformas al Código de Trabajo de El Salvador, Derecho ...",
+      "citada": true
+    },
+    {
+      "url": "https://elcontadorsv.com/descarga/dl-614-2022-reforma-de-pensiones-el-salvador/",
+      "titulo": "DL 614/2022 Reforma de Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://sv.vlex.com/vid/decreto-no-614-ley-916882223",
+      "titulo": "Decreto No. 614.- Ley Integral del Sistema de Pensiones - vLex El Salvador - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://www.laprensagrafica.com/elsalvador/Ley-Integral-del-Sistema-de-Pensiones-que-elimina-retiro-de-anticipo-y-ordena-aumento-del-30--entrara-en-vigor-el-30-de-diciembre-20221222-0061.html",
+      "titulo": "Nueva ley de pensiones que elimina retiro de anticipo y ordena aumento del 30 % entrará en vigor el 30 de diciembre - La Prensa Gráfica",
+      "citada": true
+    },
+    {
+      "url": "https://diario.elmundo.sv/politica/aprobada-nueva-ley-integral-del-sistema-de-pensiones",
+      "titulo": "Aprobada nueva Ley Integral del Sistema de Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://camjol.info/index.php/panoramaunab/article/view/20249",
+      "titulo": "Evolución del Sistema de Pensiones en El Salvador",
+      "citada": true
+    },
+    {
+      "url": "https://blplegal.com/es/nueva-ley-de-proteccion-a-la-lactancia-materna-en-el-salvador/",
+      "titulo": "Nueva ley de protección a la lactancia materna en El Salvador - BLP Legal",
+      "citada": true
+    },
+    {
+      "url": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2020-2029/2022/10/F3600.PDF",
+      "titulo": "DECRETO N. ° 510 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR,",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=29770",
+      "titulo": "NATLEX - El Salvador - Decreto legislativo núm. 241, de la Asamblea Legislativa de la República, por el que se dicta el Código de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://latinalliance.co/en/2022/09/08/reformas-al-codigo-de-trabajo-el-salvador/",
+      "titulo": "Reformas al Código de Trabajo - El Salvador",
+      "citada": false
+    },
+    {
+      "url": "https://latinalliance.co/en/2022/10/17/reformas-al-codigo-de-trabajo-sobre-las-obligaciones-patronales-el-salvador-2/",
+      "titulo": "Reforms to the Labor Code on employer obligations - El Salvador - LatinAlliance",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/leyes-y-decretos/decretos-por-anios/2022/0",
+      "titulo": "Decretos Emitidos en 2022",
+      "citada": false
+    },
+    {
+      "url": "https://lalibertadoeste.gob.sv/wp-content/uploads/2025/05/Codigo-de-Trabajo.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA - REPÚBLICA DE EL SALVADOR",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/86F9518B-9B93-49D5-8B80-42C54123E5E7.pdf",
+      "titulo": "1 ASAMBLEA LEGISLATIVA - REPÚBLICA DE EL SALVADOR",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/8AD0D38D-431D-4B80-AAA2-30D1CB580FAC.pdf",
+      "titulo": "1 DECRETO N.° 658 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR,",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/taxonomy/term/2492",
+      "titulo": "Ley Integral del Sistema de Pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://www.fundaungo.org.sv/ley-integral-del-sistema-de-pensiones",
+      "titulo": "Ley Integral del Sistema de Pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://repo.funde.org/1940/1/Pensio-23.pdf",
+      "titulo": "Reforma del sistema de pensiones 2022 MARZO 2023",
+      "citada": false
+    },
+    {
+      "url": "https://asafondos.org.sv/historia/",
+      "titulo": "Historia",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/el-salvador/2026/08/03/como-la-normativa-de-lactancia-materna-se-transforma-indicadores-positivos-en-el-salvador/",
+      "titulo": "¿Cómo la normativa de lactancia materna se transforma indicadores positivos en El Salvador? - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://crecerjuntos.gob.sv/dist/documents/Ley-Amor-convertido-en-Alimento.pdf",
+      "titulo": "Ley Amor Convertido en Alimento",
+      "citada": false
+    },
+    {
+      "url": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2020-2029/2023/10/FCA08.PDF",
+      "titulo": "DECRETO No. 37.- EL PRESIDENTE DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/node/12364",
+      "titulo": "Nueva Ley obligará a patronos a instalar salas de lactancia materna",
+      "citada": false
+    },
+    {
+      "url": "https://www.unicef.org/elsalvador/media/4611/file/Ley%20Crecer%20Juntos.pdf",
+      "titulo": "para la Protección Integral de la Primera Infancia, Niñez y Adolescencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/node/12422",
+      "titulo": "Comisión de la Familia dictamina a favor de aprobar Ley Amor Convertido en Alimento",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/taxonomy/term/2136",
+      "titulo": "Ley Crecer Juntos para la Primera Infancia",
+      "citada": false
+    },
+    {
+      "url": "https://www.elsalvador.com/h-noticias/h-nacional/asamblea-ley-sobre-lactancia-materna/1001907/2022/",
+      "titulo": "Asamblea aprueba nueva ley sobre la lactancia materna, ¿en qué consiste?",
+      "citada": false
+    }
+  ]
+}

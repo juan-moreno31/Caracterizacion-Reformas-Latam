@@ -1,0 +1,254 @@
+{
+  "id": "BOL_2010",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2010,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3897,
+  "incompleto": false,
+  "norma": "Ley N° 065 de Pensiones, de 10 de diciembre de 2010",
+  "texto": "# Informe de investigación — BOL 2010: Ley N° 065 de Pensiones\n\n**Corrección al informe previo.** La modificación de 2024 que cita NATLEX no es una \"Ley 5280\". Es el **Decreto Supremo 5280, de 20 de noviembre de 2024**. Ese decreto ajusta los porcentajes del Aporte Patronal Solidario, el Aporte Nacional Solidario y el Aporte Solidario Minero a la normativa vigente, y lo hace modificando el reglamento aprobado por el D.S. 0778 de 2011. La reforma de rango legal de ese año fue la **Ley N° 1582, de 1 de octubre de 2024** (ver la sección 7).\n\n## 1. Objetivo declarado\n\nEl artículo 1 dice que la ley busca establecer la administración del Sistema Integral de Pensiones, así como las prestaciones y beneficios que otorga a los bolivianos y las bolivianas, en sujeción a lo dispuesto en la Constitución Política del Estado. El gobierno la presentó como un acuerdo con el movimiento obrero: la edición que difunde el Banco Central la encabeza con el lema \"La primera ley consensuada con los trabajadores\".\n\nEl marco constitucional que invocan sus reglamentos es el artículo 45 de la Constitución de 2009. Según ese artículo, la dirección y administración de la seguridad social corresponde al Estado, con control y participación social. La ley adopta además como principios, entre otros, la universalidad, entendida como acceso sin que exista discriminación por la clase de trabajo que realizan, por la forma de remuneración que perciben, por el nivel económico, y la solidaridad, entendida como la protección a los Asegurados menos favorecidos con participación de todos los aportantes.\n\n**No verificado:** no encontré la exposición de motivos ni las actas del acuerdo con la Central Obrera Boliviana (COB).\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**seguridad_social_y_pensiones — aumenta (cambio central).**\n- **Nueva estructura del sistema.** La ley establece un Sistema Integral de Pensiones (Régimen Contributivo, Régimen Semicontributivo y Régimen No Contributivo), regula el Proceso Coactivo de la Seguridad Social, crea la Gestora Pública de la Seguridad Social de Largo Plazo.\n- **Administración estatal de los fondos.** La Gestora es una Empresa Pública Nacional Estratégica, de derecho público y queda bajo tuición del Ministerio de Economía y Finanzas Públicas. Los activos del fondo que manejaban las AFP privadas serán transferidas a los Fondos administrados por la Gestora Pública.\n- **Se mantienen las cuentas individuales.** Un estudio publicado por el Banco Central indica que el régimen contributivo sigue funcionando con cuentas individuales y que el semicontributivo combina cuentas individuales más un componente solidario.\n- **Fondo Solidario.** La pensión solidaria se completa con una fracción que se financia con recursos del Fondo Solidario. Ese fondo se nutre de aportes de los asegurados, de los empleadores, del sector minero y de las personas de mayores ingresos (Aporte Solidario del Asegurado, del Aporte Nacional Solidario, del Aporte Patronal Solidario, del Aporte Solidario Minero).\n- **Nueva carga para el empleador.** El Aporte Patronal Solidario es una contribución patronal nueva, que no existe en el régimen anterior. Esto encarece la contratación formal, aunque su destino es el fondo de protección.\n- **Acceso a la jubilación.** El Ministerio de Economía afirma que la ley redujo la edad de jubilación. Las fuentes no coinciden sobre cuál era la edad anterior de referencia (compárense el Ministerio de Economía y el diario Opinión). También se flexibilizó el requisito de ahorro acumulado para jubilarse.\n- **Cobertura de salud.** Las pensiones contributivas y semicontributivas genera derecho a la cobertura de salud en los Entes Gestores de Salud.\n\n**genero_y_conciliacion — aumenta.** La asegurada que cumple el requisito de aportes por cada hijo nacido vivo podrá solicitar que se le disminuya un (1) año en la edad de acceso a la Prestación Solidaria de Vejez, con un tope. Alternativamente, puede sumar períodos de aporte por cada hijo. El reglamento obliga a la Gestora a velar que se aplique la opción más favorable para la Asegurada.\n\n**formalizacion_y_mipymes — aumenta (extensión de cobertura).** La prensa destaca la incorporación de los trabajadores independientes en el sistema de pensiones, que cotizan sobre un ingreso declarado libremente. Los consultores también quedan obligados a cotizar. Matiz: los independientes ya podían afiliarse bajo el régimen anterior; **no verifiqué** si la ley vuelve obligatoria su afiliación de manera general. No hay medidas específicas para mipymes.\n\n**justicia_laboral_e_inspeccion — aumenta (cumplimiento de aportes).**\n- **Cobro.** La Gestora cobra la mora a través de la Gestión Administrativa de Cobro, del Proceso Coactivo de la Seguridad Social y/o del Proceso Penal, y el proceso coactivo se tramita ante los jueces de Trabajo y Seguridad Social.\n- **Responsabilidad personal.** Si el empleador es una persona jurídica, responden sus representantes legales, y puede alcanzar a otras personas que tomaron la decisión de no pagar.\n- **Contratación pública.** Para contratar con el Estado se exige un certificado de no adeudo de aportes.\n\n**otro — condiciones especiales por actividad (aumenta).** Los mineros pueden descontar un año por dos trabajados en interior mina, por ser considerado una labor insalubre. Los empleadores del sector cargan además con un aporte minero adicional.\n\n**Fuera del alcance de la ley.** No regula contratación temporal, tercerización, despido, jornada ni negociación colectiva.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: asegurados dependientes.\n- `informales`: independientes, cooperativistas mineros y consultores.\n- `mujeres`: beneficio por hijo nacido vivo.\n- `general`: el régimen no contributivo (Renta Dignidad). La Renta Dignidad ya existía desde la Ley 3791 de 2007, que la APS (la autoridad de fiscalización de pensiones) registra como norma previa; la Ley 065 la integra al sistema, no la crea.\n\n## 4. Contexto político y económico\n\nLa ley se dictó durante el primer gobierno de Evo Morales bajo la nueva Constitución, y la prensa la describe como una decisión de nacionalizar administración del sistema.\n\n**Sin fuente:** no encontré fuentes de la jerarquía exigida sobre el ciclo económico de 2010 ni sobre el detalle de la negociación con la COB. Cualquier afirmación sobre esos puntos sería conocimiento propio sin respaldo.\n\n## 5. ¿Revierte una reforma previa?\n\n**Sí, parcialmente.** La ley abroga la Ley N° 1732, de 29 de noviembre de 1996, que había implementó en Bolivia un Sistema de Capitalización Individual administrado por AFP privadas.\n\nLa reversión es parcial porque elimina la gestión privada y agrega un pilar solidario, pero conserva las cuentas individuales en el régimen contributivo. **Propuesta de codificación:** `revierte_reforma_previa = true`, con una nota que explique este matiz.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n**Fecha de entrada en vigor: 2010-12-10.** Proviene de fuente secundaria: la prensa la describe como vigente desde el 10 de diciembre de 2010. No verifiqué en la Gaceta si una cláusula de vigencia fija otra fecha.\n\n**`vigencia_escalonada = true`.** El componente central, el traspaso de los fondos a la Gestora, se aplicó con más de una década de retraso:\n- **Transición inmediata.** La ley ordenaba iniciar la recaudación del nuevo sistema a partir del mes siguiente de promulgada la presente Ley. Mientras tanto, según el D.S. 0778 de 2011, las obligaciones establecidas en la Ley Nº 065 y sus reglamentos serán asumidas por las Administradoras de Fondos de Pensiones.\n- **Retrasos de la Gestora.** La prensa indica que la Gestora fue creada en 2015 y que la estatización demoró 13 años, en parte por problemas de software.\n- **Operación parcial (9 de septiembre de 2022).** La Gestora inició sus actividades el 9 de septiembre de 2022, pero solo con nuevos aportantes.\n- **Operación plena (15 de mayo de 2023).** El 15 de mayo de 2023, la Gestora asumió la responsabilidad de administrar la totalidad de los fondos previsionales. La fecha límite la fijó el Decreto Supremo 4585.\n- **Factor externo.** Un centro de estudios señala que un laudo arbitral promovido por una de las AFP obligó al Estado a hacerse cargo en un plazo perentorio de todo el manejo de los fondos de pensiones.\n\n**Implicación econométrica:** las prestaciones y aportes solidarios se aplicaron desde 2011, mientras que la administración pública efectiva de los fondos llegó recién en 2023. Ambos componentes podrían requerir fechas de tratamiento distintas.\n\n## 7. Estado de vigencia posterior\n\n**Propuesta: `modificada_o_derogada_despues`.** La ley sigue vigente, pero ha sido modificada por varias normas. Según la APS:\n- **Ley 430 (2013)** y **Ley 985 (2017)**: ambas modifica los límites solidarios mínimos y máximos de la Pensión Solidaria de Vejez.\n- **Ley 1267 (2019)**: amplía las facultades de fiscalización de la APS.\n- **Ley 1613 (2025)**: modifica la actualización de las prestaciones de invalidez y muerte.\n- **Ley 1582 (2024)**: eleva los límites solidarios y, para financiarlos, modifica los aportes de los empleadores, públicos y privados y de los trabajadores con ingresos elevados. Profundiza la misma lógica protectora; no la revierte.\n\n**Fallos judiciales:** no encontré ninguna sentencia del Tribunal Constitucional que anule o suspenda partes de la ley. Hubo cuestionamientos de constitucionalidad en el debate público: un centro de estudios sostuvo que el traspaso obligatorio a la Gestora no debería alcanzar a quienes ya estaban afiliados a las AFP. Pero no identifiqué ningún fallo en ese sentido. El laudo arbitral sobre las AFP no anula la norma.\n\n## Propuesta preliminar de codificación\n\n| Campo | Valor |\n|---|---|\n| orientacion_general | protectora |\n| tipo_instrumento | ley |\n| confianza_identificacion | media (según el informe previo) |\n| estado_vigencia | modificada_o_derogada_despues |\n| vigencia_escalonada | true |\n| revierte_reforma_previa | true (parcial; Ley 1732 de 1996) |\n\n## Pendiente de verificar\n\n- Exposición de motivos y acuerdo con la COB.\n- Fecha exacta de publicación en la Gaceta y cláusula de vigencia.\n- Fuentes OIT, CEPAL o BID sobre el contexto macroeconómico.\n- Alcance de la obligatoriedad para independientes.\n- Ausencia de fallos constitucionales (no encontré ninguno, pero no pude confirmarlo de forma exhaustiva).\n\nVarias fuentes de contexto son prensa o centros de estudio (Fundación Milenio), de menor jerarquía. Algunas de las fuentes sobre las reformas de 2024 son despachos de abogados; me apoyé en ellas solo cuando los datos coincidían con el texto oficial de la Ley 1582.",
+  "fuentes": [
+    {
+      "url": "https://www.bcb.gob.bo/webdocs/MesaDePartes/files/Ley-065-Pensiones.pdf",
+      "titulo": "Ley-065-Pensiones.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.bcb.gob.bo/webdocs/normativa/2010%20-%20LEY%200065%20-%20Pensiones.pdf",
+      "titulo": "LEY Nº 065 LEY DE 10 DE DICIEMBRE DE 2010 EVO MORALES AYMA",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N65.html",
+      "titulo": "Bolivia: Ley de Pensiones, 10 de diciembre de 2010",
+      "citada": true
+    },
+    {
+      "url": "https://www.gestora.bo/archivos/ver?id=2987",
+      "titulo": "Gestora Pública de la Seguridad Social de Largo Plazo",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/2647/ley-de-pensiones-065",
+      "titulo": "Ley de Pensiones (065) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.aps.gob.bo/files/webdocs/DJ/normativa/pensiones/PRINCIPALES/Ley_065.pdf",
+      "titulo": "0 LEY DE PENSIONES Nº 065 (Texto actualizado a noviembre de 2019) LEY N° 065",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N778.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 778, 26 de enero de 2011",
+      "citada": true
+    },
+    {
+      "url": "https://www.economiayfinanzas.gob.bo/sites/default/files/2022-11/202108_Bolet%C3%ADn_Econ%C3%B3mico_SIP.pdf",
+      "titulo": "VICEMINISTERIO DE PENSIONES Y SERVICIOS FINANCIEROS Año 7 - Nº 12 - 2021",
+      "citada": true
+    },
+    {
+      "url": "https://www.bcb.gob.bo/eeb/sites/default/files/archivos2/D1T2P1%20Montenegro%20&%20Quispe.pdf",
+      "titulo": "EFECTOS MACREOCONÓMICOS DE LA NUEVA LEY DE PENSIONES EN BOLIVIA 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N5280.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 5280, 20 de noviembre de 2024",
+      "citada": true
+    },
+    {
+      "url": "https://correodelsur.com/economia/20230512/las-afps-dejan-de-operar-y-la-gestora-publica-asume-el-control-total-del-sistema-de-pensiones.html",
+      "titulo": "Las AFPs dejan de operar y la Gestora Pública asume el control total del Sistema de Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://eldeber.com.bo/economia/las-afp-dejaran-de-operar-el-15-de-mayo-y-el-estado-controlara-recursos-de-aportantes-al-sistema-de-_319879/",
+      "titulo": "Las AFP dejarán de operar el 15 de mayo y el Estado controlará recursos de aportantes al sistema de pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://www.vision360.bo/noticias/2024/05/10/4156-en-el-primer-ano-la-gestora-logro-4_11por_ciento-de-rentabilidad-de-los-fondos",
+      "titulo": "En el primer año, la Gestora logró 4,11% de rentabilidad de los fondos",
+      "citada": true
+    },
+    {
+      "url": "https://fundacion-milenio.org/coy-488-el-rechazo-a-la-gestora-publica-conflicto-de-interes-y-riesgo-de-una-deriva-caotica/",
+      "titulo": "Coy 488 - El rechazo a la Gestora Pública: conflicto de interés y riesgo de una deriva caótica - Economía de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.economiayfinanzas.gob.bo/node/8936",
+      "titulo": "El contenido del proyecto de Ley de Incremento a los Límites Solidarios NO propone jubilación obligatoria a los 65 años",
+      "citada": true
+    },
+    {
+      "url": "https://www.opinion.com.bo/articulo/informe-especial/ley-065-reduce-edad-incorpora-trabajadores-independientes/20130518211200665696.html",
+      "titulo": "Ley 065 reduce edad e incorpora a los trabajadores independientes",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-RE-DSN822.html",
+      "titulo": "Bolivia: Reglamento de desarrollo parcial a la Ley Nº 065 en materia de prestaciones de vejez, prestaciones solidarias de vejez, prestaciones por riesgos, pensiones por muerte derivadas de éstas y otros beneficios, 16 de marzo de 2011",
+      "citada": true
+    },
+    {
+      "url": "https://www.economiayfinanzas.gob.bo/node/11448",
+      "titulo": "Luis Arce promulga la ley que incrementa los límites solidarios y mejora la Pensión Solidaria de Vejez en beneficio de los trabajadores",
+      "citada": true
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/138860",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.aps.gob.bo/index.php/pensiones/normativa",
+      "titulo": "Normativa - APS",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N822.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 822, 16 de marzo de 2011",
+      "citada": true
+    },
+    {
+      "url": "https://gestora.bo/archivos/bajar?id=3874",
+      "titulo": "Texto Ordenado Texto actualizado (Vigente) Texto modificado (No Vigente)",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/bolivia-_ley_65_pensiones-2010.pdf",
+      "titulo": "TAPA PENSIONS",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-n-065-pensiones-686802341",
+      "titulo": "Ley Nº 065, de Pensiones - vLex Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.mites.gob.es/ficheros/ministerio/mundo/consejerias/peru_archivos/LeyPensionesBolivia.pdf",
+      "titulo": "BOLIVIA LEY DE PENSIONES LEY Nº 065",
+      "citada": false
+    },
+    {
+      "url": "https://www.aps.gob.bo/files/webdocs/DJ/normativa/pensiones/PRINCIPALES/Ley_1732.pdf",
+      "titulo": "LEY Nº 1732 DE 29 DE NOVIEMBRE DE 1996 DE PENSIONES VERSIÓN ORDENADA",
+      "citada": false
+    },
+    {
+      "url": "https://www.aps.gob.bo/images/webdocs/DS/normativa/Decreto%20Supremo%20N5280.pdf",
+      "titulo": "Contenido Bolivia: Decreto Supremo Nº 5280, 20 de noviembre de 2024",
+      "citada": false
+    },
+    {
+      "url": "https://correodelsur.com/economia/20230331/gestora-publica-asumira-el-control-total-del-sistema-de-pensiones-a-partir-de-mayo.html",
+      "titulo": "Gestora Pública asumirá el control total del Sistema de Pensiones a partir de mayo",
+      "citada": false
+    },
+    {
+      "url": "https://www.reduno.com.bo/economia/el-15-de-mayo-la-gestora-publica-asumira-el-control-total-del-sistema-de-pensiones-202333111455",
+      "titulo": "El 15 de mayo, la Gestora Pública asumirá el control total del Sistema de Pensiones| Red Uno de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://eldeber.com.bo/edicion-impresa/las-afp-dejan-la-posta-a-la-gestora-diez-cosas-que-debe-saber-sobre-el-proceso_320303/",
+      "titulo": "Las AFP dejan la posta a la Gestora: diez cosas que debe saber sobre el proceso",
+      "citada": false
+    },
+    {
+      "url": "https://correodelsur.com/politica/20230515/la-gestora-publica-asume-el-control-total-del-sistema-de-pensiones.html",
+      "titulo": "La Gestora Pública asume el control total del sistema de pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://eldeber.com.bo/economia/la-gestora-publica-administrara-un-fondo-de-us-23240-millones-que-esta-invertido-en-bancos-y-bonos-d_293466",
+      "titulo": "La Gestora Pública administrará un fondo de $us 23.240 millones que está invertido en bancos y bonos del Estado",
+      "citada": false
+    },
+    {
+      "url": "https://correodelsur.com/economia/20220909/gobierno-da-inicio-a-actividades-de-gestora-publica-que-operara-plenamente-en-mayo-de-2023.html",
+      "titulo": "Gobierno da inicio a actividades de Gestora Pública, que operará plenamente en mayo de 2023",
+      "citada": false
+    },
+    {
+      "url": "https://www.gerencie.com/reduccion-de-semanas-por-hijos-pension-para-mujeres.html",
+      "titulo": "Reducción de 50 semanas por hijo para la pensión de las mujeres",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronista.com/colombia/finanzas-y-economia/es-oficial-la-ley-pensional-2381-permite-a-las-mujeres-mayores-de-57-anos-reducir-50-semanas-de-cotizacion-para-pensionarse-si-cumplen-este-requisito/",
+      "titulo": "Es oficial",
+      "citada": false
+    },
+    {
+      "url": "https://ppulegal.com/actualidad-legal/a-que-mujeres-les-descontaran-semanas-para-jubilarse-con-nueva-reforma-pensional/",
+      "titulo": "¿A qué mujeres les descontarán semanas para jubilarse con nueva reforma pensional? - PPU Legal",
+      "citada": false
+    },
+    {
+      "url": "https://www.60maspensiones.com/semanasmujeres",
+      "titulo": "Semanas para Mujeres en Colombia 2026: RPM y RAIS",
+      "citada": false
+    },
+    {
+      "url": "https://lanotaeconomica.com.co/movidas-empresarial/mujeres-seran-las-mas-beneficiadas-con-la-reforma-pensional/",
+      "titulo": "Mujeres, serán las más beneficiadas con la Reforma pensional - La Nota Económica",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/colombia/2026/09/13/la-reforma-pensional-enredo-la-opcion-que-tienen-las-mujeres-para-pensionarse-con-menos-semanas-cotizadas-ninguna-persona-que-este-en-transicion-tiene-beneficios/",
+      "titulo": "La reforma pensional enredó la opción que tienen las mujeres para pensionarse con menos semanas cotizadas: “Ninguna persona que esté en transición tiene beneficios” - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.economiayfinanzas.gob.bo/sites/default/files/2024-10/L15821807NCPP.pdf",
+      "titulo": "LEY N° 1582 LEY DE 01 DE OCTUBRE DE 2024 LUIS ALBERTO ARCE CATACORA",
+      "citada": false
+    },
+    {
+      "url": "https://www.ppolegal.com/wp-content/uploads/2024/10/Alerta-laboral-Modificacion-de-la-ley-de-pensiones.pdf",
+      "titulo": "modificación de la ley de pensiones octubre 2024",
+      "citada": false
+    },
+    {
+      "url": "https://boliviaimpuestos.com/cambios-en-aporte-nacional-solidario-ley-1582/",
+      "titulo": "Cambios aporte nacional solidario",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N1582.xhtml",
+      "titulo": "Bolivia: Modificación de la Ley de Pensiones, 1 de octubre de 2024",
+      "citada": false
+    },
+    {
+      "url": "https://estrucplan.com.ar/bolivia-ley-1582-2024/",
+      "titulo": "Estado Plurinacional de Bolivia: Ley 1582/2024",
+      "citada": false
+    },
+    {
+      "url": "https://www.planifica.com.bo/incremento-de-la-fraccion-solidaria-en-bolivia-ley-1582/",
+      "titulo": "Incremento de la Fracción Solidaria en Bolivia Ley 1582 - Planifica Consultores",
+      "citada": false
+    },
+    {
+      "url": "https://www.bda-lawfirm.com/articles/modificaciones-al-sistema-de-pensiones-en-bolivia/",
+      "titulo": "Modificaciones al sistema de pensiones en Bolivia — BDA Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://www.la-razon.com/economia/2024/10/25/gestora-empresas-deben-aplicar-nuevos-porcentajes-de-aportes-solidarios-desde-octubre/",
+      "titulo": "Gestora: Empresas ya deben aplicar nuevos porcentaje de aporte",
+      "citada": false
+    },
+    {
+      "url": "https://erbol.com.bo/econom%C3%ADa/gestora-recuerda-empresas-planillas-de-octubre-deben-aplicar-nuevos-porcentajes-de-l%C3%ADmites",
+      "titulo": "Gestora recuerda a empresas planillas de octubre deben aplicar nuevos porcentajes de límites solidarios",
+      "citada": false
+    }
+  ]
+}

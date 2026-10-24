@@ -1,0 +1,157 @@
+{
+  "id": "PRY_2015",
+  "iso": "PRY",
+  "pais": "Paraguay",
+  "anio": 2015,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0568,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 5407/2015 «Del Trabajo Doméstico»",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto N° 3458/2015 (veto parcial a la Ley 5407)",
+      "Ley N° 5508/2015 «Promoción, protección de la maternidad y apoyo a la lactancia materna»",
+      "Resolución C.A. N° 100-006/2015 del Instituto de Previsión Social (habilita el cobro de aportes del sector doméstico)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2015-10-13",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Equiparar los derechos de las trabajadoras domésticas con los del resto de los asalariados en contrato, jornada y remuneración, y armonizar la legislación nacional con el Convenio 189 de la OIT (según la OIT y la doctrina nacional; no se consultó la exposición de motivos).",
+    "descripcion_intenciones": "La ley sustituye el régimen especial del Código del Trabajo de 1993, que otorgaba al trabajo doméstico un estatus de menor protección, por una regulación propia orientada a la equiparación con el régimen general. Incorpora a las trabajadoras domésticas al seguro social obligatorio del IPS con acceso a jubilación, limita la jornada, reconoce descansos y horas extras pagas, y exige contrato escrito con presunción de tiempo indefinido. También garantiza la libertad sindical, regula las agencias privadas de empleo, anula cláusulas abusivas y, tras el veto presidencial, prohíbe el trabajo doméstico de menores de edad. La equiparación efectiva fue incompleta, porque el artículo 10 mantuvo un salario mínimo diferenciado inferior al general hasta su modificación en 2019.",
+    "dimensiones": [
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Componente central: incorpora al sector al régimen general del seguro social obligatorio del IPS, con aportes sobre la remuneración total y prorrateo en pluriempleo, y abre el acceso a la jubilación."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Eleva el piso salarial frente al Código, prohíbe pagos a intervalos mayores al mensual, el destajo y el pago proporcional de jornadas parciales por debajo del mínimo. El salario mínimo doméstico siguió diferenciado y se mantuvo la presunción de pago parcial en especie."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Fija topes de jornada diurna y nocturna (formulados expresamente para la modalidad con retiro), descansos intermedios y semanal, y recargo por trabajo en descansos o feriados. No se verificó el tope para la modalidad sin retiro."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Presume que el contrato es por tiempo indefinido salvo prueba en contrario, limita el período de prueba y establece presunciones de relación laboral."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Al derogar el capítulo especial, el despido pasa a regirse por las reglas generales de preaviso e indemnización. Es en parte una inferencia, pues no se verificó el texto derogado del artículo 44 inciso a)."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Obliga al contrato escrito con copia gratuita para la trabajadora y a la afiliación al IPS; la población destinataria es informal y los empleadores son hogares, no mipymes."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "La autoridad laboral debe garantizar la libertad de asociación y sindicalización del sector, y se extiende la estabilidad sindical del Código del Trabajo."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "La denuncia ante la autoridad administrativa interrumpe la prescripción, se admite a compañeros de trabajo como testigos y se establece la responsabilidad solidaria de quien contrate en lugar del empleador real."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Tras el veto parcial a la habilitación de adolescentes, el trabajo doméstico queda prohibido a menores de edad por considerarse trabajo peligroso."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Regula las agencias privadas de empleo frente a prácticas abusivas o fraudulentas y anula cláusulas que obliguen a no salir del hogar, a trabajar en los descansos o a entregar los documentos de identidad al empleador."
+      }
+    ],
+    "poblacion_objetivo": [
+      "informales",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley deroga el capítulo especial sobre trabajo doméstico (artículos 148 a 156) y el artículo 44 inciso a) del Código del Trabajo (Ley N° 213 de 1993), así como el artículo 3 de la Ley 1085/1965. Ese régimen fijaba un salario reducido y jornadas extensas sin horas extras, y no reconocía estabilidad, jubilación ni bonificación familiar. El proyecto fue presentado el 1 de agosto de 2013 por el senador Derlys Osorio, impulsado por sindicatos del sector con apoyo de la sociedad civil, la OIT y agencias de Naciones Unidas. El antecedente es la ratificación del Convenio 189 de la OIT mediante la Ley 4819/12, promulgada el 10 de diciembre de 2012, con depósito ante la OIT en 2013. El presidente Horacio Cartes vetó parcialmente el proyecto en lo relativo a la edad mínima. Desde el Ministerio de Trabajo se calificó la ley como un avance en derechos, pero como un retroceso en la gestión contributiva del sector. Contexto macroeconómico: sin fuente.",
+    "notas": "Sancionada por la Cámara de Diputados el 17 de marzo de 2015, promulgada el 12 de octubre de 2015 y publicada el 13 de octubre de 2015. No se halló una cláusula de vigencia, por lo que se toma la fecha de publicación (confianza media en la fecha). Se codifica vigencia_escalonada = false en lo formal, aunque hubo un desfase operativo: el IPS habilitó el cobro de aportes recién con la Resolución C.A. N° 100-006/2015 del 3 de diciembre de 2015, y la ley ordenó una reglamentación posterior con consulta a las organizaciones de trabajadoras. Una fuente secundaria menciona como reglamento la Resolución MTESS N° 233 de 2016, sin verificar. La Ley N° 6338 (promulgada el 1 de julio de 2019 y publicada el 7 de julio de 2019) modificó el artículo 10 y equiparó el salario mínimo doméstico al general; amplía la protección, por lo que no recorta la reforma. En 2019 también se aprobó la Ley N° 6339/2019 de empleo a tiempo parcial, aplicable al trabajo doméstico por hora. No se hallaron acciones de inconstitucionalidad; el veto del Decreto 3458/2015 fue anterior a la promulgación. La no reversión se debe a que la ley reemplaza un régimen especial de larga data y no una reforma reciente. Advertencia: algunas compilaciones reproducen el inciso vetado y el artículo 10 ya modificado, por lo que se toma como referencia el texto del BACN. No se verificaron la exposición de motivos, el texto del decreto de veto, el artículo 44 inciso a) derogado, el tope de jornada sin retiro ni la norma que modificó las alícuotas del IPS. Hay brechas de cumplimiento importantes, con baja afiliación efectiva al IPS según un comité de la ONU."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/4392/ley-n-5407-del-trabajo-domestico",
+      "titulo": "Ley Nº 5407 / DEL TRABAJO DOMÉSTICO",
+      "citada": true
+    },
+    {
+      "url": "https://www.utic.edu.py/repositorio/Tesis/Grado/Derecho/2022/San%20Lorenzo/Tesis%20Laura%20Romina%20Marecos_Contrato%20de%20trabajo%20dom+%C2%AEstico.pdf",
+      "titulo": "el contrato de trabajo doméstico en la",
+      "citada": true
+    },
+    {
+      "url": "https://odd.senado.gov.py/archivos/file/Que%20Modif%20el%20Art%2010%20-%20Ley%20Nro%205407%20-%2015%20-%20Trabajo%20Domestico(1).pdf",
+      "titulo": "000l\\li. Asunción,Sode marzo (té: -' Señor Senador",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/8840/ley-n-6338-modifica-el-articulo-10-de-la-ley-n-540715-",
+      "titulo": "Ley Nº 6338 / MODIFICA EL ARTICULO 10 DE LA LEY N° 5407/15",
+      "citada": true
+    },
+    {
+      "url": "https://ddhh2020.codehupy.org.py/trabajadoras-domesticas/",
+      "titulo": "Hora de implementar los avances legales",
+      "citada": true
+    },
+    {
+      "url": "https://www.cde.org.py/wp-content/uploads/2025/03/Guia-TDR-web.pdf",
+      "titulo": "GUÍA PARA EL CUMPLIMIENTO DE DERECHOS DE LAS PERSONAS TRABAJADORAS",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/noticias/paraguay-deposita-ratificacion-del-convenio-189-en-oit-ginebra",
+      "titulo": "Paraguay deposita ratificación del Convenio 189 en OIT Ginebra",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/news/oit-presenta-estudio-sobre-trabajo-domestico-remunerado-en-paraguay",
+      "titulo": "OIT presenta estudio sobre trabajo doméstico remunerado en Paraguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/resource/news/law-domestic-work-paraguay-approved",
+      "titulo": "Law on Domestic Work in Paraguay Approved",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/847ea12d-c04a-11e9-8e7a-525400c761ca/text",
+      "titulo": "BL:Ley N° 5407/2015 - del Trabajo Doméstico",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/8482ed37-c04a-11e9-8e7a-525400c761ca",
+      "titulo": "Ley N° 5407/2015 - del Trabajo Doméstico - BL:Inicio",
+      "citada": true
+    },
+    {
+      "url": "https://www.abc.com.py/nacionales/ley-del-trabajo-domestico-es-un-retroceso-segun-trabajo-1429705.html",
+      "titulo": "Ley del trabajo doméstico es un retroceso, según Trabajo - Nacionales - ABC Color",
+      "citada": true
+    },
+    {
+      "url": "https://lexpy.blogspot.com/2015/12/",
+      "titulo": "LEX·PY",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/4959/495963605007/html/",
+      "titulo": "El trabajo doméstico remunerado en Paraguay. Luchas laborales y simbólicas de trabajadoras invisibilizadas",
+      "citada": true
+    }
+  ]
+}

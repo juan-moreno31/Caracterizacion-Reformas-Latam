@@ -1,0 +1,132 @@
+{
+  "id": "ARG_2000",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0552,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 25.250 de 2000 (Reforma Laboral)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto 432/2000 (promulgación)",
+      "Decreto 568/2000",
+      "Decreto 843/2000",
+      "Decreto 1122/2000",
+      "Decreto 1171/2000",
+      "Decreto 1172/2000",
+      "Decreto 1173/2000",
+      "Decreto 1174/2000",
+      "Decreto 95/2001",
+      "Decreto 96/2001",
+      "Decreto 147/2001"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2000-06",
+    "vigencia_escalonada": true,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Según la prensa, el gobierno de De la Rúa la presentó como una herramienta para crear empleo y combatir la precarización, en favor de los trabajadores no registrados y de los desocupados, y negó que fuera una concesión al FMI. La propia ley declara que su sistema de inspección busca vigilar el cumplimiento de las normas laborales y de seguridad social y eliminar el empleo no registrado. No se encontró la exposición de motivos.",
+    "descripcion_intenciones": "La reforma amplía el período de prueba y permite extinguir la relación durante ese lapso sin causa, sin preaviso y sin indemnización, con un régimen más extenso para las pequeñas empresas. Reestructura la negociación colectiva: da prioridad al convenio de ámbito menor, habilita la disponibilidad colectiva de derechos, pone fin a la ultraactividad legal de los convenios y exige cláusulas de descuelgue para empresas en crisis. Como contrapeso, crea el Sistema Integrado de Inspección del Trabajo y de la Seguridad Social, simplifica la registración, impone el balance social a las grandes empresas y otorga exenciones de contribuciones por el aumento neto de empleo por tiempo indeterminado. Aunque el discurso oficial se centró en el empleo y la registración, la doctrina coincide en que su peso efectivo está en la flexibilización del período de prueba y de la negociación colectiva.",
+    "dimensiones": [
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Sustituye el art. 92 bis de la LCT: amplía el período de prueba, que puede extenderse por convenio, y durante él la extinción no genera indemnización ni requiere preaviso. Incluye salvaguardas contra el uso reiterado o abusivo y frente a la falta de registro."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Fija un período de prueba más largo para la pequeña empresa de la Ley 24.467, ampliable por convenio para trabajadores calificados. Habilita convenios exclusivos para las condiciones de trabajo en pequeñas empresas."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Da prioridad al convenio de ámbito menor, permite que el convenio sucesor disponga de los derechos del anterior y elimina la ultraactividad legal, con transiciones y arbitraje. Como contrapeso menor, crea el balance social obligatorio para las grandes empresas, que se entrega a la representación sindical."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "La descentralización y el descuelgue para empresas en crisis debilitan el piso convencional. Se atenúa de forma transitoria: se prohíben básicos inferiores a los del convenio ultraactivo mayor y se conservan las condiciones salariales hasta un nuevo convenio."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea el Sistema Integrado de Inspección del Trabajo y de la Seguridad Social, con ingreso sin aviso previo, denuncia de la evasión a la AFIP y control de las cooperativas fraudulentas. También crea una unidad de registración en un único trámite."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Obliga a pagar aportes y contribuciones durante el período de prueba, con lo que elimina la exención previa. Este punto se apoya en una fuente doctrinal de menor jerarquía (Terragni)."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Incentivo fiscal a la contratación por tiempo indeterminado: exención parcial de contribuciones por el incremento neto de la nómina, reforzada para hombres mayores, mujeres jefas de hogar y jóvenes. Su efecto sobre la protección es indirecto."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "empleadores_mipymes",
+      "jovenes",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley fue impulsada por el gobierno de la Alianza (UCR-Frepaso) en su primer año, después de un presupuesto de ajuste y una reforma impositiva. Enfrentó la oposición de la CGT y requirió negociar con gobernadores del PJ, que tenía mayoría en el Senado. Modifica la Ley de Contrato de Trabajo, la Ley 14.250, la Ley 23.546 y el régimen de período de prueba de la Ley 25.013 (1998), y remite a la Ley 24.467 de pequeñas empresas. Revierte parcialmente la Ley 25.013: vuelve a alargar el período de prueba, suprime la indemnización que esa ley exigía al extenderlo por convenio y retoma la lógica instaurada por la Ley 24.465 (1995). La denuncia posterior de sobornos a senadores para su aprobación provocó la renuncia del vicepresidente Carlos Álvarez el 6 de octubre de 2000. Fue derogada por la Ley 25.877 (B.O. 19-03-2004), que actuó como contrarreforma. El contexto de recesión y de tensiones de la convertibilidad es conocimiento propio del investigador, sin fuente.",
+    "notas": "Sanción definitiva el 11 de mayo de 2000 (el Senado votó con cambios en abril), promulgación por Decreto 432/2000 y publicación el 2000-06-02. No se verificó un artículo que fije la vigencia; la fecha 2000-06 es una inferencia basada en la regla supletoria de entonces (sin fuente). Vigencia escalonada: la exención de contribuciones depende de reglamentación (Decreto 568/2000) y empieza después del fin del período de prueba; la caída de los convenios ultraactivos se difiere mediante convocatoria, denuncia y arbitraje; la reglamentación de convenios y balance social es de diciembre de 2000 (Decretos 1171, 1172 y 1174/2000) y continuó en 2001 (Decretos 95, 96 y 147/2001). Según el informe, el componente colectivo central no habría producido efectos plenos antes de 2002. Los Decretos 843/2000, 1122/2000 y 1173/2000 provienen de la etapa de identificación y su contenido no fue verificado en el informe. El Decreto 814/2001 modificó el régimen de contribuciones; no se verificó si afectó el incentivo del art. 2. No se hallaron declaraciones de inconstitucionalidad, aunque la búsqueda fue insuficiente. La causa penal por sobornos terminó con absoluciones del TOF 3 en 2013, confirmadas por Casación en diciembre de 2015, y no afectó la validez de la norma. No se consultaron la exposición de motivos ni las fichas de NATLEX y EPLex. Parte del análisis doctrinal procede de sitios de abogados de menor jerarquía, contrastados con el texto oficial."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-63208/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25250 - TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.terragnijurista.com.ar/doctrina/refo_lab.htm",
+      "titulo": "La Reforma Laboral - Marco Antonio Terragni",
+      "citada": true
+    },
+    {
+      "url": "https://ar.vlex.com/vid/ley-25250-219708430",
+      "titulo": "Ley 25250 - vLex Argentina - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://www.ecofield.net/Legales/Trabajo/ley25250.htm",
+      "titulo": "ECOFIELD - Trabajo - Ley N° 25.250.",
+      "citada": true
+    },
+    {
+      "url": "https://estudiofk.com.ar/2025/el-fin-de-la-vigencia-de-los-convenios-colectivos-y-el-instituto-de-la-ultra-actividad/",
+      "titulo": "Abogados Laboralistas » ¿CAEN LOS CONVENIOS COLECTIVOS CON LA REFORMA LABORAL? - Abogados Laboralistas",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025877_2004_03_02",
+      "titulo": "Ley N° 25877",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/coimas-en-el-senado-tras-la-absolucion-fernando-de-la-rua-denuncio-un-complot-y-mario-pontaq-nid1650425/",
+      "titulo": "Coimas en el Senado: tras la absolución, Fernando De la Rúa denunció un \"complot\" y Mario Pontaquarto mostró su decepción - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://perezmarzo.com.ar/ley-25250",
+      "titulo": "Ley 25250 - Reforma Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-envia-al-congreso-una-reforma-laboral-resistida-por-el-pj-nid1862/",
+      "titulo": "El Gobierno envía al Congreso una reforma laboral resistida por el PJ - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://cenital.com/el-dia-que-renuncio-chacho-alvarez/",
+      "titulo": "El día que renunció Chacho Álvarez",
+      "citada": true
+    }
+  ]
+}

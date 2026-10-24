@@ -1,0 +1,66 @@
+{
+  "id": "PAN_1995",
+  "iso": "PAN",
+  "pais": "Panamá",
+  "anio": 1995,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0735,
+  "incompleto": false,
+  "norma_propuesta": "Ley No. 44 de 12 de agosto de 1995",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "En Panamá, la reforma laboral principal de 1995 es la **Ley No. 44 de 12 de agosto de 1995**. Modificó el Código de Trabajo de 1971 (Decreto de Gabinete 252). La base de datos NATLEX de la OIT la registra como \"Ley núm. 44, de 12 de agosto de 1995, por la cual se dictan normas para regularizar y modernizar las relaciones laborales\". Según esa misma ficha, fue adoptada el 1995-08-12 y publicada en la Gaceta Oficial el 1995-08-14. Una fuente secundaria indica que se trata de la Gaceta 22847 (publicada en la Gaceta 22847).\n\n**Alcance.** Es una reforma amplia del Código, no un cambio puntual. La OIT resume que reemplaza disposiciones sobre descansos, salario, contrato de trabajo, protección de la maternidad, derechos de los trabajadores y obligaciones de los empleadores, despido, derechos sindicales y convenios colectivos. Además, crea un fondo de cesantía. Un estudio comparado conservado por el CIJUL de la Universidad de Costa Rica la considera la reforma más profunda de la legislación laboral panameña, tanto por la cantidad de áreas modificadas como por su intensidad.\n\n**Objetivo declarado y críticas.** Hay dos lecturas del propósito de la ley, y conviene registrarlas por separado:\n- **Versión favorable:** atraer inversión y generar empleo mediante una legislación laboral más flexible, según una tesis de la Universidad de Panamá (un ambiente favorable de leyes laborales flexibles). Una fuente cercana al entonces presidente Pérez Balladares afirma que la reforma buscaba modernizar el marco laboral sin perder las conquistas obreras y, a la vez, atraer inversión. Esta fuente es de autoría partidaria, así que solo sirve como contexto.\n- **Versión crítica:** el mismo estudio del CIJUL atribuye la ley a presiones de las instituciones financieras de crédito y a la orientación neoliberal del gobierno.\n\n**Por qué es la norma correcta.**\n- Aparece en fuente OIT para ese país y ese año.\n- La literatura la trata como la reforma laboral de referencia del período.\n- No encontré otra norma laboral panameña de 1995 de alcance comparable.\n- La fecha de expedición coincide con el año de la base, así que no hay desajuste en ese punto.\n- No verifiqué la fecha exacta de entrada en vigor: la ficha NATLEX deja ese campo vacío.\n\n**Pendiente para la siguiente etapa.** Hubo demandas de inconstitucionalidad contra algunos artículos, por ejemplo una sobre el artículo 352 resuelta en 2007 (contra el artículo 42 de la Ley Nº44 de 1995). Hay que revisar si alguna anuló una parte sustantiva. La norma sigue siendo la base de la versión consolidada del Código de Trabajo. No busqué de forma específica otras normas laborales menores de 1995, como decretos reglamentarios; por eso \"OTRAS\" significa que no verifiqué ninguna, no que esté descartado que existan.\n\nNORMA: Ley No. 44 de 12 de agosto de 1995\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://cijulenlinea.ucr.ac.cr/portal/descargar.php?q=ODkz",
+      "titulo": "REFORMA AL CODIGO DE TRABAJO PANAMENO.odt",
+      "citada": true
+    },
+    {
+      "url": "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=41407",
+      "titulo": "Panama - Ley núm. 44, de 12 de agosto de 1995, por la cual se dictan normas para regularizar y modernizar las relaciones laborales.",
+      "citada": true
+    },
+    {
+      "url": "https://up-rid.up.ac.pa/2800/",
+      "titulo": "Impacto de la aplicación de las reformas al Código de Trabajo (ley N°.44 de 1995), en los obreros de la construcción, afiliados al Sindicato Único de la Construcción y Similares (SUNTRACS), en la ciudad de Panamá. - UP-RID - Repositorio Institucional Digital de la Universidad de PanamÃ¡",
+      "citada": true
+    },
+    {
+      "url": "https://toroperezballadares.com/2022/12/26/reforma-contra-el-desempleo/",
+      "titulo": "Reforma contra el desempleo",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pa/tags/ley-44-1995-codigo-trabajo-461593",
+      "titulo": "ley 44 1995 código trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://blog.laboremia.com/leyes/reforma-codigo-del-trabajo-4-agosto-1995",
+      "titulo": "Leyes Panamá - Reforma Código del trabajo - Ley 44 del 12 de Agosto de 1995 - Laboremia",
+      "citada": false
+    },
+    {
+      "url": "https://docs.panama.justia.com/federales/codigos/codigo-de-trabajo.pdf",
+      "titulo": "codigo-de-trabajo.pdf - Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://r9.ieee.org/panama/wp-content/uploads/sites/25/2013/05/Codigo_Trabajo.pdf",
+      "titulo": "PANAMA Código de Trabajo [La presente edición ...",
+      "citada": false
+    },
+    {
+      "url": "https://panama.justia.com/federales/codigos/codigo-de-trabajo/gdoc/",
+      "titulo": "Justia Panama :: Federales > Códigos > Código De Trabajo :: Ley de Panama",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexcopanama.com/wp-content/uploads/2020/06/Codigo-de-Trabajo-Panama.pdf",
+      "titulo": "PANAMA Código de Trabajo",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "URY_2009",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2009,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1325,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 18.566 de 2009",
+  "otras": "Ley N° 18.508 de 2009; Ley N° 18.572 de 2009",
+  "confianza": "alta",
+  "texto": "Para Uruguay 2009 identifico como reforma principal la **Ley N° 18.566, que crea el Sistema de Negociación Colectiva del sector privado**. La norma consta en NATLEX de la OIT, que la clasifica en libertad sindical, negociación colectiva y relaciones laborales. Su texto reconoce que, en ejercicio de su autonomía colectiva, empleadores y organizaciones de trabajadores tienen derecho a adoptar libremente acuerdos sobre las condiciones de trabajo y empleo. Se organiza en cinco capítulos: principios y derechos fundamentales, Consejo Superior Tripartito, negociación colectiva por sector de actividad, negociación colectiva bipartita y prevención y solución de conflictos.\n\n**Por qué la elijo:**\n- Es la norma de mayor alcance sobre el mercado laboral privado en ese año. Fija reglas de articulación entre niveles: lo negociado en niveles inferiores no puede rebajar los mínimos de los convenios de nivel superior. Además, el convenio por sector de actividad firmado por las organizaciones más representativas obliga a todos los empleadores y trabajadores de ese nivel, una vez registrado y publicado por el Poder Ejecutivo.\n- La doctrina la ve como un cambio estructural. Se la ubica en un período de retorno al Estado intervencionista en la regulación del trabajo, en sentido promotor de la libertad sindical, tras una etapa de marcado abstencionismo legislativo.\n\n**Fechas:** las fuentes no coinciden del todo. NATLEX registra la adopción el 2009-09-02 y la publicación en el Diario Oficial el 2009-09-30. El texto consolidado indica promulgación el 11/09/2009 y publicación el 30/09/2009. En ningún caso la vigencia se sale de 2009.\n\n**Antecedente para la etapa de vigencia:** la ley fue cuestionada ante la OIT. La Ley 20.145 la modificó después, recogiendo varios aspectos objetados por la Comisión de Expertos de la OIT.\n\n**Otras candidatas del mismo año:**\n- **Ley N° 18.508 (26 de junio de 2009):** regula la negociación colectiva en el sector público. Reconoce ese derecho a todos los funcionarios públicos, con las exclusiones previstas en los Convenios 87 y 151 de la OIT. Es relevante, pero solo cubre el sector público, así que tiene menos alcance sobre el mercado laboral general.\n- **Ley N° 18.572 (septiembre de 2009, publicada en el Diario Oficial el 8 de octubre):** abrevia los procesos laborales. Es procesal (justicia laboral) y establece que, salvo procedimientos especiales, el proceso laboral se regirá por lo previsto en ella. *Sin fuente:* creo que la Suprema Corte de Justicia declaró inconstitucionales algunos de sus artículos y que la Ley 18.847 de 2011 la reformó; no lo verifiqué aquí.\n- **Ley N° 18.561 sobre acoso sexual laboral (2009), sin fuente:** la recuerdo, pero no la verifiqué, así que no la incluyo en el bloque final.\n\nNORMA: Ley N° 18.566 de 2009\nOTRAS: Ley N° 18.508 de 2009; Ley N° 18.572 de 2009\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18566-2009",
+      "titulo": "Ley N° 18566",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=82623&p_country=URY&p_count=498",
+      "titulo": "NATLEX - Uruguay - Ley núm. 18566 de Sistema de Negociación Colectiva.",
+      "citada": true
+    },
+    {
+      "url": "https://www.textovigente.com/ley-18566/",
+      "titulo": "Sistema de negociación colectiva del sector privado de Uruguay actualizado 2026 · texto vigente en PDF",
+      "citada": true
+    },
+    {
+      "url": "https://revista.fder.edu.uy/index.php/rfd/article/download/44/45/177",
+      "titulo": "Mecanismos de determinación del salario en la actividad ...",
+      "citada": true
+    },
+    {
+      "url": "https://galantemartins.com/negociacion-colectiva-nueva-ley-se-adapta-a-las-reglas-de-oit/",
+      "titulo": "Negociación colectiva: nueva ley se adapta a las reglas de OIT",
+      "citada": true
+    },
+    {
+      "url": "https://docs.uruguay.justia.com/nacionales/leyes/ley-18508-jun-26-2009.pdf",
+      "titulo": "Ley Nº 18.508 NEGOCIACIÓN COLECTIVA EN EL ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18572-2009",
+      "titulo": "Ley N° 18572",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/07436A1BB43CE77D05257A14005C4286/$FILE/Uruguay_Act_18566_of_11_September_2009.pdf",
+      "titulo": "Ley Nº 18.566 SISTEMA DE NEGOCIACIÓN COLECTIVA",
+      "citada": false
+    },
+    {
+      "url": "https://docs.uruguay.justia.com/nacionales/leyes/ley-18566-sep-11-2009.pdf",
+      "titulo": "Ley Nº 18.566 SISTEMA DE NEGOCIACIÓN COLECTIVA",
+      "citada": false
+    },
+    {
+      "url": "https://uy.vlex.com/vid/ley-n-18566-negociacion-632166565",
+      "titulo": "Ley N° 18566, de Negociación Colectiva - vLex Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://webapps.ilo.org/static/english/inwork/cb-policy-guide/uruguaylabourcodeleyn18508art11to13.pdf",
+      "titulo": "Transformación, Estado y Democracia 41 41 41 41 41 65 LEY DE LEY DE LEY DE",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/299",
+      "titulo": "Innovación y tradición en la ley no. 18.566: : un corrimiento de las fronteras del intervencionismo",
+      "citada": false
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18508-2009",
+      "titulo": "Ley N° 18508",
+      "citada": false
+    },
+    {
+      "url": "https://justia.uy/normas/ley-18508",
+      "titulo": "Ley 18.508 - Ley de Negociacion Colectiva en…: ¿está vigente?",
+      "citada": false
+    },
+    {
+      "url": "https://www.miradordesca.uy/wp-content/uploads/ley-der186-1.pdf",
+      "titulo": "Ley 18508 Derecho: Trabajo Tipo de Normativa: Nacional Nota: El",
+      "citada": false
+    },
+    {
+      "url": "https://www.pitcnt.uy/negociacion-colectiva/negociacion-colectiva-en-el-sector-publico",
+      "titulo": "Portal PIT-CNT - Negociación colectiva en el sector público",
+      "citada": false
+    },
+    {
+      "url": "https://medios.presidencia.gub.uy/jm_portal/2011/mem_anual/presidencia/bajac.pdf",
+      "titulo": "LA NEGOCIACIÓN COLECTIVA EN EL SECTOR PÚBLICO",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.poderjudicial.gub.uy/index.php?id=4125&lvl=categ_see",
+      "titulo": "Catálogo en línea Biblioteca de la Suprema Corte de Justicia Dr.Nelson García Otero",
+      "citada": false
+    },
+    {
+      "url": "https://docs.uruguay.justia.com/nacionales/leyes/ley-18572-sep-13-2009.pdf",
+      "titulo": "Publicada D.O. 8 oct/009 - Nº 27832 Ley Nº 18.572",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "CRI_2017",
+  "iso": "CRI",
+  "pais": "Costa Rica",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0425,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N.º 9343, Reforma Procesal Laboral",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2017-07-26",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según el Gobierno y el MTSS, modernizar el Código de Trabajo de 1943 y reforzar la seguridad social que históricamente ha distinguido a Costa Rica. Fue presentada como uno de los principales compromisos de la Administración de Luis Guillermo Solís Rivera. Según la Escuela Judicial, busca reforzar el cumplimiento de los derechos individuales y el ejercicio de los derechos colectivos del trabajo.",
+    "descripcion_intenciones": "La reforma busca transformar la justicia laboral mediante procesos orales de carácter mixto, asistencia legal gratuita costeada por el Estado y una vía sumarísima para la tutela de fueros especiales. En el plano colectivo, reescribe el régimen de huelga: condiciona las sanciones a una declaratoria judicial previa de ilegalidad, admite la huelga en conflictos jurídicos colectivos y crea un régimen de negociación colectiva en el sector público. Introduce además un título que prohíbe la discriminación en el empleo e invierte la carga de la prueba en esos casos. En materia de despido, obliga a entregar una carta con todos los motivos y establece un debido proceso previo para despedir a personas aforadas. Según una columna de opinión, el objetivo procesal de acelerar la resolución de conflictos pudo no cumplirse, aunque los cambios sustantivos sí entraron en vigor.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reescribe el título sobre la huelga: las sanciones solo proceden tras la declaratoria judicial de ilegalidad, se protegen las actividades preparatorias y se admite la huelga en conflictos jurídicos colectivos. Crea la negociación colectiva en el sector público, aunque con contrapesos para el empleador."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Exige una carta de despido con todos los motivos, que limita los argumentos del patrono en juicio. Crea un debido proceso previo y una vía sumarísima para despidos de personas aforadas."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea asistencia legal gratuita en una sección especializada de la Defensa Pública, introduce la oralidad en un sistema mixto y reorganiza la conciliación, el arbitraje y el juzgamiento de infracciones. Invierte la carga de la prueba en casos de discriminación y otorga a los jueces laborales competencia sobre nulidades en el empleo público."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "No discriminación: un nuevo título prohíbe la discriminación en el trabajo por múltiples motivos. Prohíbe además el despido discriminatorio y obliga a la reinstalación con pleno goce de derechos."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "De alcance acotado: consagra la igualdad de derechos en jornada y remuneración para quienes realizan un trabajo igual."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Por vía procesal, el fuero de la trabajadora embarazada o en lactancia queda bajo tutela sumarísima, con posible reinstalación como medida cautelar."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Prescripción: modifica las reglas de prescripción de los derechos laborales. Las fuentes solo las describen en términos de plazos, por lo que no se detalla su sentido."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico",
+      "general"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley modifica el Código de Trabajo de 1943, entre otras cosas su título sobre la huelga. Tuvo una larga gestación, impulsada por la Corte Suprema de Justicia. La presidenta Laura Chinchilla vetó la versión de 2012 por la posibilidad de huelga en servicios públicos esenciales y por la prohibición de contratar personal temporal durante la huelga. Luis Guillermo Solís (PAC) levantó el veto en diciembre de 2014 tras un compromiso con el Frente Amplio, lo que lo acercó a los sindicatos y lo enfrentó a las cúpulas empresariales. En agosto de 2015 la Sala Constitucional anuló el levantamiento del veto. Se aprobó entonces un texto consensuado por todas las fracciones legislativas (expediente 19.819), que eliminó los artículos sobre huelga en servicios públicos esenciales. Fue firmado el 25 de enero de 2016. No se encontró fuente sobre el contexto económico (sin fuente).",
+    "notas": "Año de la base y fecha: la ley se expidió el 25 de enero de 2016, pero entró en vigor en julio de 2017 tras una vacatio legis fijada en su propio transitorio. Se usa el 26 de julio de 2017 según SINALEVI; otra fuente (NATLEX) indica el 25 de julio. No se halló evidencia de aplicación escalonada. Estado de vigencia: la Ley 9808 de 2020, vigente desde el 27 de enero de 2020, recortó sustantivamente el componente de huelga. Declaró manifiestamente ilegal la huelga en servicios esenciales, eliminó la prohibición de rebajar salarios durante la huelga y declaró ilegales las huelgas políticas. La prensa la vincula con la huelga contra la reforma fiscal de 2018. La Sala Constitucional avaló la Ley 9808 en la consulta legislativa 2019-20596 y en una acción resuelta en 2025. No se encontraron fallos que anulen partes sustantivas de la Ley 9343. Según la Escuela Judicial, un artículo sobre la prohibición de huelga en servicios esenciales se mantuvo en el texto aprobado. La Sala Primera ha restringido en la práctica la competencia laboral sobre nulidades en el empleo público; se trata de un recorte jurisprudencial y no de una anulación, y no se verificó el resultado de la acción presentada en 2024. Tampoco se verificó el resultado de la acción de inconstitucionalidad contra el Transitorio I (2018). ANEP discrepa sobre la anulación del levantamiento del veto en 2015; se siguió a La Nación y al MTSS. No se verificó si leyes posteriores (reforma fiscal de 2018, ley de empleo público) modificaron la negociación colectiva del sector público."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.mtss.go.cr/elministerio/despacho/rpl/Ley%209343%20Reforma%20Procesal%20Laboral.pdf",
+      "titulo": "Ley 9343 Reforma Procesal Laboral - MTSS",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/101727/ley%209343%20COSTA%20RICA.pdf",
+      "titulo": "ley 9343 COSTA RICA.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://sitepp.wordpress.com/ley-n-o-9343-reforma-procesal-laboral/",
+      "titulo": "Ley N.º 9343 REFORMA PROCESAL LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://sipaadice.weebly.com/uploads/2/5/3/5/25350896/reforma_procesal_laboral_-_ley_9343__-_25ene16.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA PLENARIO",
+      "citada": true
+    },
+    {
+      "url": "https://escuelajudicialpj.poder-judicial.go.cr/Archivos/bibliotecaVirtual/laboral/ISBN978-922-330968-8_LAREFORMAPROCESALLABORALDECOSTARICA.pdf",
+      "titulo": "Estudio sobre la Reforma Procesal Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://procesal-laboral.go.cr/",
+      "titulo": "Reforma Procesal Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.ulacit.ac.cr/bitstream/handle/20.500.14230/10670/REF-1630991166-1.pdf?sequence=1&isAllowed=y",
+      "titulo": "La Reforma Procesal Laboral: un antes y un después en el derecho de huelga",
+      "citada": true
+    },
+    {
+      "url": "https://pjenlinea3.poder-judicial.go.cr/biblioteca/uploads/Archivos/Articulo/Castro%20Montealegre_Adrian.pdf",
+      "titulo": "UNIVERSIDAD CASTILLA DE LA MANCHA- TOLEDO XXIII EDICIÓN DE CURSOS DE POSTGRADO",
+      "citada": true
+    },
+    {
+      "url": "https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1225058",
+      "titulo": "Sala Constitucional - Nexus PJ - Poder Judicial",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.co.cr/vid/726641405",
+      "titulo": "Sentencia nº 08531 de Sala Constitucional de la Corte Suprema de Justicia, de 30 de Mayo de 2018 - vLex Costa Rica",
+      "citada": true
+    },
+    {
+      "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=80985&strTipM=TC",
+      "titulo": "Reforma Procesal Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.nacion.com/el-pais/laura-chinchilla-celebra-reves-a-reforma-procesal-laboral/VUUJZTO6RVDXBJE62XPEGOUAUA/story/",
+      "titulo": "Laura Chinchilla celebra revés a Reforma Procesal Laboral - La Nación",
+      "citada": true
+    },
+    {
+      "url": "https://www.ameliarueda.com/nota/presidente-solis-levanta-veto-a-reforma-procesal-laboral",
+      "titulo": "Presidente Solís levanta veto a reforma procesal laboral ​",
+      "citada": true
+    },
+    {
+      "url": "https://anep.cr/resena-historica-de-la-reforma-procesal-laboral/",
+      "titulo": "Reseña histórica de la Reforma Procesal Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.mtss.go.cr/elministerio/despacho/rpl/INSTRUCTIVO%20PRENSA%20REFORMA%20PROCESAL%20LABORAL%202.pdf",
+      "titulo": "I N S T R U C T I V O D E P R E N S A MINISTERIO DE COMUNICACIÓN",
+      "citada": true
+    },
+    {
+      "url": "https://www.elfinancierocr.com/economia-y-politica/que-cambia-con-la-reforma-procesal-laboral-aprobada/VXE57AOYEFFEPEI55HVJEMXCWQ/story/",
+      "titulo": "¿Qué cambia con la Reforma Procesal Laboral aprobada?",
+      "citada": true
+    },
+    {
+      "url": "https://www.nacion.com/opinion/foros/diez-datos-y-una-reflexion-sobre-la-reforma-procesal-laboral/R7HAMN2QBRGBDOFOHDU3JKO2UM/story/",
+      "titulo": "Diez datos y una reflexión sobre la Reforma Procesal Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://delfino.cr/2020/07/la-gran-reforma-laboral-que-no-fue",
+      "titulo": "La gran reforma laboral que no fue - Delfino.cr",
+      "citada": true
+    },
+    {
+      "url": "https://catalogo.unadeca.ac.cr/cgi-bin/koha/opac-detail.pl?biblionumber=385",
+      "titulo": "Details for: Código de Trabajo: Incluye: Reforma procesal laboral › Biblioteca Dr. Manuel Wong Lopez catalog",
+      "citada": true
+    },
+    {
+      "url": "https://escuelajudicialpj.poder-judicial.go.cr/Archivos/bibliotecaVirtual/laboral/Facilitadores%20judiciales.pdf",
+      "titulo": "Reforma Procesal Laboral PROCESO DE PROTECCIÓN DE FUEROS",
+      "citada": true
+    },
+    {
+      "url": "https://semanariouniversidad.com/pais/reforma-procesal-laboral-nuevas-reglas-trabajo/",
+      "titulo": "Reforma Procesal Laboral: nuevas reglas en el trabajo • Semanario Universidad",
+      "citada": true
+    },
+    {
+      "url": "https://proyectos.conare.ac.cr/asamblea/15990%20STJ.pdf",
+      "titulo": "1 Informe Jurídico Proyecto de Ley “LEY DE REFORMA PROCESAL LABORAL”",
+      "citada": true
+    },
+    {
+      "url": "https://crhoy.com/nacionales/sala-iv-avala-ley-de-huelgas/",
+      "titulo": "Sala IV avala Ley de Huelgas",
+      "citada": true
+    },
+    {
+      "url": "https://www.nacion.com/el-pais/sala-iv-avala-ley-que-regula-huelgas-y-rechaza/XVF6FAW5BZE35MJRR6BBJ7ESQI/story/",
+      "titulo": "Sala IV avala ley que regula huelgas y rechaza acción de inconstitucionalidad de ANEP",
+      "citada": true
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "PAN_2020",
+  "iso": "PAN",
+  "pais": "Panamá",
+  "anio": 2020,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1851,
+  "incompleto": false,
+  "norma_propuesta": "Ley 157 de 3 de agosto de 2020",
+  "otras": "Ley 126 de 18 de febrero de 2020; Decreto Ejecutivo 81 de 20 de marzo de 2020; Decreto Ejecutivo 133 de 16 de septiembre de 2020",
+  "confianza": "media",
+  "texto": "Mi elección para PAN 2020 es la **Ley 157 de 3 de agosto de 2020**. Hay otras dos candidatas fuertes, así que la confianza es media.\n\n**Qué es.** La Ley 157 establece medidas temporales de protección de empleo en las empresas afectadas por el Covid-19. Su texto original lo propuso el Consejo de Gabinete ante la Asamblea Nacional, por medio de la ministra de Trabajo (Mitradel). Se aplica a las empresas que cerraron total o parcialmente desde el inicio del estado de emergencia y a los trabajadores con contratos suspendidos. Hace cuatro cosas principales:\n- **Suspensión de contratos.** Permite prorrogar las suspensiones mes a mes hasta el 31 de diciembre de 2020. Además, el silencio administrativo deja de valer como aprobación.\n- **Reintegro y contratación.** El reintegro de trabajadores debe ser gradual, y se prohíbe contratar personal nuevo en puestos iguales o similares a los de trabajadores suspendidos (fuente).\n- **Turnos y salida del empleo.** Las empresas que reabren pueden cambiar los turnos. También se fijan reglas para la terminación por mutuo acuerdo y para el cálculo de la prima de antigüedad y la indemnización.\n- **Fuero de maternidad.** Agrega el artículo 116-A al Código de Trabajo, que suspende el cómputo del fuero mientras el contrato está suspendido (fuente).\n\n**Por qué la elijo.**\n1. **Alcance.** Es la norma de mayor alcance: regula a la vez la suspensión, la contratación, la jornada, el despido y la maternidad.\n2. **Rango legal.** El Código de Trabajo solo permitía prorrogar las suspensiones hasta agosto de 2020. Para ir más allá había que expedir una Ley -y no un decreto ejecutivo- para prorrogar las suspensiones más allá de agosto de dicho año, por razones de jerarquía legal.\n3. **Fuentes.** Mitradel y la prensa de referencia confirman su sanción y publicación en Gaceta Oficial.\n\n**Otras candidatas.**\n- **Ley 126 de 18 de febrero de 2020 (teletrabajo).** Es la alternativa más sólida porque es un cambio permanente, mientras que casi toda la Ley 157 es temporal. Fue publicada en Gaceta Oficial N° 28965-A y tiene por objeto establecer y regular el teletrabajo como modalidad de relación de trabajo en la República de Panamá. La descarto como principal porque regula una sola modalidad de trabajo. La reglamentó el Decreto Ejecutivo 133 de 16 de septiembre de 2020, que surgió de la Mesa Tripartita.\n- **Decreto Ejecutivo 81 de 20 de marzo de 2020.** Fue el detonante de la suspensión masiva de contratos y está registrado en NATLEX (OIT). Lo descarto porque es solo un decreto que reglamenta el numeral 8 del artículo 199 del Código de Trabajo.\n\n**Advertencias para las etapas siguientes.**\n- Las disposiciones de la Ley 157 son transitorias hasta el 31 de diciembre de 2020, a excepción de la adición del Artículo 116-A del Código de Trabajo. Esto pesa al usarla como variable de tratamiento.\n- Si el criterio de la base son reformas estructurales y no medidas de emergencia, convendría poner la Ley 126 como norma principal.\n\nNORMA: Ley 157 de 3 de agosto de 2020\nOTRAS: Ley 126 de 18 de febrero de 2020; Decreto Ejecutivo 81 de 20 de marzo de 2020; Decreto Ejecutivo 133 de 16 de septiembre de 2020\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://www.mitradel.gob.pa/normas-temporales-para-la-proteccion-del-empleo-son-ley-de-la-republica/",
+      "titulo": "Normas temporales para la protección del empleo son Ley de la República - Ministerio de Trabajo y Desarrollo Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://quijano.com/ley-no-157-de-2020-dicta-medidas-temporales-de-proteccion-de-empleo/?lang=es",
+      "titulo": "Ley No. 157 de 2020 dicta medidas temporales de protección de empleo",
+      "citada": true
+    },
+    {
+      "url": "https://publicaciones.bdsasesores.com/blog/panam%C3%A1-alertalaboralbds-ley-157",
+      "titulo": "#Panamá 🇵🇦 #AlertaLaboralBDS: Ley 157",
+      "citada": true
+    },
+    {
+      "url": "https://blog.laboremia.com/leyes/ley-126-del-18-de-febrero-de-2020-teletrabajo",
+      "titulo": "Leyes Panamá - Ley 126 del 18 de Febrero de 2020 - Teletrabajo - Laboremia",
+      "citada": true
+    },
+    {
+      "url": "https://www.gacetaoficial.gob.pa/storage/gacetas/2020/02/28965_A/GacetaNo_28965a_20200219.pdf",
+      "titulo": "No. 28965-A Gaceta Oficial Digital, miércoles 19 de febrero de 2020 1 Año CXVIX",
+      "citada": true
+    },
+    {
+      "url": "https://infojuridica.procuraduria-admon.gob.pa/norma_screen.php?numsec=55081",
+      "titulo": "Infojurídica",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=110418",
+      "titulo": "Panama - Decreto Ejecutivo núm. 81 de 20 de marzo de 2020, que reglamenta el numeral 8 del artículo 199 del Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://portal.amelica.org/ameli/journal/227/2274554009/html/",
+      "titulo": "LEGISLACIÓN LABORAL EN PANDEMIA",
+      "citada": true
+    },
+    {
+      "url": "https://chanis.pa/es/ley-57-de-3-de-agosto-de-2020/",
+      "titulo": "Ley 157 de agosto 3, 2020 - Chanis",
+      "citada": false
+    },
+    {
+      "url": "https://www.panamaamerica.com.pa/economia/medidas-temporales-para-la-proteccion-del-empleo-ya-son-ley-de-la-republica-1169142",
+      "titulo": "Medidas temporales para la protección del empleo ya son Ley de la República",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pa/vid/resume-cierta-afirmacion-trabajador-926351258",
+      "titulo": "Decreto Ejecutivo N° 229. Que establece medidas laborales temporales para el reintegro de los trabajadores con contrato suspendido - vLex Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=1f9c1a0f-a010-4435-b7b2-009dfc8bf5a8",
+      "titulo": "PANAMA LEGAL TASK FORCE COVID-19 - UPDATE #19 - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://www.prensa.com/impresa/economia/ejecutivo-sanciona-ley-de-proteccion-laboral/",
+      "titulo": "Ejecutivo sanciona ley de protección laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.kienyke.com/panama/ley-157-para-la-proteccion-del-empleo-en-panama",
+      "titulo": "Presidente sancionó Ley 157 para la protección del empleo en Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://ensegundos.com.pa/2020/08/22/opinion-empleador-vs-trabajador-normas-temporales-para-la-proteccion-del-empleo/",
+      "titulo": "Opinión: Empleador vs. trabajador: Normas temporales para la protección del empleo",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecolex.org/es/details/legislation/ley-no-126-ley-que-establece-y-regula-el-teletrabajo-en-la-republica-de-panama-lex-faoc199024/",
+      "titulo": "Ley Nº 126 - Ley que establece y regula el teletrabajo en la República de Panamá.",
+      "citada": false
+    },
+    {
+      "url": "https://leap.unep.org/en/countries/pa/national-legislation/ley-no-126-ley-que-establece-y-regula-el-teletrabajo-en-la",
+      "titulo": "Ley Nº 126 - Ley que establece y regula el teletrabajo en la República de Panamá.",
+      "citada": false
+    },
+    {
+      "url": "https://gala.com.pa/se-regula-teletrabajo-en-panama/",
+      "titulo": "Se regula teletrabajo en Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pa/vid/ley-n-126-establece-840619133",
+      "titulo": "Ley N° 126. Que establece y regula el teletrabajo en la república de panamá y modifica un artículo del código de trabajo - vLex Panamá",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.up.ac.pa/index.php/vanguardiajuridica/article/view/9154",
+      "titulo": "Aspectos relevantes de la modalidad del teletrabajo según la Legislación Panameña",
+      "citada": false
+    },
+    {
+      "url": "https://www.mitradel.gob.pa/decreto-ejecutivo-que-reglamenta-la-ley-de-teletrabajo-en-gaceta-oficial/",
+      "titulo": "Decreto Ejecutivo que Reglamenta la Ley de Teletrabajo en Gaceta Oficial - Ministerio de Trabajo y Desarrollo Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://acclawyers.com/2020/10/31/teletrabajo-panama/",
+      "titulo": "EL TELETRABAJO EN PANAMÁ - ACC Lawyers",
+      "citada": false
+    },
+    {
+      "url": "https://www.mitradel.gob.pa/reglamentan-la-suspension-de-los-contratos-de-trabajo-2/",
+      "titulo": "Reglamentan la suspensión de los contratos de trabajo - Ministerio de Trabajo y Desarrollo Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.anpanama.com/9817-La-suspension-de-los-Contratos-de-Trabajo-por-el-COVID-19-.note.aspx",
+      "titulo": "La suspensión de los Contratos de Trabajo por el COVID-19 - Información. General",
+      "citada": false
+    },
+    {
+      "url": "https://gala.com.pa/medidas-laborales-en-panama-ante-el-covid-19/",
+      "titulo": "Medidas Laborales en Panamá ante el COVID-19",
+      "citada": false
+    },
+    {
+      "url": "https://www.laestrella.com.pa/nacional/200321/panama-reglamenta-suspension-contratos",
+      "titulo": "Panamá reglamenta la suspensión de los contratos de trabajo por coronavirus",
+      "citada": false
+    },
+    {
+      "url": "https://www.laestrella.com.pa/vida-y-cultura/cultura/aspectos-decreto-ejecutivo-81-APLE423333",
+      "titulo": "Aspectos del Decreto Ejecutivo 81 del 20 de marzo de 2020",
+      "citada": false
+    },
+    {
+      "url": "https://www.dentons.com/en/insights/alerts/2020/march/21/panama-suspension-of-work-contracts-due-to-closure-of-commercial-establishments",
+      "titulo": "Dentons - Panama",
+      "citada": false
+    },
+    {
+      "url": "https://www.laestrella.com.pa/opinion/columnistas/suspension-contratos-danos-colaterales-OPLE424921",
+      "titulo": "Suspensión de los contratos de trabajo: daños colaterales",
+      "citada": false
+    },
+    {
+      "url": "https://destinopanama.com.pa/2020/10/la-relacion-laboral-y-sus-efectos-en-la-nueva-normalidad/",
+      "titulo": "La relación laboral y sus efectos en la nueva normalidad - Destino Panamá",
+      "citada": false
+    }
+  ]
+}

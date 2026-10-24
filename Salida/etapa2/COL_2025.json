@@ -1,0 +1,233 @@
+{
+  "id": "COL_2025",
+  "iso": "COL",
+  "pais": "Colombia",
+  "anio": 2025,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0625,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 2466 de 2025",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto 0991 de 2026 (reglamenta los artículos 24 a 30, 34 y 67 de la Ley 2466 de 2025 sobre seguridad social de repartidores de plataformas)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2025-06-25",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según su artículo 1, reformar el Código Sustantivo del Trabajo, la Ley 50 de 1990, la Ley 789 de 2002 y otras normas para garantizar la remuneración justa, el bienestar integral, la promoción del diálogo social, el acceso a la seguridad social y la sostenibilidad de los empleos. En la sanción, el Gobierno añadió los propósitos de fortalecer las condiciones laborales y promover el empleo formal.",
+    "descripcion_intenciones": "La ley busca restablecer la prevalencia del contrato a término indefinido, endurecer los requisitos formales de la contratación temporal y limitar el uso de empresas de servicios temporales. Amplía protecciones en jornada nocturna y recargos por trabajo en días de descanso, devuelve al contrato de aprendizaje su naturaleza laboral y extiende la cobertura de seguridad social a grupos como repartidores de plataformas, trabajadoras domésticas, migrantes y trabajadores rurales. También incorpora medidas de conciliación, no discriminación e incentivos a la contratación. El texto sancionado es considerablemente más acotado que el proyecto aprobado en la Cámara: se excluyeron los cambios a la indemnización por despido y casi toda la agenda sindical. Además, incluye algunos elementos flexibilizadores, como la eliminación del permiso previo para las horas extra.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece la prevalencia del contrato indefinido, fija un tope de duración y exige forma escrita al contrato a término fijo. Los contratos fijos o por obra que incumplan los requisitos formales se entienden indefinidos."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Extiende la responsabilidad solidaria a contratistas y subcontratistas y limita a las empresas de servicios temporales. Si se exceden los límites, la empresa usuaria se tiene como verdadera empleadora, aunque no se prohíben estas empresas ni los contratos de prestación de servicios."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Efecto acotado: no modifica la tabla de indemnizaciones. Prohíbe el despido o la presión a la renuncia por enfermedad o afectaciones de salud mental y refuerza la protección de las mujeres embarazadas."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Amplía la franja nocturna y eleva gradualmente el recargo por trabajo en días de descanso obligatorio. Como contrapeso, elimina el permiso ministerial para las horas extra y vuelve optativo el Día de la Familia."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Permite consignar las cesantías y pagar sus intereses de forma mensual, y exime de sanción moratoria el pago directo de las cesantías. Da flexibilidad al empleador sin suprimir el derecho."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Cambio menor sobre los estatutos sindicales y la representación paritaria. Se descartaron la negociación por rama, la prohibición de los pactos colectivos y el procedimiento sumario; el contrato sindical se mantiene."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece reglas de acceso a la seguridad social para repartidores de plataformas, micronegocios, hogares, migrantes con independencia de su situación migratoria y trabajadores vulnerables y rurales."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Exige contrato escrito y registro en la PILA para el trabajo doméstico. Crea los incentivos «Crea Empleo» para nuevas contrataciones y un programa de acceso a crédito para microempresas."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea nuevas licencias, entre ellas por endometriosis y por obligaciones escolares, y reconoce flexibilidad horaria a quienes tienen responsabilidades de cuidado. Añade prohibiciones de discriminación, aunque las licencias quedaron más acotadas que en el proyecto."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "El contrato de aprendizaje pasa a ser un contrato laboral especial a término fijo, con seguridad social y prestaciones. También se encarece la monetización de la cuota de aprendices."
+      },
+      {
+        "dimension": "nuevas_formas_de_trabajo",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Clasifica a los repartidores de plataformas como dependientes o independientes, con aportes compartidos, y les reconoce el derecho a revisión humana de las decisiones automatizadas. Crea modalidades de teletrabajo transnacional y temporal o emergente, con auxilio de conectividad."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Eleva a rango legal el procedimiento disciplinario y obliga a incorporarlo al reglamento interno de trabajo. No modifica las reglas de prescripción."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea una cuota de contratación de personas con discapacidad y regímenes especiales para artistas, periodistas y deportistas. Formaliza a las manipuladoras de alimentos del PAE y a las madres comunitarias."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "informales",
+      "mujeres",
+      "jovenes",
+      "empleadores_mipymes"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley modifica el Código Sustantivo del Trabajo, la Ley 50 de 1990 y la Ley 789 de 2002, y revierte parcialmente esta última, en especial al devolver la naturaleza laboral al contrato de aprendizaje y al reescribir el régimen de monetización de la cuota de aprendices. En el plano político, la Comisión Séptima del Senado archivó el proyecto y el presidente Petro respondió con la propuesta de una consulta popular. El Senado negó la consulta, revivió el proyecto y lo asignó a la Comisión Cuarta, donde fue recortado; la CUT sostuvo que se revivió para frenar la consulta. El contexto económico de 2025 no fue verificado.",
+    "notas": "Vigencia escalonada: la ley rige desde su promulgación el 2025-06-25 (artículo 70), pero la ampliación de la jornada nocturna rige desde el 2025-12-25 (una fuente indica el día siguiente). El recargo dominical y festivo aumenta cada 1 de julio de 2025, 2026 y 2027. La cuota de discapacidad es optativa al inicio y obligatoria después, y las obligaciones sobre plataformas dependen de la reglamentación (Decreto 0991 de 2026); los empleadores tienen además un plazo para actualizar el reglamento interno. Fallos posteriores: la Sentencia C-081 de 2026 declaró inexequible la expresión «que no esté relacionado o influya en su ejercicio laboral», lo que amplía la protección contra la discriminación y no recorta la reforma; la Sentencia C-030 de 2026 declaró exequible una expresión del artículo 19. Por ello se codifica como vigente. No se verificaron demandas pendientes ni leyes posteriores modificatorias. El gremio de plataformas pidió derogar el Decreto 0991, pero esa presión recae sobre el reglamento y no sobre la ley. La reducción de la jornada máxima semanal no se codifica, porque las fuentes la atribuyen a la Ley 2101 de 2021. Que la Ley 789 de 2002 hubiera reducido el recargo dominical y ampliado la jornada diurna es información sin fuente en la investigación. Las medidas para las manipuladoras del PAE y las madres comunitarias podrían vincularse al sector público, pero no se incluyó esa población por falta de precisión en el informe. Gran parte del contenido proviene de fuentes gremiales y de despachos de abogados, cruzadas con fragmentos del texto oficial (SUIN, Función Pública, Presidencia), sin revisión del articulado completo; tampoco se consultaron NATLEX/EPLex ni la exposición de motivos. Un proyecto de decreto del Ministerio del Trabajo sobre tercerización e intermediación laboral figura entre las fuentes, pero no consta su expedición, por lo que no se incluye en normas_relacionadas."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.andi.com.co/Uploads/ANDI-CESLA.%20El%20ABC%20de%20la%20reforma%20laboral.%20Ley%202466%20de%202025.pdf",
+      "titulo": "REFORMA LABORAL (Ley 2466 de 2025, D.O. 53.160) ABC DE LA",
+      "citada": true
+    },
+    {
+      "url": "https://acnweb.org/acn/principales-cambios-introducidos-por-la-reforma-laboral-ley-2466-del-25-de-junio-de-2025/",
+      "titulo": "Principales cambios introducidos por la Reforma Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.cerlatam.com/normatividad/congreso-ley-2466-de-2025/",
+      "titulo": "Congreso, Ley 2466 de 2025 - Centro de Estudios Regulatorios",
+      "citada": true
+    },
+    {
+      "url": "https://www.uniandes.edu.co/es/noticias/economia/reforma-laboral-ley-2466-de-2025-que-es-puntos-y-consecuencias",
+      "titulo": "Reforma Laboral / Ley 2466 de 2025: Qué es, puntos y consecuencias",
+      "citada": true
+    },
+    {
+      "url": "https://actualicese.com/reforma-laboral-que-cambia-con-la-ley-2466-de-2025/",
+      "titulo": "Reforma laboral: ¿qué cambia con la Ley 2466 de 2025?",
+      "citada": true
+    },
+    {
+      "url": "https://dentons.cardenas-cardenas.com/es/insights/articles/2025/june/27/ley-2466-de-2025-reforma-laboral",
+      "titulo": "Dentons Cardenas & Cardenas - Ley 2466 de 2025",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexartislegal.com/blog/reforma-laboral-ley-2466-2025.html",
+      "titulo": "Reforma laboral 2025 (Ley 2466): los derechos nuevos del trabajador que todo empleador debe respetar",
+      "citada": true
+    },
+    {
+      "url": "https://uninavarra.edu.co/en/uncategorized/ley-2466-de-2025-reforma-laboral-en-colombia/",
+      "titulo": "Ley 2466 de 2025: Reforma Laboral en Colombia. - Uninavarra",
+      "citada": true
+    },
+    {
+      "url": "https://www.arielapp.co/es/biblioteca/documento/ley-2466-de-2025-reforma-laboral-c13f3a39",
+      "titulo": "Ley 2466 de 2025 - Reforma Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2026/C-081-26.htm",
+      "titulo": "Corteconstitucional",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/colombia/2026/04/18/corte-constitucional-declaro-inexequible-un-aparte-de-la-reforma-laboral-que-permitia-justificar-tratos-discriminatorios-en-el-trabajo/",
+      "titulo": "Corte Constitucional declaró inexequible un aparte de la reforma laboral que permitía justificar tratos discriminatorios en el trabajo - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=30055086",
+      "titulo": "LEY 2466 DE 2025 - Colombia",
+      "citada": true
+    },
+    {
+      "url": "https://www.sur.org.co/reforma-laboral-ley-2466-2025-balance-y-perspectivas/",
+      "titulo": "Reforma Laboral, Ley 2466/2025, balance y perspectivas",
+      "citada": true
+    },
+    {
+      "url": "https://asesoriasjuridicas.com.co/reforma-laboral-2026-colombia-cambios-vigentes/",
+      "titulo": "Ley 2466 de 2025 (reforma laboral): guía vigente 2026",
+      "citada": true
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=260676",
+      "titulo": "Departamento Administrativo de la Función Pública Ley 2466 de 2025 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.revistaraya.com/reforma-en-reversa-asi-se-recorto-la-reforma-laboral-que-moviliza-al-pais.html",
+      "titulo": "Reforma en reversa: así se recortó la reforma laboral que moviliza al país - Revista RAYA",
+      "citada": true
+    },
+    {
+      "url": "https://dapre.presidencia.gov.co/normativa/normativa/LEY%202466%20DEL%2025%20DE%20JUNIO%20DE%202025.pdf",
+      "titulo": "LEY 2466 DEL 25 DE JUNIO DE 2025",
+      "citada": true
+    },
+    {
+      "url": "https://actualicese.com/mitos-de-la-reforma-laboral-ley-2466-de-2025-contratos-de-prestacion-de-servicios-y-empresas-temporales/",
+      "titulo": "Mitos de la reforma laboral, Ley 2466 de 2025: contratos de prestación de servicios y empresas temporales",
+      "citada": true
+    },
+    {
+      "url": "https://prosantander.org/wp-content/uploads/2025/07/Reforma-Laboral-version-corta_04JUL2025_.pdf",
+      "titulo": "REFORMA LABORAL - Ley 2466 de 2025",
+      "citada": true
+    },
+    {
+      "url": "https://safetya.co/normatividad/reformal-laboral-ley-2466-de-2025/",
+      "titulo": "Reforma Laboral en Colombia (Ley 2466 de 2025)",
+      "citada": true
+    },
+    {
+      "url": "https://incp.org.co/wp-content/uploads/2025/09/Ley-2466-de-2025.pdf",
+      "titulo": "LEY 2466 DE 2025 (junio 25) Diario Oficial No. 53.160 de 25 de junio de 2025",
+      "citada": true
+    },
+    {
+      "url": "https://actualicese.com/mitos-de-la-reforma-laboral-ley-2466-de-2025-se-elimina-el-contrato-sindical/",
+      "titulo": "Mitos de la reforma laboral, ley 2466 de 2025: ¿se elimina el contrato sindical?",
+      "citada": true
+    },
+    {
+      "url": "https://www.ambitojuridico.com/sites/default/files/2025-11/PROYECTONORMA-Mintrabajo-2025(tercerizacioneintermediacionlaboral).pdf",
+      "titulo": "DEcreto Número de 2025",
+      "citada": true
+    },
+    {
+      "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=181933",
+      "titulo": "Ley 2466 de 2025 Congreso de la República de Colombia",
+      "citada": true
+    },
+    {
+      "url": "https://www.andi.com.co/Uploads/Novedades_Laborales%20Agosto2026_639241314818615110.pdf",
+      "titulo": "Vicepresidencia de Asuntos Jurídicos 31 de Agosto 2026 jmanrique@andi.com.co",
+      "citada": true
+    },
+    {
+      "url": "https://www.moto-dotaciones.com/blog/ley-2466-repartidores-arl-epp-plataformas.html",
+      "titulo": "Ley 2466 y Repartidores: ARL, Seguridad Social y EPP",
+      "citada": true
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "HTI_2006",
+  "iso": "HTI",
+  "pais": "Haití",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0332,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Décret du 1er février 2006 fixant les principes fondamentaux de gestion des emplois de la fonction publique territoriale et de ses établissements publics",
+    "tipo_instrumento": "decreto_ley",
+    "normas_relacionadas": [
+      "Décret du 1er février 2006 sobre la organización y el funcionamiento de la colectividad municipal (publicado en Le Moniteur, Spécial n.º 2, 2 de junio de 2006), que remite el régimen del personal comunal a la legislación sobre la función pública territorial"
+    ],
+    "confianza_identificacion": "baja",
+    "estado_vigencia": "anulada_o_suspendida_total",
+    "fecha_entrada_vigencia": "desconocida",
+    "vigencia_escalonada": false,
+    "orientacion_general": "administrativa",
+    "objetivo_declarado": "Según la OCDE (no se halló la exposición de motivos), institucionalizar la función pública territorial para suplir la falta de competencias administrativas en el nivel subnacional, como parte del paquete de decretos de descentralización conocido como Charte des collectivités territoriales.",
+    "descripcion_intenciones": "El decreto busca dotar al personal de las colectividades territoriales y de sus establecimientos públicos de un estatuto propio, sustituyendo un empleo local sin encuadre por una carrera con ingreso por concurso. Según la prensa (sin verificación en el texto oficial), organiza los cuadros de empleo en categorías jerárquicas según el nivel de calificación y reclutamiento. El decreto municipal hermano confirma la remisión del personal comunal a esta legislación y el nombramiento por concurso, con excepciones para el Director General y los cargos electos. En la práctica, fuentes posteriores indican que la función pública territorial no llegó a operar.",
+    "dimensiones": [
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Estatuto del empleo público territorial: ingreso por concurso y clasificación jerárquica de cuadros, en línea con el mandato constitucional de concurso. Efecto tentativo, basado en prensa y en el decreto municipal hermano, no en el texto del decreto."
+      }
+    ],
+    "poblacion_objetivo": [
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Dictado por el gobierno de transición sin Parlamento en funciones (2004-2006); los decretos hermanos del mismo paquete van firmados por el Presidente provisional Boniface Alexandre. Desarrolla la descentralización consagrada en la Constitución de 1987, cuyas leyes de aplicación no se habían adoptado. Complementa, sin revertirlo, el Décret du 17 mai 2005 portant révision du statut général de la fonction publique, que derogó la ley del 19 de septiembre de 1982 sobre el Estatuto general de la Función pública. Los actores internacionales se mostraron reticentes a apoyar la ejecución de los decretos de transición por su falta de legitimidad democrática. No se hallaron fuentes sobre la coyuntura económica (sin fuente).",
+    "notas": "No se consultó el texto oficial del decreto; ninguna disposición fue verificada en él y no se constató su presencia en NATLEX. Expedido el 1 de febrero de 2006 y publicado en Le Moniteur meses después (los decretos hermanos se publicaron entre el 30 de mayo y el 14 de junio de 2006); no se identificó el número ni la fecha exacta de publicación, por lo que la fecha de vigencia es desconocida (valor tentativo: 2006-06). Expedición y publicación coinciden con el año de la base. vigencia_escalonada se fija en false por no poder verificarse si el texto prevé reglamentos de desarrollo. El estado anulada_o_suspendida_total se asigna en su acepción de 'nunca se aplicó': en noviembre de 2006 una autoridad del nuevo gobierno anunció la suspensión de los decretos de transición y fuentes posteriores (2011, 2022) describen la función pública territorial como inoperante; no hubo anulación judicial ni derogación expresa conocida, por lo que la alternativa conservadora sería 'desconocido'. tipo decreto_ley por dictarse sin Congreso en funciones; una tesis los denomina décrets-lois. No se codifica empleo_juvenil_y_aprendizaje pese a una lectura de prensa posterior. Se desconoce si regula despido, remuneración, pensiones o si crea el INAT. Se recomienda revisar si la base buscaba en realidad la reforma del estatuto general de la función pública de 2005."
+  },
+  "fuentes": [
+    {
+      "url": "https://archivesjuridiquesht.com/archives/53",
+      "titulo": "Décret portant cadre général de la décentralisation organisation et fonctionnment des collectivités territoriales Haïtien",
+      "citada": true
+    },
+    {
+      "url": "https://budget.gouv.ht/storage/app/uploads/public/5f5/a88/000/5f5a88000b6b3701567895.pdf",
+      "titulo": "Paraissant Le Lundi et le Jeudi JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAÏTI",
+      "citada": true
+    },
+    {
+      "url": "https://rtvhaiti.com/article/2/les-",
+      "titulo": "Les collectivités territoriales : Une alternative au fléau migratoire intense et continue.",
+      "citada": true
+    },
+    {
+      "url": "https://www.oas.org/juridico/PDFs/mesicic4_hti_dec05_pub.pdf",
+      "titulo": "Les dispositions du présent Décret fixent les principes ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.adnhaiti.ht/references-legales/",
+      "titulo": "Références Légales - Administration Départementale Nord d'Haiti",
+      "citada": true
+    },
+    {
+      "url": "https://www.alainet.org/es/node/119065",
+      "titulo": "Politiques de décentralisation en Haïti",
+      "citada": true
+    },
+    {
+      "url": "https://vantbefinfo.com/haiti/",
+      "titulo": "La décentralisation en Haïti, comme l’oxygène à une personne qui se noie -",
+      "citada": true
+    },
+    {
+      "url": "https://theses.fr/2022BORD0076",
+      "titulo": "Une politique de décentralisation empêchée en Haïti : analyse des résistances et conflits entre l’État et les collectivités locales",
+      "citada": true
+    },
+    {
+      "url": "https://www.institut-numerique.org/1-linstabilite-politique-comme-entrave-au-processus-de-modernisation-de-la-fonction-publique-4fedc2d43c075",
+      "titulo": "§ 1. L’instabilité politique comme entrave au processus de modernisation de la Fonction publique",
+      "citada": true
+    },
+    {
+      "url": "https://droit.cairn.info/revue-civitas-europa-2025-1-page-403?lang=fr",
+      "titulo": "Résumé de la thèse : La décentralisation en Haïti à l’aune de l’expérience décentralisatrice française.",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=86493&p_country=HTI&p_count=57&p_classification=22&p_classcount=7",
+      "titulo": "NATLEX - Haiti - Décret du 17 mai 2005 portant révision du statut général de la fonction publique.",
+      "citada": true
+    },
+    {
+      "url": "https://www.avsf.org/app/uploads/2023/12/osi-et-collectivites-territoriales-comment-mieux-intervenir-ensemble-en-haiti.pdf",
+      "titulo": "Assemblee Nationale # Paris # 01.Juin.2011 ESPACE DE FRANCO-HAÏTIENS",
+      "citada": true
+    },
+    {
+      "url": "https://www.oecd.org/en/publications/2021/12/examens-de-l-ocde-sur-la-gouvernance-publique-haiti_9a39a96f/full-report/multi-level-governance-in-haiti_7481a6aa.html",
+      "titulo": "Multi-level governance in Haiti: OECD Public Governance Reviews: Haiti",
+      "citada": true
+    },
+    {
+      "url": "https://rtvhaiti.com/article/2/les-collectivites-territoriales--une-alternative-au-fleau-migratoire-intense-et-continue",
+      "titulo": "RTVH",
+      "citada": true
+    }
+  ]
+}

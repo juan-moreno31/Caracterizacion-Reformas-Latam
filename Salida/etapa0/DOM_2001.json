@@ -1,0 +1,116 @@
+{
+  "id": "DOM_2001",
+  "iso": "DOM",
+  "pais": "República Dominicana",
+  "anio": 2001,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1226,
+  "incompleto": false,
+  "norma_propuesta": "Ley núm. 87-01 que crea el Sistema Dominicano de Seguridad Social (promulgada el 9 de mayo de 2001)",
+  "otras": "Decreto núm. 774-01 que establece el Reglamento Orgánico y Funcional de la Secretaría de Estado de Trabajo; Decreto núm. 560-01 (publicación oficial de la Ley 87-01)",
+  "confianza": "alta",
+  "texto": "**Reforma identificada: Ley 87-01, que crea el Sistema Dominicano de Seguridad Social (SDSS)**\n\n1. **Qué es.** La Ley 87-01 crea el SDSS. Según su artículo 1, sirve para regular los derechos y deberes recíprocos del Estado y de los ciudadanos en el financiamiento de la protección contra los riesgos de vejez, discapacidad, cesantía por edad avanzada, sobrevivencia, enfermedad, maternidad, infancia y riesgos laborales. La Secretaría de Estado de Trabajo publicó la versión oficial e indica que fue promulgada por el Poder Ejecutivo el 9 de mayo del 2001.\n\n2. **Por qué es la que corresponde.** Cumple el criterio de confianza alta: la norma aparece en NATLEX (OIT) con fecha de adopción 2001-05-09, clasificada como ley de seguridad social. También figura en fuentes oficiales dominicanas (DGII, CNSS, Hacienda). Su origen fue tripartito. En 1996, mediante el Decreto 382-96, se formó una Comisión Tripartita (Gobierno-Empleadores-Trabajadores) a fin de elaborar un Anteproyecto de Ley para transformar el modelo de seguros sociales en un Sistema para la seguridad social. El proyecto llegó al Congreso en 1998 y se aprobó en 2001.\n\n3. **Candidatas descartadas.**\n   - El Código de Trabajo vigente sigue siendo la Ley 16-92 de 1992. En las búsquedas realizadas no encontré ninguna reforma de ese código en 2001.\n   - La única otra norma laboral de 2001 que encontré en NATLEX es el Decreto 774-01, de 20 de julio de 2001, que establece el Reglamento Orgánico y Funcional de la Secretaría de Estado de Trabajo. Es un cambio institucional de menor alcance, así que la anoto como norma relacionada.\n   - El Decreto 560-01 solo ordenó publicar la versión oficial de la Ley 87-01.\n\n4. **Puntos para las etapas siguientes.**\n   - **Codificación como reforma laboral.** La ley no toca contratación, despido ni jornada; su materia es la seguridad social. Esto debe constar al usarla como variable de tratamiento.\n   - **Modificaciones posteriores.** Según un despacho de abogados (fuente secundaria), la ley ha sido modificada por las Leyes 370-05 y 188-07; NATLEX confirma la 188-07.\n   - **Posible vigencia escalonada.** La ley prevé que el aumento de las cotizaciones se aplique de forma gradual mediante aumentos anuales sucesivos. Esto apunta a una aplicación escalonada, que habrá que verificar en la etapa de caracterización.\n\nNORMA: Ley núm. 87-01 que crea el Sistema Dominicano de Seguridad Social (promulgada el 9 de mayo de 2001)\nOTRAS: Decreto núm. 774-01 que establece el Reglamento Orgánico y Funcional de la Secretaría de Estado de Trabajo; Decreto núm. 560-01 (publicación oficial de la Ley 87-01)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=62015",
+      "titulo": "NATLEX - Dominican Republic - Ley núm. 87-01 que crea el Sistema Dominicano de Seguridad Social.",
+      "citada": true
+    },
+    {
+      "url": "https://www.fiapinternacional.org/wp-content/uploads/2016/02/ley_87_01.pdf",
+      "titulo": "SECRETARÍA DE ESTADO DE TRABAJO CONSEJO NACIONAL DE SEGURIDAD SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "https://phlaw.com/es/ley-no-87-01-que-crea-sistema-dominicano-seguridad-social/",
+      "titulo": "Ley No. 87-01 que crea el Sistema el Sistema Dominicano de Seguridad Social - Pellerano & Herrera",
+      "citada": true
+    },
+    {
+      "url": "https://www.cnss.gob.do/sobre-nosotros/historia",
+      "titulo": "Historia",
+      "citada": true
+    },
+    {
+      "url": "https://ilo.org/dyn/natlex/natlex4.detail?p_isn=28840",
+      "titulo": "NATLEX - Dominican Republic - Código de Trabajo de la República Dominicana",
+      "citada": true
+    },
+    {
+      "url": "https://dgii.gov.do/legislacion/leyesTributarias/Documents/Leyes%20de%20Instituciones%20y%20Fondos%20de%20Terceros/87-01.pdf",
+      "titulo": "Ley No. 87-01 que crea el Sistema Dominicano de Seguridad Social.",
+      "citada": false
+    },
+    {
+      "url": "https://phlaw.com/wp-content/uploads/2025/01/Ley-No.-87-01-que-crea-el-Sistema-el-Sistema-Dominicano-de-Seguridad-Social.pdf",
+      "titulo": "Ley No. 87-01 que crea el Sistema Dominicano de Seguridad ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.dgjp.gob.do/wp-content/uploads/2022/05/Ley-No.87-01.pdf",
+      "titulo": "Ley No. 87-01 que crea El Sistema Dominicano de Seguridad ...",
+      "citada": false
+    },
+    {
+      "url": "https://adars.org.do/wp-content/uploads/2020/03/Ley-87-01-Sistema-Dominicano-de-Seguridad-Social.pdf",
+      "titulo": "i SECRETARÍA DE ESTADO DE TRABAJO CONSEJO NACIONAL DE SEGURIDAD SOCIAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.hacienda.gob.do/wp-content/uploads/2023/12/ley_87-01-1.pdf",
+      "titulo": "i SECRETARÍA DE ESTADO DE TRABAJO CONSEJO NACIONAL DE SEGURIDAD SOCIAL",
+      "citada": false
+    },
+    {
+      "url": "https://adars.org.do/logros-de-la-ley-87-01/",
+      "titulo": "Logros de la Ley 87-01",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/29744/DOM29744.pdf",
+      "titulo": "codigo de trabajo (ley 16-92) y normas complementarias",
+      "citada": false
+    },
+    {
+      "url": "http://wcmsq3.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=29744",
+      "titulo": "República Dominicana - Ley núm. 16-92 que aprueba el Código de Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=111574",
+      "titulo": "NATLEX - Dominican Republic - Decreto núm. 522-06, de 17 de octubre, que establece el Reglamento de Seguridad y Salud en el Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=29744",
+      "titulo": "NATLEX - Dominican Republic - Ley núm. 16-92 que aprueba el Código de Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=86059",
+      "titulo": "NATLEX - Dominican Republic - Ley núm. 177-09 que otorga amnistía a todos los empleadores públicos y privados, sean personas físicas o morales, con atrasos u omisiones en el pago de las cotizaciones relativas a los aportes del trabajador y las contribuciones del empleador al Sistema Dominicano de Seguridad Social, que hayan estado operando durante la vigencia de la Ley núm. 87-01.",
+      "citada": false
+    },
+    {
+      "url": "https://justiciaytransparencia.com.do/wp-content/uploads/2023/07/CODIGO-DE-TRABAJO-interactivo.pdf",
+      "titulo": "CÓDIGO DE TRABAJO DE LA REPÚBLICA DOMINICANA TRAJANO VIDAL POTENTINI A.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=34441",
+      "titulo": "NATLEX - Dominican Republic - Decreto núm. 258-93, reglamento para la aplicación del Código de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "http://legalia.com.do/serve/listfile_download.aspx?id=1017&num=1",
+      "titulo": "CÓDIGO DE TRABAJODE LA REPÚBLICA DOMINICANA LEY NO. 16-92",
+      "citada": false
+    },
+    {
+      "url": "https://do.vlex.com/vid/codigo-trabajo-republica-dominicana-727474797",
+      "titulo": "Código de Trabajo de la República Dominicana - vLex República Dominicana",
+      "citada": false
+    }
+  ]
+}

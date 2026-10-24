@@ -1,0 +1,143 @@
+{
+  "id": "ARG_2004",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2004,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0447,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 25.877 de 2004 (Ordenamiento del Régimen Laboral)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley 25.972 de 2004",
+      "Decreto 1506/2004",
+      "Decreto 2014/2004"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2004-03",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según el informe del Ministerio de Trabajo de la Provincia de Buenos Aires (junio de 2004), la ley buscaba favorecer la generación de empleo decente, estimular la negociación colectiva, asegurar la preeminencia de la norma más favorable al trabajador y la composición de conflictos por acuerdo de partes, y respetar la Constitución y los convenios de la OIT ratificados. En el Senado, el oficialismo presentó la derogación de la Ley 25.250 como una deuda pendiente de las instituciones con la sociedad. No se consultó la exposición de motivos del Poder Ejecutivo.",
+    "descripcion_intenciones": "La ley deroga la Ley 25.250 y restituye un régimen de relaciones laborales más protector y centralizado. Acorta el período de prueba y le impone límites contra el uso abusivo, extiende a ese período la obligación de preavisar y reescribe la base de cálculo de la indemnización por despido. Restablece la ultraactividad de los convenios y la articulación que da primacía al convenio de ámbito mayor, además de crear el balance social y reforzar la inspección del trabajo. Su único componente que abarata la contratación es una reducción temporal y focalizada de contribuciones para pequeñas empresas que amplíen su nómina.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Acorta el período de prueba respecto de la Ley 25.250, prohíbe su uso reiterado con el mismo trabajador y sanciona su uso abusivo. Si el trabajador no está registrado, se entiende que el empleador renunció a dicho período."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Extiende la obligación de preavisar al período de prueba y fija el cómputo de plazos desde la notificación. La reescritura del artículo 245 de la LCT, que mantiene el tope y fija un piso, se considera una reorganización porque no se verificó su sentido respecto del texto anterior."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Otorga una reducción temporal de contribuciones a pequeñas empresas que aumenten su nómina neta, en reemplazo de la rebaja general de la Ley 25.250."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Restituye la ultraactividad de los convenios y la articulación centralizada con primacía del convenio de ámbito mayor, e integra a los delegados de personal en la representación en la empresa. El artículo 24 sobre huelga en servicios esenciales no se verificó en su texto original (sin fuente)."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece un orden de prelación de normas y limita los convenios de ámbito menor a materias delegadas, no tratadas o más favorables al trabajador. Para homologar un convenio solo se exige control de legalidad."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Destina lo recaudado por multas al fortalecimiento de la inspección y faculta al Ministerio de Trabajo para fiscalizar aportes en todo el país, sin perjuicio de las facultades de la AFIP."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Balance social: las empresas grandes deben elaborarlo cada año y remitirlo al sindicato con personería gremial, lo que mejora la información disponible para la negociación."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "empleadores_mipymes",
+      "general"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley se sancionó en el primer año de la presidencia de Néstor Kirchner, con Carlos Tomada como ministro de Trabajo, tras la crisis de 2001-2002 y la devaluación. Deroga la Ley 25.250 de 2000, deslegitimada por el escándalo de sobornos en el Senado («Ley Banelco»), que derivó en la renuncia del vicepresidente Carlos Álvarez. Revierte sus ejes centrales: la extensión del período de prueba, la rebaja general de contribuciones, la caída de la ultraactividad y la prioridad del convenio de ámbito menor. Modifica la Ley de Contrato de Trabajo y ordena el texto de la Ley 14.250. El Senado la aprobó por amplia mayoría y, según una fuente secundaria, contó con el acuerdo de las principales centrales sindicales.",
+    "notas": "Fechas: sancionada el 2004-03-02, promulgada el 2004-03-18 y publicada en el Boletín Oficial el 2004-03-19. No se verificó una cláusula propia de vigencia, por lo que se registra «2004-03». La vigencia escalonada se marca como probable: el incentivo del artículo 6 dependía de una reglamentación y tenía cierre en 2004, y el artículo 24 remitía a una reglamentación posterior (posiblemente el Decreto 272/2006, sin fuente). Los decretos relacionados de 2004 provienen de la etapa de identificación y no fueron verificados en este informe. El capítulo de cooperativas de trabajo (posible restricción a la intermediación) y el de simplificación registral quedan sin fuente, por lo que no se codifican. Vigencia posterior: ningún tribunal anuló la Ley 25.877. La Ley 26.476 de 2008 afectó el capítulo de promoción del empleo (no reverificado). El DNU 70/2023 y el DNU 340/2025 modificaron el artículo 24, y ambos fueron suspendidos judicialmente, lo que protegió el texto de 2004; el primero está pendiente ante la Corte Suprema. La Ley 27.802 de Modernización Laboral (BO 2026-03-06) sustituyó el artículo 24 y modificó la ultraactividad y la prelación de convenios, por lo que actúa como contrarreforma. Una cautelar que la suspendía fue luego dejada sin efecto; persisten cautelares sectoriales de estado no verificado. Algunas reproducciones textuales de la ley provienen de fuentes no oficiales, coherentes con Infoleg y NATLEX."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN25877.pdf",
+      "titulo": "REGIMEN LABORAL Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-93595/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25877 - REGIMEN LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.uart.org.ar/ley-25-877/",
+      "titulo": "Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://federacionuniversitaria.blogspot.com/2008/04/leyes-25877-rgimen-laboral.html",
+      "titulo": "FUP: LEYES: 25877 Régimen Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://trivia.consejo.org.ar/ficha/521489-ley_25.877._regimen_laboral",
+      "titulo": "Ley 25.877. Régimen Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://archivo.consejo.org.ar/Bib_elect/julio08_CT/documentos/L25877.htm",
+      "titulo": "Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/documentos/legislacion/leyes/ley25877.pdf",
+      "titulo": "La Plata, Junio de 2004.- LEY DE ORDENAMIENTO LABORAL (Ley 25.877) INFORME",
+      "citada": true
+    },
+    {
+      "url": "https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2024/PDF2024/TP2024/0743-D-2024.pdf",
+      "titulo": "Servicios Esenciales. Modificaciones a la Ley 25.877. PROYECTO DE LEY",
+      "citada": true
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Presidencia_de_N%C3%A9stor_Kirchner",
+      "titulo": "Presidencia de Néstor Kirchner",
+      "citada": true
+    },
+    {
+      "url": "https://www.pagina12.com.ar/diario/elpais/1-31895-2004-02-25.html",
+      "titulo": "Página/12 :: El país :: La Banelco, más cerca del archivo",
+      "citada": true
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2000_congressional_bribery_scandal_in_Argentina",
+      "titulo": "2000 congressional bribery scandal in Argentina",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/judiciales/2026/10/04/la-corte-ya-puede-resolver-un-planteo-de-la-cgt-contra-el-dnu-702023-y-podria-fijar-un-criterio-sobre-la-necesidad-y-urgencia/",
+      "titulo": "La Corte ya puede resolver un planteo de la CGT contra el DNU 70/2023 y podría fijar un criterio sobre la “necesidad y urgencia” - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://revistaquorum.com.ar/2025/06/09/la-camara-del-trabajo-pone-un-limite-al-dnu-que-afecta-el-derecho-de-huelga/",
+      "titulo": "La Cámara del Trabajo pone un límite al DNU que afecta el derecho de huelga",
+      "citada": true
+    },
+    {
+      "url": "https://www.apfdigital.com.ar/amp/noticias/2026/05/08/455016-dejan-sin-efecto-la-cautelar-de-la-cgt-contra-la-reforma-laboral-y-recupera-plena-vigencia",
+      "titulo": "Dejan sin efecto la cautelar de la CGT contra la Reforma Laboral y recupera plena vigencia",
+      "citada": true
+    }
+  ]
+}

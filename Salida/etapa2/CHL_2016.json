@@ -1,0 +1,167 @@
+{
+  "id": "CHL_2016",
+  "iso": "CHL",
+  "pais": "Chile",
+  "anio": 2016,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.05,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 20.940 de 2016, que moderniza el sistema de relaciones laborales (modifica el Código del Trabajo)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley N° 20.907 de 2016",
+      "Ley N° 20.918 de 2016",
+      "Ley N° 20.949 de 2016"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2017-04-01",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según el Mensaje presidencial de diciembre de 2014, desarrollar relaciones laborales modernas, justas y equilibradas, en las que predominen el diálogo y el acuerdo. El Mensaje busca corregir la posición asimétrica de las partes al negociar colectivamente, ampliar y mejorar la negociación colectiva y fortalecer la participación sindical. También le atribuye a la iniciativa un sentido democratizador y vincula la negociación colectiva con el crecimiento y la productividad.",
+    "descripcion_intenciones": "La ley busca fortalecer la negociación colectiva y el poder sindical. Para ello prohíbe el reemplazo de trabajadores en huelga, establece un piso de negociación, crea derechos de información para los sindicatos y regula la negociación interempresa y de federaciones. Como contrapeso, introduce servicios mínimos y equipos de emergencia durante la huelga, además de pactos de condiciones especiales de trabajo que flexibilizan la jornada por acuerdo colectivo. Lo efectivamente promulgado es menor que lo declarado: el Tribunal Constitucional eliminó en control preventivo la titularidad sindical y la extensión automática de beneficios, que eran centrales en el proyecto original.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Prohíbe el reemplazo de huelguistas, que pasa a ser práctica desleal, crea derechos de información y regula la negociación interempresa y de federaciones. A la vez, la huelga queda limitada por servicios mínimos y equipos de emergencia, y la extensión de beneficios a no sindicalizados pasa a requerir acuerdo entre sindicato y empleador."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece un piso de negociación basado en el instrumento colectivo vigente o en los beneficios otorgados regularmente, y da a los sindicatos acceso a información sobre remuneraciones. Las partes pueden acordar rebajar el piso cuando la situación económica de la empresa lo justifique."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea pactos sobre condiciones especiales de trabajo, como la distribución de la jornada semanal. Solo pueden celebrarse en empresas con alta afiliación sindical, de modo que se trata de una flexibilidad mediada por el sindicato."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Obliga a los estatutos sindicales a incluir un mecanismo de integración de mujeres al directorio. También crea pactos de adaptabilidad para trabajadores con responsabilidades familiares."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Si hay huelga en una empresa contratista, la empresa principal puede ejecutar directamente o mediante un tercero el servicio subcontratado. La Dirección del Trabajo acotó este efecto al interpretar que no pueden usarse empresas de servicios transitorios para ese fin."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea un procedimiento especial de negociación colectiva para trabajadores eventuales, de temporada y de obra o faena. No modifica las reglas de contratación temporal."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Refuerza la mediación y el arbitraje, que pasa a ser obligatorio y gratuito para quienes no pueden hacer huelga. Asigna a la Dirección del Trabajo la calificación de servicios mínimos y el Registro Nacional de Árbitros Laborales, y crea el Consejo Superior Laboral."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley modifica el Código del Trabajo y revierte en parte componentes del Plan Laboral de 1979 del régimen militar, como la posibilidad de reemplazar a los huelguistas y la regulación de la extensión de beneficios; no se trata de una reforma inmediatamente anterior. El proyecto fue enviado el 29 de diciembre de 2014 por el gobierno de Michelle Bachelet y tuvo una tramitación conflictiva, con tensiones en la coalición oficialista, numerosas modificaciones y amenazas de movilización de la CUT. Parlamentarios de Chile Vamos impugnaron ante el Tribunal Constitucional la titularidad sindical, la extensión de beneficios, la negociación interempresa y el derecho de información. El contexto macroeconómico no fue verificado (sin fuente).",
+    "notas": "Año de la base (2016) distinto del año de vigencia efectiva: la ley se publicó el 8 de septiembre de 2016 y su regla general rige desde el 1 de abril de 2017. Aplicación escalonada: la calificación de servicios mínimos de común acuerdo rige desde la publicación; las negociaciones ya iniciadas se rigen por las normas anteriores; las organizaciones tienen un plazo transitorio para adecuar sus estatutos (artículo sexto transitorio), lo que difiere la cuota de género. Recorte preventivo del proyecto: en el control preventivo Rol 3016-16, el Tribunal Constitucional declaró inconstitucionales la titularidad sindical y la extensión automática de beneficios por afiliación, y rechazó las objeciones contra el derecho de información y la negociación interempresa; hubo además control obligatorio Rol 3112-16. Como la ley publicada nunca contuvo esas normas, se codifica como vigente y no como anulada parcialmente, aunque esto reduce el alcance frente a lo declarado. Después de la promulgación, un fallo de inaplicabilidad en el caso Rendic declaró inconstitucional en ese caso concreto el inciso 2° del art. 323 del Código del Trabajo (extensión de beneficios a nuevos afiliados); su efecto es solo particular y la fecha no fue verificada. Modificaciones posteriores menores e institucionales: la Ley 21.578 de 2023 cambió la integración del Consejo Superior Laboral, y la Ley 21.751 de 2025, de contenido no verificado, tiene vigencia diferida. No se verificó si reformas posteriores del Código del Trabajo alteraron los artículos sobre huelga, piso o pactos, ni el detalle de los cambios en fuero y prácticas antisindicales. Se consideró la orientación mixta por los pactos de adaptabilidad y los servicios mínimos, pero predomina la lógica protectora. Hay reglas específicas para pactos en micro y pequeñas empresas sin sindicato; las mipymes se consideran población secundaria y no se codifican. Los temporeros se incluyen dentro de asalariados formales."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1094436",
+      "titulo": "Ley Chile - Ley 20940 - Biblioteca del Congreso Nacional ...",
+      "citada": true
+    },
+    {
+      "url": "http://www.cutchile.cl/wp-content/uploads/2017/06/guiapracticaleylaboral-1.pdf",
+      "titulo": "GUÍA PRÁCTICA DE LA LEY 20.940 Central Unitaria de Trabajadores",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/articles-119819_Fiscalizador_12.pdf",
+      "titulo": "Ley 20940",
+      "citada": true
+    },
+    {
+      "url": "https://www.sindicatodeloittechile.cl/post/sobre-la-huelga-y-los-servicios-m%C3%ADnimos",
+      "titulo": "Sobre la huelga y los Servicios Mínimos",
+      "citada": true
+    },
+    {
+      "url": "https://www.pwc.com/cl/es/publicaciones/assets/boletin_laboral/2016/10min_Especial_Reforma_Laboral_septiembre_2016.pdf",
+      "titulo": "Ley N° 20.940 que modifica el Sistema de Relaciones ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1627/w3-article-110991.html",
+      "titulo": "Dirección del Trabajo emite dictamen sobre el alcance de las normas incorporadas por la Ley 20.940 que regulan el derecho a huelga en la negociación colectiva reglada. - DT - Noticias",
+      "citada": true
+    },
+    {
+      "url": "https://www.tributariolaboral.cl/610/w3-article-115754.html",
+      "titulo": "TributarioLaboral.cl - Ley N°20.940; Huelga; Reemplazo de trabajadores; Empresa de servicios transitorios.",
+      "citada": true
+    },
+    {
+      "url": "https://www.theclinic.cl/2016/04/27/reforma-laboral-tc-declara-inconstitucional-la-titularidad-sindical/",
+      "titulo": "Reforma laboral: TC declara inconstitucional la titularidad sindical",
+      "citada": true
+    },
+    {
+      "url": "https://radio.uchile.cl/2016/04/27/reforma-laboral-titularidad-sindical-es-declarada-inconstitucional/",
+      "titulo": "TC declara inconstitucional la titularidad sindical - Diario y Radio Universidad Chile",
+      "citada": true
+    },
+    {
+      "url": "https://cooperativa.cl/noticias/pais/trabajo/proyectos/tribunal-constitucional-publico-completo-el-fallo-adverso-a-la-reforma/2016-05-09/182134.html",
+      "titulo": "Tribunal Constitucional publicó completo el fallo adverso a la reforma laboral - Cooperativa.cl",
+      "citada": true
+    },
+    {
+      "url": "https://www.df.cl/economia-y-politica/laboral-personas/tribunal-constitucional-rechaza-extension-de-beneficios-a-trabajadores",
+      "titulo": "Tribunal Constitucional rechaza extensión de beneficios a trabajadores recién sindicalizados",
+      "citada": true
+    },
+    {
+      "url": "http://archivospresidenciales.archivonacional.cl/index.php/mensaje-que-inicia-proyecto-de-ley-que-moderniza-el-sistema-de-relaciones-laborales-introduciendo-modificaciones-al-codigo-del-trabajo",
+      "titulo": "Mensaje que inicia Proyecto de Ley que moderniza el Sistema de Relaciones Laborales introduciendo modificaciones al Código del Trabajo - Archivo Michelle Bachelet Jeria 2014-2018",
+      "citada": true
+    },
+    {
+      "url": "https://archivospresidenciales.archivonacional.cl/index.php/discurso-de-michelle-bachelet-al-promulgar-la-ley-numero-20940-que-moderniza-el-sistema-de-relaciones-laborales",
+      "titulo": "Discurso de Michelle Bachelet al promulgar la Ley número 20940 que moderniza el Sistema de Relaciones Laborales - Archivo Michelle Bachelet Jeria 2014-2018",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/w3-propertyvalue-165849.html",
+      "titulo": "Reforma al Sistema de Relaciones Laborales - DT - Dirección del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.elmostrador.cl/noticias/opinion/2016/03/01/la-reforma-laboral-de-michelle-bachelet/",
+      "titulo": "La reforma laboral de Michelle Bachelet",
+      "citada": true
+    },
+    {
+      "url": "http://lizamabogados.cl/wp-content/uploads/2019/07/Libro-Reforma-Laboral-versi%C3%B3n-Web.pdf",
+      "titulo": "LA REFORMA LABORAL Explicada y comentada LUIS LIZAMA PORTAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/3475/347559680004/html/",
+      "titulo": "Reforma Laboral Chilena, ¿Un avance concreto para el sindicalismo o una continuación renovada del Plan Laboral impuesto por la Dictadura Militar?",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-111409.html",
+      "titulo": "ORD. N°1306/31 - DT - Normativa 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/articles-117137_galeria_35.pdf",
+      "titulo": "Tipo Norma :Ley 20940 Fecha Publicación :08-09-2016 ...",
+      "citada": true
+    }
+  ]
+}

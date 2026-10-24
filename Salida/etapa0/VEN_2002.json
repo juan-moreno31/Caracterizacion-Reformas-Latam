@@ -1,0 +1,201 @@
+{
+  "id": "VEN_2002",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 2002,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.2336,
+  "incompleto": false,
+  "norma_propuesta": "Ley Orgánica Procesal del Trabajo (Gaceta Oficial N° 37.504 del 13 de agosto de 2002)",
+  "otras": "Ley Orgánica del Sistema de Seguridad Social (Gaceta Oficial N° 37.600 del 30 de diciembre de 2002); Decretos de prórroga de la inamovilidad laboral especial N° 1.833, N° 1.889 y N° 2.053 de 2002",
+  "confianza": "media",
+  "texto": "Elijo como reforma principal de VEN 2002 la **Ley Orgánica Procesal del Trabajo (LOPT)**. Aparece en el sitio de la Asamblea Nacional y en NATLEX, pero hay otras dos candidatas plausibles, así que la confianza es media.\n\n**Qué es.** El Parlamento la sancionó el 02/08/2002 y se publicó en la Gaceta N° 37.504 del 13/08/2002. Según su texto, garantiza la protección de los trabajadores en los términos de la Constitución y el funcionamiento de una jurisdicción laboral autónoma, imparcial y especializada. NATLEX la clasifica como \"Labour codes, general labour and employment acts\". Además del proceso judicial, regula la estabilidad en el trabajo, y al entrar plenamente en vigor derogó la Ley Orgánica de Tribunales y de Procedimiento del Trabajo y normas de la Ley Orgánica del Trabajo y su Reglamento, sobre todo las del procedimiento de estabilidad laboral. Responde a un mandato de la Constitución de 1999: el texto constitucional ordenó a la Asamblea dictar esa ley, y el proyecto lo redactaron los magistrados de la Sala de Casación Social.\n\n**Por qué la elijo.** Es la única ley de 2002 que reforma de forma general y aplicada el régimen laboral, en este caso la justicia laboral y la tutela de la estabilidad.\n\n**Otras candidatas y por qué las descarto como principal:**\n- **Ley Orgánica del Sistema de Seguridad Social (LOSSS).** NATLEX la registra con entrada en vigor el 2002-12-30, Gaceta Oficial núm. 37600. Es una ley de marco general sobre seguridad social, no sobre la relación de trabajo. También tiene problemas de aplicación y de legitimidad. Una fuente secundaria sostiene que se aprobó por mayoría simple y no calificada, así que su vigencia es dudosa. Otra señala que la Superintendencia que crea se estableció por ley en 2002 pero solo se creó en 2013.\n- **Decretos de inamovilidad laboral especial.** Posiblemente son lo que más afectó al mercado laboral, porque desde 2002 los empleadores no pueden despedir sin autorización previa del Inspector del Trabajo. Pero son decretos ejecutivos, no leyes, y continúan un régimen iniciado con el Decreto Nº 1.472 del 5 de octubre de 2001. Una tesis menciona como prórrogas de 2002 los Decretos Nº 1.833 (26 de junio), Nº 1.889 (25 de julio) y Nº 2.053 (24 de octubre). Algunas fuentes ubican el inicio del régimen continuo el 28 de abril de 2002. No pude confirmar el número de ese decreto de abril en una fuente oficial.\n\n**Para la etapa siguiente:** casi toda la LOPT entró en vigor un año después. Solo los artículos 49, 178 y 179 rigieron al publicarse; el resto, al año siguiente. La vigencia plena fue el 13 de agosto de 2003, y el Tribunal Supremo de Justicia podía diferirla en los circuitos judiciales sin condiciones mínimas. Además, NATLEX registra que la modificó el Decreto núm. 8938 de 2012-04-30 (Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras).\n\nNORMA: Ley Orgánica Procesal del Trabajo (Gaceta Oficial N° 37.504 del 13 de agosto de 2002)\nOTRAS: Ley Orgánica del Sistema de Seguridad Social (Gaceta Oficial N° 37.600 del 30 de diciembre de 2002); Decretos de prórroga de la inamovilidad laboral especial N° 1.833, N° 1.889 y N° 2.053 de 2002\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=64820",
+      "titulo": "NATLEX - Venezuela (Bolivarian Republic of) - Ley Orgánica del Sistema de Seguridad Social.",
+      "citada": true
+    },
+    {
+      "url": "https://www.venelogia.com/archivos/2328/",
+      "titulo": "Nuevo sistema de seguridad social en Venezuela",
+      "citada": true
+    },
+    {
+      "url": "https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0367-47622004000200011",
+      "titulo": "Comentarios sobre la Ley Orgánica de Seguridad Social",
+      "citada": true
+    },
+    {
+      "url": "https://virtual.urbe.edu/tesispub/0077355/fase01.pdf",
+      "titulo": "3 FASE I DEFINICIÓN. 1.- Teorización de la Variable.",
+      "citada": true
+    },
+    {
+      "url": "https://naymaconsultores.com/decreto-inamovilidad-laboral-2022-2023-2024/",
+      "titulo": "Nuevo decreto de inamovilidad laboral en Venezuela válido hasta 2024",
+      "citada": true
+    },
+    {
+      "url": "https://revistasuba.com/index.php/INVESUBA/article/download/1085/737/877",
+      "titulo": "47 INAMOVILIDAD LABORAL COMO POLITICA DE ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/leyes/sancionadas/ley-organica-procesal-del-trabajo",
+      "titulo": "Ley Orgánica Procesal del Trabajo - Asamblea Nacional",
+      "citada": true
+    },
+    {
+      "url": "https://www.mpppst.gob.ve/mpppstweb/wp-content/uploads/2014/03/LEY_ORGANICA_PROCESAL_DEL_TRABAJO.pdf",
+      "titulo": "LEY ORGÁNICA PROCESAL DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://tugacetaoficial.com/leyes/ley-organica-procesal-del-trabajo-2002/",
+      "titulo": "Ley Orgánica Procesal del Trabajo 2002 (Texto + PDF)",
+      "citada": true
+    },
+    {
+      "url": "https://go.gale.com/ps/i.do?asid=d5b7e9b7&id=GALE%7CA104211347&it=r&p=IFME&sid=googleScholar&u=googlescholar&v=2.1",
+      "titulo": "Breves notas sobre la nueva ley organica procesal del trabajo. (Comunicaciones). - Document - Gale OneFile: Informe Académico",
+      "citada": true
+    },
+    {
+      "url": "https://revistas-colaboracion.juridicas.unam.mx/index.php/judicatura/article/viewFile/32113/29106",
+      "titulo": "La mediación y la celeridad en la Ley Orgánica - Otras revistas",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=64100",
+      "titulo": "NATLEX - Venezuela (Bolivarian Republic of) - Ley Orgánica Procesal del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://docs.venezuela.justia.com/estatales/miranda/leyes/ley-organica-del-sistema-de-seguridad-social-2002.pdf",
+      "titulo": "LEY ORGANICA DEL SISTEMA DE SEGURIDAD SOCIAL",
+      "citada": false
+    },
+    {
+      "url": "https://wwwex.ilo.org/dyn/legosh_fr/f?p=14100%3A503%3A0%3A%3ANO%3A%3AP503_REFERENCE_ID%3A146302",
+      "titulo": "LEY ORGANICA DEL SISTEMA DE SEGURIDAD SOCIAL",
+      "citada": false
+    },
+    {
+      "url": "https://docs.venezuela.justia.com/federales/leyes-organicas/ley-organica-del-sistema-de-seguridad-social.pdf",
+      "titulo": "Ley Orgánica del Sistema de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.eumed.net/oe-vess/normas/losss.htm",
+      "titulo": "LEY ORGÁNICA DEL SISTEMA DE SEGURIDAD SOCIAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.notilogia.com/ley-organica-del-sistema-de-seguridad-social/",
+      "titulo": "Ley Orgánica Del Sistema de Seguridad Social - Notilogía",
+      "citada": false
+    },
+    {
+      "url": "https://www.eumed.net/libros-gratis/2006a/amsg/2h.htm",
+      "titulo": "Bases Constitucionales de la Seguridad Social en Venezuela",
+      "citada": false
+    },
+    {
+      "url": "https://sites.google.com/site/compensacionybeneficios1/d---bases-legales-de-la-seguridad-social-en-venezuela",
+      "titulo": "D.- BASES LEGALES DE LA SEGURIDAD SOCIAL EN VENEZUELA. - Compensacion y Beneficios 1",
+      "citada": false
+    },
+    {
+      "url": "https://efectococuyo.com/economia/decreto-de-inamovilidad-laboral-en-venezuela-se-extiende-hasta-2020/",
+      "titulo": "Decreto de inamovilidad laboral en Venezuela se extiende hasta 2020",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/noticias-y-reformas-laborales/la-inamovilidad-laboral/",
+      "titulo": "Inamovilidad Laboral Venezuela 2026",
+      "citada": false
+    },
+    {
+      "url": "https://gecaconsultores.com/un-cuarto-de-siglo-de-inamovilidad-laboral-en-venezuela/",
+      "titulo": "Un Cuarto de Siglo de Inamovilidad Laboral en Venezuela - GECA Consultores",
+      "citada": false
+    },
+    {
+      "url": "https://accesoalajusticia.org/la-inamovilidad-laboral-en-venezuela-dos-decadas-fracasando-en-frenar-el-desempleo/",
+      "titulo": "La inamovilidad laboral en Venezuela: Dos décadas fracasando en frenar el desempleo │ Acceso a la Justicia",
+      "citada": false
+    },
+    {
+      "url": "https://efectococuyo.com/economia/se-extiende-por-dos-anos-mas-la-medida-de-inamovilidad-laboral-en-venezuela/",
+      "titulo": "Se extiende por dos años más la medida de inamovilidad laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.lablabor.com.ve/en-vigencia-nuevo-decreto-de-inamovilidad-laboral/",
+      "titulo": "En vigencia nuevo Decreto de Inamovilidad Laboral - LabLabor",
+      "citada": false
+    },
+    {
+      "url": "https://accesoalajusticia.org/inamovilidad-laboral-por-dos-2-anos-2025-2026-para-trabajadorases-de-los-sectores-publico-y-privado/",
+      "titulo": "Inamovilidad Laboral por dos años (2025-2026) para trabajadores de los sectores público y privado │ Acceso a la Justicia",
+      "citada": false
+    },
+    {
+      "url": "http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1316-48212006000200008",
+      "titulo": "Decreto de inamovilidad laboral y su aplicación por parte de la gerencia en venezuela",
+      "citada": false
+    },
+    {
+      "url": "https://epaclaw.com/2021/01/07/memoinamovilidadlaboral2a%C3%B1os.html",
+      "titulo": "Memoinamovilidadlaboral2años - Ponte Andrade & Casanova - Consultoría Jurídica y Empresarial",
+      "citada": false
+    },
+    {
+      "url": "https://www.traviesoevans.com/memos/Gacetas-2024/Gaceta-Inamovilidad-Laboral.pdf",
+      "titulo": "Gaceta-Inamovilidad-Laboral.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://vlexvenezuela.com/tags/ultimo-decreto-de-inamovilidad-laboral-1091487",
+      "titulo": "ultimo decreto de inamovilidad laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.nortonrosefulbright.com/es-es/knowledge/publications/1551c8d4/inamovilidad-laboral-especial",
+      "titulo": "Venezuela enacts special bar against dismissals",
+      "citada": false
+    },
+    {
+      "url": "https://lega.law/en/decreto-de-inamovilidad-laboral-a-favor-de-los-trabajadores-del-sector-publico-y-privado-por-un-lapso-de-dos-2-anos/",
+      "titulo": "Decreto de Inamovilidad Laboral a favor de los trabajadores del sector público y privado por un lapso de dos (2) años - LEGA",
+      "citada": false
+    },
+    {
+      "url": "https://www.bancaynegocios.com/en-gaceta-extraordinaria-la-prorroga-de-la-inamovilidad-laboral-para-trabajadores-publicos-y-privados-documento/",
+      "titulo": "En Gaceta Extraordinaria la prórroga de la inamovilidad laboral para trabajadores públicos y privados (+documento) - Banca y Negocios",
+      "citada": false
+    },
+    {
+      "url": "https://servicio.bc.uc.edu.ve/derecho/revista/idc26/26-12.pdf",
+      "titulo": "LEY ORGANICA PROCESAL DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://pandectasdigital.blogspot.com/2016/06/ley-organica-procesal-del-trabajo.html",
+      "titulo": "Ley Orgánica Procesal del Trabajo <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: yellow;\"><b><i>Vigente Parcialmente</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": false
+    },
+    {
+      "url": "https://www.franciscosantana.net/2017/06/ley-organica-procesal-del-trabajo-2002.html",
+      "titulo": "Ley Orgánica Procesal del Trabajo (2002)",
+      "citada": false
+    },
+    {
+      "url": "https://laboral.ivecofi.net/informacion/legislacion/leyes/ley-organica-procesal-del-trabajo",
+      "titulo": "Ley Orgánica Procesal del Trabajo",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": "ECU_2008",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2008,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0566,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Mandato Constituyente núm. 8 (Asamblea Constituyente, 30-IV-2008; R.O. Suplemento 330, 6-V-2008)",
+    "tipo_instrumento": "otro",
+    "normas_relacionadas": [
+      "Mandato Constituyente núm. 2 (R.O. Suplemento 261, 28-I-2008)",
+      "Mandato Constituyente núm. 4 (12-II-2008)",
+      "Decreto Ejecutivo núm. 1121 (Reglamento para la Aplicación del Mandato Constituyente núm. 8, 2008-06-03)",
+      "Decreto Ejecutivo núm. 1313 (reforma al Reglamento del Mandato 8, R.O. 427, 17-IX-2008)",
+      "Acuerdo Ministerial núm. 00080 (2008-07-08)",
+      "Constitución de la República del Ecuador 2008",
+      "Decreto Ejecutivo núm. 1701 (criterios de contratación colectiva en el sector público, R.O. 592, 18-V-2009)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2008-05-01",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según sus considerandos, erradicar la injusticia laboral y la discriminación social causadas por los sistemas precarios de contratación (tercerización, intermediación generalizada y contratación por horas), que vulneran la estabilidad, la remuneración justa, la organización sindical y la contratación colectiva; y, en segundo lugar, revisar y regular las cláusulas de contratos colectivos de entidades estatales que contendrían privilegios y beneficios desmedidos de grupos minoritarios.",
+    "descripcion_intenciones": "La norma elimina y prohíbe la tercerización, la intermediación laboral y la contratación por horas, e impone que la relación laboral sea directa y bilateral, con una excepción acotada para actividades complementarias ajenas al giro productivo de la usuaria. Ordena que los trabajadores intermediados y por horas sean asumidos directamente por las usuarias bajo modalidades del Código del Trabajo, sustituyendo el trabajo por horas por la jornada parcial con estabilidad, remuneración proporcional no inferior al mínimo y plena afiliación a la seguridad social. Introduce reglas antifraude, responsabilidad solidaria de la usuaria y participación de los trabajadores complementarios en sus utilidades, junto con un régimen de multas y el fortalecimiento del Ministerio de Trabajo y Empleo. En sentido opuesto, encarga al Ejecutivo revisar y suprimir cláusulas de contratos colectivos del sector público consideradas privilegios desmedidos.",
+    "dimensiones": [
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la norma: prohíbe tercerización e intermediación en las actividades propias de la empresa y exige relación directa y bilateral; solo admite actividades complementarias autorizadas, con responsabilidad solidaria de la usuaria, reglas antifraude y participación en utilidades."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Elimina la contratación por horas y la sustituye por la jornada parcial con estabilidad y remuneración proporcional; el exceso sobre la jornada pactada se paga como jornada suplementaria o extraordinaria. Podría codificarse también como contratación temporal."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Los trabajadores a jornada parcial acceden a todos los beneficios de ley, incluidos el fondo de reserva y la afiliación al seguro social obligatorio."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "En las empresas de actividades complementarias no puede pactarse una remuneración inferior a la básica mínima unificada ni a los mínimos sectoriales."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Con carácter transitorio, ordena reintegrar a los intermediados despedidos con motivo de la tramitación del mandato."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "En el sector público ordena revisar los contratos colectivos y fijar criterios por vía ejecutiva, lo que derivó en la supresión de cláusulas consideradas privilegios desmedidos (Decreto 1701 de 2009). El fomento de la sindicalización privada es solo una intención declarada."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece un régimen de multas impuesto por las direcciones regionales del trabajo y ordena fortalecer el Ministerio de Trabajo y Empleo."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "Expedido por la Asamblea Constituyente de Montecristi, que actuó con carácter plenipotenciario y supremacía sobre los demás poderes, sin Congreso Nacional en funciones y con amplia mayoría de Alianza País (con apoyo de MPD, Pachakutik y RED, según la prensa). Un análisis académico crítico sostiene que esos plenos poderes equivalieron en la práctica a poderes absolutos. El mandato deroga expresamente la Ley Reformatoria al Código del Trabajo que regulaba la intermediación y la tercerización (R.O. 298, 23-VI-2006), los artículos sobre contratación por horas de la Ley para la Transformación Económica del Ecuador (R.O. 34, 13-III-2000) y el Reglamento para la contratación laboral por horas (R.O. 547, 18-III-2005), por lo que revierte la flexibilización previa. La prohibición se constitucionalizó en el artículo 327 de la Constitución de 2008. Contexto económico: sin fuente.",
+    "notas": "Tipo de instrumento: mandato constituyente; NATLEX lo clasifica como 'Constitution' y la Corte Constitucional le asigna jerarquía de ley orgánica, por lo que se codifica como 'otro'. Fechas: firmado en Montecristi el 30-IV-2008 (la fecha de marzo del Registro Oficial es un error según la compilación); vigencia inmediata sin perjuicio de su publicación, y el Reglamento fija la vigencia el 1-V-2008; publicado en el R.O. Suplemento 330 el 6-V-2008. Aplicación diferida: plazo para que las empresas de actividades complementarias adecuaran estatutos y contratos; reglamento expedido mediante el Decreto 1121 (3-VI-2008); criterios de contratación colectiva pública fijados recién con el Decreto 1701 (R.O. 592, 18-V-2009). El mandato declara que no es susceptible de queja, impugnación, acción de amparo, demanda ni reclamo. Estado posterior: se mantiene vigente; la única modificación registrada es una fe de erratas (R.O. 592, 2009), de contenido no verificado; el reglamento fue reformado (p. ej., Decreto 1313). La Sentencia 66-16-IN/25 (abril de 2025) desestimó una demanda contra el artículo 1 y la disposición transitoria primera; la Sentencia 053-10-SEP-CC amplió la protección al reiterar la incorporación directa y permanente de los tercerizados; según una carta en El Comercio (fuente de baja jerarquía), la sentencia 009-10-SIN-CC habría declarado inconstitucionales, con efecto diferido, los Decretos 1396 y 1701, sin afectar al mandato. En el referéndum del 21-IV-2024 no se aprobó la propuesta de reabrir la contratación a plazo fijo y por horas. No verificado: contexto económico, texto completo sobre intermediados del sector público, sentencia 009-10-SIN-CC en fuente primaria y posibles modificaciones por la Ley Orgánica para la Justicia Laboral de 2015."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.loreto.gob.ec/index.php/transparencia/transparencia-activa/01-estructura-organica-funcional/01-2-base-legal/1280-mandato-constituyente-no-8-eliminacion-y-prohibicion-de-la-tercerizacion-intermediacion-laboral-contratacion-laboral-por-horas-y-cualquier-forma-de-precarizacion-de-las-relaciones-de-trabajo-suplemento-del-registro-oficial-no-330-6-de-mayo-2008/file",
+      "titulo": "Suplemento del Registro Oficial No. 330 , 6 de Mayo 2008",
+      "citada": true
+    },
+    {
+      "url": "https://www.puenteasociados.com/mandato-constituyente-no-8-eliminacion-de-la-tercerizacion/",
+      "titulo": "Mandato Constituyente Número 8 (Eliminacion de la Tercerizacion) - Puente & Asociados",
+      "citada": true
+    },
+    {
+      "url": "https://www.auditingtax.com/downloads/Mandato%2008%20-RO.mayo%2006%20No.%20330.pdf",
+      "titulo": "ASAMBLEA CONSTITUYENTE",
+      "citada": true
+    },
+    {
+      "url": "https://www.eluniverso.com/2008/05/02/0001/8/463B0E041116418DBBD9558B62760D7F.html/",
+      "titulo": "Mandato Constituyente Nº 8",
+      "citada": true
+    },
+    {
+      "url": "https://www.eeq.com.ec/documents/d/empresa-electrica-quito/4af6f6a5-23f2-436d-91d8-ae3a103b0b9b-2",
+      "titulo": "BASE LEGAL 1 MANDATO CONSTITUYENTE 8 ELIMINACION Y",
+      "citada": true
+    },
+    {
+      "url": "https://www.corralbarriga.com/wp-content/uploads/2015/12/Reformas-Decreto-Ejecutivo-No.-1121-Reglamento-para-la-Aplicacion-del-Mandato-Constituyente-No.-8.pdf",
+      "titulo": "Reformas Decreto Ejecutivo No. 1121",
+      "citada": true
+    },
+    {
+      "url": "https://www.voltairenet.org/article157173.html",
+      "titulo": "El Mandato 8 sepulta la tercerización laboral, por Amparo Sigcha",
+      "citada": true
+    },
+    {
+      "url": "https://www.fundacionmuseosquito.gob.ec/lotaip/2016/00.archivos/lit.a/a2/Reglamento%20Mandato%208.pdf",
+      "titulo": "Nº 1121 Rafael Correa Delgado PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3RyYW1pdGUnLCB1dWlkOiczMjUxYTQ4ZS02ODc4LTQ5NTAtOWU2MS1iNjhhMDk4YThiYTEucGRmJ30=",
+      "titulo": "Quito, D.M., 10 de noviembre de 2021 CASO No. 8-18-AN EL ...",
+      "citada": true
+    },
+    {
+      "url": "https://derechoecuador.com/registro-oficial-no-592-lunes-18-de-mayo-de-2009/",
+      "titulo": "Registro Oficial No. 592",
+      "citada": true
+    },
+    {
+      "url": "https://www.defensoria.gob.ec/images/defensoria/pdfs/lotaip2014/info-legal/Mandato_constituyente_eliminacion_tercerizacion.pdf",
+      "titulo": "MANDATO CONSTITUYENTE 8 ELIMINACION Y PROHIBICION DE TERCERIZACION Norma:",
+      "citada": true
+    },
+    {
+      "url": "https://www.primicias.ec/noticias/politica/resultados-referendum-consulta-cne-trabajo-horas-ecuador/",
+      "titulo": "Ecuatorianos le dicen 'No' al trabajo por horas, según el conteo rápido del CNE",
+      "citada": true
+    },
+    {
+      "url": "https://gk.city/2024/04/21/resultados-consulta-popular-2024-ecuador/",
+      "titulo": "Resultados de la consulta popular 2024: SÍ gana en 9 preguntas, NO en 2",
+      "citada": true
+    },
+    {
+      "url": "https://www.cartercenter.org/resources/pdfs/peace/americas/informe_final_ac_-_centro_carter_distribuido.pdf",
+      "titulo": "Informe sobre la Asamblea Constituyente de la República del Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://law.yale.edu/sites/default/files/documents/pdf/SELA15_Salazar_CV_Sp.pdf",
+      "titulo": "“Mi Poder en la Constitución”: la Perversión del Estado de Derecho en Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://www.sciencespo.fr/opalc/sites/sciencespo.fr.opalc/files/Ecuador_reforma_constitucional_Basabe.pdf",
+      "titulo": "381 revista de ciencia pOLítica / volumen 29 / Nº 2 / 2009 / 381",
+      "citada": true
+    },
+    {
+      "url": "https://www.corteconstitucional.gob.ec/constitucionalidad-del-mandato-constituyente-8-sobre-la-eliminacion-y-prohibicion-de-la-tercerizacion-e-intermediacion-laboral/",
+      "titulo": "Constitucionalidad del Mandato Constituyente 8 sobre la eliminación y prohibición de la tercerización e intermediación laboral - Corte Constitucional del Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://www.elcomercio.com/cartas/inconstitucionalidad/",
+      "titulo": "Inconstitucionalidad - El Comercio",
+      "citada": true
+    },
+    {
+      "url": "https://edicioneslegales.com.ec/constitucionalidad-del-mandato-constituyente-8-sobre-la-eliminacion-y-prohibicion-de-la-tercerizacion-e-intermediacion-laboral/",
+      "titulo": "CONSTITUCIONALIDAD DEL MANDATO CONSTITUYENTE 8 SOBRE LA ELIMINACIÓN Y PROHIBICIÓN DE LA TERCERIZACIÓN E INTERMEDIACIÓN LABORAL. - Ediciones Legales",
+      "citada": true
+    }
+  ]
+}

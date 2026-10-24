@@ -1,0 +1,161 @@
+{
+  "id": "CHL_2001",
+  "iso": "CHL",
+  "pais": "Chile",
+  "anio": 2001,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0467,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 19.759 (modifica el Código del Trabajo en lo relativo a nuevas modalidades de contratación, derecho de sindicación, derechos fundamentales del trabajador y otras materias)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley N° 19.728 (seguro de cesantía, 2001)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2001-12-01",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Estimular la formación de sindicatos y proteger el derecho de sindicalización, incorporar el Convenio N° 111 de la OIT sobre no discriminación, vincular el concepto de empresa con el de empleador, reglamentar las horas extraordinarias, uniformar el régimen de multas y crear nuevas modalidades de contratación y adaptación de la jornada; según el Ministro del Trabajo, permitir flexibilidad ante las transformaciones productivas garantizando por ley derechos básicos de los trabajadores.",
+    "descripcion_intenciones": "La reforma busca fortalecer la organización sindical y la negociación colectiva, reconociendo fuero a quienes constituyen sindicatos, flexibilizando los requisitos de constitución y endureciendo las sanciones por prácticas antisindicales. Incorpora la tutela de derechos fundamentales y la no discriminación como límites a las facultades del empleador. Restringe las horas extraordinarias a necesidades temporales mediante pacto escrito, reduce la jornada ordinaria con aplicación diferida y encarece el despido injustificado. Al mismo tiempo, introduce elementos de flexibilidad: regula la jornada parcial, permite sistemas excepcionales de distribución de jornada autorizados por la Dirección del Trabajo y reconoce el trabajo a distancia excluido de la limitación de jornada.",
+    "dimensiones": [
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reduce la jornada ordinaria máxima con aplicación diferida y limita las horas extraordinarias a necesidades temporales mediante pacto escrito. Incluye como contrapeso flexibilizador la autorización de sistemas excepcionales de distribución de jornada por la Dirección del Trabajo."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reescribe el artículo 168 agravando la indemnización por despido injustificado según la causal mal aplicada y establece que la carta de despido supone una oferta irrevocable de pago de la indemnización por años de servicios."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Otorga fuero a quienes constituyen sindicatos, flexibiliza requisitos de constitución, crea nuevas prácticas desleales y eleva multas. Transforma el artículo 381 en una norma prohibitiva del reemplazo en huelga, aunque admite excepciones condicionadas a un bono de reemplazo."
+      },
+      {
+        "dimension": "nuevas_formas_de_trabajo",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Reconoce el trabajo a distancia por medios informáticos, pero lo excluye de la limitación de jornada, lo que reduce la protección en materia de jornada para ese grupo."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Contrato a tiempo parcial: crea un régimen propio que reconoce los mismos derechos que a tiempo completo, pero permite reducir proporcionalmente la gratificación y que el empleador elija entre distribuciones de jornada pactadas."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Derechos fundamentales y no discriminación: declara contrarios a la ley laboral los actos de discriminación y fija como límite de las facultades del empleador las garantías constitucionales, en especial intimidad, vida privada y honra."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Sanciona infracciones al concepto de empresa, amplía facultades de la Dirección del Trabajo y extiende la obligación de reglamento interno a empresas más pequeñas."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres",
+      "jovenes"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "Aprobada bajo un gobierno de la Concertación (Presidente Lagos, dato sin fuente en el informe), poco después de que entraran en vigor para Chile los Convenios 87 y 98 de la OIT. Modifica parcialmente el Plan Laboral (D.L. 2.200 de 1978 y Ley 18.018 de 1981, en su versión reformada) y la Ley 19.069 de 1991, cuya tolerancia al reemplazo de huelguistas sustituye por una prohibición condicionada. Se tramitó bajo los efectos de la Crisis Asiática y con desempleo alto; sectores de izquierda la criticaron como flexibilizadora, pese a su contenido colectivo mayoritariamente protector. Ese mismo año se aprobó el seguro de cesantía (Ley 19.728).",
+    "notas": "Publicada en el Diario Oficial el 2001-10-05; según el artículo 1° transitorio entró en vigor el día 1° del mes subsiguiente, es decir, el 2001-12-01 (coincide con la Dirección del Trabajo). Vigencia escalonada: la reducción de la jornada ordinaria operó desde el 2005-01-01; las autorizaciones de jornada excepcional previas siguieron vigentes transitoriamente; la vigencia diferida del artículo 25 (2003-01-01) no fue verificada. Revierte parcialmente el Plan Laboral y la Ley 19.069. Modificaciones posteriores: Ley 20.940 (2016) reemplazó el régimen del artículo 381 por una prohibición del reemplazo en huelga (profundiza la dirección de 2001); Ley 21.561 (2023) volvió a reducir la jornada y redefinió la jornada parcial; hubo un cambio en 2002 de norma no identificada y posibles cambios de la Ley 20.087 (2006), sin fuente. La Corte Suprema interpretó ampliamente el artículo 381, incluyendo el reemplazo con personal interno; al ampliar la protección no altera la categoría de vigencia. Orientación codificada como protectora con componentes flexibilizadores secundarios (jornada parcial, jornadas excepcionales, teletrabajo); 'mixta' sería defendible. No verificado: contrato de empleo juvenil y regulación de empresas de servicios temporales en el texto final (según el informe, sin fuente, esta última se habría eliminado y regulado en 2006), por lo que no se codifican esas dimensiones; texto previo del artículo 168. No se consultaron NATLEX ni EPLex; la confianza es alta por existir texto en fuente oficial."
+  },
+  "fuentes": [
+    {
+      "url": "https://doe.cl/viewPublic/document/2001/ley/19759.html",
+      "titulo": "Leyes de la República",
+      "citada": true
+    },
+    {
+      "url": "https://fundacionsol.cl/blog/actualidad-13/post/el-sinsabor-de-la-reforma-laboral-del-2001-2799",
+      "titulo": "El sinsabor de la reforma laboral del 2001",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.cl/verDoc.aspx?prmTIPO=DOCUMENTOCOMUNICACIONCUENTA&prmID=85859",
+      "titulo": "Historia de la Ley por Artículo",
+      "citada": true
+    },
+    {
+      "url": "https://derecho.udd.cl/actualidad-juridica/files/2021/01/AJ-Num-5-P203.pdf",
+      "titulo": "Revista ACTUALIDAD JURIDICA N° 5 - Enero 2002 Universidad del Desarrollo",
+      "citada": true
+    },
+    {
+      "url": "http://cybertesis.uach.cl/tesis/uach/2002/fjl562m/sources/fjl562m.pdf",
+      "titulo": "UNIVERSIDAD AUSTRAL DE CHILE Facultad de Ciencias Jurídicas y Sociales",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-propertyvalue-155055.html",
+      "titulo": "ley 19.759 - DT - Normativa 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://chile.justia.com/nacionales/leyes/ley-n-19-759/gdoc/",
+      "titulo": "Justia Chile :: Nacionales > Leyes > Ley Nº 19.759 :: Ley de Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.suseso.gob.cl/612/w3-propertyvalue-69859.html",
+      "titulo": "SUSESO: Normativa y jurisprudencia - Código del trabajo, artículo 168",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1629/articles-94001_recurso_1.pdf",
+      "titulo": "El empleo desprotegido en Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1629/articles-74726_recurso_1.pdf",
+      "titulo": "FLEXIBILIDAD LABORAL EN CHILE: LAS EMPRESAS Y LAS PERSONAS RESPONSABLES:",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.cl/vid/vigencia-aplicacion-chile-organizacion-275274023",
+      "titulo": "Vigencia y aplicación en Chile de los convenios 87 y 98 de la Organización Internacional del Trabajo - vLex Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.elmostrador.cl/noticias/pais/2014/10/10/flexibilizacion-laboral-el-legado-de-la-concertacion-que-enciende-las-alarmas-a-nivel-internacional/",
+      "titulo": "Flexibilización laboral: el legado de la Concertación que enciende las alarmas a nivel internacional",
+      "citada": true
+    },
+    {
+      "url": "https://www.jurischile.com/2015/03/denuncia-de-practica-antisindical.html",
+      "titulo": "JurisChile 2026: Unificación de Jurisprudencia. Denuncia de práctica antisindical. Finalidad de la huelga. Prohibición de reemplazar a los trabajadores en huelga. Artículo 381 del código del trabajo acabó con la laxitud acerca del reemplazo de los huelguistas. Constitución asegura implícitamente el derecho a huelga. Improcedencia de reemplazar a los trabajadores en huelga con otros dependientes de la empresa",
+      "citada": true
+    },
+    {
+      "url": "https://www.elmostrador.cl/noticias/pais/2015/05/13/suprema-marca-precedente-y-sanciona-a-empresa-por-reemplazo-de-trabajadores-en-huelga-con-personal-interno/",
+      "titulo": "Suprema marca precedente y sanciona a empresa por reemplazo de trabajadores en huelga con personal interno",
+      "citada": true
+    },
+    {
+      "url": "https://lyd.org/wp-content/uploads/2016/12/pp-157-170-Prohibicion-de-reemplazode-huelguistas-una-apologia-de-la-huelga-CPalavecino.pdf",
+      "titulo": "157 PROHIBICIÓN DE REEMPLAZO DE PROHIBICIÓN DE REEMPLAZO DE HUELGUISTAS:",
+      "citada": true
+    },
+    {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1094436",
+      "titulo": "Ley Chile - Ley 20940 - Biblioteca del Congreso Nacional ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1191554",
+      "titulo": "Ley Chile - Ley 21561 - Biblioteca del Congreso Nacional",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/articles-107884_recurso_63.pdf",
+      "titulo": "ley n° 21.561; - que modifica el código del trabajo con el ...",
+      "citada": true
+    }
+  ]
+}

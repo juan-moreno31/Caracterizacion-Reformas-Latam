@@ -1,0 +1,116 @@
+{
+  "id": "MEX_2017",
+  "iso": "MEX",
+  "pais": "México",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1309,
+  "incompleto": false,
+  "norma_propuesta": "Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral (DOF 24-02-2017)",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de México en 2017 es la **reforma constitucional en materia de justicia laboral**, que modificó los artículos 107 y 123 de la Constitución. El Congreso aprobó la declaratoria del decreto el 8 de febrero de 2017 y se publicó en el Diario Oficial de la Federación el 24 de febrero de 2017.\n\n**Qué cambia:**\n- Los conflictos entre trabajadores y patrones pasan a manos de tribunales laborales del Poder Judicial de la Federación o de las entidades federativas. Esto sustituye a las Juntas de Conciliación y Arbitraje, que dependían del Poder Ejecutivo.\n- Trabajadores y patrones deben acudir a una conciliación obligatoria antes de llegar a juicio.\n- A nivel federal, un organismo descentralizado se encargará de la conciliación y de el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales.\n- Se establece que el voto de los trabajadores será personal, libre y secreto en tres casos: conflictos entre sindicatos, solicitudes de firma de contrato colectivo y elección de dirigentes.\n\n**Por qué elijo esta norma:**\n- **Fuente oficial.** Aparece en el texto del DOF y en el proceso legislativo que documenta la Cámara de Diputados.\n- **Es la reforma de referencia en la literatura académica.** Un artículo académico la llama la reforma laboral de 2017, y el Poder Judicial de Nuevo León la presenta como el punto de partida de la reforma legal posterior.\n- **No encontré otra norma importante ese año.** Una copia de la Ley Federal del Trabajo que circulaba como edición \"2017\" muestra como Última reforma publicada DOF 12-06-2015. Esto sugiere que no hubo reformas grandes a esa ley en 2017, aunque no revisé el listado completo de reformas.\n- **Lo de diciembre fue solo una iniciativa.** La propuesta para adaptar la Ley de Amparo y la Ley Federal del Trabajo a la reforma constitucional se presentó en el Senado de la República el 14 de diciembre de 2017, pero no se aprobó ese año.\n\n**Puntos a considerar para las siguientes etapas:**\n- **Instrumento:** se codificaría como `reforma_constitucional`.\n- **Vigencia escalonada:** el texto entró en vigor al día siguiente de su publicación. Sin embargo, el Congreso de la Unión y las Legislaturas de los Estados contarán con un año a partir de la publicación del decreto para hacer las adecuaciones legales necesarias.\n- **Implementación tardía:** ese plazo no se cumplió. La ley que aplicó la reforma se publicó hasta el 1 de mayo de 2019. Esto pesa a la hora de decidir si hubo un tratamiento efectivo en 2017.\n- **Fuentes faltantes:** no consulté NATLEX ni EPLex de la OIT. La identificación se apoya en el DOF y en la Cámara de Diputados.\n\nNORMA: Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral (DOF 24-02-2017)\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/proceso/docleg/63/231_DOF_24feb17.pdf",
+      "titulo": "DECRETO por el que se declaran reformadas y ...",
+      "citada": true
+    },
+    {
+      "url": "https://colungaabogados.com.mx/decreto-por-el-que-se-declaran-reformadas-y-adicionadas-diversas-disposiciones-de-los-articulos-107-y-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-justicia-laboral/",
+      "titulo": "DECRETO por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral.",
+      "citada": true
+    },
+    {
+      "url": "https://www.mondaq.com/mexico/employee-rights-labour-relations/572734/reforma-constitucional-de-los-artculos-107-y-123-de-la-constitucin-poltica-de-los-estados-unidos-mexicanos",
+      "titulo": "Reforma Constitucional de los Artículos 107 Y 123 de la Constitución Política de los Estados Unidos Mexicanos - Employee Rights/ Labour Relations - Mexico",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/2932/293264642010/html/",
+      "titulo": "Reforma constitucional de la justicia en materia laboral: ejemplo de omisión legislative Constitutional",
+      "citada": true
+    },
+    {
+      "url": "https://0201.nccdn.net/1_2/000/000/169/3b6/ley-federal-del-trabajo-2017.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_231_24feb17.pdf",
+      "titulo": "Viernes 24 de febrero de 2017 DIARIO OFICIAL (Primera Sección) 9",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-21472020000100181",
+      "titulo": "Reforma constitucional de la justicia en materia laboral: ejemplo de omisión legislative Constitutional",
+      "citada": false
+    },
+    {
+      "url": "https://coparmexmetropolitano.mx/comunicacion/hoy-en-el-blog/reforma-constitucional-en-materia-de-justicia-laboral",
+      "titulo": "Reforma Constitucional en Materia de Justicia Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://legalcloudmrci.com/noticias/justicia-laboral-en-mexico-una-realidad/",
+      "titulo": "Justicia Laboral en México: Una realidad",
+      "citada": false
+    },
+    {
+      "url": "https://www.littler.com/news-analysis/asap/decreto-por-el-que-se-declaran-reformadas-y-adicionadas-diversas-disposiciones",
+      "titulo": "Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicano",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.juridicas.unam.mx/index.php/hechos-y-derechos/article/download/17545/17961?inline=1",
+      "titulo": "Untitled",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+      "titulo": "Ley Federal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo9059.html",
+      "titulo": "Ley Federal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/sumario/LEYFED_sumario_ref.pdf",
+      "titulo": "SUMARIO DE REFORMAS A LAS LEYES FEDERALES VIGENTES",
+      "citada": false
+    },
+    {
+      "url": "https://www.nmas.com.mx/nacional/publican-en-el-dof-reforma-a-ley-federal-del-trabajo-para-reduccion-de-jornada-laboral/",
+      "titulo": "Publican en el DOF Reforma a Ley Federal del Trabajo para Reducción de Jornada Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/transitorios/",
+      "titulo": "Transitorios ‹ Ley Federal del Trabajo (LFT)",
+      "citada": false
+    },
+    {
+      "url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5559130&fecha=01%2F05%2F2019",
+      "titulo": "DOF - Diario Oficial de la Federación",
+      "citada": false
+    },
+    {
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-trimestrales/recuadros/%7B2A7BA161-E586-0233-6992-7800EEF8C010%7D.pdf",
+      "titulo": "Consideraciones sobre la Reforma Laboral de 2019 1",
+      "citada": false
+    },
+    {
+      "url": "https://tribunalburocratico.bcs.gob.mx/wp-content/uploads/2023/04/LEY-FEDERAL-DEL-TRABAJO.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://www.pjenl.gob.mx/Laboral/Reforma-Laboral/",
+      "titulo": "Reforma Laboral",
+      "citada": false
+    }
+  ]
+}

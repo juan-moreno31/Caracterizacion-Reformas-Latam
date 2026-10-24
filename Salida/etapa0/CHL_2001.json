@@ -1,0 +1,116 @@
+{
+  "id": "CHL_2001",
+  "iso": "CHL",
+  "pais": "Chile",
+  "anio": 2001,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1245,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 19.759",
+  "otras": "Ley N° 19.728",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Chile en 2001 es la **Ley N° 19.759**. Su título oficial es \"Modifica el Código del Trabajo en lo relativo a las nuevas modalidades de contratación, al derecho de sindicación, a los derechos fundamentales del trabajador y a otras materias que indica\". Fue promulgada el 27 de septiembre de 2001 y publicada el 5 de octubre de 2001 por el Ministerio del Trabajo y Previsión Social. Según el mensaje presidencial, primero modifica el Código del Trabajo en lo relativo a las organizaciones de trabajadores y de las normas de protección contra las prácticas antisindicales, en un contexto en que el Estado de Chile ha ratificado los convenios de la Organización Internacional del Trabajo relativos a la Libertad Sindical. También toca muchas otras materias del Código: concepto de empresa, contrato a tiempo parcial, jornada y horas extraordinarias, reglamento interno y derechos fundamentales, y negociación colectiva. La elijo porque su texto aparece en fuentes oficiales (Diario Oficial y la historia de la ley de la Biblioteca del Congreso Nacional) y porque es la norma que más alcance tuvo ese año sobre las relaciones laborales.\n\n**Otra candidata y por qué no la elegí:** La **Ley N° 19.728**, que publicada el 14 de mayo de 2001 en el Diario Oficial, establece la creación del denominado seguro de cesantía para los trabajadores dependientes regidos por el Código del Trabajo. Es una reforma importante, pero trata sobre todo de seguridad social y no cambia de forma amplia las reglas de contratación, jornada y sindicalización. Por eso la registro en `normas_relacionadas`. Si un estudio econométrico se centra en la protección frente al desempleo, se podría tratar como un tratamiento aparte.\n\n**Para el codebook (fechas de vigencia):**\n- Ley 19.759: varios componentes entran en vigor más tarde. El cambio en la jornada ordinaria del artículo 22 sólo regirá a partir del 1º de enero de 2005, y otra modificación al artículo 25 sólo regirá a contar del 1 de enero de 2003. Esto supone `vigencia_escalonada` = true.\n- No verifiqué la fecha general de entrada en vigor de la Ley 19.759. Recuerdo, sin fuente, que sería el 1 de diciembre de 2001; hay que confirmarlo.\n- Ley 19.728: tampoco verifiqué cuándo empezó a operar el seguro de cesantía.\n\nNORMA: Ley N° 19.759\nOTRAS: Ley N° 19.728\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://obtienearchivo.bcn.cl/obtienearchivo?id=recursoslegales%2F10221.3%2F2421%2F1%2FHL19759.pdf",
+      "titulo": "Historia de la Ley Nº 19.759",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.cl/vid/modalidades-fundamentales-materias-243151210",
+      "titulo": "Ley 19759 - MODIFICA EL CODIGO DEL TRABAJO EN LO RELATIVO A LAS NUEVAS MODALIDADES DE CONTRATACION, AL DERECHO DE SINDICACION, A LOS DERECHOS FUNDAMENTALES DEL TRABAJADOR Y A OTRAS MATERIAS QUE INDICA - vLex Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.cl/verDoc.aspx?prmTIPO=DOCUMENTOCOMUNICACIONCUENTA&prmID=85859",
+      "titulo": "Historia de la Ley por Artículo",
+      "citada": true
+    },
+    {
+      "url": "https://derechopedia.cl/C%C3%B3digo_del_Trabajo",
+      "titulo": "Código del Trabajo - DerechoPedia",
+      "citada": true
+    },
+    {
+      "url": "https://www.spensiones.cl/portal/institucional/594/w3-propertyvalue-9894.html",
+      "titulo": "Seguro de Cesantía - SP. Superintendencia de Pensiones - Gobierno de Chile",
+      "citada": true
+    },
+    {
+      "url": "https://doe.cl/viewPublic/document/2001/ley/19759.html",
+      "titulo": "Leyes de la República",
+      "citada": false
+    },
+    {
+      "url": "https://chile.justia.com/nacionales/codigos/codigo-del-trabajo/gdoc/",
+      "titulo": "Justia Chile :: Nacionales > Códigos > Código Del Trabajo :: Ley de Chile",
+      "citada": false
+    },
+    {
+      "url": "http://cybertesis.uach.cl/tesis/uach/2002/fjl562m/doc/fjl562m.pdf",
+      "titulo": "UNIVERSIDAD AUSTRAL DE CHILE Facultad de Ciencias Jurídicas y Sociales",
+      "citada": false
+    },
+    {
+      "url": "https://derecho.udd.cl/actualidad-juridica/files/2021/01/AJ-Num-5-P211.pdf",
+      "titulo": "Revista ACTUALIDAD JURIDICA N° 5 - Enero 2002 Universidad del Desarrollo",
+      "citada": false
+    },
+    {
+      "url": "https://leydirecta.cl/codigo-del-trabajo/",
+      "titulo": "Código del Trabajo en Chile",
+      "citada": false
+    },
+    {
+      "url": "https://derechopedia.cl/Art%C3%ADculo_1_del_C%C3%B3digo_del_Trabajo",
+      "titulo": "Artículo 1 del Código del Trabajo - DerechoPedia",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-85205.html",
+      "titulo": "Ley Nº 19.728 - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://www.suseso.gob.cl/612/w3-article-18670.html",
+      "titulo": "SUSESO: Normativa y jurisprudencia - Ley N° 19.728 de 2001, Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://doe.cl/viewPublic/document/2001/ley/19728.html",
+      "titulo": "Leyes de la República",
+      "citada": false
+    },
+    {
+      "url": "https://www.spensiones.cl/portal/institucional/594/articles-3847_recurso_1.pdf",
+      "titulo": "Texto de la Ley N° 19.728, de 2001 Actualizado a Junio de 2026",
+      "citada": false
+    },
+    {
+      "url": "http://web.uchile.cl/archivos/derecho/CEDI/Normativa/Ley%2019.728%20Establece%20un%20Seguro%20de%20Desempleo.pdf",
+      "titulo": "www.bcn.cl - Biblioteca del Congreso Nacional de Chile",
+      "citada": false
+    },
+    {
+      "url": "https://www.spensiones.cl/portal/institucional/594/w3-propertyvalue-5939.html",
+      "titulo": "Leyes y reglamentos del Seguro de Cesantía - SP. Superintendencia de Pensiones - Gobierno de Chile",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.cl/vid/ley-establece-seguro-desempleo-243152090",
+      "titulo": "Ley N° 19.728 establece un Seguro de Desempleo - vLex Chile - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-propertyvalue-157708.html",
+      "titulo": "ley 19.728 - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://previsionsocial.gob.cl/wp-content/uploads/2025/12/04-nota-ciudadana-n4-seguro-cesantia.pdf",
+      "titulo": "SEGURO DE CESANTÍA . NOTA CIUDADANA N°4",
+      "citada": false
+    }
+  ]
+}

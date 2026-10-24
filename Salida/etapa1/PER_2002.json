@@ -1,0 +1,219 @@
+{
+  "id": "PER_2002",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2002,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3862,
+  "incompleto": false,
+  "norma": "Ley N.° 27626",
+  "texto": "# Informe de investigación: Perú, 2002, Ley N.° 27626 (Ley de Intermediación Laboral)\n\n## 1. Objetivo declarado\n\nEl artículo 1 de la ley fija su objeto: regular la intermediación laboral del régimen laboral de la actividad privada, así como cautelar adecuadamente los derechos de los trabajadores. **No encontré la exposición de motivos ni el dictamen del Congreso.** Por eso el objetivo declarado se basa solo en el texto de la norma. No pude verificar el discurso del gobierno ni las motivaciones políticas explícitas.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**tercerizacion_subcontratacion: aumenta (dimensión central)**\n- Solo pueden intermediar entidades constituidas según la Ley General de Sociedades o la Ley General de Cooperativas, y la intermediación debe ser su objeto exclusivo.\n- La intermediación que involucra personal en el centro de trabajo del usuario sólo procede cuando medien supuestos de temporalidad, complementariedad o especialización. Además, los destacados no pueden prestar servicios que impliquen la ejecución permanente de la actividad principal de dicha empresa.\n- Si se infringen esos supuestos y la Autoridad Administrativa de Trabajo lo comprueba en una inspección, por primacía de la realidad se entiende que desde el inicio de la prestación de sus servicios los respectivos trabajadores han tenido contrato de trabajo con la empresa usuaria.\n- Las entidades deben otorgar una fianza que garantice el cumplimiento de las obligaciones laborales y de seguridad social de los trabajadores destacados. Si la fianza no alcanza, la empresa usuaria es solidariamente responsable.\n- Según una fuente académica, esa responsabilidad solidaria en el régimen anterior solo estaba previsto para el caso del seguro complementario de trabajo de riesgo.\n- La inscripción en el registro es un requisito esencial para el inicio y desarrollo de las actividades de estas entidades.\n\n**contratacion_temporal: aumenta**\n- La intermediación temporal queda limitada a las labores de los contratos de naturaleza ocasional y de suplencia previstos en la Ley de Productividad y Competitividad Laboral.\n- Se fija un tope porcentual de destacados temporales respecto de la plantilla del usuario. El tope no será aplicable a los servicios complementarios o especializados si la entidad asume plena autonomía técnica.\n\n**salario_y_negociacion_salarial: aumenta (alcance práctico dudoso)**\n- Durante el destaque, los trabajadores tienen derecho a percibir las remuneraciones y condiciones de trabajo que la empresa usuaria otorga a sus trabajadores.\n- Matiz entre lo declarado y lo efectivo: el reglamento excluye los beneficios ligados a calificaciones personales, desarrollo de actividades específicas, particularidades del puesto. Una fuente académica advierte que esta equiparación tiene escasa aplicación en la realidad.\n\n**derechos_colectivos_sindicales: aumenta**\n- La intermediación es nula de pleno derecho cuando haya tenido por objeto o efecto vulnerar o limitar el ejercicio de derechos colectivos.\n- Se prohíbe usarla para cubrir personal que se encuentre ejerciendo el derecho de huelga.\n- La doctrina considera improbable aplicar la nulidad por las dificultades de prueba que entraña.\n\n**justicia_laboral_e_inspeccion: aumenta**\n- La desnaturalización se establece mediante inspección (ver arriba).\n- El reglamento permite inspeccionar tanto en la entidad como en la empresa usuaria.\n\n**seguridad_social_y_pensiones: aumenta (componente secundario)**\n- La fianza cubre también las obligaciones de seguridad social.\n- Una crítica académica señala que el esquema solidario desprotege a las obligaciones de seguridad social no cubiertas por la fianza.\n\n**Recortes introducidos por el reglamento (D.S. 003-2002-TR):**\n- Limita la solidaridad a derechos de origen legal o colectivo.\n- Excluye a los organismos públicos de las disposiciones sobre fianza y solidaridad.\n\n## 3. Población objetivo\n\n- **Principal:** `asalariados_formales`, es decir, los trabajadores destacados por empresas de servicios y los socios trabajadores de cooperativas del régimen privado.\n- **Cooperativas:** la doctrina describe que antes se les aplicaba un régimen de flexibilidad máxima que dejaba desprotegido al socio.\n- **Sector público:** la ley no distingue entre usuarias públicas y privadas, pero el reglamento excluye a los organismos públicos de fianza y solidaridad. Conviene anotarlo en lugar de codificar `sector_publico` como población objetivo.\n\n## 4. Contexto político y económico\n\n- Lo confirmado: la ley se expidió durante el gobierno de Alejandro Toledo. El reglamento lo firman ALEJANDRO TOLEDO Presidente Constitucional de la República FERNANDO VILLARÁN DE LA PUENTE Ministro de Trabajo y Promoción Social.\n- La literatura enmarca la ley como respuesta a la precarización. Según una fuente, el régimen previo fue consecuencia de una desmedida política de flexibilización en el mercado de trabajo.\n- **No verificado:** el contexto macroeconómico (ciclo, desempleo) y la correlación de fuerzas en el Congreso. Cualquier afirmación sobre la transición posterior a Fujimori o sobre el Consejo Nacional del Trabajo quedaría *sin fuente*.\n\n## 5. ¿Revierte una reforma previa?\n\n**Sí, parcialmente.**\n- Según una fuente, en 1991 el Decreto Legislativo N.° 728 nuevamente amplía los supuestos de actuación y el porcentaje de trabajadores destacados mediante intermediación.\n- La Ley 27626 deroga los Artículos 50, 51 y 52 del Texto Unico Ordenado del Decreto Legislativo No 728, Ley de Formación y Promoción Laboral y el Título V del TUO de la Ley de Productividad y Competitividad Laboral.\n- También sustituye normas reglamentarias de fines de los noventa. Por ejemplo, el D.S. 107-99-TR había suprimió la obligación general de presentar la carta fianza.\n- Sugiero `revierte_reforma_previa` = verdadero, referido a la liberalización de la intermediación iniciada en 1991.\n\n## 6. Fecha de entrada en vigor y aplicación escalonada\n\n- **Publicación y vigencia:** se publicó en El Peruano el 9 de enero de 2002. Fuentes académicas y judiciales la dan vigente desde el 10 de enero de 2002. Propongo `fecha_entrada_vigencia` = **2002-01-10**.\n- **Discrepancia sin verificar:** una fuente secundaria no académica fecha la ley el 14 de Diciembre del 2001. Probablemente corresponde a la aprobación en el Congreso, no a la vigencia.\n- **`vigencia_escalonada` = verdadero.** La ley dio a las entidades en funcionamiento y a las empresas usuarias un plazo de adecuación (registro y regularización de contratos). Al vencer, los destacados fuera de los supuestos legales se entienden contratados por la usuaria desde el inicio del destaque.\n- **Prórroga:** la Ley 27696, publicada el 12-04-2002, prorrogó ese plazo. El reglamento precisa que el plazo prorrogado vence el día 27 de mayo de 2002, y es aplicable, por relación y concordancia, también para el registro.\n- **Reglamento:** se publicó el 28 de abril de 2002 y una fuente lo da vigente desde el 29 de abril del 2002.\n- **Derecho de preferencia:** los trabajadores destacados al entrar en vigor la ley tienen preferencia para ser contratados directamente por la usuaria durante el plazo de adecuación y durante un periodo posterior.\n\n## 7. Estado de vigencia posterior\n\n- **Ley:** sigue vigente. vLex la registra como Vigente Ley Nº 27626 y la Corte Suprema la sigue aplicando en fallos de 2026 sobre desnaturalización.\n- **Fallos judiciales:**\n  - El Tribunal Constitucional declaró infundado el amparo presentado por cooperativas contra la ley: Algunas cooperativas de trabajadores plantearon una acción de amparo contra la aplicación de la Ley No. 27626. Mediante sentencia recaída en el Expediente No. 2670-2002-AA/TC, el Tribunal Constitucional declaró infundada la demanda.\n  - La STC 00013-2014-AI cita la Ley 27626, pero se centró en la tercerización. No anuló nada de esta ley.\n  - **No encontré ninguna anulación, sustantiva ni menor, de la ley.**\n- **Modificaciones del reglamento (no de la ley):**\n  - El D.S. 019-2006-TR derogó un párrafo del reglamento.\n  - El D.S. 020-2007-TR amplió el artículo sobre tercerización.\n  - Una fuente comercial (de menor jerarquía) indica que el DS 09-2020-TR incluyó el seguro de vida ley en la solidaridad.\n- **Normas posteriores que no derogan la ley:**\n  - La Ley 29245 de 2008 no enerva ni deja sin efecto la figura de la intermediación laboral.\n  - Una ley posterior prohibió la tercerización y la intermediación para obreros municipales. El Tribunal Constitucional la validó en 2024 (Exp. 00006-2023-PI/TC). Es una restricción sectorial adicional.\n- **Efecto observado:** la doctrina documenta que algunas empresas \"migrado\" de un sistema de intermediación laboral hacia uno de tercerización para una misma actividad o fase de la cadena productiva, luego de las limitaciones planteadas en enero de 2002 a la intermediación laboral (Ley No. 27626). Esto importa para interpretar el tratamiento en los estudios econométricos.\n- **Pendiente:** el texto del Congreso marca con \"(*)\" el artículo 4, lo que sugiere una modificación o anotación posterior que no pude identificar.\n- **Propuesta:** `estado_vigencia` = **vigente**.\n\n## 8. Lo que no pude verificar\n\n1. La exposición de motivos y el discurso oficial (el objetivo declarado se basa solo en el artículo 1).\n2. El contexto macroeconómico y el debate parlamentario.\n3. La nota \"(*)\" del artículo 4.\n4. La fecha del 14 de diciembre de 2001.\n5. No consulté directamente NATLEX ni EPLex en esta etapa. Uso la identificación previa.\n\n## Orientación preliminar sugerida\n\n**Protectora.** Todas las dimensiones identificadas aumentan la protección, aunque el reglamento y la aplicación práctica la atenúan.",
+  "fuentes": [
+    {
+      "url": "https://lpderecho.pe/ley-intermediacion-laboral-ley-27626/",
+      "titulo": "Ley de Intermediación Laboral (Ley 27626) [actualizado 2021]",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/11737/12303/46709",
+      "titulo": "La intermediación laboral peruana: Alcances (no todos ...",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/66FFAF02DDBC68D0052577C200765FC0/$FILE/Ley_N%C2%B0_27626.pdf",
+      "titulo": "Ley que regula la actividad de las empresas especiales de ...",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-27626-ley-575978022",
+      "titulo": "Ley Nº 27626. Ley que regula la actividad de las empresas especiales de servicios y de las cooperativas de trabajadores - vLex Perú",
+      "citada": true
+    },
+    {
+      "url": "https://laley.pe/art/5388/la-responsabilidad-solidaria-en-la-intermediacion-laboral-incluye-a-la-indemnizacion-por-despido",
+      "titulo": "La responsabilidad solidaria en la intermediación laboral, ¿incluye a la indemnización por despido?",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/E0441809E93D80C90525829D006239A5/$FILE/DS_003_2002_TR.pdf",
+      "titulo": "ESTABLECEN DISPOSICIONES PARA LA APLICACIÓN DE LAS LEYES NºS. 27626 Y",
+      "citada": true
+    },
+    {
+      "url": "https://content.lpderecho.pe/wp-content/uploads/2023/01/laboral-intermediacion-13-30.pdf",
+      "titulo": "Intermediación laboral",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/11737/12303/",
+      "titulo": "La intermediación laboral peruana: Alcances (no todos ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/ley_ey_p_19peru_27626_2002.htm",
+      "titulo": "Ministerio de Relaciones Exteriores - Normograma [LEY 27626 de 2002 Congreso Nacional]",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/20B1CD4BE633DA4A05257E22005A2018/$FILE/2_DECRETO_SUPREMO_003_28_04_2002.pdf",
+      "titulo": "TRABAJO Y PROMOCION SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "https://actualidadlaboral.com/tercerizacion-laboral-analisis-nuevas-normas-reglamentarias/",
+      "titulo": "Tercerización laboral. Análisis nuevas normas reglamentarias",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/tags/ley-27626-1282160",
+      "titulo": "ley 27626",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.udep.edu.pe/derecho/en/article/download/2905/2426/8294?inline=1",
+      "titulo": "vía intermediación laboral",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/16034/16458/0",
+      "titulo": "La problemática de la intermediación laboral en el Perú",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/en/article/download/16051/16474/63761",
+      "titulo": "00 N (/) <U - ·;::: Q) > - Q) (/) ::::¡ 148 La descentralización de servicios",
+      "citada": true
+    },
+    {
+      "url": "http://netbankdes.com/aplication/webroot/archivos/130320034614ley%2029245,%20que%20regula%20los%20servicios%20de%20tercerizaci%C3%B3n%20y%20su%20influencia%20en%20las%20cmac.pdf",
+      "titulo": "Puerto España 250",
+      "citada": true
+    },
+    {
+      "url": "https://www.gob.pe/institucion/mtpe/informes-publicaciones/2120124-comunicado-cumplimiento-de-la-ley-n-27626-ley-que-regula-la-actividad-de-las-empresas-especiales-de-servicios-y-de-las-cooperativas-de-trabajadores-respecto-a-la-presentacion-de-la-carta-fianza",
+      "titulo": "Comunicado: Cumplimiento de la Ley Nº 27626, “Ley que Regula la Actividad de las Empresas Especiales de Servicios y de las Cooperativas de Trabajadores” - respecto a la presentación de la carta fianza - Informes y publicaciones - Ministerio de Trabajo y Promoción del Empleo - Plataforma del Estado Peruano",
+      "citada": false
+    },
+    {
+      "url": "https://asclaboral.com/2026/05/02/ley-n-27626-el-marco-legal-de-la-intermediacion-laboral-en-el-peru/",
+      "titulo": "Ley N° 27626: El Marco Legal de la Intermediación Laboral en el Perú - GRUPO ASC",
+      "citada": false
+    },
+    {
+      "url": "https://lacamara.pe/reglas-basicas-de-la-intermediacion-laboral/",
+      "titulo": "Reglas básicas de la intermediación laboral - La Cámara",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/4128753.pdf",
+      "titulo": "Página 1 IUS Doctrina ISSN2222-9655",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.pj.gob.pe/revista/index.php/rdpt/article/download/579/759/",
+      "titulo": "117 Revista de Derecho Procesal del Trabajo, 5(5), 2022, 117-133",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-27696-ley-575978026",
+      "titulo": "Ley Nº 27696. Ley que prorroga en 45 días el plazo establecido en la Segunda Disposición Transitoria Complementaria y Final de la Ley Nº 27626 - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://www.deperu.com/legislacion/ley-27696-pdf.html",
+      "titulo": "Ley 27696 - PDF",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/decreto-supremo-n-003-575977890",
+      "titulo": "Decreto Supremo Nº 003-2002-TR. Establecen disposiciones para la aplicación de las Leyes Nºs. 27626 y 27696, que regulan la Actividad de las Empresas Especiales de Servicios y de las Cooperativas de Trabajadores - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://lpderecho.pe/intermediacion-laboral/",
+      "titulo": "Services: ¿Qué es la intermediación laboral? Bien explicado",
+      "citada": false
+    },
+    {
+      "url": "https://tc.gob.pe/jurisprudencia/2020/00013-2014-AI.pdf",
+      "titulo": "SENTENCIA DEL TRIBUNAL CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2024/09/Expediente-00006-2023-PI-TC-LPDerecho.pdf",
+      "titulo": "Pleno. Sentencia 205/2024 PLENO JURISDICCIONAL Expediente 00006-2023-PI/TC",
+      "citada": false
+    },
+    {
+      "url": "https://tc.gob.pe/jurisprudencia/2024/00006-2023-AI.html",
+      "titulo": "Pleno. Sentencia 205/2024",
+      "citada": false
+    },
+    {
+      "url": "https://www.mites.gob.es/ficheros/ministerio/sec_trabajo/ccncc/D_AspectosNormativos/Sentencias/STTC_22_01_2015.pdf",
+      "titulo": "El Pleno del Tribunal Constitucional, compuesto por don ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2025_008/STC%205514-2023.pdf",
+      "titulo": "TRIBUNAL CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://ddd.uab.cat/pub/trerecpro/2017/hdl_2072_293002/TFM_CusimaytaLoboGG.pdf",
+      "titulo": "el empleo precario en empresas de intermediación",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/8472367.pdf",
+      "titulo": "aproximación crítica a la regulación de la subcontratación ...",
+      "citada": false
+    },
+    {
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2017/12/Descargue-el-%C2%ABCompendio-de-Normas-sobre-la-Legislaci%C3%B3n-Laboral%C2%BB.pdf",
+      "titulo": "COMPENDIO DE NORMAS SOBRE LA LEGISLACIÓN LABORAL DEL RÉGIMEN PRIVADO 1",
+      "citada": false
+    },
+    {
+      "url": "https://www.deperu.com/legislacion/ley-27626-pdf.html",
+      "titulo": "Ley 27626 - PDF",
+      "citada": false
+    },
+    {
+      "url": "https://nuestrabandera.pe/2022/03/02/peru-modificacion-del-regimen-de-tercerizacion-laboral/",
+      "titulo": "PERÚ. MODIFICACION DEL RÉGIMEN DE TERCERIZACION LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://ius360.com/modificacion-del-reglamento-de-la-ley-de-tercerizacion-laboral-como-impacta-en-la-industria-minera-felipe-ahumada-y-nella-zavala/",
+      "titulo": "Modificación del Reglamento de la Ley de Tercerización Laboral ¿Cómo impacta en la industria minera?",
+      "citada": false
+    },
+    {
+      "url": "http://www.normaslegalesonline.pe/CLP/contenidos.dll/Doctrina/451747/453365/453366/453371?fn=document-frame.htm%24f%3Dtemplates%243.0",
+      "titulo": "Doctrina - Normas Legales",
+      "citada": false
+    },
+    {
+      "url": "https://lexlatin.com/opinion/cuando-es-legal-tercerizar-un-servicio-segun-el-nuevo-decreto",
+      "titulo": "LexLatin",
+      "citada": false
+    },
+    {
+      "url": "https://www.exact.com.pe/noticias/diferencias-entre-intermediacion-laboral-y-tercerizacion-de-servicios-en-peru",
+      "titulo": "Diferencias entre Intermediación Laboral y Tercerización de Servicios en Perú",
+      "citada": false
+    },
+    {
+      "url": "https://blog.prcp.com.pe/wp-content/uploads/2025/11/12937-2025-CR.pdf",
+      "titulo": "ICC Out CON9RESO",
+      "citada": false
+    },
+    {
+      "url": "https://juris.pe/blog/intermediacion-tercerizacion-concepto-diferencias/",
+      "titulo": "¿Qué es la tercerización e intermediación laboral? ¿En qué se diferencian?",
+      "citada": false
+    }
+  ]
+}

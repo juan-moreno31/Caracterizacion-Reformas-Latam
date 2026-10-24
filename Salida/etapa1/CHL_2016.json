@@ -1,0 +1,294 @@
+{
+  "id": "CHL_2016",
+  "iso": "CHL",
+  "pais": "Chile",
+  "anio": 2016,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.368,
+  "incompleto": false,
+  "norma": "Ley N° 20.940 de 2016",
+  "texto": "# Informe de investigación: Chile, 2016, Ley N° 20.940 (\"Moderniza el sistema de relaciones laborales\")\n\n## Resultado principal\n\nLa ley se orienta a la protección del trabajador: fortalece los derechos colectivos y la huelga. También incluye elementos de flexibilidad pactada y algunas limitaciones a la huelga. Entró en vigor el 1 de abril de 2017, con excepciones escalonadas. El principal recorte judicial, la eliminación de la titularidad sindical, ocurrió antes de que se promulgara la ley. Por eso propongo `vigente` y no `anulada_o_suspendida_parcial`, aunque la decisión corresponde a la etapa de caracterización (ver sección 7).\n\n## 1. Objetivo declarado\n\nEl Mensaje presidencial de diciembre de 2014 presenta el objetivo como el \"desarrollo de relaciones laborales modernas, justas y equilibradas entre las partes, en las que predomine el diálogo y el acuerdo\". Según ese texto, el régimen vigente dejaba a las partes en \"una posición muy asimétrica (...) para negociar colectivamente\". La literatura académica resume el proyecto en dos grandes ejes: ampliar y mejorar la calidad de la Negociación Colectiva y fortalecer la participación sindical. El Mensaje también destaca el sentido democratizador de la iniciativa, y considera la negociación colectiva esencial para el crecimiento, la productividad y el desarrollo de empresas socialmente sustentables.\n\nAl promulgar la ley, la Presidenta reconoció que no es todo lo que el Ejecutivo impulsó. Destacó que los trabajadores contarían con una huelga efectiva, con piso de negociación, con mayor información para el ejercicio de sus derechos colectivos y con extensión pactada de beneficios.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**derechos_colectivos_sindicales: aumenta (es el núcleo de la ley).**\n- **Huelga sin reemplazo.** La ley establece que la huelga es un derecho que debe ser ejercido colectivamente por los trabajadores. Se prohíbe el reemplazo de los trabajadores en huelga. La Dirección del Trabajo interpreta que la prohibición alcanza tanto al personal externo como al interno. Reemplazar trabajadores pasa a ser práctica desleal.\n- **Atenuantes para el empleador.** El empleador puede modificar los turnos u horarios de trabajo, y efectuar las adecuaciones necesarias con el objeto de asegurar que los trabajadores no involucrados en la huelga puedan ejecutar las funciones convenidas en sus contratos.\n- **Servicios mínimos (contrapeso que limita la huelga).** Durante la huelga, el sindicato debe proveer personal para los servicios mínimos estrictamente necesarios. Ese personal forma los \"equipos de emergencia\", que deberán ser calificados antes del inicio de la negociación colectiva.\n- **Otras herramientas sindicales.** La ley también crea un derecho de información para los sindicatos y regula la negociación de los sindicatos interempresa y de las federaciones. La extensión de beneficios a trabajadores no sindicalizados pasa a requerir acuerdo entre el sindicato y el empleador.\n\n**salario_y_negociacion_salarial: aumenta.**\n- **Piso de la negociación.** Si existe un instrumento colectivo vigente, el piso son idénticas estipulaciones a las establecidas en el instrumento colectivo vigente. Si no existe, la propuesta del empleador no podrá contener beneficios inferiores a los que de manera regular y periódica haya otorgado.\n- **Flexibilidad del piso.** Las partes pueden convenir rebajar el piso de la negociación (...) cuando las condiciones económicas de la empresa así lo justifiquen.\n- **Información sobre remuneraciones.** Los sindicatos pueden pedir a las grandes empresas información sobre remuneraciones asignadas a trabajadores de los diversos cargos o funciones.\n\n**jornada_y_horas_extra: reorganiza.** La ley introduce pactos sobre condiciones especiales de trabajo, que permiten adaptar jornadas por acuerdo colectivo. Solo pueden celebrarse en empresas con una afiliación sindical alta y sólo podrán acordarse en forma directa y sin sujeción a las normas de la negociación colectiva reglada. Incluyen pactos sobre distribución de jornada de trabajo semanal y pactos para trabajadores con responsabilidades familiares. Es una flexibilidad mediada por el sindicato.\n\n**genero_y_conciliacion: aumenta.**\n- **Cuota femenina en las directivas.** Los estatutos sindicales deberán incorporar un mecanismo de integración de mujeres al directorio, y la ley contiene diversas disposiciones en que se advierte un enfoque con perspectiva de género.\n- **Conciliación.** Se suman los pactos para trabajadores con responsabilidades familiares, ya mencionados.\n\n**tercerizacion_subcontratacion: reduce (de forma acotada).** Cuando hay huelga en una empresa contratista, la empresa principal podrá ejecutar directamente o a través de un tercero la provisión de la obra o el servicio subcontratado que haya dejado de prestarse. La Dirección del Trabajo, sin embargo, interpretó que una empresa de servicios transitorios no puede suministrar trabajadores para ese fin.\n\n**contratacion_temporal: aumenta (en la vertiente colectiva).** Se crea un procedimiento especial para que los trabajadores eventuales, de temporada y de obra o faena transitoria negocien colectivamente. No modifica las reglas de contratación temporal. Conviene decidir en la etapa siguiente si esto se codifica aquí o solo en derechos colectivos.\n\n**justicia_laboral_e_inspeccion: reorganiza.** Se refuerzan la mediación y el arbitraje, y el arbitraje para trabajadores impedidos de hacer huelga pasa a ser obligatorio y gratuito. La ley asigna a la Dirección del Trabajo la calificación de servicios mínimos y el Registro Nacional de Árbitros Laborales, y crea el Consejo Superior Laboral.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: trabajadores con derecho a negociar colectivamente y sindicatos.\n- `mujeres`: cuotas de género y pactos de conciliación.\n- Temporeros (eventuales, de temporada, de obra o faena), que caben dentro de asalariados formales.\n- Mipymes: hay reglas específicas para pactos en micro y pequeñas empresas sin sindicato, pero esta población es secundaria.\n\n## 4. Contexto político y económico\n\n- **Debate en el Congreso.** El proyecto fue enviado el 29 de diciembre de 2014. Tuvo una tramitación conflictiva que desestabilizó a la coalición oficialista, con difíciles acuerdos y varios centenares de modificaciones y amenazas de movilización de la CUT.\n- **Impugnación de la oposición.** Parlamentarios de Chile Vamos llevaron al Tribunal Constitucional cuatro puntos: la titularidad sindical, la extensión de beneficios, la negociación interempresa, y el derecho de información.\n- **Contexto económico: sin fuente.** No verifiqué con fuentes el ciclo económico de 2014–2016. Hay que completarlo con CEPAL o el Banco Central.\n\n## 5. ¿Revierte una reforma previa?\n\nSí, en parte. Revierte componentes del Plan Laboral de 1979, aunque no una reforma inmediatamente anterior.\n- **Reemplazo en huelga.** Antes de la ley, se permitía el reemplazo de trabajadores en huelga desde el primer día, con el cumplimiento de requisitos mínimos por parte del empleador.\n- **Extensión de beneficios.** La Dirección del Trabajo la describe como una institución existente desde el año 1979, como parte del Plan Laboral del gobierno militar.\n- **Lectura académica.** Con el proyecto se buscaba superar algunos aspectos del Plan Laboral.\n\nSugiero registrar `revierte_reforma_previa` = parcialmente, mencionando el Plan Laboral de 1979.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Regla general.** La ley se publicó el 8 de septiembre de 2016 y tiene Inicio Vigencia: 01-04-2017, sin perjuicio de las excepciones que se contemplan en las normas siguientes. Propongo `vigencia_escalonada` = true.\n- **Excepciones verificadas:**\n  - **Servicios mínimos:** desde la publicación, empresas y sindicatos podrán calificar de común acuerdo los servicios mínimos.\n  - **Negociaciones ya iniciadas:** se rigen por las normas vigentes al día de presentación del proyecto de contrato colectivo.\n  - **Estatutos sindicales:** las organizaciones tienen un plazo, contado desde la entrada en vigor, para adecuarlos (artículo sexto transitorio). Ese plazo condiciona la aplicación de la cuota de género.\n- **Nota sobre el año.** El año de la base (2016) no coincide con el de vigencia efectiva (2017). Esto debe ir en `notas`.\n\n## 7. Estado de vigencia posterior\n\n**Antes de la promulgación (control preventivo, Rol 3016-16):**\n- El Tribunal Constitucional declaró inconstitucional la titularidad sindical, considerada parte del \"corazón\" de la iniciativa. También anuló la extensión automática de beneficios por afiliación.\n- Rechazó las objeciones contra el derecho de información y la negociación interempresa.\n- Hubo además un control obligatorio de constitucionalidad (Rol 3112-16).\n\nLas normas anuladas no pueden convertirse en ley de la República. Por ello, estas quedan fuera del proyecto de ley. Como la ley publicada nunca las contuvo, el tratamiento real es el texto promulgado. Por eso recomiendo no usar `anulada_o_suspendida_parcial` y documentarlo en `notas` como \"recorte preventivo del proyecto\". Aun así, esto afecta lo que se buscaba de origen y conviene reflejarlo en la distinción entre lo declarado y lo efectivo.\n\n**Después de la promulgación:**\n- **Fallo de inaplicabilidad (menor).** En un caso concreto (Rendic), el Tribunal Constitucional sostuvo que es inconstitucional el inciso 2° del art. 323 del Código del Trabajo, sobre extensión de beneficios a nuevos afiliados. Tiene efecto solo en ese caso; va en `notas`. No verifiqué la fecha exacta.\n- **Modificaciones (corrijo el informe previo).** La Ley 21.578, de 30 de mayo de 2023, es una ley de reajuste del ingreso mínimo. Solo modificó la integración del Consejo Superior Laboral: añadió un consejero designado por el Consejo Nacional Consultivo de la Empresa de Menor Tamaño. LeyChile registra además una modificación de la Ley 21.751 (de 2025) con vigencia diferida. Ambas son institucionales y menores.\n- **Propuesta:** `vigente`, con las modificaciones descritas en `notas`.\n\n## No verificado\n\n- El contexto macroeconómico (sin fuente).\n- La fecha del fallo Rendic.\n- El contenido exacto de la modificación de la Ley 21.751.\n- Si reformas posteriores del Código del Trabajo alteraron sustancialmente los artículos introducidos por esta ley (huelga, piso, pactos). La ficha de LeyChile de la Ley 20.940 no refleja los cambios hechos directamente al Código.\n- Los cambios en fuero y prácticas antisindicales, que solo vi de forma parcial.\n\n## Codificación propuesta\n\n| Campo | Valor |\n|---|---|\n| Orientación | `protectora` (evaluar `mixta` por los pactos de adaptabilidad y los servicios mínimos) |\n| Instrumento | `ley` |\n| Confianza | `alta` |\n| Fecha de entrada en vigencia | 2017-04-01 |\n| Vigencia escalonada | true |\n| Estado | `vigente` |",
+  "fuentes": [
+    {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1094436",
+      "titulo": "Ley Chile - Ley 20940 - Biblioteca del Congreso Nacional ...",
+      "citada": true
+    },
+    {
+      "url": "http://www.cutchile.cl/wp-content/uploads/2017/06/guiapracticaleylaboral-1.pdf",
+      "titulo": "GUÍA PRÁCTICA DE LA LEY 20.940 Central Unitaria de Trabajadores",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/articles-119819_Fiscalizador_12.pdf",
+      "titulo": "Ley 20940",
+      "citada": true
+    },
+    {
+      "url": "https://www.sindicatodeloittechile.cl/post/sobre-la-huelga-y-los-servicios-m%C3%ADnimos",
+      "titulo": "Sobre la huelga y los Servicios Mínimos",
+      "citada": true
+    },
+    {
+      "url": "https://www.pwc.com/cl/es/publicaciones/assets/boletin_laboral/2016/10min_Especial_Reforma_Laboral_septiembre_2016.pdf",
+      "titulo": "Ley N° 20.940 que modifica el Sistema de Relaciones ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1627/w3-article-110991.html",
+      "titulo": "Dirección del Trabajo emite dictamen sobre el alcance de las normas incorporadas por la Ley 20.940 que regulan el derecho a huelga en la negociación colectiva reglada. - DT - Noticias",
+      "citada": true
+    },
+    {
+      "url": "https://www.tributariolaboral.cl/610/w3-article-115754.html",
+      "titulo": "TributarioLaboral.cl - Ley N°20.940; Huelga; Reemplazo de trabajadores; Empresa de servicios transitorios.",
+      "citada": true
+    },
+    {
+      "url": "https://www.theclinic.cl/2016/04/27/reforma-laboral-tc-declara-inconstitucional-la-titularidad-sindical/",
+      "titulo": "Reforma laboral: TC declara inconstitucional la titularidad sindical",
+      "citada": true
+    },
+    {
+      "url": "https://radio.uchile.cl/2016/04/27/reforma-laboral-titularidad-sindical-es-declarada-inconstitucional/",
+      "titulo": "TC declara inconstitucional la titularidad sindical - Diario y Radio Universidad Chile",
+      "citada": true
+    },
+    {
+      "url": "https://cooperativa.cl/noticias/pais/trabajo/proyectos/tribunal-constitucional-publico-completo-el-fallo-adverso-a-la-reforma/2016-05-09/182134.html",
+      "titulo": "Tribunal Constitucional publicó completo el fallo adverso a la reforma laboral - Cooperativa.cl",
+      "citada": true
+    },
+    {
+      "url": "https://www.df.cl/economia-y-politica/laboral-personas/tribunal-constitucional-rechaza-extension-de-beneficios-a-trabajadores",
+      "titulo": "Tribunal Constitucional rechaza extensión de beneficios a trabajadores recién sindicalizados",
+      "citada": true
+    },
+    {
+      "url": "http://archivospresidenciales.archivonacional.cl/index.php/mensaje-que-inicia-proyecto-de-ley-que-moderniza-el-sistema-de-relaciones-laborales-introduciendo-modificaciones-al-codigo-del-trabajo",
+      "titulo": "Mensaje que inicia Proyecto de Ley que moderniza el Sistema de Relaciones Laborales introduciendo modificaciones al Código del Trabajo - Archivo Michelle Bachelet Jeria 2014-2018",
+      "citada": true
+    },
+    {
+      "url": "https://archivospresidenciales.archivonacional.cl/index.php/discurso-de-michelle-bachelet-al-promulgar-la-ley-numero-20940-que-moderniza-el-sistema-de-relaciones-laborales",
+      "titulo": "Discurso de Michelle Bachelet al promulgar la Ley número 20940 que moderniza el Sistema de Relaciones Laborales - Archivo Michelle Bachelet Jeria 2014-2018",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/w3-propertyvalue-165849.html",
+      "titulo": "Reforma al Sistema de Relaciones Laborales - DT - Dirección del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.elmostrador.cl/noticias/opinion/2016/03/01/la-reforma-laboral-de-michelle-bachelet/",
+      "titulo": "La reforma laboral de Michelle Bachelet",
+      "citada": true
+    },
+    {
+      "url": "http://lizamabogados.cl/wp-content/uploads/2019/07/Libro-Reforma-Laboral-versi%C3%B3n-Web.pdf",
+      "titulo": "LA REFORMA LABORAL Explicada y comentada LUIS LIZAMA PORTAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/3475/347559680004/html/",
+      "titulo": "Reforma Laboral Chilena, ¿Un avance concreto para el sindicalismo o una continuación renovada del Plan Laboral impuesto por la Dictadura Militar?",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-111409.html",
+      "titulo": "ORD. N°1306/31 - DT - Normativa 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/articles-117137_galeria_35.pdf",
+      "titulo": "Tipo Norma :Ley 20940 Fecha Publicación :08-09-2016 ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.tributariolaboral.cl/610/w3-article-116359.html",
+      "titulo": "TributarioLaboral.cl - Ley N°20.940, reemplazo de trabajadores en huelga.",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.uchile.cl/bitstream/handle/2250/146307/Los-l%C3%ADmites-al-derecho-a-huelga-en-la-Ley-no-20.940.pdf",
+      "titulo": "Los-límites-al-derecho-a-huelga-en-la-Ley-no-20.940. ...",
+      "citada": false
+    },
+    {
+      "url": "https://derecho.udd.cl/actualidad-juridica/files/2021/01/AJ35_9.pdf",
+      "titulo": "Revista ACTUALIDAD JURÍDICA N° 35 - Enero 2016 Universidad del Desarrollo 9",
+      "citada": false
+    },
+    {
+      "url": "https://www.cooperativa.cl/noticias/pais/trabajo/proyectos/reforma-laboral-tc-declaro-inconstitucional-la-titularidad-sindical/2016-04-27/174837.html",
+      "titulo": "Reforma laboral: TC declaró inconstitucional la titularidad sindical - Cooperativa.cl",
+      "citada": false
+    },
+    {
+      "url": "https://www.cnnchile.com/pais/tribunal-constitucional-entrego-sentencia-definitiva-por-reforma-laboral/",
+      "titulo": "Tribunal Constitucional entregó sentencia definitiva por Reforma Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.t13.cl/noticia/politica/tc-declara-inconstitucional-la-titularidad-sindical-en-reforma-laboral",
+      "titulo": "Revés del gobierno en Reforma Laboral: TC declara inconstitucional la titularidad sindical",
+      "citada": false
+    },
+    {
+      "url": "https://lyd.org/centro-de-prensa/noticias/noticias-portada/2016/12/incertezas-la-implementacion-la-nueva-ley-laboral/",
+      "titulo": "Incertezas en la implementación de la nueva Ley Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://es-us.noticias.yahoo.com/tribunal-en-chile-declara-inconstitucional-parte-reforma-laboral-214402899.html",
+      "titulo": "Tribunal en Chile declara inconstitucional parte clave de reforma laboral - Yahoo Noticias",
+      "citada": false
+    },
+    {
+      "url": "https://www.ocmal.org/wp-content/uploads/2015/11/2015_mensaje_presidencial.pdf",
+      "titulo": "JUNTOS, UN CHILE MEJOR. Michelle Bachelet Presidenta 2014-2018",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/6775672.pdf",
+      "titulo": "Reforma Laboral Chilena, ¿Un avance concreto para el ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/522/52247505005.pdf",
+      "titulo": "Revista POSTData: Revista de Reflexión y Análisis Político ISSN: 1151-209X",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-114597.html",
+      "titulo": "ORD. N°1028/21 - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/w3-article-114594.html",
+      "titulo": "ORD. N°1026/19 - DT - Dirección del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/w3-article-110070.html",
+      "titulo": "Reforma al Sistema de Relaciones Laborales - DT - Dirección del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://dt.gob.cl/legislacion/1624/w3-propertyvalue-161226.html",
+      "titulo": "Ley N° 20.940 - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://dt.gob.cl/legislacion/1624/w3-article-115060.html",
+      "titulo": "ORD. N°1862/26 - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-111524.html",
+      "titulo": "ORD. N°1413/32 - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://www.tributariolaboral.cl/610/w3-article-71108.html",
+      "titulo": "TributarioLaboral.cl - Ley 20.940; pactos sobre condiciones especiales de trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://lyd.org/wp-content/uploads/2022/03/TP-1535-INAPLICABILIDAD-CORTE-CONSTITUCIONAL-O-CORTE-SUPREMA.pdf",
+      "titulo": "TEMAS PÚBLICOS www.lyd.org Nº 1535",
+      "citada": false
+    },
+    {
+      "url": "https://biblat.unam.mx/hevila/Estudiosconstitucionales/2007/vol5/no1/10.pdf",
+      "titulo": "ACCIÓN DE INAPLICABILIDAD E ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2025/11/28/norma-que-establece-que-sentencias-la-corte-suprema-no-son-susceptibles-de-recurso-alguno-se-impugna-ante-el-tribunal-constitucional/",
+      "titulo": "Norma que establece que sentencias la Corte Suprema no son susceptibles de recurso alguno se impugna ante el Tribunal Constitucional - Diario Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2021/c-294-21.htm",
+      "titulo": "Sentencia C-294/21 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.brennancenter.org/our-work/policy-solutions/supreme-court-term-limits",
+      "titulo": "Límites en el período de mandato para la Corte Suprema",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2003/C-940-03.htm",
+      "titulo": "C-940-03 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11160",
+      "titulo": "BOE-A-2015-11160 Ley Orgánica 15/2015, de 16 de octubre, de reforma de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, para la ejecución de las resoluciones del Tribunal Constitucional como garantía del Estado de Derecho.",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.uca.edu.ar/bitstream/123456789/10391/1/obligatoriedad-fallos-corte-suprema.pdf",
+      "titulo": "La obligatoriedad de los fallos de la Corte Suprema ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.ellitoral.com/politica/reforma-laboral-fallos-corte-suprema-litigiosidad-union-industrial_0_E9WLQb2QfO.html",
+      "titulo": "La reforma laboral obliga a los jueces a fallar igual que la Corte",
+      "citada": false
+    },
+    {
+      "url": "https://prime.tirant.com/mx/actualidad-prime/reforma-judicial/",
+      "titulo": "Reforma Judicial - Tirant Prime México",
+      "citada": false
+    },
+    {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1192720",
+      "titulo": "Ley 21578 - Biblioteca del Congreso Nacional de Chile",
+      "citada": false
+    },
+    {
+      "url": "https://www.cerlatam.com/normatividad/ley-21-578-reajuste-de-ingreso-minimo-mensual/",
+      "titulo": "Ley 21.578 Reajuste de Ingreso mínimo mensual. - Centro de Estudios Regulatorios",
+      "citada": false
+    },
+    {
+      "url": "https://nuevo.leychile.cl/navegar?idNorma=1094436&idParte=9728204&idVersion=2016-09-08",
+      "titulo": "Ley 20940 - Biblioteca del Congreso Nacional de Chile",
+      "citada": false
+    },
+    {
+      "url": "https://arizmendi.cl/ministerio-del-trabajo-y-prevision-social-ley-21-578/",
+      "titulo": "Ministerio del Trabajo y Previsión Social - Ley 21.578",
+      "citada": false
+    },
+    {
+      "url": "https://jdf.cl/en/ley-al-dia-se-publica-la-ley-no-21-578-que-reajusta-el-monto-del-ingreso-minimo-mensual-aumenta-el-universo-de-beneficiarios-y-beneficiarias-de-la-asignacion-familiar-y-maternal-y-extiende-el-ingr/",
+      "titulo": "Ley al día: Se publica la Ley No. 21.578 que reajusta el monto del ingreso mínimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignación familiar y maternal y, extiende el ingreso mínimo garantizado y subsidio temporal a las micro, pequeñas y medianas empresas. - JDF Jara del Favero",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2024/04/11/direccion-del-trabajo-fija-sentido-y-alcance-de-la-ley-n21-578-en-relacion-al-reajuste-del-monto-del-ingreso-minimo-mensual-y-extension-del-ingreso-minimo-garantizado/",
+      "titulo": "Dirección del Trabajo fija sentido y alcance de la Ley N°21.578, en relación al reajuste del monto del ingreso mínimo mensual y extensión del ingreso mínimo garantizado. - Diario Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.mintrab.gob.cl/leyes-aprobadas-por-ministerio/",
+      "titulo": "Leyes Aprobadas Por Ministerio - Ministerio del Trabajo y Previsión Social",
+      "citada": false
+    },
+    {
+      "url": "https://es.linkedin.com/pulse/resumen-ley-21578-del-30-de-mayo-2023-reajusta-imm-y-tapia-briones",
+      "titulo": "Resumen ley 21.578 del 30 de Mayo de 2023 , reajusta IMM, crea subsidio temporal, rebaja tasa de impuesto de primera categoria y otros cambios.",
+      "citada": false
+    },
+    {
+      "url": "https://aylwinestudio.cl/ley-n21-561-modifica-el-codigo-del-trabajo-con-el-objeto-de-reducir-la-jornada-laboral-4/",
+      "titulo": "Ley N°21.578. Reajusta el monto del ingreso minimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignación familiar, maternal, y extiende el ingreso minimo garantizado y el subsidio temporal a las micro, pequeñas y medianas empresas en la forma que indica. - Aylwin Estudio",
+      "citada": false
+    }
+  ]
+}

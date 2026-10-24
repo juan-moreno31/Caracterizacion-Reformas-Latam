@@ -1,0 +1,199 @@
+{
+  "id": "ARG_1998",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 1998,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3719,
+  "incompleto": false,
+  "norma": "Ley 25.013",
+  "texto": "# Informe de investigación: Argentina 1998, Ley 25.013 de Reforma Laboral\n\n## 1. Objetivo declarado\n\nNo pude consultar la exposición de motivos. Solo verifiqué que el proyecto del Ejecutivo se envió con el Mensaje Nº 296 del 18 de marzo de 1998, cuyo texto no revisé. El objetivo formal que consta es que la ley establece un régimen de reforma laboral que incluye la modificación de algunos aspectos de la regulación del Contrato de Trabajo y de las Leyes Nros. 24.013, 24.465 y 24.467, junto con la normativa sobre convenciones colectivas. El decreto de promulgación califica el despido discriminatorio como una figura incorporada acorde con preceptos constitucionales y con las legislaciones más modernas. Queda **sin fuente** la intención declarada de generar empleo o combatir la precarización.\n\n## 2. Cambios efectivos por dimensión\n\n**contratacion_temporal — aumenta.** El artículo 21 deroga, entre otros, los artículos: 18, inciso b, 31 última parte, 28 a 40 y 43 a 65 de la Ley Nº 24.013, los artículos 1º, 3º, 4º y 5º de la Ley Nº 24.465. Esos artículos regulaban las modalidades promovidas: tiempo determinado como medida de fomento, lanzamiento de nueva actividad, práctica laboral para jóvenes y trabajo-formación. La cláusula transitoria dispone que los contratos ya celebrados bajo esas modalidades continuarán hasta su finalización no pudiendo ser renovados ni prorrogados. Según un análisis académico, la ley derogó todas las modalidades contractuales a plazo fijo (con excepción de las tradicionales que requieren la producción de causas objetivas.\n\n**despido_e_indemnizacion — reduce (con componentes protectores).** Como contrapartida a lo anterior, la ley redujo el costo del despido en los contratos por tiempo indeterminado. La misma fuente académica señala que lo hizo mediante la supresión de la indemnización mínima por despido vigente hasta entonces.\n- El nuevo régimen de preaviso e indemnización se aplica solo a los contratos de trabajo que se celebren a partir de la entrada en vigencia de esta ley.\n- La indemnización pasa a calcularse por mes de servicio, en lugar de por año. Se mantiene un tope sobre la remuneración base, referido a los salarios del convenio aplicable.\n- Se habilita la disponibilidad colectiva de las indemnizaciones por falta de preaviso y por antigüedad en el despido incausado, sujeta a un límite.\n- También se fija una indemnización reducida para el despido por fuerza mayor o por falta o disminución de trabajo.\n\nHay dos elementos protectores:\n- Ante la falta de pago en término de la indemnización se presumirá la existencia de la conducta temeraria y maliciosa contemplada en el artículo 275 de la Ley 20.744.\n- Se crea la figura del despido discriminatorio, con indemnización agravada sin tope. Sin embargo, la prueba estará a cargo de quien invoque la causal, y el Decreto 1111/98 dejó solo los motivos de raza, sexo y religión.\n\n**otro: período de prueba — reorganiza.** La ley sustituye el artículo 92 bis de la Ley de Contrato de Trabajo. El período legal es más corto que el de la Ley 24.465, pero puede ampliarse por convenio colectivo homologado. Si bien bajó de tres meses a un mes el período de prueba, permitía que éste se extendiera a seis meses por negociación colectiva (las cifras van solo en la cita; para la base basta la dirección del cambio). Según un texto actualizado no oficial, durante el período inicial las partes quedaban exentas de algunos aportes, entre ellos los correspondientes a jubilaciones y pensiones. No contrasté ese punto con el texto original de InfoLEG.\n\n**empleo_juvenil_y_aprendizaje — aumenta.** Según la fuente académica, la ley devolvió su naturaleza «laboral» al contrato de aprendizaje, que había sido antes «deslaboralizado».\n- El contrato requiere un programa formativo y se celebra por escrito con un joven sin empleo.\n- Si el empleador incumple, el contrato se convertirá a todos sus fines en un contrato por tiempo indeterminado.\n- Además, las cooperativas de trabajo y las empresas de servicios eventuales no podrán hacer uso de este contrato.\n\nNo verifiqué el contenido del artículo 2º original sobre pasantías.\n\n**derechos_colectivos_sindicales — reorganiza.**\n- Centralización: el artículo 14 modificó las reglas de representación, privando a las asociaciones sindicales de primer grado de la facultad de negociar colectivamente, salvo que existiera una delegación.\n- Articulación: el artículo 15 reconoce la posibilidad de prevalencia de un convenio de ámbito menor sobre un convenio ulterior de ámbito superior, siempre que esté prevista su articulación.\n- Ultraactividad: se limita en el caso de los convenios antiguos no renegociados, que caducarán, salvo pacto en contrario tras la solicitud de una de las partes. Un autor juzgó esta limitación como un engañoso procedimiento para aparentar la intención de terminar con la ultraactividad.\n\nEl efecto sobre la protección es ambiguo: hay más centralización sindical y, a la vez, se abre el camino a la caducidad de convenios.\n\n**justicia_laboral_e_inspeccion — reorganiza.** Según el informe previo, se crea un servicio de mediación y arbitraje en el Ministerio de Trabajo y Seguridad Social; no verifiqué su contenido en esta etapa. Se crea además una comisión de seguimiento del régimen de contrato de trabajo y de las normas de las convenciones colectivas de trabajo. Ante el incumplimiento de los deberes de negociación de buena fe, el Ministerio dará a conocimiento público la situación planteada a través de los medios de difusión.\n\n**formalizacion_y_mipymes — reorganiza.** La ley deroga el artículo 89 de la Ley 24.467 (régimen pyme) y obliga a registrar el contrato a prueba, incluso en el libro especial pyme. Si no se registra, se entiende que ha renunciado a dicho período. Esa última regla figura en una versión de texto posterior; no confirmé si estaba en la redacción original.\n\n**seguridad_social_y_pensiones.** El Decreto 1111/98 vetó el párrafo según el cual las cláusulas de acuerdo bilaterales, que establezcan y financien regímenes jubilatorios reglamentarios, sólo podrán ser modificados por acuerdo de partes. Es un efecto menor.\n\n**Orientación tentativa: mixta.** La ley elimina los contratos temporales promovidos y devuelve el carácter laboral al aprendizaje, pero abarata el despido de los nuevos contratados.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: sobre todo los contratados después de la vigencia, por el régimen indemnizatorio diferido.\n- `jovenes`: aprendizaje y pasantías.\n- `empleadores_mipymes`.\n\n## 4. Contexto político y económico\n\n- La ley se dictó en el tramo final del gobierno de Carlos Menem. El decreto de promulgación lleva la firma del ministro Antonio E. González.\n- La ultraactividad fue el punto de mayor conflicto en la negociación del borrador que el ministro le propuso a los empresarios y a los sindicatos.\n- Según la fuente académica, la centralización sindical se incluyó a pedido de la cúpula sindical y, probablemente, a modo de compensación por su conformidad con la reducción notable de la indemnización por despido.\n- Otro estudio describe el resultado de 1998 como ambiguo: el gobierno obtuvo modificaciones que desprotegieron de garantías a los trabajadores pero no pudo avanzar suficientemente sobre las prerrogativas sindicales.\n- Para el contexto macroeconómico, como el alto desempleo y la recesión de fines de 1998, solo encontré documentos de gobierno con posición política, no fuentes de primer nivel: **sin fuente sólida**.\n\n## 5. ¿Revierte una reforma previa?\n\n**Sí, en parte.** Deroga las modalidades promovidas de la Ley 24.013 (1991) y artículos de la Ley 24.465 (1995), entre ellos el régimen de período de prueba que esta había introducido. En cambio, la reducción indemnizatoria va en la misma línea flexibilizadora previa.\n\nHay una discrepancia en la prensa: La Nación afirma que Menem derogó los contratos promovidos mediante decreto, en 1998. El texto oficial muestra que lo hizo por ley, mediante el artículo 21 de la Ley 25.013.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- La publicación en el Boletín Oficial fue el 24 de septiembre de 1998. No encontré un artículo con fecha propia de vigencia.\n- Una fuente secundaria (circular gremial) ubica el inicio de aplicación del nuevo régimen en los contratos celebrados con posterioridad al 3 de octubre de 1998. Esto coincide con el plazo supletorio del Código Civil de entonces, pero esa inferencia es **sin fuente**.\n- Propuesta: `fecha_entrada_vigencia` = 1998-10-03, con confianza media.\n- **`vigencia_escalonada` = true.** El régimen de despido rige solo para los contratos nuevos. Los contratos a prueba en curso continuarán hasta su finalización conforme al régimen en el cual tuvieron origen, y los contratos promovidos vigentes se mantienen hasta su vencimiento. En la práctica, el tratamiento crece de forma gradual a medida que rota la plantilla.\n\n## 7. Estado de vigencia posterior\n\n**Categoría propuesta: `modificada_o_derogada_despues`.**\n\n- **Ley 25.250 (B.O. 2/6/2000):** derogó los artículos 12, 14, 15 y 16, es decir, el núcleo colectivo. Esa derogación fue ratificada por art. 41 de la Ley N°25.877.\n- **Ley 25.877 (2004):** dispuso Derógase la Ley Nº 17.183, los artículos 17 y 19 de la Ley Nº 14.250 t.o. 1988; el artículo 92 de la Ley Nº 24.467, los artículos 4º, 5º, 6º, 7º, 8º, 10, 11 y 13 de la Ley Nº 25.013. Así desaparecieron el régimen de despido, el preaviso y el despido discriminatorio, y se unificó el régimen indemnizatorio en el artículo 245 de la Ley de Contrato de Trabajo.\n- **Otras modificaciones:**\n  - el artículo 1º (aprendizaje) fue sustituido por la Ley 26.390;\n  - el artículo 2º fue derogado por la Ley 26.427;\n  - el artículo 9º fue derogado por art. 54 del Decreto N° 70/2023 B.O. 21/12/2023 y también por el artículo N° 99 de la Ley 27.742.\n- **Lo que sigue vigente:** esencialmente el aprendizaje modificado y la derogación de las modalidades promovidas.\n- **Fallos judiciales:** no encontré sentencias que anularan la Ley 25.013. El veto del Decreto 1111/98 recortó la lista de motivos de discriminación antes de la vigencia. Corresponde a `notas` y no cambia la categoría.\n\n## No verificado\n\n- El texto del Mensaje 296/98, es decir, el objetivo declarado.\n- El contenido original de los artículos sobre pasantías, mediación y arbitraje, y la obligación de registro.\n- La fecha exacta de vigencia en una fuente oficial.\n- Fichas de la OIT (NATLEX/EPLex).\n- Datos macroeconómicos de contexto con fuente de primer nivel.\n- Si hubo control judicial del Decreto 70/2023 en lo que toca al artículo 9º.",
+  "fuentes": [
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN25013.pdf",
+      "titulo": "REFORMA LABORAL Ley 25.013",
+      "citada": true
+    },
+    {
+      "url": "https://stipa-osipa.org.ar/docs/ley%2025013.pdf",
+      "titulo": "Ley 25.013 REFORMA LABORAL -.: STIPA :.",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-53159/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25013 - REFORMA LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://upcndigital.org/~legislacion/Ley%20Contrato%20de%20Trabajo/1998-Ley%2025013_textact.pdf",
+      "titulo": "Ley Nº 25.013 (texto actualizado)",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025013_1998_09_02",
+      "titulo": "Ley N° 25013",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25013-53159/actualizacion",
+      "titulo": "TEXTO ACTUALIZADO - Ley 25013 - REFORMA LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.uart.org.ar/ley-25-877/",
+      "titulo": "Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "http://www.acopiadorescba.com/deq-download/DigitalCircular/4301/document/9270",
+      "titulo": "Ordenamiento del Régimen Laboral Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://agora.edu.es/descarga/articulo/5085206.pdf",
+      "titulo": "Reforma y contrarreforma laboral en Argentina, crónica simple de un proceso",
+      "citada": true
+    },
+    {
+      "url": "https://www.aadtyss.org.ar/files/documentos/360/03.%20LA%20NEGOCIACI%C3%93N%20COLECTIVA%20DESPU%C3%89S%20DE%20LA%20REFORMA%202000%20RM%20Septiembre%202001.pdf",
+      "titulo": "LA NEGOCIACIÓN COLECTIVA DESPUÉS DE LA REFORMA 2000",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/economia/la-ultraactividad-en-el-centro-de-la-discusion-nid88413/",
+      "titulo": "La ultraactividad, en el centro de la discusión - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/3873/387334696002.pdf",
+      "titulo": "El proceso político de la reforma laboral en ...",
+      "citada": true
+    },
+    {
+      "url": "http://www.geocities.ws/adtysscba/ultra.htm",
+      "titulo": "ULTRAACTIVIDAD DE LOS CONVENIOS COLECTIVOS EN LA LEY 25",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/economia/negocios/reforma-laboral-una-historia-de-intentos-fallidos-y-una-anomia-persistente-nid27122025/",
+      "titulo": "Reforma laboral: una historia de intentos fallidos y una anomia persistente - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://www.unse.edu.ar/trabajoysociedad/34%20COSCIA%20VANESA%20Reformas%20laborales%20de%20los%2090%20en%20Argentina.pdf",
+      "titulo": "Reformas laborales de los '90 en Argentina",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/53159/norma.htm",
+      "titulo": "Ley 25.013 del 02/09/98",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/93595/norma.htm",
+      "titulo": "Ley 25.877 - REGIMEN LABORAL - Jus.gob.ar - Infoleg",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.mpf.gov.ar/meran/getDocument.pl?id=3394",
+      "titulo": "ÍNDICE GENERAL LEY 25.013 REFORMA LABORAL CAPÍTULO 1 Artículo 10 [CONTRATO",
+      "citada": false
+    },
+    {
+      "url": "https://ar.vlex.com/vid/ley-25013-219627362",
+      "titulo": "Ley 25013 - Ley de reforma laboral - vLex Argentina",
+      "citada": false
+    },
+    {
+      "url": "https://pasbba.com.ar/el-nuevo-art-245-bis-de-la-lct-y-la-reedicion-de-viejos-errores-del-pasado/",
+      "titulo": "El nuevo art. 245 bis de la LCT y la reedición de viejos errores del pasado.",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN25877.pdf",
+      "titulo": "REGIMEN LABORAL Ley 25.877",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecofield.net/Legales/Trabajo/ley25877.html",
+      "titulo": "ECOFIELD - Trabajo -",
+      "citada": false
+    },
+    {
+      "url": "https://trivia.consejo.org.ar/ficha/521489-ley_25.877._regimen_laboral",
+      "titulo": "Ley 25.877. Régimen Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://upcndigital.org/~legislacion/CIOT/Discapacidad/2004-Ley%2025877.pdf",
+      "titulo": "Ley Nº 25.877",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025877_2004_03_02",
+      "titulo": "Ley N° 25877",
+      "citada": false
+    },
+    {
+      "url": "https://www.uomlamatanza.org.ar/Documentos/Ley%2025877%20Regimen%20Laboral.pdf",
+      "titulo": "REGIMEN LABORAL Ley 25.877",
+      "citada": false
+    },
+    {
+      "url": "https://frba.utn.edu.ar/wp-content/uploads/2018/02/Ley-de-Trabajo.pdf",
+      "titulo": "LEY 25.013 CAPITULO I Artículo 1º.− (Contrato de trabajo de ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-53159/actualizacion",
+      "titulo": "TEXTO ACTUALIZADO - Ley 25013 - REFORMA LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN24013.pdf",
+      "titulo": "EMPLEO Ley Nº 24.013 Ambito de aplicación, objetivos y ...",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/412/texact.htm",
+      "titulo": "Ley Nº 24013 - INFOLEG",
+      "citada": false
+    },
+    {
+      "url": "https://unterseccionalroca.org.ar/imagenes/documentos/leg/LEYESYRESOLUCIONESTEXTOSCOMPLETOS/Ley25013.htm",
+      "titulo": "SAIJ - Búsqueda de Leyes Nacionales/Decretos Leyes",
+      "citada": false
+    },
+    {
+      "url": "https://trivia.consejo.org.ar/ficha/18601-ley_25.013._reforma_laboral",
+      "titulo": "Ley 25.013. Reforma Laboral.",
+      "citada": false
+    },
+    {
+      "url": "https://carasycaretas.org.ar/2024/04/29/la-otra-reforma-laboral/",
+      "titulo": "La otra reforma laboral - Caras y Caretas",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.org.ar/img/revistas/tys/n24/html/n24a02.htm",
+      "titulo": "El proceso político de la reforma laboral ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/documentos/REFORMA%20LABORAL-6-2-versi%C3%B3n%20DIGITAL.pdf",
+      "titulo": "Posicionamiento del gobierno bonaerense RAZONES POR LAS CUALES LA P",
+      "citada": false
+    },
+    {
+      "url": "https://www.uart.org.ar/ley-25-013/",
+      "titulo": "Ley 25.013",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_024013_1991_11_13",
+      "titulo": "Ley N° 24013",
+      "citada": false
+    }
+  ]
+}

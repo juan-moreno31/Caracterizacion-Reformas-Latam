@@ -1,0 +1,176 @@
+{
+  "id": "BOL_1999",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 1999,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1944,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 2027 de 27 de octubre de 1999 (Estatuto del Funcionario Público)",
+  "otras": "Decreto Supremo N° 25421 de 11 de junio de 1999; Decreto Supremo N° 25489 de 13 de agosto de 1999; Decreto Supremo N° 25340 de 31 de marzo de 1999",
+  "confianza": "media",
+  "texto": "**Norma principal: Ley N° 2027, Estatuto del Funcionario Público, del 27 de octubre de 1999.** Fue promulgada durante el gobierno de Hugo Banzer. Según NATLEX, regula la relación del Estado con los servidores públicos, garantiza el desarrollo de la carrera administrativa y asegura la dignidad, transparencia, eficacia y vocación de servicio de los funcionarios. Crea un régimen laboral propio y separado del general: los derechos que reconoce a los servidores públicos excluyen otros derechos establecidos en la Ley General del Trabajo.\n\n**Por qué la elijo.** Es la única norma laboral de 1999 que establece un régimen laboral completo, y figura tanto en la Gaceta Oficial como en NATLEX con fecha 1999-10-27. Las demás normas del año que encontré son decretos puntuales:\n\n- **DS 25421 (11 de junio de 1999):** busca armonizar la legislación nacional con la letra y espíritu de los convenios firmados con la OIT, y declara que queda terminantemente prohibido cualquier acto de discriminación antisindical contra los trabajadores.\n- **DS 25489 (13 de agosto de 1999):** cambio administrativo. Deroga el DS 08678 y asigna las multas por infracción a las leyes sociales al Ministerio de Trabajo y Microempresa.\n- **DS 25340 (31 de marzo de 1999):** Reglamento de la jornada de horario continuo. No revisé su texto.\n\n**Advertencias para la base:**\n\n1. **Solo cubre al sector público.** La Ley 2027 no modifica el régimen privado de la Ley General del Trabajo. Si la base supone una reforma del mercado laboral privado, en 1999 no la hubo. Una fuente secundaria señala que en 1998, en consonancia con el FMI, el gobierno intentó aprobar una reforma flexibilizadora, pero no encontré que se aprobara. Por esta ambigüedad asigno confianza media y no alta, aunque la norma consta en fuentes oficiales y de la OIT.\n2. **Discrepancia de fecha.** Lexivox la data el 22 de octubre de 1999, pero la Gaceta Oficial y NATLEX indican el 27 de octubre. Se debe usar la fecha oficial.\n3. **Vigencia diferida.** La ley entra en vigencia plena tiempo después de su publicación, aunque toda nueva incorporación de personal en las entidades públicas debe sujetarse al Estatuto desde el inicio. Además, su reglamento (DS 25749) es de 2000 según NATLEX. Esto será relevante para `vigencia_escalonada` en la siguiente etapa.\n\nNORMA: Ley N° 2027 de 27 de octubre de 1999 (Estatuto del Funcionario Público)\nOTRAS: Decreto Supremo N° 25421 de 11 de junio de 1999; Decreto Supremo N° 25489 de 13 de agosto de 1999; Decreto Supremo N° 25340 de 31 de marzo de 1999\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-25421.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 25421, 11 de junio de 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-2027.html",
+      "titulo": "Bolivia: Ley del Estatuto del Funcionario Público, 22 de octubre de 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.planificacion.gob.bo/uploads/marco-legal/Ley%20N%C2%B0%202027%20ESTATUTO%20DEL%20FUNCIONARIO%20PUBLICO.pdf",
+      "titulo": "Ley N° 2027 ESTATUTO DEL FUNCIONARIO PUBLICO.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-224.html",
+      "titulo": "Bolivia: Reglamento de la Ley General del Trabajo, DS Nº 224, 23 de agosto de 1943",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=55834",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Ley núm. 2027, del 27 octubre 1999, Ley del estatuto del funcionario público.",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/defensa-derecho-trabajo-frente-705673177",
+      "titulo": "Defensa del derecho del trabajo frente a las reformas pro empresariales - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-25489.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 25489, 13 de agosto de 1999",
+      "citada": false
+    },
+    {
+      "url": "https://www.udape.gob.bo/wp-content/uploads/2026/03/Empleo-y-Legislacion-laboral-en-Bolivia.pdf",
+      "titulo": "EMPLEO Y LEGISLACIÓN LABORAL EN BOLIVIA Noviembre 2024 La Paz - Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.uptc.edu.co/index.php/derecho_realidad/article/download/5091/4126/11135",
+      "titulo": "113 Estabilidad laboral vs. libre rescisión laboral",
+      "citada": false
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/26204",
+      "titulo": "http://www.gacetaoficialdebolivia.gob.bo/normas/ve...",
+      "citada": false
+    },
+    {
+      "url": "https://siip.produccion.gob.bo/repSIIP2/files/normativa_12345_30082021fe06.pdf",
+      "titulo": "DECRETO SUPREMO N° 4570 LUIS ALBERTO ARCE CATACORA",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/decreto-supremo-28699-disposicion-874368901",
+      "titulo": "Decreto Supremo 28699. Disposicion Reglamentaria a la Ley General del Trabajo - vLex Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=25013",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Ley general del trabajo y decreto reglamentario [texto actualizado y concordado]",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.ch/dyn/natlex/natlex4.detail?p_lang=en&p_isn=73642&p_count=97954&p_classification=12&p_classcount=4249",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 28699 por el que se establece una disposición reglamentaria a la Ley General del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/docs/WEBTEXT/46218/65057/",
+      "titulo": "Bolivia.-Ley General del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=83730",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 496 que complementa el Decreto Supremo núm. 0012 por el que se reglamentan las condiciones de inamovilidad laboral de la madre y padre progenitores que trabajen en el sector público o privado.",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=46218",
+      "titulo": "Bolivia (Plurinational State of - Decreto Supremo de 24 de mayo de 1939 elevado a ley el 8 de diciembre de 1942 por el que se dicta la Ley General del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-25350.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 25350, 8 de abril de 1999",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-25367.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 25367, 28 de abril de 1999",
+      "citada": false
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/buscarg/ley%20general%20del%20trabajo",
+      "titulo": "Ley General del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.derechoteca.com/gacetabolivia/ley-2027-del-27-octubre-1999",
+      "titulo": "Bolivia: Ley No 2027 del 27 Octubre 1999 - D-Lex Bolivia - Gaceta Oficial de Bolivia - Legislación - Derechoteca",
+      "citada": false
+    },
+    {
+      "url": "https://economiayfinanzas.gob.bo/index.php/node/6008",
+      "titulo": "Ley N° 2027 Del estatuto del Funcionario Público del 27 de octubre de 1999",
+      "citada": false
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/15329",
+      "titulo": "Law No. 2027 of October 27, 1999, relating to Statute on Public Officials, Bolivia (Plurinational State of), WIPO Lex",
+      "citada": false
+    },
+    {
+      "url": "https://ilo.org/dyn/natlex/natlex4.detail?p_count=211&p_country=BOL&p_isn=74882&p_lang=es",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 25749 del 20 de abril de 2000 por el que se dicta el Reglamento al Estatuto del Funcionario Público, dictado por la Ley núm. 2027.",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/666/estatuto-del-funcionario-p%C3%BAblico-2027",
+      "titulo": "Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/buscar/ley%202027",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteidh.or.cr/tablas/18613.pdf",
+      "titulo": "Proyectos de Reforma a la Ley General de Trabajo y ...",
+      "citada": false
+    },
+    {
+      "url": "https://emba.com.bo/la-necesaria-modernizacion-del-derecho-laboral-en-bolivia/",
+      "titulo": "La Necesaria Modernización del Derecho Laboral en Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/403/40344216003.pdf",
+      "titulo": "Bolivia: las paradojas de la política de regulación laboral ...",
+      "citada": false
+    },
+    {
+      "url": "https://um.dk/media/ftlbsmwm/employment-intensive-growth-challenges-and-prospects-in-bolivia.pdf",
+      "titulo": "i Regulación laboral y mercado de trabajo: principales desafíos para Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://lexlatin.com/opinion/normativa-laboral-bolivia-desafio-gobierno",
+      "titulo": "LexLatin",
+      "citada": false
+    },
+    {
+      "url": "https://boliviacomunista.com/por-un-cdigo-del-trabajo-que-fortalezca-a-la-clase-trabajadora/",
+      "titulo": "Por un Código del Trabajo que fortalezca a la clase trabajadora",
+      "citada": false
+    }
+  ]
+}

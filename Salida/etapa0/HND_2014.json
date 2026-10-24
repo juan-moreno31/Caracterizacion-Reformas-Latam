@@ -1,0 +1,206 @@
+{
+  "id": "HND_2014",
+  "iso": "HND",
+  "pais": "Honduras",
+  "anio": 2014,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.2142,
+  "incompleto": false,
+  "norma_propuesta": "Decreto Legislativo No. 354-2013, Ley de Empleo por Hora (aprobado el 20 de enero de 2014; publicado en La Gaceta núm. 33,393 el 31 de marzo de 2014)",
+  "otras": "Decreto Legislativo No. 357-2013, Ley del INJUPEMP (publicada el 5 de abril de 2014); Decreto Legislativo No. 130-2014, reforma a la Ley del INJUPEMP; Decreto 75-2014, sobre feriados (sin fuente oficial)",
+  "confianza": "alta",
+  "texto": "**Identificación: HND 2014**\n\nLa reforma laboral principal es la **Ley de Empleo por Hora (Decreto Legislativo No. 354-2013)**. Convirtió en ley permanente un programa de emergencia anterior. El texto oficial aparece en La Gaceta del lunes 31 de marzo de 2014, núm. 33,393, y fue dado en el Salón de Sesiones del Congreso Nacional a los veinte días del mes de enero de dos mil catorce. Se declara que busca fomentar el empleo digno, mantener los puestos de trabajo y evitar el crecimiento de los índices de desempleo y subempleo en el país. Además, institucionalizó el modelo experimental planteado en el Programa Nacional de Empleo por Hora surgido en el 2010 bajo la figura de \"emergencia nacional\", es decir, el Decreto 230-2010. Sus críticos la describen como empleo temporal por horas y como un retroceso en derechos laborales.\n\n**Por qué esta norma**\n- Es la norma de mayor alcance sobre el mercado laboral privado en 2014.\n- Aparece en fuente oficial: La Gaceta, publicada en el sitio de la Secretaría de Trabajo y en el del Tribunal Superior de Cuentas.\n- Aunque el número termina en \"2013\", se aprobó en enero de 2014 y se publicó en marzo de 2014. Por eso el año de la base coincide con su expedición y vigencia. La ley dispone que entrará en vigencia a partir del día de su publicación en el Diario Oficial \"La Gaceta\". Este desfase entre número y año debe ir en `notas`.\n\n**Otras candidatas y por qué no las elijo**\n- **Decreto No. 357-2013, nueva Ley del INJUPEMP.** También se aprobó el 20 de enero de 2014 y se publicó en La Gaceta núm. 33,398 del 5 de abril de 2014. Es una reforma de pensiones solo para el sector público, con un alcance más limitado, por lo que va en `normas_relacionadas`. Luego fue reformada mediante Decreto Legislativo No.130-2014 del 4 de diciembre.\n- **Decreto 75-2014, sobre feriados.** Una fuente secundaria indica que movió los feriados de octubre a la última semana de ese mes. Es un cambio menor y la fuente no es oficial.\n\n**Para etapas posteriores**\n- **Estado de vigencia.** La ley fue derogada por el Decreto Legislativo No. 38-2022, que derogó el Decreto 354-2013, publicado el 28 de abril de 2022 en La Gaceta. Según la prensa, la ley dejó de aplicarse a partir del 27 de junio de 2022. Por tanto, el estado probable es `modificada_o_derogada_despues`: hubo tratamiento real entre 2014 y 2022.\n- **Inconsistencias en fuentes secundarias.** Una nota de prensa cita la ley como \"Decreto 324-2013\"; considero que es un error, porque el texto oficial dice 354-2013. Las fuentes también difieren sobre la fecha de publicación del decreto derogatorio (8 o 28 de abril de 2022).\n- **NATLEX.** No verifiqué una ficha de esta ley en NATLEX de la OIT.\n\nNORMA: Decreto Legislativo No. 354-2013, Ley de Empleo por Hora (aprobado el 20 de enero de 2014; publicado en La Gaceta núm. 33,393 el 31 de marzo de 2014)\nOTRAS: Decreto Legislativo No. 357-2013, Ley del INJUPEMP (publicada el 5 de abril de 2014); Decreto Legislativo No. 130-2014, reforma a la Ley del INJUPEMP; Decreto 75-2014, sobre feriados (sin fuente oficial)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.tsc.gob.hn/web/leyes/Ley_empleo_porHora_2014.pdf",
+      "titulo": "DIARIO OFICIAL DE LA REPUBLICA DE HONDURAS",
+      "citada": true
+    },
+    {
+      "url": "https://derechosdelamujer.org/wp-content/uploads/2016/02/Empleo-temporal-por-horas-y-los-derechos-humanos-laborales.pdf",
+      "titulo": "Monitoreo y los derechos humanos laborales y los derechos humanos laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gob.hn/wp-content/uploads/2016/07/Gaceta-33393-Decreto-No.-354-2013-Ley-de-Empleo-por-Hora.pdf",
+      "titulo": "Gaceta-33393-Decreto-No.-354-2013-Ley-de-Empleo-por- ...",
+      "citada": true
+    },
+    {
+      "url": "https://leyes.hn/prestaciones-laborales",
+      "titulo": "Employment benefits and dismissal in Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://blogs.unah.edu.hn/presencia-universitaria/regulacion-del-empleo-por-hora-en-honduras-historia-legislativa-derogacion-y-nuevos-intentos-de-regulacion",
+      "titulo": "Regulación del empleo por hora en Honduras: historia legislativa, derogación y nuevos intentos de regulación - Blogs UNAH",
+      "citada": true
+    },
+    {
+      "url": "https://www.rcv.hn/2022/05/03/gaceta-publica-derogacion-de-la-ley-de-empleo-por-hora/",
+      "titulo": "Gaceta publica derogación de la Ley de Empleo por Hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.ccit.hn/single-post/derogaci%C3%B3n-de-la-ley-de-empleo-por-hora",
+      "titulo": "Derogación de la Ley de Empleo por hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.injupemp.gob.hn/wp-content/uploads/2024/06/Reformas-a-la-Ley-Decreto-No.-115-2021.pdf",
+      "titulo": "Reformas-a-la-Ley-Decreto-No.-115-2021.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/ley-de-empleo-parcial-queda-oficializada-publicacion-diario-gaceta-FB29937255",
+      "titulo": "Ley de Empleo Parcial queda oficializada con su publicación en La Gaceta",
+      "citada": false
+    },
+    {
+      "url": "https://tiempo.hn/honduras/2026/03/30/publican-la-gaceta-ley-empleo-parcial-honduras/",
+      "titulo": "Ya es una realidad: publican en La Gaceta la Ley de Empleo Parcial",
+      "citada": false
+    },
+    {
+      "url": "https://www.laprensa.hn/honduras/honduras-ley-empleo-tiempo-parcial-jornadas-derechos-MB29938444",
+      "titulo": "Ley de empleo parcial entra en vigor en Honduras: aquí completa",
+      "citada": false
+    },
+    {
+      "url": "https://portalunico.iaip.gob.hn/ver_archivo/MTM1ODg5",
+      "titulo": "La Gaceta - PORTAL ÚNICO DE TRANSPARENCIA",
+      "citada": false
+    },
+    {
+      "url": "https://www.elpais.hn/publican-en-la-gaceta-la-ley-de-empleo-a-tiempo-parcial-en-honduras/",
+      "titulo": "Publican en La Gaceta la Ley de Empleo a Tiempo Parcial en Honduras -",
+      "citada": false
+    },
+    {
+      "url": "https://www.revistaeyn.com/centroamericaymundo/honduras-ley-de-empleo-a-tiempo-parcial-esto-debe-saber-EG29944653",
+      "titulo": "Honduras: Ley de empleo a tiempo parcial, esto debe saber",
+      "citada": false
+    },
+    {
+      "url": "https://hch.tv/es-oficial-publicada-en-la-gaceta-la-ley-de-empleo-parcial/",
+      "titulo": "¡Es oficial! Publicada en La Gaceta la Ley de Empleo Parcial » HCH",
+      "citada": false
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/ley-empleo-hora-tiempo-parcial-honduras-preguntas-respuestas-IG29940448",
+      "titulo": "Todo lo que debe saber sobre la nueva Ley de Empleo a Tiempo Parcial (por hora)",
+      "citada": false
+    },
+    {
+      "url": "http://wcmstraining2.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=29076",
+      "titulo": "Honduras - Decreto núm. 189, que promulga el Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=29076",
+      "titulo": "NATLEX - Honduras - Decreto núm. 189, que promulga el Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/hon218845.pdf",
+      "titulo": "1 DIARIO OFICIAL DE LA RE PUBLICA DE HONDURA S~ u ~~lego4~=i'i , m , ::le\"ICIO",
+      "citada": false
+    },
+    {
+      "url": "https://leyes.hn/gaceta/37196",
+      "titulo": "Edition No. 37,196 - La Gaceta - Leyes de Honduras",
+      "citada": false
+    },
+    {
+      "url": "https://www.elindependiente.sv/2022/04/28/derogacion-de-ley-en-honduras-devuelve-derecho-a-trabajadores/",
+      "titulo": "Derogación de ley en Honduras devuelve derecho a trabajadores",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/biblioteca/index.php/codigos/607-codigo-de-trabajo",
+      "titulo": "Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/congreso-aprueba-derogacion-ley-de-empleo-por-hora-honduras-AF7896552",
+      "titulo": "Congreso deroga la Ley de Empleo por Hora en Honduras",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=7b6f10e1-8d31-48f7-acc2-8dd79d73be23",
+      "titulo": "Derogación Ley de Empleo por Hora - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://www.eldiariodehonduras.hn/index.php/tech/3519-congreso-nacional-aprueba-derogacion-de-la-ley-de-empleo-por-hora",
+      "titulo": "Congreso Nacional aprueba derogación de la ley de empleo por hora.",
+      "citada": false
+    },
+    {
+      "url": "https://www.tercerainformacion.es/articulo/internacional/29/04/2022/honduras-deroga-ley-de-empleo-por-hora/",
+      "titulo": "Honduras deroga Ley de Empleo por Hora - Tercera Información",
+      "citada": false
+    },
+    {
+      "url": "https://a3.latribuna.hn/2022/04/30/publicado-en-la-gaceta-decreto-que-derogo-ley-de-empleo-por-hora/",
+      "titulo": "Publicado en La Gaceta decreto que derogó Ley de Empleo por Hora",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/noticias-y-reformas-laborales/ley-de-empleo-por-hora-en-honduras/",
+      "titulo": "Ley de Empleo por Hora en Honduras:Derogación, Derechos",
+      "citada": false
+    },
+    {
+      "url": "https://latinalliance.co/en/2022/05/13/derogacion-ley-de-empleo-por-hora-honduras/",
+      "titulo": "Derogación Ley de Empleo por Hora - Honduras",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/biblioteca/index.php/leyes/552-ley-de-el-instituto-de-jubilaciones-y-pensiones-de-los-empleados-y-funcionarios-del-poder-ejecutivo-injupemp",
+      "titulo": "Ley de El Instituto de Jubilaciones y Pensiones de los Empleados y Funcionarios del Poder Ejecutivo (INJUPEMP)",
+      "citada": false
+    },
+    {
+      "url": "https://grupoipm.hn/mis_medios/2020/02/LEY-DEL-INJUPEMP-2014.pdf",
+      "titulo": "LEY-DEL-INJUPEMP-2014.pdf - IPM",
+      "citada": false
+    },
+    {
+      "url": "https://fliphtml5.com/naeqo/kbnc/Nueva_Ley_de_INJUPEMP_2014/1/",
+      "titulo": "Nueva_Ley_de_INJUPEMP_2014 (Page 1) - Flipbook by Injupemp Honduras",
+      "citada": false
+    },
+    {
+      "url": "https://tzibalnaah.unah.edu.hn/handle/123456789/233",
+      "titulo": "La Gaceta Diario Oficial de la República de Honduras (No.33398)",
+      "citada": false
+    },
+    {
+      "url": "https://paradigma.hn/el-cn-aprueba-reforma-al-injupemp-para-empleados-publicos-en-suspenso/",
+      "titulo": "El CN aprueba reforma al INJUPEMP para empleados públicos en suspenso - Diario Paradigma",
+      "citada": false
+    },
+    {
+      "url": "https://www.laprensa.hn/economia/nuevas-reglas-para-los-jubilados-OCLP708633",
+      "titulo": "Nuevas reglas para los jubilados",
+      "citada": false
+    },
+    {
+      "url": "https://hn.vlex.com/vid/diario-oficial-republica-honduras-1076333718",
+      "titulo": "Diario Oficial de la República de Honduras del 29 de Marzo de 2025 - Sección B - vLex Honduras",
+      "citada": false
+    },
+    {
+      "url": "https://grupoipm.hn/leyes/",
+      "titulo": "Leyes - IPM",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/web/leyes/Reglamento_de_Prestamos_Injupemp.pdf",
+      "titulo": "1 La Gaceta B. Sección B Avisos Legales",
+      "citada": false
+    }
+  ]
+}

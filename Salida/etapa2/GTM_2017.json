@@ -1,0 +1,119 @@
+{
+  "id": "GTM_2017",
+  "iso": "GTM",
+  "pais": "Guatemala",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0483,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Decreto 7-2017 del Congreso de la República de Guatemala (Reformas al Decreto 1441, Código de Trabajo)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Acuerdo Ministerial 285-2017 del Ministerio de Trabajo y Previsión Social (instructivo para la imposición de sanciones administrativas por la Inspección General de Trabajo; publicado el 2018-01-18)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2017-06-06",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según sus considerandos, que invocan los Convenios 81 y 129 de la OIT, el decreto busca dotar a la Inspección General de Trabajo de un sistema eficiente de aplicación de sanciones que contribuya a generar una cultura de cumplimiento, con criterios unificados y equitativos que eviten la discrecionalidad y con ética, transparencia y probidad. El Ministerio de Trabajo añadió ante la ONU el propósito de sancionar a todo infractor de la ley laboral (patronos, trabajadores y organizaciones sindicales) y de buscar mecanismos para restituir los derechos vulnerados.",
+    "descripcion_intenciones": "La reforma restablece la facultad sancionatoria administrativa de la Inspección General de Trabajo, atribuyéndola al Delegado Departamental, que debe ser abogado colegiado activo, y crea un procedimiento sancionatorio con recurso de revocatoria y control posterior de los juzgados de trabajo en la vía contencioso-administrativa. Otorga al Ministerio acción directa frente a faltas contra las leyes de trabajo y previsión social y crea incentivos de cumplimiento: registro de sancionados, destino de las multas como fondos privativos de la Inspección, exclusión de beneficios fiscales y de la contratación estatal para empresas con sanciones pendientes y reducción de la multa si se corrige la falta. Además faculta a los inspectores para paralizar trabajos ante riesgo grave o inminente. No modifica el contenido sustantivo de las normas sobre contratación, despido, jornada o salarios, sino los mecanismos para hacerlas cumplir.",
+    "dimensiones": [
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la reforma: devuelve a la Inspección General de Trabajo la potestad de imponer sanciones mediante un procedimiento administrativo propio, con acción directa del Ministerio e incentivos de cumplimiento como el registro de sancionados y la exclusión de beneficios fiscales y contratación estatal."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Seguridad y salud ocupacional: los inspectores pueden ordenar la paralización o prohibición inmediata de trabajos ante riesgo grave o inminente y exigir modificaciones en instalaciones o métodos de trabajo."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Efecto secundario y tentativo: las organizaciones sindicales y sus representantes pueden ser sancionados solidariamente por obstruir la inspección, mientras los trabajadores pueden hacerse representar por dirigentes sindicales durante ella."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "El decreto reforma el Decreto 1441 (Código de Trabajo) y se aprobó durante el procedimiento por la queja presentada en 2012 contra Guatemala bajo el artículo 26 de la Constitución de la OIT por incumplimiento del Convenio 87; ante el Consejo de Administración el Gobierno destacó los proyectos para devolver la capacidad sancionatoria a la Inspección. Según Prensa Libre, esa facultad había sido recomendada reiteradamente por la OIT y por la Oficina del Representante Comercial de Estados Unidos (USTR). La iniciativa se remitió al Congreso en noviembre de 2016 (Registro 5198). El Consejo de Administración cerró la queja en noviembre de 2018, pero instó a adoptar reformas acordes con la Hoja de Ruta, centrada en la libertad sindical, por lo que el decreto no parece haberse considerado suficiente en ese ámbito. El vínculo con el arbitraje del CAFTA-DR no se verificó (sin fuente) y el contexto económico no se investigó.",
+    "notas": "Orientación: se codifica como protectora por su claro sesgo pro-cumplimiento; la categoría administrativa sería una alternativa defendible, dado que los cambios son procesales e institucionales. Revierte reforma previa: no en sentido estricto; el decreto restablece una facultad sancionatoria que la Corte de Constitucionalidad había anulado mediante sentencia del 3 de agosto de 2004 (expedientes 898-2001 y 1014-2001, según una tesis de la USAC); la norma anulada no se verificó. Fecha de vigencia: el artículo de vigencia del PDF oficial no pudo leerse directamente; el 2017-06-06 se sustenta en el Acuerdo Ministerial 285-2017 y en Prensa Libre (nota del 2017-06-05); el informe también cita a Lexology, que no figura en la lista de fuentes consultadas. El informe del Ministerio a la ONU, que menciona vigencia inmediata, parece confundir publicación con vigencia. El año de la base coincide con el de expedición y vigencia. El Acuerdo Ministerial 285-2017 es una norma de aplicación publicada en enero de 2018, no una vigencia diferida; su contenido completo no se verificó. Estado de vigencia: vigente con confianza media; no se encontraron acciones de inconstitucionalidad ni normas modificatorias, aunque la búsqueda en la Corte de Constitucionalidad fue limitada. Una tesis de la USAC cuestiona que la potestad sancionatoria corresponda a la vía administrativa y no a los Tribunales de Trabajo y Previsión Social. Hay indicios de aplicación: el instructivo ministerial y la Circular 45-2017 de la Inspección General. No se halló valoración directa del decreto por los órganos de control de la OIT."
+  },
+  "fuentes": [
+    {
+      "url": "http://www.repositorio.usac.edu.gt/10304/1/Tesis%20Juan%20Miguel%20Rodas%20Pineda.pdf",
+      "titulo": "UNIVERSIDAD DE SAN CARLOS DE GUATEMALA CENTRO UNIVERSITARIO DE SUROCCIDENTE",
+      "citada": true
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2017/07-2017.pdf",
+      "titulo": "decreto número 7-2017",
+      "citada": true
+    },
+    {
+      "url": "https://leyesdeguatemala.wordpress.com/wp-content/uploads/2017/07/decreto-7-2017-guatemala.pdf",
+      "titulo": "decreto-7-2017-guatemala.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/Registro5198.pdf",
+      "titulo": "CONGRESO DE LA REPUBLICA GUATEMALA, C. A. DIRECCIÓN LEGISLATIVA",
+      "citada": true
+    },
+    {
+      "url": "http://www.defensoriadeltrabajador.com/2017/08/decreto-7-2017-reformas-al-codigo-de.html",
+      "titulo": "Decreto 7-2017 Reformas al Código de Trabajo de Guatemala ~ Asesoría Laboral en Guatemala - Capacitación Laboral - Abogado Laboralista",
+      "citada": true
+    },
+    {
+      "url": "https://gt.vlex.com/vid/acuerdo-ministerial-no-285-701186845",
+      "titulo": "Acuerdo Ministerial No. 285-2017.- El instructivo para la imposición de sanciones administrativas por medio de la Inspección General de Trabajo por la Comisión de Faltas de Trabajo y Previsión Social - vLex Guatemala - vLex",
+      "citada": true
+    },
+    {
+      "url": "http://bvs.gt/eblueinfo/ML/ML_027.pdf",
+      "titulo": "1 EL CONGRESO DE LA REPÚBLICA DE GUATEMALA CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadFile?gId=35889",
+      "titulo": "información del ministerio de trabajo y previsión social del ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/media/207316/download",
+      "titulo": "Consejo de Administración",
+      "citada": true
+    },
+    {
+      "url": "https://radiotgw.gob.gt/el-consejo-de-administracion-de-la-organizacion-internacional-del-trabajo-oit-cierra-queja-contra-guatemala/",
+      "titulo": "El Consejo de Administración de la Organización Internacional del Trabajo (OIT) cierra queja contra Guatemala",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/media/192356/download",
+      "titulo": "Queja relativa al incumplimiento por Guatemala del ...",
+      "citada": true
+    },
+    {
+      "url": "https://leyes.infile.com/index.php?id=182&id_publicacion=75879",
+      "titulo": "Leyes de Guatemala",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensalibre.com/economia/inspectores-de-trabajo-podran-emitir-sanciones/",
+      "titulo": "¡Cuídese de las inspecciones laborales!",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/media/453161/download",
+      "titulo": "Sanciones de la Inspección del Trabajo: Legislación y ...",
+      "citada": true
+    }
+  ]
+}

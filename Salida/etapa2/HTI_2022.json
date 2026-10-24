@@ -1,0 +1,107 @@
+{
+  "id": "HTI_2022",
+  "iso": "HTI",
+  "pais": "Haití",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0421,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Arrêté du 21 février 2022 fixant le salaire minimum (Le Moniteur, Numéro spécial n° 5, 21 de febrero de 2022)",
+    "tipo_instrumento": "decreto",
+    "normas_relacionadas": [],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2022-02-21",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según el Ejecutivo, ajustar los salarios mínimos de los distintos segmentos de actividad para que reflejen la realidad del costo de vida y la dinámica social del sector industrial y comercial (declaraciones del Primer Ministro Ariel Henry y comunicado oficial del Gobierno). No se localizaron los considerandos de la norma.",
+    "descripcion_intenciones": "La norma revisa al alza los salarios mínimos de referencia de todos los segmentos de actividad, incluidos el servicio doméstico y las industrias de ensamblaje y manufactura orientadas a la exportación. El Consejo de Ministros partió de las propuestas del Consejo Superior de Salarios (CSS) y las ajustó al alza, con un resultado superior a la recomendación del órgano tripartito, aunque inferior a la demanda sindical. Se trata de un instrumento unilateral del Ejecutivo, adoptado tras una fuerte movilización obrera en la subcontratación textil. Es un ajuste periódico dentro del marco legal vigente y no supone un cambio estructural de las instituciones laborales.",
+    "dimensiones": [
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Eleva los salarios mínimos de todos los segmentos por encima de lo propuesto por el CSS. No hubo negociación colectiva propiamente dicha: la fijación fue una decisión del Ejecutivo tras reuniones con los sindicatos."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La norma se adoptó en el marco de la ley del 10 de septiembre de 2009 sobre el salario mínimo y sustituye la escala de 2019, basada en el informe del CSS de 26 de octubre de 2019, en la misma dirección. Entre enero y febrero de 2022 hubo una amplia movilización de los obreros de la subcontratación textil, iniciada en el Nordeste y extendida a Puerto Príncipe, que exigía aumentos salariales y beneficios sociales. El Gobierno del Primer Ministro Ariel Henry, descrito por la prensa como 'gouvernement de facto', decidió el ajuste en Consejo de Ministros el 20 de febrero de 2022. Un medio cuestionó su habilitación legal para hacerlo, sin respaldo de una fuente jurídica. Los sindicatos rechazaron la decisión. Las protestas posteriores fueron reprimidas, con víctimas entre los periodistas, y hubo testimonios de despidos de obreros movilizados.",
+    "notas": "Confianza 'alta' porque la norma aparece en fuente oficial: la ficha de Le Moniteur alojada en fscluster.org y el comunicado del Gobierno en communication.gouv.ht. Sin embargo, no se leyó el articulado completo ni se verificó su registro en NATLEX; el informe de investigación proponía 'media' por esa razón. Tipo 'decreto' porque es un arrêté ejecutivo adoptado en Consejo de Ministros, sin Parlamento en funciones; esto último no tiene fuente verificada. Fue publicada y entró en vigor el 21 de febrero de 2022, de modo que el año de la base coincide con el de expedición. No se identificó aplicación escalonada, con la salvedad de que no se leyó el texto completo. Fue sustituida por el arrêté de mayo de 2026 (Le Moniteur, número especial 21), vigente desde el 6 de mayo de 2026, que deroga las disposiciones anteriores contrarias. No se encontraron fallos judiciales. El servicio doméstico, mayoritariamente informal, está cubierto por un segmento propio, por lo que podría añadirse 'informales'. Se omitió por falta de evidencia sobre mecanismos de cumplimiento en ese sector (sin fuente). El predominio de trabajadoras en la maquila y en el trabajo doméstico es un efecto de hecho, no un componente de género explícito. No se verificaron disposiciones sobre salario a destajo, sanciones o inspección, ni la existencia de un segmento D. Advertencia metodológica: es un ajuste periódico del salario mínimo sin cambio estructural, lo que puede limitar su comparabilidad con reformas de códigos del trabajo como variable de tratamiento."
+  },
+  "fuentes": [
+    {
+      "url": "https://fscluster.org/haiti/document/le-moniteur-arrete-fixant-le-salaire",
+      "titulo": "Le moniteur, Arrêté fixant le salaire minimum, février 2022",
+      "citada": true
+    },
+    {
+      "url": "https://devhaitimagazine.com/haiti-revise-le-salaire-minimum-pour-les-differents-segments-dactivites/",
+      "titulo": "Haïti révise le salaire minimum pour les différents segments d’activités - DevHaiti Magazine",
+      "citada": true
+    },
+    {
+      "url": "https://www.haitilibre.com/article-36009-haiti-flash-salaires-minimum-le-gouvernement-reajuste-a-la-hausse-version-finale-officiel.html",
+      "titulo": "Haïti - FLASH : Salaires minimum le Gouvernement réajuste à la hausse, version finale (Officiel) - HaitiLibre.com : Toutes les nouvelles d’Haiti 7/7",
+      "citada": true
+    },
+    {
+      "url": "https://www.gazettehaiti.com/index.php/node/6193",
+      "titulo": "Salaire minimum : des milliers d'ouvriers de nouveau dans les rues /Bob C pris pour cible",
+      "citada": true
+    },
+    {
+      "url": "https://www.pressegauche.org/Haiti-enjeux-et-defis-des-luttes-ouvrieres-dans-l-industrie-textile",
+      "titulo": "Haïti : enjeux et défis des luttes ouvrières dans l’industrie textile - Presse-toi à gauche ! Une tribune libre pour la gauche québécoise en marche",
+      "citada": true
+    },
+    {
+      "url": "https://combat-ouvrier.com/2022/02/24/co-n1280-26-fevrier-2022-haiti-une-lutte-reussie-pour-les-salaires/",
+      "titulo": "CO N°1280 (26 février 2022)",
+      "citada": true
+    },
+    {
+      "url": "https://www.gazettehaiti.com/index.php/node/6166",
+      "titulo": "Salaire minimum : les ouvriers lancent un ultimatum de deux jours au gouvernement pour satisfaire leur revendication",
+      "citada": true
+    },
+    {
+      "url": "https://lequotidien509.com/haiti-publie-les-nouveaux-salaires-minimums-applicables-des-le-6-mai-2026/",
+      "titulo": "Haïti publie les nouveaux salaires minimums applicables dès le 6 mai 2026",
+      "citada": true
+    },
+    {
+      "url": "https://www.haitilibre.com/en/news-47534-flash-new-minimum-wages-in-haiti-for-all-sectors-of-activity-official-2026.html",
+      "titulo": "FLASH : New minimum wages in Haiti for all sectors of activity (official 2026) - HaitiLibre.com : Haiti news 7/7",
+      "citada": true
+    },
+    {
+      "url": "https://communication.gouv.ht/in/fixation-du-salaire-minimum-par-le-gouvernement-de-la-republique-pour-les-differents-segments-dactivites/",
+      "titulo": "Fixation du salaire minimum par le gouvernement de la République pour les différents segments d’activités - Gouvernement de la République d'Haïti",
+      "citada": true
+    },
+    {
+      "url": "https://community.haitibeat.com/comprendre-le-debat-sur-le-salaire-minimum-des-ouvriers-hb-news/",
+      "titulo": "Comprendre le débat sur le salaire minimum des ouvriers",
+      "citada": true
+    },
+    {
+      "url": "https://www.alterpresse.org/Sous-traitance-2-nouvelles-journees-de-mobilisation-ouvriere-les-1er-et-2-mai",
+      "titulo": "Sous-traitance : 2 nouvelles journées de mobilisation ouvrière, les 1er et 2 mai 2022, pour exiger 1,500 gourdes de salaire minimum journalier en Haïti",
+      "citada": true
+    },
+    {
+      "url": "https://kapzynews.com/salaire-minimum-les-syndicalistes-ont-rencontre-le-premier-ministre-ariel-henry/",
+      "titulo": "Salaire minimum: les syndicalistes ont rencontré le premier ministre Ariel Henry - KAPZY NEWS",
+      "citada": true
+    },
+    {
+      "url": "https://www.haitilibre.com/article-47451-flash-hausse-de-46-du-salaire-minimum-de-la-sous-traitance-en-haiti.html",
+      "titulo": "FLASH : Hausse de 46% du salaire minimum de la sous traitance en Haïti - HaitiLibre.com : Toutes les nouvelles d’Haiti 7/7",
+      "citada": true
+    }
+  ]
+}

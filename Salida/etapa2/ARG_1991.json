@@ -1,0 +1,186 @@
+{
+  "id": "ARG_1991",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0503,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 24.013 (Ley Nacional de Empleo)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto 2725/91",
+      "Decreto 2726/91",
+      "Decreto 2565/91",
+      "Decreto 1334/91",
+      "Decreto 2284/91"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "1991-12-26",
+    "vigencia_escalonada": true,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "Según el artículo 2 de la ley: promover la creación de empleo productivo, fomentar oportunidades de empleo para los grupos con mayores dificultades de inserción laboral, organizar un sistema eficaz de protección a los trabajadores desocupados y promover la regularización de las relaciones laborales, desalentando las prácticas evasoras. En el discurso público de la época, las reformas buscaban atenuar la crisis posterior a la hiperinflación y ganar competitividad flexibilizando las relaciones laborales.",
+    "descripcion_intenciones": "La ley introduce modalidades de contratación por tiempo determinado \"promovidas\", con exenciones contributivas e indemnización reducida al vencimiento, condicionadas a su habilitación por convenio colectivo y sujetas a salvaguardas. Reinstala un tope a la base de cálculo de la indemnización por despido mediante la sustitución del artículo 245 de la Ley de Contrato de Trabajo. En sentido protector, sanciona el empleo no registrado con indemnizaciones a favor del trabajador, crea un sistema único de registro laboral y establece un sistema integral de prestaciones por desempleo financiado por el Fondo Nacional del Empleo. También crea el procedimiento preventivo de crisis, el Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil, y diversas políticas activas de empleo.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Crea modalidades promovidas por tiempo determinado (fomento del empleo, lanzamiento de nueva actividad) con exención parcial de contribuciones patronales e indemnización reducida al vencimiento. Incluye salvaguardas: habilitación por convenio colectivo, exigencia de superar el plantel previo, conversión a contrato indeterminado ante sucesión excesiva e igualdad de trato."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "El artículo 153 sustituye el artículo 245 de la Ley de Contrato de Trabajo y reinstala un tope a la base de cálculo de la indemnización por antigüedad, referido a los salarios de convenio. Como contrapeso, crea el procedimiento preventivo de crisis, obligatorio antes de despidos o suspensiones por fuerza mayor o causas económicas o tecnológicas."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Impone indemnizaciones a favor del trabajador no registrado, crea un sistema único de registro laboral y prevé una amnistía transitoria para la registración espontánea. Incluye programas de reconversión de actividades informales que promueven pequeñas empresas, microemprendimientos y cooperativas de trabajo."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece un sistema integral de prestaciones por desempleo financiado por el Fondo Nacional del Empleo, precedido por una prestación por desempleo de carácter transitorio."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea el Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil, órgano tripartito encargado de determinar periódicamente el salario mínimo."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Los contratos de práctica laboral para jóvenes y de trabajo-formación quedan excluidos de la indemnización al vencimiento y de la regla de conversión por contratos sucesivos. Como componente compensatorio, prevé programas para jóvenes desocupados."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Traslada por primera vez a la negociación colectiva la habilitación de contratos flexibles antes vedados por la ley. Restringe la huelga mientras se tramita el procedimiento preventivo de crisis."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Políticas activas de empleo: programas de emergencia ocupacional, formación profesional y una red de servicios de empleo. Para trabajadores con discapacidad se amplían los plazos máximos de las modalidades promovidas."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "informales",
+      "jovenes",
+      "empleadores_mipymes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Primer gobierno de Carlos Menem, tras la hiperinflación de 1989. El proyecto fue presentado por el Poder Ejecutivo a fines de 1989 y aprobado recién en noviembre de 1991, después de la Ley de Convertibilidad de abril de 1991, cuya sostenibilidad se asociaba a la flexibilidad a la baja de las condiciones de trabajo. La CGT se dividió ante esta primera expresión de la nueva política laboral. La ley modifica la Ley de Contrato de Trabajo (sustitución del artículo 245). Según la literatura, por trabas burocráticas y la necesidad de consenso sindical para habilitar las modalidades promovidas, la reforma tuvo escasa incidencia efectiva, y la flexibilización se profundizó con las leyes de 1995.",
+    "notas": "Sanción: 1991-11-13; promulgación parcial: 1991-12-05 (el metadato \"5-11-91\" es un error); publicación: 1991-12-17. La fecha de vigencia 1991-12-26 se toma del Decreto 2726/91; su coincidencia con la regla supletoria del Código Civil se señala sin fuente. Vigencia escalonada: las contribuciones al Fondo Nacional del Empleo eran exigibles desde los sueldos del mes siguiente a la vigencia; las modalidades promovidas requerían habilitación convencional; el seguro de desempleo permanente sucedió a la prestación transitoria; los Decretos 2725/91 y 2726/91 (del 1991-12-26) se publicaron y entraron en vigor el 1992-01-02. Orientación: se codifica como mixta por el peso de los componentes protectores (sanciones al empleo no registrado, seguro de desempleo, procedimiento de crisis); la literatura la lee como flexibilizadora, alternativa defendible si se pondera el tope indemnizatorio. Estado posterior: la Ley 25.013 (1998, vigente desde 1998-10-03) derogó las modalidades promovidas; la Ley 27.742 (B.O. 2024-07-08) derogó los artículos 8 a 17 sobre empleo no registrado según el texto oficial actualizado (parte de la prensa atribuye esa eliminación a la Ley 27.802 de 2026, y un cuadro técnico lo niega para esa ley); la Ley 27.802 (B.O. 2026-03-06) volvió a modificar la ley y el régimen indemnizatorio, sin verificación en texto oficial. El fallo Vizzoti de la CSJN limitó la aplicación del tope del artículo 153 sin anularlo; la fuente del fallo es un estudio jurídico y su fecha (2004) se aporta sin fuente; no cambia la categoría. Revierte: el tope \"se reinstaló\", lo que sugiere un límite previo eliminado por una norma no identificada; no se codifica como contrarreforma. Los Decretos 1334/91 y 2284/91 no fueron verificados en texto oficial. Pendientes: artículos vetados en la promulgación parcial, uso efectivo de las modalidades promovidas y exposición de motivos del Ejecutivo. Algunas fuentes consultadas son blogs o despachos privados de menor jerarquía."
+  },
+  "fuentes": [
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/412/norma.htm",
+      "titulo": "LEY Nº 24.013 - INFOLEG",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24013-412/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 24013 - LEY DE EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/5000-9999/7968/texact.htm",
+      "titulo": "EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://www.barraqueros.org.ar/assets/i_ckfinder/userfiles/files/ley_nacional_de_empleo_24013.pdf",
+      "titulo": "LEY BASICA Ley Nacional de Empleo 24.013 Fecha de Norma: 05/12/1991",
+      "citada": true
+    },
+    {
+      "url": "https://apunty.com/doc/ley-24-013-ley-nacional-de-empleo-pdf-derecho-del",
+      "titulo": "Resumen",
+      "citada": true
+    },
+    {
+      "url": "https://bibliotecalegal1.blogspot.com/2020/08/ley-24013.html",
+      "titulo": "LEY 24.013 - BIBLIOTECA",
+      "citada": true
+    },
+    {
+      "url": "https://webapps.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=26593",
+      "titulo": "NATLEX - Argentina - Ley núm. 24013 - Ley Nacional de Empleo.",
+      "citada": true
+    },
+    {
+      "url": "https://archivo.consejo.org.ar/Bib_elect/septiembre08_CT/documentos/L24013.htm",
+      "titulo": "Ley 24.013",
+      "citada": true
+    },
+    {
+      "url": "https://upcndigital.org/~legislacion/Ley%20Contrato%20de%20Trabajo/1991-Ley%2024013_textact.pdf",
+      "titulo": "Ley Nº 24.013 (texto actualizado)",
+      "citada": true
+    },
+    {
+      "url": "https://www.cronista.com/impresa-general/el-tope-indemnizatorio-y-los-cambios-de-criterios/?outputType=amp-type",
+      "titulo": "El tope indemnizatorio y los cambios de criterios. - El Cronista",
+      "citada": true
+    },
+    {
+      "url": "https://perezmarzo.com.ar/juris-tope-indem",
+      "titulo": "Jurisprudencia - Inconstitucionalidad de tope indemnizatorio",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN24013.pdf",
+      "titulo": "EMPLEO Ley Nº 24.013 Ambito de aplicación, objetivos y ...",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/412/texact.htm",
+      "titulo": "Ley Nº 24013 - INFOLEG",
+      "citada": true
+    },
+    {
+      "url": "https://www.consejosalta.org.ar/wp-content/uploads/INFO.-GRAL.-REFORMA-LABORAL.pdf",
+      "titulo": "Reforma Laboral (Ley 27.802): cuadro comparativo resumido,",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/politica/2026/03/06/reforma-laboral-que-dice-la-reglamentacion-de-la-ley-y-cuales-son-los-principales-cambios-para-el-trabajador/",
+      "titulo": "Reforma laboral: qué dice la reglamentación de la ley y cuáles son los principales cambios para el trabajador - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://www.riadis.org/wp-content/uploads/2020/10/Ley-24013.pdf",
+      "titulo": "EMPLEO Ley Nº 24.013 Ambito de aplicación, objetivos y ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24013-412/actualizacion",
+      "titulo": "Ley 24.013 (Fondo Nacional de Empleo)",
+      "citada": true
+    },
+    {
+      "url": "https://sedici.unlp.edu.ar/bitstream/handle/10915/112360/Documento_completo.10560.pdf-PDFA.pdf?sequence=1",
+      "titulo": "1",
+      "citada": true
+    },
+    {
+      "url": "https://www.unse.edu.ar/trabajoysociedad/34%20COSCIA%20VANESA%20Reformas%20laborales%20de%20los%2090%20en%20Argentina.pdf",
+      "titulo": "Reformas laborales de los '90 en Argentina",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-412/actualizacion",
+      "titulo": "TEXTO ACTUALIZADO - Ley 24013 - LEY DE EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.arca.gob.ar/dcp/DEC_C_002726_1991_12_26",
+      "titulo": "decreto reglamentario de la ley de empleo",
+      "citada": true
+    }
+  ]
+}

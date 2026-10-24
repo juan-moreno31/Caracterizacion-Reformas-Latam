@@ -1,0 +1,126 @@
+{
+  "id": "BOL_2006",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0427,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Decreto Supremo N° 28699 de 1 de mayo de 2006 (Disposición Reglamentaria a la Ley General del Trabajo)",
+    "tipo_instrumento": "decreto",
+    "normas_relacionadas": [
+      "Decreto Supremo N° 28913 de 8 de noviembre de 2006",
+      "Decreto Supremo N° 0495 de 1 de mayo de 2010",
+      "Decreto Supremo N° 0521 de 26 de mayo de 2010"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2006-05-01",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Regular las condiciones sociolaborales que garanticen la continuidad del contrato de trabajo y la estabilidad laboral, exigiendo que toda causa de despido esté justificada, fundamentada y comprobada. Subordina la libertad de contratación del Artículo 13 de la Ley 1182 a la Ley General del Trabajo, en el marco del fin declarado del modelo económico neoliberal.",
+    "descripcion_intenciones": "El decreto busca restablecer la estabilidad laboral eliminando el régimen de libre contratación y libre despido instaurado en 1985. Otorga al trabajador despedido sin causa legal la opción entre cobrar sus beneficios sociales o ser reincorporado con pago de salarios devengados. Confiere al Ministerio de Trabajo una vía administrativa para ordenar la reincorporación y sancionar el incumplimiento. Además, ratifica los principios protectores del derecho laboral y priva de efectos a los contratos civiles o comerciales que encubran una relación laboral.",
+    "dimensiones": [
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Deroga el régimen de libre rescisión y crea la opción de reincorporación ante despidos sin causa legal, con pago de salarios devengados. Impone un plazo para el pago del finiquito con actualización y multa a favor del trabajador."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Faculta al Ministerio de Trabajo para disponer la reincorporación y multar al empleador renuente, y ratifica el principio intervencionista del Estado. Encarga un reglamento de procedimientos simplificados."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Principios y relación laboral encubierta: ratifica los principios protector, de continuidad, de primacía de la realidad y de no discriminación, define los rasgos de la relación laboral y priva de efectos a los contratos que la disfracen."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "Expedido por el gobierno de Evo Morales el Día del Trabajo de 2006. Deroga el Artículo 55 del DS 21060 de 1985 (Nueva Política Económica) y el Artículo 39 del DS 22407 de 1990, que consagraban la libre contratación y el libre despido, y reinterpreta el Artículo 13 de la Ley 1182 de Inversiones subordinándolo a la Ley General del Trabajo. Los considerandos lo justifican por el fin de la emergencia económica y el agotamiento del modelo neoliberal. Sin fuente: Morales asumió en enero de 2006 y la fecha coincide con la nacionalización de los hidrocarburos.",
+    "notas": "Tipo: decreto supremo ordinario de carácter reglamentario. Vigencia desde el 2006-05-01 según el DS 28913; la aplicación procedimental quedó diferida a un Reglamento Específico por Resolución Ministerial, cuyo plazo fue ampliado por el DS 28913; no se verificó su fecha de aprobación ni si se emitió el decreto sobre el alcance de la estabilidad. El DS 0495 de 2010 reforzó el procedimiento de reincorporación (conminatoria obligatoria, impugnable solo en vía judicial sin efecto suspensivo). La Ley N° 1468 de 2022 abrogó el DS 0495 y derogó los Parágrafos III, IV y V del Artículo 10 y el Artículo 13 del DS 28699, sustituyéndolos por un procedimiento especial de restitución de derechos laborales con rango de ley; el núcleo de 2006 sigue vigente. Fallos menores: según un blog de baja jerarquía, la SCP 0591/2012 declaró inconstitucional la palabra 'únicamente' del Parágrafo IV (no contrastado); la SCP 0177/2012 habilitó el amparo ante incumplimiento de la conminatoria; ninguno recorta el núcleo de la reforma. No se codificaron contratación temporal ni tercerización por falta de disposiciones expresas verificadas, ni sector público por no haberse verificado su cobertura. No se consultó la ficha NATLEX propia del DS 28699 ni evaluaciones académicas de su efecto."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.emavias.com.bo/img/Normativas/DecretoSupremoNo.28699.pdf",
+      "titulo": "DECRETO SUPREMO N° 28699 DE 1 DE MAYO DE 2006 EVO MORALES AYMA",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/31219",
+      "titulo": "ARTICULO 10, Disposicion Reglamentaria a la Ley General del Trabajo (28699) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/26204",
+      "titulo": "http://www.gacetaoficialdebolivia.gob.bo/normas/ve...",
+      "citada": true
+    },
+    {
+      "url": "https://www.cedib.org/wp-content/uploads/2013/06/Decreto-Supremo-0495.pdf",
+      "titulo": "Decreto Supremo 0495 (1-Mayo-2010) (Vigente) EVO MORALES AYMA",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=83729",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 0495 por el que se modifica el Decreto Supremo núm. 28699 por el que se establece una disposición reglamentaria a la Ley General del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://richardvillca.blogspot.com/2010/05/decreto-supremo-495-de-1-de-mayo-2010.html",
+      "titulo": "REINCORPORACIÓN DECRETO SUPREMO 495 DE 1 DE MAYO 2010",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-28699.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 28699, 1 de mayo de 2006",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/1336/disposicion-reglamentaria-a-la-ley-general-del-trabajo-28699",
+      "titulo": "Disposicion Reglamentaria a la Ley General del Trabajo (28699) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://normativa.cepb.org.bo/Normas/VerNorma/2381",
+      "titulo": "Untitled Document",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/decreto-supremo-28699-disposicion-874368901",
+      "titulo": "Decreto Supremo 28699. Disposicion Reglamentaria a la Ley General del Trabajo - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://jurisprudencia.tcpbolivia.bo/Fichas/Ficha/7109",
+      "titulo": "Tribunal Constitucional Plurinacional",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N1468.html",
+      "titulo": "Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/7909/procedimiento-especial-para-la-restitucio-n-de-derechos-laborales-1468",
+      "titulo": "Procedimiento especial para la restitución de derechos laborales (1468) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/25137",
+      "titulo": "ARTICULO 4, Disposicion Reglamentaria a la Ley General del Trabajo (28699) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N521.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 521, 26 de mayo de 2010",
+      "citada": true
+    }
+  ]
+}

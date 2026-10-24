@@ -1,0 +1,106 @@
+{
+  "id": "PRY_1995",
+  "iso": "PRY",
+  "pais": "Paraguay",
+  "anio": 1995,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1052,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 496/1995",
+  "otras": "Decreto N° 10047/1995",
+  "confianza": "alta",
+  "texto": "Para Paraguay en 1995, la reforma laboral principal es la **Ley N° 496/1995**, que modifica, amplía y deroga artículos del Código del Trabajo vigente (Ley 213/93). Según la Biblioteca y Archivo Central del Congreso, su fecha de promulgación es el 22-08-1995. NATLEX (OIT) la registra como texto modificatorio del 1995-08-22 (PRY-1995-L-41406), Ley núm. 496 que modifica, amplía y deroga artículos de la ley núm. 213/93, que establece el Código del Trabajo.\n\n**Por qué la elijo:** su alcance es muy amplio. Su artículo 1° modifica y amplía decenas de artículos del Código, desde las disposiciones generales hasta las sanciones, incluidos el despido, la jornada, la libertad sindical, la huelga y las multas. Su artículo 2° deroga los artículos 287 y 325 de la Ley 213/93. El digesto del Senado confirma que la Ley 213 fue modificada por las Leyes N° 496/1995 y 1416/1999.\n\n**Otra candidata y una nota:**\n- La única otra norma laboral de 1995 que encontré es de menor alcance: el Decreto núm. 10047, que reglamenta la inscripción en el registro patronal de la autoridad administrativa del trabajo y fija sanciones por su incumplimiento. NATLEX lo clasifica como norma de inspección laboral (8 de agosto de 1995). Por eso la ley es la principal y el decreto va como relacionado.\n- El portal de la Dirección Nacional de Ingresos Tributarios fecha la ley como \"496/94\". Lo considero un error, porque contradice al Congreso y a la OIT.\n- Para las etapas siguientes: varios artículos sobre trabajo de menores introducidos por esta ley fueron derogados después por el artículo 257 de la Ley Nº 1.680/01.\n\nNORMA: Ley N° 496/1995\nOTRAS: Decreto N° 10047/1995\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/2514/ley-n-496-modifica-amplia-y-deroga-articulos-de-la-ley-21393-codigo-del-trabajo",
+      "titulo": "Ley Nº 496 / MODIFICA, AMPLIA Y DEROGA ARTICULOS DE LA LEY 213/93, CODIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/9784fb23-c049-11e9-8e7a-525400c761ca/text",
+      "titulo": "BL:Ley 496/1995 - modifica Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://digestolegislativo.gov.py/detalles&id=2605",
+      "titulo": "Ley N° 213 del 29 de octubre de 1993. Que establece ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.agr.una.py/descargas/biblioteca_digital_gestion_riesgos/C/2.0-Codigo_Laboral-Ley_213-93.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=35443",
+      "titulo": "NATLEX - Paraguay - Ley núm. 213 que establece el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=41346",
+      "titulo": "NATLEX - Paraguay - Decreto núm. 10047 por el cual se reglamenta la inscripción en el registro patronal habilitado por la autoridad administrativa del trabajo y se establecen sanciones por su incumplimiento.",
+      "citada": true
+    },
+    {
+      "url": "https://librosdederechoparaguay.blogspot.com/2009/09/codigo-laboral-leyes-complementarias_24.html",
+      "titulo": "EL DERECHO EN PARAGUAY - LIBROS, ARTÍCULOS Y COMENTARIOS - LA CONSTITUCIÓN (1992), CÓDIGOS Y LEYES: CÓDIGO LABORAL - LEYES COMPLEMENTARIAS - LEY Nº 496/95",
+      "citada": false
+    },
+    {
+      "url": "https://portal.ips.gov.py/sistemas/ipsportal/archivos/archivos/1641907590.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=35443",
+      "titulo": "NATLEX - Paraguay - Ley núm. 213 que establece el Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://digestolegislativo.gov.py/detalles&id=2648",
+      "titulo": "496/1995",
+      "citada": false
+    },
+    {
+      "url": "https://py.vlex.com/vid/ley-n-213-93-631747701",
+      "titulo": "Ley Nº 213/93 , Código del Trabajo - vLex Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://humanidades.uni.edu.py/wp-content/uploads/2016/07/Ley-213-93-C%C3%B3digo-Laboral.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=28860",
+      "titulo": "NATLEX - Paraguay - Ley núm. 729 que sanciona el Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=108361",
+      "titulo": "NATLEX - Paraguay - Ley núm. 5115/13, de 29 de noviembre, que crea el Ministerio de Trabajo, Empleo y Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.dnit.gov.py/en/web/portal-institucional/w/m-ley-n-496-94",
+      "titulo": "Ley Nº 496-94 - Portal Institucional - Dirección Nacional de Ingresos Tributarios - GGII",
+      "citada": false
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/2608/ley-n-213-establece-el-codigo-del-trabajo",
+      "titulo": "Ley Nº 213 / ESTABLECE EL CODIGO DEL TRABAJO.",
+      "citada": false
+    },
+    {
+      "url": "https://www.embajadadelparaguay.es/wp-content/uploads/2013/06/Codigo-Laboral-Paraguayo-Ley-213-93.pdf",
+      "titulo": "1 PARAGUAY Ley núm. 213, que establece el Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.morinigoyasociados.com.py/todas_disposiciones/1993/leyes/ley_213_93.htm",
+      "titulo": "Ley N   213/93",
+      "citada": false
+    }
+  ]
+}

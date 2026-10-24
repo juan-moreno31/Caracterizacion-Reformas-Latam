@@ -1,0 +1,259 @@
+{
+  "id": "DOM_2001",
+  "iso": "DOM",
+  "pais": "República Dominicana",
+  "anio": 2001,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3809,
+  "incompleto": false,
+  "norma": "Ley núm. 87-01 que crea el Sistema Dominicano de Seguridad Social (promulgada el 9 de mayo de 2001)",
+  "texto": "# Informe de investigación: DOM 2001, Ley 87-01 que crea el Sistema Dominicano de Seguridad Social (SDSS)\n\n## 1. Objetivo declarado\n\nLos considerandos de la ley se apoyan en el mandato constitucional según el cual el Estado estimulará el desarrollo progresivo de la seguridad social, de manera que toda persona llegue a gozar de adecuada protección contra la desocupación, la enfermedad, la incapacidad y la vejez. Entre los principios rectores están la universalidad, en virtud de la cual el SDSS debe proteger a todos los dominicanos y a los residentes legales en el país, y la obligatoriedad: la afiliación, cotización y participación tienen un carácter obligatorio para los ciudadanos e instituciones. CEPAL resume el objetivo declarado como contribuir al mejoramiento de la calidad de vida, la reducción de la pobreza y de las desigualdades sociales, y aumentar los niveles de protección social.\n\nExiste además una lectura económica, que viene de un centro de análisis privado y no del texto de la norma: la reforma generaría ahorro nacional y desarrollaría el mercado doméstico de capitales.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**seguridad_social_y_pensiones.** Es el núcleo de la ley, con dos componentes de sentido distinto:\n\n- **Pensiones (reorganiza).** El sistema de pensiones experimentó una reforma estructural en 2001 que sustituyó el antiguo sistema de reparto por uno de cuentas de capitalización individual administrado por el sector privado. El reparto no desaparece del todo: permanecen en el sistema de reparto los trabajadores del sector público y de las instituciones autónomas y descentralizadas amparados por las leyes 379-81, 414-98 y/o otras leyes afines, excepto aquellos que deseen ingresar al sistema de capitalización individual. El diseño también incorpora elementos solidarios, como el derecho a una pensión mínima garantizada por el Estado.\n- **Salud y riesgos laborales (aumenta).** El Régimen Contributivo cubrirá como mínimo el Seguro de Vejez, Discapacidad y Sobrevivencia, el Seguro Familiar de Salud y el Seguro de Riesgos Laborales por accidentes de trabajo y enfermedades profesionales. CEPAL confirma que el objetivo era reformar no solo el sistema de pensiones, sino también el sistema de salud y la protección contra los riesgos laborales.\n\n*Sugerencia de codificación:* usar **aumenta** y explicar en el comentario que en pensiones el cambio de régimen financiero es una reorganización.\n\n**Costos laborales no salariales (dentro de la misma dimensión).** Para pensiones y salud, el empleador financia la mayor parte del costo y el trabajador el resto. El costo del seguro de Riesgos Laborales será cubierto en su totalidad por el empleador, que además aporta al Fondo de Solidaridad Social. Esto aumenta las cargas del empleador, aunque no toca contratación ni despido.\n\n**formalizacion_y_mipymes (aumenta; codificación tentativa).** La ley crea regímenes para quienes no tienen empleador formal:\n\n- Un Régimen Subsidiado, que protegerá a los trabajadores por cuenta propia con ingresos inestables e inferiores al salario mínimo nacional, así como a los desempleados, discapacitados e indigentes, financiado fundamentalmente por el Estado.\n- Un Régimen Contributivo Subsidiado, que protegerá a los profesionales y técnicos independientes y a los trabajadores por cuenta propia con ingresos promedio, con aportes del trabajador y un subsidio estatal para suplir la falta de empleador.\n\nBusca extender la protección al trabajo informal más que formalizarlo laboralmente.\n\n**genero_y_conciliacion (aumenta).** El Seguro Familiar de Salud cubre el embarazo, el parto y sus consecuencias. Además, otorga prestaciones en especie, incluidos Servicios de Estancias Infantiles, y en dinero, como subsidios por enfermedad y por maternidad.\n\n**otro (institucional).** La ley crea una arquitectura nueva con funciones separadas: el Consejo Nacional de Seguridad Social (CNSS), la Tesorería de la Seguridad Social, las superintendencias de Pensiones y de Salud y Riesgos Laborales, las AFP y las ARS. También establece la libre elección: los afiliados tienen derecho a seleccionar a cualquier administrador y proveedor de servicios acreditado, así como a cambiarlo. Además, tipifica como delito la infracción a la presente ley en materia de salud y riesgos laborales.\n\n**Dimensiones que no aplican:** contratación temporal, tercerización, despido, jornada, negociación salarial, derechos sindicales y nuevas formas de trabajo. No encontré disposiciones sobre ellas.\n\n## 3. Población objetivo\n\n- **asalariados_formales** y **sector_publico**: el régimen contributivo comprenderá a los trabajadores asalariados públicos y privados y a los empleadores, incluyendo al Estado como empleador.\n- **informales**: trabajadores por cuenta propia, independientes, desempleados e indigentes, a través de los regímenes subsidiado y contributivo subsidiado.\n- **mujeres**: por las prestaciones de maternidad y estancias infantiles.\n- **general**: por el principio de universalidad.\n\n## 4. Contexto político y económico\n\n- **Gobierno.** La ley se aprobó bajo el gobierno de Hipólito Mejía. Ese gobierno, iniciado en agosto de 2000, denominó el 2001 como el \"Año de Lucha Contra la Pobreza\".\n- **Lugar en la agenda.** El presidente la presentó como parte de una trilogía de reformas madres, junto a las reformas tributaria y arancelaria.\n- **Origen consensuado.** Según la Superintendencia de Pensiones, fue resultado del consenso entre los sectores gubernamental, empleador y trabajador. La edición oficial destaca que estuvo precedida por una consulta nacional sin precedentes durante la cual se realizaron vistas públicas en todo el país e incluso en la ciudad de Nueva York.\n- **Restricción fiscal.** Un documento del Gabinete Social menciona la caída de los ingresos públicos presupuestados para el 2001 como obstáculo para la política social.\n- **Norma relacionada del mismo año.** En 2001 también se promulga la Ley General de Salud (Ley 42-01), la cual crea el Sistema Nacional de Salud. Conviene incluirla en `normas_relacionadas`, junto con el Decreto 774-01.\n\n## 5. ¿Revierte una reforma previa?\n\nNo. La ley reemplaza el régimen de seguros sociales administrado por el IDSS bajo leyes antiguas (Ley 1896 de 1948 y Ley 379-81), y no una reforma reciente. Antes de la Ley 87-01 existían cuatro tipos fundamentales de regímenes previsionales de reparto. Además, la ley preserva derechos adquiridos: los pensionados y jubilados por las leyes 1896 y 379 y de los otros planes existentes continuarán disfrutando de su pensión actual. **revierte_reforma_previa = no.**\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Promulgación.** La ley fue promulgada por el Poder Ejecutivo el 9 de mayo del 2001. **No verifiqué** la fecha de publicación en la Gaceta Oficial, que podría ser la fecha formal de vigencia. Provisionalmente: 2001-05-09.\n- **Calendario por decretos (art. 7).** El CNSS someterá al Poder Ejecutivo los anteproyectos de decretos para iniciar la ejecución de los Regímenes Contributivo, Contributivo Subsidiado y Subsidiado, con plazos distintos para cada seguro y régimen.\n- **Gradualidad de los regímenes no contributivos (art. 8).** El CNSS presentará un calendario de ejecución gradual y progresiva de la cobertura de los Regímenes Subsidiado y Contributivo Subsidiado, priorizando la protección de los grupos con mayores carencias.\n- **Cotizaciones graduales.** La ley dispone que el incremento de la cotización, tanto del trabajador como del empleador, sea aplicado en forma gradual mediante aumentos anuales sucesivos.\n- **Arranque efectivo, en orden.** Según la Ley 188-07, los seguros se iniciaron primero con el Seguro de Vejez, Discapacidad y Sobrevivencia, luego con el Seguro de Riesgos Laborales y, por último, con el Seguro Familiar de Salud:\n  - Pensiones: según la prensa, el primero de junio del 2003 se puso en marcha el Seguro de Vejez, Discapacidad y Sobrevivencia.\n  - Salud contributiva: su inicio se basó en un Acuerdo para el Inicio del Seguro Familiar de Salud del Régimen Contributivo de fecha 19 de diciembre del 2006.\n  - **Sin fuente:** las fechas exactas de inicio del Seguro de Riesgos Laborales y del Seguro Familiar de Salud contributivo, y si el régimen contributivo subsidiado llegó a aplicarse.\n\n**vigencia_escalonada = true.** Esto importa para el tratamiento econométrico: entre 2001 y la puesta en marcha de cada seguro hay un rezago considerable.\n\n## 7. Estado de vigencia posterior\n\n**Modificaciones legislativas verificadas:**\n\n- **Ley 370-05**: modificó el artículo 1, sobre el objeto de la ley.\n- **Ley 188-07** (9 de agosto de 2007): modificó el financiamiento de pensiones (art. 56) y de salud (art. 140).\n- **Ley 397-19** (30 de septiembre de 2019): crea el Instituto Dominicano de Prevención y Protección de Riesgos Laborales (IDOPPRIL), establece el proceso de disolución del Instituto Dominicano de Seguros Sociales (IDSS) y modifica la Ley 87-01. Además, deroga los artículos 134, 135, 136, 137, 138 y 139, y modifica los artículos 21, 23, 127, 128, 140, 192, 196 y 198.\n- **Ley 13-20** (7 de febrero de 2020): fortalece la TSS, la DIDA y modifica el Recargo por Mora y Comisiones de las AFP.\n\n**Fallos judiciales.** No encontré ninguna anulación sustantiva de la ley:\n\n- La sentencia TC/0295/24 revisó los artículos 4 (libre elección de AFP) y 95 (límites a disponer de los fondos de la cuenta individual) y declaró la norma conforme con la Constitución.\n- La TC/0879/23 declaró no conforme una **resolución del CNSS**, no la ley, por afectar el principio de separación de poderes, legalidad y seguridad jurídica.\n- Hubo acciones contra el artículo 31 (TC/0435/15) y el artículo 46 (TC/0311/22), pero **no verifiqué** cómo se resolvieron. Conviene confirmarlo.\n\n**Sugerencia:** `estado_vigencia = modificada_o_derogada_despues`. El núcleo (los tres regímenes, la capitalización individual, las AFP y ARS, el CNSS) sigue en vigor. Las reformas posteriores cambiaron el financiamiento y la estructura institucional, y la Ley 397-19 derogó la parte referida al IDSS.\n\n## Pendiente de verificar\n\n- Fecha de publicación oficial (Gaceta Oficial).\n- Fechas exactas de inicio del Seguro de Riesgos Laborales y del Seguro Familiar de Salud contributivo.\n- Si el régimen contributivo subsidiado se implementó efectivamente.\n- Resultado de las sentencias TC/0435/15 y TC/0311/22.\n- Contenido exacto del cambio introducido por la Ley 370-05 en el artículo 1.\n- Ficha EPLex o informe país de la OIT; no la consulté en esta etapa.",
+  "fuentes": [
+    {
+      "url": "https://dgii.gov.do/legislacion/leyesTributarias/Documents/Leyes%20de%20Instituciones%20y%20Fondos%20de%20Terceros/87-01.pdf",
+      "titulo": "Ley No. 87-01 que crea el Sistema Dominicano de Seguridad Social.",
+      "citada": true
+    },
+    {
+      "url": "https://www.hacienda.gob.do/wp-content/uploads/2023/12/ley_87-01-1.pdf",
+      "titulo": "i SECRETARÍA DE ESTADO DE TRABAJO CONSEJO NACIONAL DE SEGURIDAD SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "https://cnss.gob.do/wp-content/uploads/2024/09/Ley-87-01-que-crea-el-SDSS-y-las-modificaciones-de-las-leyes-397-19-y-13-20.pdf",
+      "titulo": "i LEY NO. 87-01 QUE CREA EL SISTEMA DOMINICANO DE SEGURIDAD",
+      "citada": true
+    },
+    {
+      "url": "https://phlaw.com/wp-content/uploads/2025/01/Ley-No.-87-01-que-crea-el-Sistema-el-Sistema-Dominicano-de-Seguridad-Social.pdf",
+      "titulo": "Ley No. 87-01 que crea el Sistema Dominicano de Seguridad ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.dgjp.gob.do/wp-content/uploads/2022/05/Ley-No.87-01.pdf",
+      "titulo": "Ley No. 87-01 que crea El Sistema Dominicano de Seguridad ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.secmca.org/wp-content/uploads/2023/11/SECMCA-Caracterizacion-del-sistema-de-pensiones-dominicano.pdf",
+      "titulo": "CARACTERIZACIÓN DEL SISTEMA DE PENSIONES DOMINICANO Secretaría Ejecutiva",
+      "citada": true
+    },
+    {
+      "url": "https://phlaw.com/es/34ley-no-87-01-que-crea-sistema-dominicano-seguridad-social34/",
+      "titulo": "Ley 87-01 que crea el Sistema Nacional de Seguridad Social - Pellerano & Herrera",
+      "citada": true
+    },
+    {
+      "url": "https://sipen.gob.do/index.php/descarga/leyes_2007_08_20191202115906.pdf",
+      "titulo": "Ley No. 188-07 que introduce modificaciones a la ...",
+      "citada": true
+    },
+    {
+      "url": "https://docs.republica-dominicana.justia.com/nacionales/leyes/ley-188-07.pdf",
+      "titulo": "CONSIDERANDO PRIMERO: Que la Seguridad Social es ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc029524/",
+      "titulo": "Tribunal Constitucional",
+      "citada": true
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc087923/",
+      "titulo": "Tribunal Constitucional",
+      "citada": true
+    },
+    {
+      "url": "http://www.arssenasa3.gob.do/index/AutoGestionTransparencia/Archivos/BaseLegalInstitucional/BLI_Leyes/leyes/Leyno._397_19.pdf",
+      "titulo": "Ley No. 397-19 que crea el Instituto Dominicano de Prevención y Protección de",
+      "citada": true
+    },
+    {
+      "url": "https://hoy.com.do/el-pais/sistema-dominicano-de-seguridad-social-avances-en-el-2003-y-desafios-para-el-2004_22631.html",
+      "titulo": "Sistema Dominicano de Seguridad Social: avances en el 2003 y desafíos para el 2004",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.cepal.org/server/api/core/bitstreams/7247e497-f4ee-43d4-9d00-e62ecaa0f95b/content",
+      "titulo": "Avances y desafíos en la implementación del sistema de pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://mepyd.gob.do/mepyd/wp-content/uploads/archivos/planificacion/politica-social-del-gobierno-dominicano-vol.-i.pdf",
+      "titulo": "Presidencia de la República Gabinete Social POLITICA SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "https://sipen.gob.do/index.php/sobre-nosotros/historia",
+      "titulo": "SIPEN - Superintendencia de Pensiones · SIPEN",
+      "citada": true
+    },
+    {
+      "url": "https://lafundacion.do/en/articles-in-text-format/2021/reactivadores-o-destructores/",
+      "titulo": "Fundación Economía y Desarrollo, Inc. - ¿Reactivadores o Destructores?",
+      "citada": true
+    },
+    {
+      "url": "http://asiex.org/dir/wp-content/uploads/2016/05/LEY-SEGURIDAD-SOCIAL.pdf",
+      "titulo": "Ley 87- 01 de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://mejiaricart.com/wp-content/uploads/2026/05/Ley-87-01-Sistema-Dominicano-de-Seguridad-Social.pdf",
+      "titulo": "A B O G A D O S",
+      "citada": false
+    },
+    {
+      "url": "https://cnss.gob.do/sdss/regimenes-sdss/",
+      "titulo": "Consejo Nacional de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://adars.org.do/logros-de-la-ley-87-01/",
+      "titulo": "Logros de la Ley 87-01",
+      "citada": false
+    },
+    {
+      "url": "https://adars.org.do/wp-content/uploads/2020/03/Ley-87-01-Sistema-Dominicano-de-Seguridad-Social.pdf",
+      "titulo": "i SECRETARÍA DE ESTADO DE TRABAJO CONSEJO NACIONAL DE SEGURIDAD SOCIAL",
+      "citada": false
+    },
+    {
+      "url": "https://digepres.gob.do/wp-content/uploads/2026/02/Ley-87-01-que-crea-el-Sistema-Nacional-de-Seguridad-Social.pdf",
+      "titulo": "-3- Ley No. 87-01 que crea el Sistema Dominican0 de Seguridad Social.",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1991-13384",
+      "titulo": "BOE-T-1991-13384 Pleno. Sentencia 87/1991, de 25 de abril. Cuestión de inconstitucionalidad 201/1987. En relación con los artículos 138 y 139 del texto refundido de la Ley de Procedimiento Laboral, aprobado por Real Decreto Legislativo 1568/1980, de 30 de junio.",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709",
+      "titulo": "BOE-A-1979-23709 Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.",
+      "citada": false
+    },
+    {
+      "url": "https://www.scjn.gob.mx/sites/default/files/transparencia/documentos/becarios/035manuel-gonzalez-diaz.pdf",
+      "titulo": "LOS RECURSOS DE INCONSTITUCIONALIDAD DE ESPAÑA Y LAS CONTROVERSIAS",
+      "citada": false
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/en-US/Resolucion/Show/6506",
+      "titulo": "HJ System - Decision: SENTENCIA 87/2009",
+      "citada": false
+    },
+    {
+      "url": "https://www.e-consulting.org/comunicacion/sala-de-prensa/tc-amnistia-fiscal",
+      "titulo": "Blog",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1987-14852",
+      "titulo": "BOE-T-1987-14852 Pleno. Recurso de inconstitucionalidad número 763/1984. Sentencia número 99/1987, de 11 de junio.",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc018118",
+      "titulo": "Tribunal Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-68512012000200014",
+      "titulo": "La jurisprudencia del Tribunal Constitucional sobre la acción de inconstitucionalidad de la ley entre los años 2006 y 2012",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/autos/2001/a087-01",
+      "titulo": "a087-01 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.es/es/tribunal/Composicion-Organizacion/competencias/paginas/021-cuestion-de-inconstitucionalidad.aspx",
+      "titulo": "La cuestión de inconstitucionalidad",
+      "citada": false
+    },
+    {
+      "url": "https://listindiario.com/la-republica/justicia/20260707/tc-revoca-fallo-sobre-fondos-seguridad-social-declara-improcedente-amparo-cnss_912857.html",
+      "titulo": "TC revoca fallo sobre fondos seguridad social; declara improcedente amparo contra CNSS",
+      "citada": false
+    },
+    {
+      "url": "https://tribunalsitestorage.blob.core.windows.net/media/19292/tc-0111-19.pdf",
+      "titulo": "República Dominicana TRIBUNAL CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://sipen.gob.do/descarga/tribunal-constitucional_2015_12_20191112020940.pdf",
+      "titulo": "República Dominicana TRIBUNAL CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://listindiario.com/puntos-de-vista/20250609/correcta-oportuna-decision_861047.html",
+      "titulo": "Una correcta y oportuna decisión",
+      "citada": false
+    },
+    {
+      "url": "https://tribunalsitestorage.blob.core.windows.net/media/37030/tc-0483-23-tc-05-2019-0127.pdf",
+      "titulo": "República Dominicana TRIBUNAL CONSTITUCIONAL - NET",
+      "citada": false
+    },
+    {
+      "url": "https://do.vlex.com/tags/regimen-general-de-la-seguridad-social-2072504",
+      "titulo": "regimen general de la seguridad social",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc031122/",
+      "titulo": "Tribunal Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://poderjudicial.gob.do/wp-content/uploads/2022/07/Principales-Sentencias-2013-Vol-1.pdf",
+      "titulo": "Principales - Poder Judicial",
+      "citada": false
+    },
+    {
+      "url": "https://www.consultoria.gov.do/api/document/3403706",
+      "titulo": "- 117 -",
+      "citada": false
+    },
+    {
+      "url": "https://www.consultoria.gov.do/api/document/3402545",
+      "titulo": "- 56 -",
+      "citada": false
+    },
+    {
+      "url": "https://www.consultoria.gov.do/api/document/3402241",
+      "titulo": "- 93 -",
+      "citada": false
+    },
+    {
+      "url": "https://sipen.gob.do/descarga/marco-legal_2020_02_20200211042852.pdf",
+      "titulo": "EL CONGRESO NACIONAL EN NOMBRE DE LA REPÚBLICA Ley No. 13-20",
+      "citada": false
+    },
+    {
+      "url": "https://do.vlex.com/vid/decreto-n-858-21-898878340",
+      "titulo": "Decreto Nº 858-21. Que concede el beneficio de una pensión especial del estado dominicano a varios afiliados del antiguo instituto dominicano de seguros sociales. - vLex República Dominicana",
+      "citada": false
+    },
+    {
+      "url": "https://www.dgjp.gob.do/sobre-nosotros/marco-legal/",
+      "titulo": "Marco Legal - Dirección General de Jubilaciones y Pensiones a Cargo del Estado",
+      "citada": false
+    },
+    {
+      "url": "https://sipen.gob.do/documentos/norm_resolucion_sipen_456_22.pdf",
+      "titulo": "SUPERINTENDENCIA DE PENSIONES",
+      "citada": false
+    },
+    {
+      "url": "https://dof.gob.mx/nota_detalle_popup.php?codigo=5607729",
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan ...",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "COL_2002",
+  "iso": "COL",
+  "pais": "Colombia",
+  "anio": 2002,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0459,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 789 de 2002",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley 776 de 2002",
+      "Ley 790 de 2002"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2002-12-27",
+    "vigencia_escalonada": true,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Según su título oficial, apoyar el empleo y ampliar la protección social; el gobierno la presentó como una reforma para crear empleo formal y reducir el desempleo.",
+    "descripcion_intenciones": "La ley busca reducir los costos laborales del empleador para estimular la contratación formal en un contexto de alto desempleo. Para ello alarga el tramo diurno, reduce el recargo dominical y festivo, permite jornadas flexibles sin recargo por trabajo suplementario y rebaja la indemnización por despido sin justa causa. Redefine el contrato de aprendizaje como una relación especial sin carácter salarial. En paralelo, crea subsidios temporales al empleo y al desempleo y reorganiza el régimen de las Cajas de Compensación Familiar. Un salvamento de voto en la Sentencia C-038 de 2004 señala que la reducción de costos laborales fue un propósito confesado durante el trámite legislativo.",
+    "dimensiones": [
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Los artículos 25, 26 y 51 retrasan el inicio del trabajo nocturno, reducen el recargo dominical y festivo y permiten jornadas flexibles sin recargo por trabajo suplementario. Además, extienden a todas las empresas la jornada especial de la Ley 50 de 1990."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "El artículo 28 rebaja la tabla de indemnización por despido sin justa causa y conserva una transición para los trabajadores antiguos. El artículo 29 limita en el tiempo la indemnización moratoria para trabajadores de mayor nivel salarial."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "El artículo 30 define el aprendizaje como una relación especial sin carácter laboral, con un apoyo de sostenimiento que no constituye salario ni es negociable colectivamente. También amplía las modalidades de aprendizaje y permite monetizar la cuota de aprendices."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea un subsidio temporal al desempleo y un subsidio en especie para jefes de hogar desempleados, acompañados de programas de capacitación. Ambos son coyunturales y dependen de la disponibilidad presupuestal."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea un subsidio temporal de empleo para pequeñas y medianas empresas que contraten a jefes cabeza de hogar desempleados. Según una fuente secundaria, introduce además regímenes especiales de aportes y crédito para mipymes, cuyo contenido no fue verificado."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Régimen de las Cajas de Compensación Familiar: regula sus funciones, prohibiciones y la destinación de recursos, incluidos los programas de apoyo al desempleo. Es un componente institucional sin sentido protector claro."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "jovenes",
+      "empleadores_mipymes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley se expidió en los primeros meses del gobierno de Álvaro Uribe, en un contexto de desempleo históricamente alto. La flexibilización contó con el respaldo de la tecnocracia gubernamental y de los gremios empresariales. La norma profundiza la lógica flexibilizadora de la Ley 50 de 1990 y modifica disposiciones introducidas por esa ley, como el recargo dominical y la tabla de indemnizaciones (artículos 64 y 65 del Código Sustantivo del Trabajo). Las evaluaciones posteriores son mixtas: un estudio no encuentra efectos sobre el empleo y otro encuentra un aumento de las horas trabajadas y una menor duración del desempleo.",
+    "notas": "Año de la base y tratamiento efectivo: la ley se publicó en el Diario Oficial 45.046 del 27 de diciembre de 2002, pero la aplicación de los artículos 25 y 26 a los contratos previos se aplazó hasta el 1 de abril de 2003, y los contratos de aprendizaje en curso conservaron el régimen anterior. Por eso la literatura fecha el tratamiento en 2003. Fallos judiciales: la Sentencia C-038 de 2004 declaró exequibles los artículos 25, 26, 28, 30 y 51, y la Sentencia C-457 de 2004 reiteró la decisión sobre el aprendizaje. Las anulaciones fueron menores: expresiones y un parágrafo del artículo 1, una expresión del artículo 29 (Sentencia C-781 de 2003), una expresión del artículo 27 y el artículo 47, cuyo contenido no fue verificado. Modificaciones posteriores: la Ley 1636 de 2013 derogó el artículo 8; la Ley 1846 de 2017 modificó los artículos 25 y 51 y adelantó la jornada nocturna; la Ley 2466 de 2025 adelantó otra vez la jornada nocturna, restablece gradualmente el recargo dominical y modifica el régimen de aprendizaje. No se confirmó si la Ley 2466 de 2025 modificó la tabla de indemnizaciones. Las fuentes no coinciden sobre el nuevo carácter del aprendizaje. Los desempleados y los jefes de hogar desempleados son destinatarios centrales de la ley, pero no tienen categoría en el codebook; no se codificó la categoría mujeres porque la figura de jefe de hogar no distingue por sexo. No se consultaron la exposición de motivos ni las fichas NATLEX/EPLex. La confianza alta se apoya en el texto oficial publicado por la Secretaría del Senado y Función Pública."
+  },
+  "fuentes": [
+    {
+      "url": "https://huellapublica.com/articulo/ley-789-de-2002-reforma-laboral-uribe-derechos-laborales",
+      "titulo": "Ley 789 de 2002: cuatro artículos que recortaron sus derechos laborales el último día de ese año",
+      "citada": true
+    },
+    {
+      "url": "https://www.uexternado.edu.co/wp-content/uploads/2017/01/boletin_6.pdf",
+      "titulo": "BOLETÍN LEY 789 DE 2002 REFORMA LABORAL COLOMBIANA Bogotá",
+      "citada": true
+    },
+    {
+      "url": "https://normograma.sena.edu.co/compilacion/docs/ley_0789_2002.htm",
+      "titulo": "Compilación Servicio Nacional de Aprendizaje - SENA - Ley 789 de 2002",
+      "citada": true
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=6778",
+      "titulo": "Departamento Administrativo de la Función Pública Ley 789 de 2002 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.fasecolda.com/wp-content/uploads/ley-789-2002.pdf",
+      "titulo": "Diario Oficial 45046 de 27 de Diciembre de 2002 LEY 789 DE 2002 (diciembre 27)",
+      "citada": true
+    },
+    {
+      "url": "https://jbb.gov.co/documentos/juridica/antiguo/leyes_ambientales/Ley_789_2002.pdf",
+      "titulo": "Ley 789 de 2002 1 /67 Diario Oficial 45.046 Ley 789 de 2002 1 2 3 4 5 6",
+      "citada": true
+    },
+    {
+      "url": "https://enlinea.combarranquilla.co/_files/marcolegal/general/LEY789de2002.pdf",
+      "titulo": "8/3/11 8:58 AM LEY 789 DE 2002 Page 1 of 23",
+      "citada": true
+    },
+    {
+      "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/pdf/ley_0789_2002.pdf",
+      "titulo": "LEY 789 DE 2002 (diciembre 27)",
+      "citada": true
+    },
+    {
+      "url": "https://relatoria.colombiacompra.gov.co/normativa/ley-789-de-2002/",
+      "titulo": "Ley 789 de 2002",
+      "citada": true
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2004/c-038-04.htm",
+      "titulo": "C-038 de 2004",
+      "citada": true
+    },
+    {
+      "url": "https://unipamplona.edu.co/unipamplona/portalIG/home_28/recursos/01_general/26032023/00ley789-2002.pdf",
+      "titulo": "Departamento Administrativo de la Función Pública Ley 789 de 2002 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6778",
+      "titulo": "Ley 789 de 2002 - Gestor Normativo - Función Pública",
+      "citada": true
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=114278",
+      "titulo": "Sentencia C-457 de 2004 Corte Constitucional - Gestor Normativo - Función Pública",
+      "citada": true
+    },
+    {
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2466_2025.html",
+      "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_2466_2025]",
+      "citada": true
+    },
+    {
+      "url": "https://www.polisura.edu.co/reforma-laboral-en-colombia-todo-lo-que-cambio-y-como-te-afecta",
+      "titulo": "Reforma Laboral en Colombia: Todo lo que Cambió",
+      "citada": true
+    },
+    {
+      "url": "https://factorial.com/co/blog/reforma-laboral-colombia-ley-2466/",
+      "titulo": "Reforma Laboral en Colombia: Ley 2466 y sus Cambios Clave",
+      "citada": true
+    },
+    {
+      "url": "https://www.jadelrio.com/co/es/blogs/ley-2466-del-25-de-junio-2025-reforma-laboral-en-colombia",
+      "titulo": "Ley 2466 del 25 de junio 2025. Reforma Laboral en Colombia",
+      "citada": true
+    },
+    {
+      "url": "https://scare.org.co/wp-content/uploads/2025/06/L-2466-2025.pdf",
+      "titulo": "Reforma Laboral en Colombia (Ley 2466 de 2025)",
+      "citada": true
+    },
+    {
+      "url": "https://contadorespublicossantander.com/?p=9807",
+      "titulo": "Ley 1846 de julio 18 de 2017",
+      "citada": true
+    },
+    {
+      "url": "https://www.asuntoslegales.com.co/analisis/daniela-hernandez-529456/cambios-en-la-jornada-laboral-nocturna-2546256",
+      "titulo": "Cambios en la jornada laboral nocturna",
+      "citada": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/4832778_LEY_789_DE_2002_FUNCIONO_O_NO",
+      "titulo": "LEY 789 DE 2002: ¿FUNCIONÓ O NO?",
+      "citada": true
+    },
+    {
+      "url": "https://bibliotecavirtual.clacso.org.ar/ar/libros/colombia/cidse/Doc98.pdf",
+      "titulo": "Renán Silva. ÉXITOS Y FRACASOS DE LA LEY 789 EN ...",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/5248626.pdf",
+      "titulo": "La Reforma Laboral no garantiza la generación de empleo",
+      "citada": true
+    },
+    {
+      "url": "https://razonpublica.com/la-reforma-laboral-las-neolumbreras-neoliberales/",
+      "titulo": "La Reforma Laboral y las neolumbreras neoliberales",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.utb.edu.co/economiayregion/article/download/185/170/316",
+      "titulo": "LA REFORMA LABORAL DE 2002 Y LA DINÁMICA DEL ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/colombia/2025/03/20/asi-fue-la-reforma-laboral-de-alvaro-uribe-velez-hace-mas-de-20-anos-por-que-favorecio-a-unos-y-hundio-a-otros/",
+      "titulo": "Así fue la reforma laboral de Álvaro Uribe Vélez hace más de 20 años: por qué favoreció a unos y hundió a otros - Infobae",
+      "citada": true
+    },
+    {
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0789_2002.html",
+      "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_0789_2002]",
+      "citada": true
+    }
+  ]
+}

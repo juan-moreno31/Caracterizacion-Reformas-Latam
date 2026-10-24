@@ -1,0 +1,166 @@
+{
+  "id": "URY_2006",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1593,
+  "incompleto": false,
+  "norma_propuesta": "Ley N.º 17.940 de 2 de enero de 2006",
+  "otras": "Ley N.º 18.065 de 27 de noviembre de 2006 (regulación del trabajo doméstico)",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Uruguay en 2006 es la **Ley N.º 17.940**, sobre protección y promoción de la libertad sindical, conocida como ley de \"fuero sindical\". El Poder Ejecutivo la promulgó el 2 de enero de 2006 con el título \"Normas relativas a la protección y promoción de la libertad sindical\", y se publicó en el Diario Oficial el 10 de enero de 2006. La ley declara absolutamente nula cualquier discriminación que menoscabe la libertad sindical en el empleo o en el acceso a él. Además, si el juez considera que un despido es antisindical, debe ordenar la reinstalación del trabajador y el pago de los salarios caídos.\n\n**Por qué la elijo:**\n- **Fuentes oficiales.** Aparece en el sitio de Presidencia, en el texto del Parlamento y en NATLEX de la OIT, donde está clasificada en libertad sindical y negociación colectiva y vinculada al Convenio 98.\n- **Fecha.** Fue sancionada en la Cámara de Representantes el 22 de diciembre de 2005, pero el año de la base coincide con su promulgación y su vigencia. La norma establece que entra en vigor desde su promulgación por el Poder Ejecutivo.\n- **Alcance.** Cubre a todos los trabajadores formales sindicalizados o que quieran sindicalizarse. Es un componente central del nuevo esquema de relaciones laborales colectivas del gobierno de Tabaré Vázquez.\n\n**Otras candidatas:**\n- **Ley N.º 18.065, sobre trabajo doméstico.** Fue promulgada el 27 de noviembre de 2006 y publicada en el Diario Oficial el 5 de diciembre de 2006. Es una reforma importante, pero se limita a un sector. Por eso la trato como norma relacionada. Hay una discrepancia sobre su fecha de aprobación: un artículo de la OIT dice que se aprobó en agosto de 2006, mientras que el texto publicado indica sesión del Senado del 15 de noviembre de 2006. Esto no cambia el año.\n- **Ley N.º 18.099, sobre tercerización.** Se aprobó en el mismo ciclo político, pero la descarto para 2006. Presidencia la registra con fecha 24/01/2007, así que pertenece a 2007.\n\nNORMA: Ley N.º 17.940 de 2 de enero de 2006\nOTRAS: Ley N.º 18.065 de 27 de noviembre de 2006 (regulación del trabajo doméstico)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.gub.uy/presidencia/institucional/normativa/ley-n-17940-fecha-02012006",
+      "titulo": "Ley N° 17.940 de fecha 02/01/2006 .",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=74467&p_country=URY&p_count=498",
+      "titulo": "NATLEX - Uruguay - Ley núm. 17940 de libertad sindical.",
+      "citada": true
+    },
+    {
+      "url": "https://docs.uruguay.justia.com/nacionales/leyes/ley-17940-jan-2-2006.pdf",
+      "titulo": "Publicada D.O. 10 ene/006 - Nº 26913 Ley Nº 17.940 LIBERTAD SINDICAL",
+      "citada": true
+    },
+    {
+      "url": "https://www6.rel-uita.org/sectores/frigorificos/proteccion_legal_libertad_sindical-uy.htm",
+      "titulo": "Protección legal de la libertad sindical en Uruguay - UITA",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/trabajodomestico/",
+      "titulo": "Trabajo Doméstico",
+      "citada": true
+    },
+    {
+      "url": "https://uruguay.justia.com/nacionales/leyes/ley-18065-nov-27-2006/gdoc/",
+      "titulo": "Justia Uruguay :: Nacionales > Leyes > Ley 18065 :: Ley de Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/articulo/trabajo-domestico-remunerado-en-uruguay-20-anos-de-avances-traves-del",
+      "titulo": "Trabajo doméstico remunerado en Uruguay: 20 años de avances a través del diálogo social",
+      "citada": true
+    },
+    {
+      "url": "https://www.gub.uy/presidencia/institucional/normativa/ley-n-18099-fecha-24012007",
+      "titulo": "Ley N° 18.099 de fecha 24/01/2007 .",
+      "citada": true
+    },
+    {
+      "url": "http://affur.org.uy/wp-content/uploads/2016/09/ley-17.940-fuero-sindicales.pdf",
+      "titulo": "Publicada D.O. 10 ene/006 - Nº 26913 Ley Nº 17.940 LIBERTAD SINDICAL",
+      "citada": false
+    },
+    {
+      "url": "https://legislativo.parlamento.gub.uy/temporales/leytemp2576861.htm",
+      "titulo": "Ley 17.940",
+      "citada": false
+    },
+    {
+      "url": "https://uruguay.justia.com/nacionales/leyes/ley-17940-jan-2-2006/gdoc/",
+      "titulo": "Justia Uruguay :: Nacionales > Leyes > Ley 17940 :: Ley de Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/102",
+      "titulo": "Primera lectura de la Ley 17.940 de protección de la actividad sindical",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/129",
+      "titulo": "Primera jurisprudencia sobre la Ley 17.940",
+      "citada": false
+    },
+    {
+      "url": "https://fcu.edu.uy/p/proteccion-de-la-libertad-sindical",
+      "titulo": "Protección de la libertad sindical",
+      "citada": false
+    },
+    {
+      "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/institucional/normativa/ley-n-18065-fecha-05122006-regulacion-del-trabajo-domestico",
+      "titulo": "Ley N° 18.065 de fecha 05/12/2006 Regulación del trabajo doméstico",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Servicio_dom%C3%A9stico_en_Uruguay",
+      "titulo": "Servicio doméstico en Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/institucional/servicio-domestico/trabajo-domestico",
+      "titulo": "Trabajo Doméstico",
+      "citada": false
+    },
+    {
+      "url": "https://www.bgd.com.uy/trabajo-domestico-en-uruguay/",
+      "titulo": "Derechos laborales del trabajo doméstico en Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://profesionalesuruguay.com/regulacion-trabajo-domestico-uruguay/",
+      "titulo": "Regulación del Trabajo Doméstico en Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://guiaderecursos.mides.gub.uy/innovaportal/file/23681/1/diptico_domesticas_web.pdf",
+      "titulo": "Derechos de las Trabajadoras Domésticas",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/derechos-laborales/trabajadores-domesticos-derechos-liquidacion-uruguay/",
+      "titulo": "Trabajadores Domésticos en Uruguay 2026",
+      "citada": false
+    },
+    {
+      "url": "http://www.impo.com.uy/bases/leyes/18251-2008",
+      "titulo": "Ley N� 18251",
+      "citada": false
+    },
+    {
+      "url": "https://www.pitcnt.uy/novedades/el-fenomeno-de-la-tercerizacion-en-uruguay-que-piensan-los-actores",
+      "titulo": "Portal PIT-CNT - El fenómeno de la tercerización en Uruguay, ¿qué piensan los actores?",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/libro/380006.pdf",
+      "titulo": "TERCERIZACIONES LABORALES Las leyes 18.099 y 18.251",
+      "citada": false
+    },
+    {
+      "url": "https://pmb.parlamento.gub.uy/pmb/opac_css/index.php?lvl=notice_display&id=79707",
+      "titulo": "Tercerizaciones : análisis de las leyes Nº 18.099 y Nº 18.251 y su aplicación jurisprudencial",
+      "citada": false
+    },
+    {
+      "url": "https://www.pdelc.com.uy/en/news/labor/outsourcing/",
+      "titulo": "Outsourcing",
+      "citada": false
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18251-2008/1",
+      "titulo": "Ley N° 18251",
+      "citada": false
+    },
+    {
+      "url": "http://www.acostaylara.com.uy/contenidos/contenidos_masinfo.php?id=125&secc=contenidos",
+      "titulo": "Ley 18.099 y 18.251 - Responsabilidad laboral en los procesos de descentralización empresarial",
+      "citada": false
+    },
+    {
+      "url": "https://www.bps.gub.uy/11440/pago-por-obligaciones-de-terceros---ley-de-tercerizaciones.html",
+      "titulo": "Pago por obligaciones de terceros - Ley de tercerizaciones - BPS",
+      "citada": false
+    },
+    {
+      "url": "https://pmb.parlamento.gub.uy/pmb/opac_css/index.php?lvl=notice_display&id=89754",
+      "titulo": "Leyes de tercerización Catálogo en línea",
+      "citada": false
+    }
+  ]
+}

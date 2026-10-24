@@ -1,0 +1,116 @@
+{
+  "id": "ECU_2005",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2005,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1079,
+  "incompleto": false,
+  "norma_propuesta": "Codificación del Código del Trabajo No. 2005-017 (Registro Oficial Suplemento 167, 16-dic-2005)",
+  "otras": "Ley 2005-3, Reformatoria a la Ley mediante la cual se establece el procedimiento oral en los juicios laborales (Registro Oficial Suplemento 52, 4-jul-2005)",
+  "confianza": "media",
+  "texto": "Propongo como norma principal de ECU 2005 la **Codificación del Código del Trabajo 2005-017**, con una advertencia importante: es una consolidación del Código, no una reforma sustantiva clásica.\n\n**Qué es.** La Comisión de Legislación y Codificación del Congreso Nacional expidió la Codificación 2005-017. Según la propia Comisión, su fin fue mantener actualizada la legislación laboral, observando las disposiciones de la Constitución, los convenios de la OIT ratificados, las leyes que reformaron el Código y otras normas conexas. NATLEX la registra como adoptada el 2005-10-18 y publicada en el Registro Oficial núm. 167 del 2005-12-16. Además, figura en NATLEX como texto que modifica la Codificación del Código del Trabajo de 1997. La versión vigente del Código sigue citando este Registro Oficial como su origen, con reformas posteriores. Fuentes: texto oficial en el Registro Oficial y NATLEX de la OIT.\n\n**Por qué es la que corresponde.** Es la norma laboral de mayor alcance de Ecuador en 2005: abarca todo el Código. Aparece en fuente oficial y en la OIT para ese país-año. Su contenido fue sobre todo de sistematización: incorporó al texto unificado reformas anteriores, como la Ley 2003-13 sobre el procedimiento oral en los juicios laborales y la Ley 2004-43. Por eso, en la etapa de caracterización probablemente encaje mejor como reforma `administrativa`. Conviene confirmar si la base la incluyó por ser una consolidación o por algún cambio de fondo.\n\n**Otra candidata.** La Ley 2005-3, reformatoria de la ley que establece el procedimiento oral en los juicios laborales, publicada en el Suplemento del Registro Oficial No. 52 del 4 de julio del 2005. Es una reforma real, pero solo procesal (justicia laboral) y de alcance menor. La dejo como norma relacionada.\n\n**Por qué la confianza es media y no alta.** La norma sí aparece en fuente oficial y en la OIT, lo que por sí solo justificaría \"alta\". La bajo por dos razones: hay dos candidatas, y la principal es una consolidación con poco contenido nuevo, así que no está claro que sea el \"tratamiento\" que la base tenía en mente. Para fijar la fecha de vigencia, en la etapa siguiente habrá que distinguir entre adopción (octubre) y publicación (diciembre de 2005).\n\nNORMA: Codificación del Código del Trabajo No. 2005-017 (Registro Oficial Suplemento 167, 16-dic-2005)\nOTRAS: Ley 2005-3, Reformatoria a la Ley mediante la cual se establece el procedimiento oral en los juicios laborales (Registro Oficial Suplemento 52, 4-jul-2005)\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://ilo.org/dyn/natlex/natlex4.detail?p_classcount=17&p_classification=01.02&p_count=373&p_country=ECU&p_isn=47812&p_lang=es",
+      "titulo": "NATLEX - Ecuador - Codificación del Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=74469&p_country=ECU&p_classification=01.02",
+      "titulo": "NATLEX - Ecuador - Codificación del Código del Trabajo 2005-017.",
+      "citada": true
+    },
+    {
+      "url": "https://www.ces.gob.ec/lotaip/2020/Junio/Literal_a2/C%C3%B3digo%20del%20Trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://ecuador.justia.com/nacionales/codigos/codigo-de-trabajo/gdoc/",
+      "titulo": "Justia Ecuador :: Nacionales > Códigos > Código De Trabajo :: Ley de Ecuador",
+      "citada": true
+    },
+    {
+      "url": "http://www.lagoagrio.gob.ec/alcaldia/files/transparencia/2021/files/CODIGO-DE-TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambienteyenergia.gob.ec/wp-content/uploads/2023/02/CODIGO-DEL-TRABAJO-2-ACTUALIZADO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.cfn.fin.ec/wp-content/uploads/downloads/2016/08/Codigo-de-trabajo-1.pdf",
+      "titulo": "1 1 CODIGO DEL TRABAJO 2 3 Norma: Codificación 17 4",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/CODIGO_DEL_TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.quito-turismo.gob.ec/descargas/lotaip2015/JULIO/baselegal/CODIGO%20DEL%20TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.uafe.gob.ec/wp-content/uploads/downloads/2020/04/A2-CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecuadorencifras.gob.ec/LOTAIP/2017/DIJU/octubre/LA2_OCT_DIJU_CODIGO%20TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://gadgualaquiza.gob.ec/x2/wp-content/uploads/2024/04/CODIGO_DEL_TRABAJO_-_CT.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2017/05/CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.conasa.gob.ec/wp-content/uploads/BASES-LEGALES-PDF/C%C3%93DIGO%20DEL%20TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=76195&cs=1eSP0s68tNsvep6Ci6yjq3yWBXVTKbDTq5J8Uur3j8OXPl7FuCdnvPQ2EnBwjxXF1XNd0yBBp3wUmulxFFqQjCQ",
+      "titulo": "NATLEX - Ecuador - Ley reformatoria al Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=47812",
+      "titulo": "Ecuador - Codificación del Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://webapps.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=64499&p_country=ECU&p_classification=01",
+      "titulo": "NATLEX - Ecuador - Ley núm. 2003-10 reformatoria del artículo 113 del Código de Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=26599",
+      "titulo": "NATLEX - Ecuador - Ley núm. 133, reformatoria al Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.regulacionagua.gob.ec/wp-content/uploads/2022/11/CODIGO_DEL_TRABAJO.pdf",
+      "titulo": "LEXIS S.A. CÓDIGO DEL TRABAJO Tipo norma: Codificación Número de Norma: 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.tce.gob.ec/wp-content/uploads/2025/04/Codigo-del-Trabajo.pdf",
+      "titulo": "Página 1 de 158 www.lexis.com.ec TÍTULO: CÓDIGO DEL TRABAJO",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "MEX_2012",
+  "iso": "MEX",
+  "pais": "México",
+  "anio": 2012,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0705,
+  "incompleto": false,
+  "norma_propuesta": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo (DOF 30-11-2012)",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de México en 2012 es el **Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo**, publicado en el Diario Oficial de la Federación (DOF) el 30 de noviembre de 2012. La versión del DOF muestra que fue promulgado por Felipe de Jesús Calderón Hinojosa como decreto del Congreso General de los Estados Unidos Mexicanos. Por eso, aunque se llama \"decreto\", es una ley aprobada por el Congreso.\n\n**Por qué la elijo:**\n- **Fuente oficial:** aparece en el DOF y en el registro de la Cámara de Diputados como la reforma número 26 de la Ley Federal del Trabajo (DOF 30-11-2012).\n- **Alcance:** es una revisión amplia de la ley, no un ajuste puntual. Una fuente académica secundaria (Academia Fiscal de la UAA) indica que incluye definir el trabajo digno o decente, definir el hostigamiento y el acoso sexual, y regular el outsourcing, además de nuevas modalidades de contratación: por temporada, de capacitación inicial y periodos de prueba.\n- **Vigencia:** la misma fuente señala que entró en vigor el 1o. de diciembre de 2012. Por lo tanto, el año de la base coincide con el de expedición y vigencia.\n\nEn la búsqueda no apareció otra norma laboral del mismo año comparable en alcance. Sin embargo, la búsqueda se centró en esta reforma, así que conviene confirmar en NATLEX que no hay normas menores de 2012 antes de cerrar el campo de normas relacionadas.\n\nNORMA: Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo (DOF 30-11-2012)\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://dof.gob.mx/nota_detalle.php?codigo=5280815&amp=&fecha=30%2F11%2F2012",
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://academiafiscaluaa.blogspot.com/2012/12/decreto-por-el-que-se-reforman.html?m=1",
+      "titulo": "Publicaciones Academia Fiscal de la Universidad Autónoma de Aguascalientes: Reformas a la Ley Federal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+      "titulo": "Ley Federal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref26_30nov12.pdf",
+      "titulo": "Reforma 26: Ley Federal del Trabajo. DOF 30-11-2012",
+      "citada": false
+    },
+    {
+      "url": "https://www.uv.mx/uge/files/2014/05/Ley-Federal-del-Trabajo.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://gc.scalahed.com/recursos/files/r161r/w19408w/files/assets/common/downloads/publication.pdf",
+      "titulo": "Reforma a la Ley Federal del Trabajo (Diciembre del 2012) Especialista",
+      "citada": false
+    },
+    {
+      "url": "https://elconta.mx/resumen-reforma-laboral-2012/",
+      "titulo": "Resumen de cambios Reforma laboral 2012 a la LFT",
+      "citada": false
+    },
+    {
+      "url": "https://admiweb.col.gob.mx/archivos_prensa/banco_img/file_619d491161fe6_LEY_FEDERAL_DEL_TRABAJO.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO ÚLTIMA REFORMA ...",
+      "citada": false
+    },
+    {
+      "url": "https://congresomich.site/wp-content/uploads/2026/04/LEY-FEDERAL-DEL-TRABAJO.pdf",
+      "titulo": "15 DE ENERO DE 2026. Ley publicada en",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-primero/",
+      "titulo": "Artículos 1o. al 19 [Derecho al Trabajo] ‹ Ley Federal del Trabajo (LFT)",
+      "citada": false
+    }
+  ]
+}

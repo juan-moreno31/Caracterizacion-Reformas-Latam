@@ -1,0 +1,116 @@
+{
+  "id": "PER_2002",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2002,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1305,
+  "incompleto": false,
+  "norma_propuesta": "Ley N.° 27626",
+  "otras": "Ley N.° 27671; Ley N.° 27735; Ley N.° 27696; Decreto Supremo N.° 003-2002-TR",
+  "confianza": "alta",
+  "texto": "La reforma principal de Perú en 2002 es la **Ley N.° 27626**, que regula la actividad de las empresas especiales de servicios y de las cooperativas de trabajadores, conocida como Ley de Intermediación Laboral. Se publicó en el diario oficial El Peruano el 9 de enero de 2002. NATLEX (OIT) la registra con fecha de adopción 2002-01-09 y resume su objeto así: regular la intermediación laboral del régimen laboral de la actividad privada, así como cautelar adecuadamente los derechos de los trabajadores.\n\n**Por qué la elijo:** es la norma de mayor alcance en el mercado laboral ese año. Una fuente académica señala que reemplazó una regulación dispersa y que regula íntegramente el fenómeno de la intermediación. Tres cambios ilustran su alcance:\n- Limita la intermediación a casos de temporalidad, complementariedad o especialización.\n- Si se infringen esos casos, por el principio de primacía de la realidad se entienda que desde el inicio de la prestación de sus servicios los respectivos trabajadores han tenido contrato de trabajo con la empresa usuaria.\n- Crea un registro nacional a cargo del Ministerio de Trabajo y Promoción Social.\n\nEsta caracterización es preliminar y deberá validarse en la etapa de codificación.\n\n**Otras normas candidatas:**\n- **Ley N.° 27671:** modifica la Ley de Jornada de Trabajo (Decreto Legislativo N.° 854). Al haberse modificado numerosos artículos de esa ley, en julio de 2002 se aprobó un Texto Único Ordenado (TUO) mediante el D.S. 007-2002-TR. Tiene menor alcance, porque se limita a la jornada.\n- **Ley N.° 27735:** sobre gratificaciones, publicada con fecha de 28 de mayo de 2002. Es de carácter salarial y más puntual.\n- **Ley N.° 27696:** modifica la propia Ley 27626 y está vigente desde el 13 de abril del 2002.\n- **D.S. N.° 003-2002-TR:** es el reglamento de la Ley 27626.\n\nLas fuentes consultadas muestran que hubo varias normas laborales en 2002. Aun así, la Ley 27626 es la de mayor alcance, ya que reordena todo el régimen de intermediación, y está identificada en el texto oficial y en NATLEX. Por eso asigno confianza alta.\n\n**Notas para etapas posteriores:**\n- Hay una fecha clave posterior a la publicación: el reglamento se publicó el 28 de abril de 2002 y una fuente académica sitúa su entrada en vigencia el 27 de mayo de 2002. Esto puede justificar marcar `vigencia_escalonada` como verdadera.\n- Hay una discrepancia menor de fechas: la Ley 27626 se publicó el 9 de enero, pero una fuente la da por vigente desde el 10 de enero de 2002.\n\nNORMA: Ley N.° 27626\nOTRAS: Ley N.° 27671; Ley N.° 27735; Ley N.° 27696; Decreto Supremo N.° 003-2002-TR\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://lpderecho.pe/ley-intermediacion-laboral-ley-27626/",
+      "titulo": "Ley de Intermediación Laboral (Ley 27626) [actualizado 2021]",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=61770",
+      "titulo": "NATLEX - Peru - Ley núm. 27626 que regula la actividad de las empresas especiales de servicios y de las cooperativas de trabajadores.",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-27626-ley-575978022",
+      "titulo": "Ley Nº 27626. Ley que regula la actividad de las empresas especiales de servicios y de las cooperativas de trabajadores - vLex Perú",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/11737/12303/",
+      "titulo": "La intermediación laboral peruana: Alcances (no todos ...",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.udep.edu.pe/derecho/en/article/download/2905/2426/8294?inline=1",
+      "titulo": "vía intermediación laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.sunat.gob.pe/legislacion/resumen/2002/julio/jul04.htm",
+      "titulo": "Resumen Legal - 04/07/2002",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/2AD0D0DFA71EA38705257E26005C8083/$FILE/2_DECRETO_SUPREMO_005_04_07_2002.pdf",
+      "titulo": "TRABAJO Y PROMOCION DEL EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://www.deperu.com/legislacion/ley-27626-pdf.html",
+      "titulo": "Ley 27626 - PDF",
+      "citada": false
+    },
+    {
+      "url": "https://www.exact.com.pe/noticias/marco-legal-y-regulacion-de-la-intermediacion-laboral-en-peru",
+      "titulo": "Marco Legal y Regulación de la Intermediación Laboral en Perú",
+      "citada": false
+    },
+    {
+      "url": "https://revistafdcp.unmsm.edu.pe/index.php/revderunmsm/article/view/534",
+      "titulo": "Comentarios a la Ley 27626 de intermediación laboral",
+      "citada": false
+    },
+    {
+      "url": "https://lacamara.pe/reglas-basicas-de-la-intermediacion-laboral/",
+      "titulo": "Reglas básicas de la intermediación laboral - La Cámara",
+      "citada": false
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/E0441809E93D80C90525829D006239A5/$FILE/DS_003_2002_TR.pdf",
+      "titulo": "ESTABLECEN DISPOSICIONES PARA LA APLICACIÓN DE LAS LEYES NºS. 27626 Y",
+      "citada": false
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/095DCB802E2F85FB05257DFE00540D52/$FILE/tratamiento_laboral_gratificaciones_legales.pdf",
+      "titulo": "TRATAMIENTO LABORAL DE LAS GRATIFICACIONES LEGALES",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=62029",
+      "titulo": "NATLEX - Peru - Ley núm. 27735 que regula el otorgamiento de las gratificaciones para los trabajadores del régimen de la actividad privada por Fiestas Patrias y Navidad.",
+      "citada": false
+    },
+    {
+      "url": "https://www.deperu.com/legislacion/ley-27671-pdf.html",
+      "titulo": "Ley 27671 - PDF",
+      "citada": false
+    },
+    {
+      "url": "https://juris.pe/blog/claves-gratificaciones-legales-bonificacion-extraordinaria-derecho-laboral/",
+      "titulo": "6 claves para entender las gratificaciones legales en el Perú",
+      "citada": false
+    },
+    {
+      "url": "https://actualidadlaboral.com/wp-content/uploads/2020/07/cuadernillo-de-trabajo-las-gratificaciones-ordinarias.pdf",
+      "titulo": "LAS GRATIFICACIONES ORDINARIAS Cuadernillo de trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/gratificaciones-privada-patrias-navidad-373208234",
+      "titulo": "Ley Nº. 27735, Ley que regula el otorgamiento de las gratificaciones para los trabajadores del Régimen de la Actividad Privada por Fiestas Patrias y Navidad - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://www.mites.gob.es/es/mundo/consejerias/peru/webempleo/es/informacion_laboral/retribuciones_beneficios/index.htm",
+      "titulo": "Portal de empleo de la Consejería del Ministerio de Trabajo, Migraciones y Seguridad Social en Perú. Retribuciones Y Beneficios sociales de los trabajadores",
+      "citada": false
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/838923DDFA61AA8105257DE30075E817/$FILE/GRATIFICACIONES.pdf",
+      "titulo": "GRATIFICACIONES Clotilde Atahuaman Sumarán",
+      "citada": false
+    }
+  ]
+}

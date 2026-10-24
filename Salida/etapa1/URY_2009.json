@@ -1,0 +1,274 @@
+{
+  "id": "URY_2009",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2009,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3755,
+  "incompleto": false,
+  "norma": "Ley N° 18.566 de 2009",
+  "texto": "# Informe de investigación: URY 2009, Ley N° 18.566 (Sistema de Negociación Colectiva)\n\n## 1. Objetivo declarado\nNo pude consultar la exposición de motivos de 2007-2009, así que las intenciones del legislador de entonces no quedan verificadas. Lo que sí está documentado:\n- **Origen del proyecto.** El proyecto se remitió al Parlamento en octubre de 2007 y terminó aprobado como Ley n.º 18.566.\n- **Defensa posterior del Gobierno ante la OIT.** El Gobierno sostuvo que la ley privilegia la negociación bilateral por encima de la negociación tripartita. También alegó que la consulta tripartita para fijar salarios mínimos permitía levantar las reiteradas observaciones por incumplimiento del Convenio núm. 131, que exige consultar a las partes, algo que Uruguay no hacía.\n- **Principio rector del texto.** Reconoce que en ejercicio de su autonomía colectiva, empleadores y organizaciones de trabajadores tienen derecho a adoptar libremente acuerdos sobre las condiciones de trabajo y empleo.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**derechos_colectivos_sindicales → aumenta**\n- **Deber de negociar de buena fe.** Las partes deben fundamentar sus posiciones y intercambiar las informaciones necesarias para un desarrollo normal de la negociación.\n- **Consejo Superior Tripartito.** Lo crea como órgano de coordinación y gobernanza de las relaciones laborales. Entre sus competencias:\n  - clasificar los grupos de negociación tripartita por rama o cadena productiva y designar a las organizaciones negociadoras;\n  - en el texto original, pronunciarse sobre los niveles de negociación tripartita y bipartita.\n- **Legitimación en la empresa.** El texto original disponía que, en la negociación de empresa sin organización de trabajadores, la legitimación recae en la organización más representativa de nivel superior. Esto refuerza al sindicato de rama.\n- **Ultraactividad.** La ley zanjó por vía legislativa el debate al consagrar expresamente la ultraactividad: el convenio vencido mantenía todas sus cláusulas hasta ser sustituido por un nuevo acuerdo, salvo pacto en contrario.\n\n**salario_y_negociacion_salarial → aumenta**\n- **Competencias de los Consejos de Salarios.** El artículo 12 modificó la ley de 1943 y volvió obligatorias dos competencias que antes se incluían de forma voluntaria: el ajuste de salarios y la regulación de \"otras condiciones de trabajo\". Según el Gobierno, las condiciones de trabajo solo pueden fijarse si las acuerdan los delegados de empleadores y trabajadores del grupo salarial respectivo.\n- **Articulación entre niveles.** El artículo 15 impide que la negociación de nivel inferior (rama o empresa) reduzca los salarios mínimos.\n- **Eficacia general de las decisiones.** Desde 2009, las decisiones de los Consejos valen una vez votadas y se aplican a todas las empresas y trabajadores de la rama. Antes se recogían en decretos del Poder Ejecutivo.\n- **Salario mínimo nacional.** El Consejo Superior Tripartito debe pronunciarse antes de que se fije o modifique el salario mínimo nacional.\n\n**otro (prevención y solución de conflictos colectivos) → reorganiza**\n- El Ministerio de Trabajo y Seguridad Social recibe competencias de mediación y conciliación en los conflictos colectivos.\n- El artículo 21 fija un deber de paz que prohíbe promover medidas de conflicto \"durante la vigencia de los convenios que se celebren\".\n- Lo codifico como \"reorganiza\": el deber de paz limita la acción gremial mientras el convenio está vigente, pero a cambio ofrece canales institucionales de solución.\n\nNo encontré contenido en las demás dimensiones (contratación temporal, despido, jornada, tercerización, etc.).\n\n**Orientación sugerida: `protectora`.** Amplía garantías colectivas y la cobertura de los convenios.\n\n## 3. Población objetivo\n- `asalariados_formales` del sector privado. La doctrina habla de la ley de negociación colectiva de la actividad privada y personas públicas no estatales.\n- Indirectamente, también los empleadores en general. La norma no está dirigida específicamente a mipymes.\n- El sector público queda fuera: lo regula la Ley 18.508.\n\n## 4. Contexto político y económico\n- **Antecedente inmediato.** Entre 1992 y 2004 el Gobierno de entonces había dejado de convocar a los consejos de salarios, restringiendo de esta manera la negociación apenas al nivel de las empresas. El Consejo Superior de Salarios desapareció y fue reinstalado en 2005 mediante el Decreto 105/005.\n- **Oposición empresarial.** Ese mismo año, la Cámara de Industrias y la Cámara Nacional de Comercio y Servicios, con apoyo de la OIE, presentaron una queja ante la OIT alegando violación de los Convenios 98 y 154. Los empleadores afirmaron que desde 2005 se había prescindido de su opinión en la modificación de la legislación laboral.\n- **Sin fuente consultada:** el gobierno era del Frente Amplio, presidido por Tabaré Vázquez, en un ciclo de crecimiento económico. No lo verifiqué en esta etapa.\n\n## 5. ¿Revierte una reforma previa?\n**No, en sentido normativo** (`revierte_reforma_previa` = false). No deroga una ley flexibilizadora anterior. Modifica y complementa la Ley 10.449 de 1943, que fue parcialmente modificada por la Ley Nº 18.566.\n\nSí revierte una práctica de hecho: la no convocatoria de los Consejos y el abstencionismo legislativo. Conviene anotarlo en `notas`.\n\n## 6. Entrada en vigor\n- **Fechas verificadas.** Promulgada en Montevideo el 11 de setiembre de 2009. Publicada en el Diario Oficial el 30/09/2009.\n- **Fecha exacta de vigencia: no verificada.** No encontré una fecha propia de vigencia en el texto consultado. Si rige el plazo supletorio general tras la publicación (sin fuente), la vigencia caería entre fines de septiembre y octubre de 2009, siempre dentro de 2009.\n- **Propuesta de codificación:** `fecha_entrada_vigencia` = 2009-09 (tentativa) o \"desconocida\".\n- **Aplicación escalonada:** no identifiqué ninguna (`vigencia_escalonada` = false).\n\n## 7. Estado de vigencia posterior\n**Categoría propuesta: `modificada_o_derogada_despues`.**\n\n**Ley 19.027 (18/12/2012).** Modificó la integración del Consejo Superior Tripartito: redujo los delegados del Poder Ejecutivo y dejó a las tres delegaciones en paridad numérica, en respuesta parcial al Comité de Libertad Sindical.\n\n**Ley 20.145 (17/05/2023).** Recogió las objeciones del caso n.º 2699 de la OIT con cuatro cambios:\n1. **Personería jurídica:** la exige a sindicatos y cámaras para el intercambio de información confidencial (organizaciones sociales y empresariales deberán contar con personalidad jurídica reconocida).\n2. **Niveles de negociación:** deroga la competencia del Consejo Superior Tripartito sobre ellos (el nivel de Negociación Colectiva sea establecido por las partes y no sea objeto de votación en una entidad tripartita). Los sindicatos sostienen que desde la vigencia de la ley, nunca se verificó la injerencia estatal que se le atribuía a esa competencia.\n3. **Legitimación en la empresa:** sin sindicato en la empresa, negocian los propios trabajadores de la empresa.\n4. **Ultraactividad:** deroga la ultraactividad, de modo que los convenios vencidos dejan de regir.\n\nAdemás, la ley aclara que el registro y la publicación no constituyen autorización, homologación ni aprobación por el Poder Ejecutivo. La doctrina menciona también la Ley 20.127 (2023), relativa a la personería; no verifiqué su contenido.\n\n**Cuánto pesa la reforma de 2023.** La derogación de la ultraactividad afecta un componente central de la ley original, pero llegó catorce años después y por vía legislativa, no judicial. Por eso corresponde la categoría de modificación posterior y no de anulación. Para el análisis econométrico, el \"tratamiento\" se atenúa a partir de mayo de 2023 en lo que toca a los convenios bipartitos. No afecta las decisiones de los Consejos de Salarios.\n\n**Proceso abierto en la OIT.** En 2025, la Comisión de Aplicación de Normas exhortó al gobierno a adoptar \"las medidas legislativas necesarias\", apuntando al artículo 12, y pidió un informe antes del 1° de setiembre de 2026. El artículo 12 sigue sin cambios.\n\n**Fallos judiciales.** No encontré sentencias de inconstitucionalidad de la Suprema Corte contra la Ley 18.566. Hay jurisprudencia que la aplica: una sentencia de 2018 de la Suprema Corte invoca el artículo 15. Que no haya aparecido ningún fallo de inconstitucionalidad no prueba que no exista; queda pendiente de verificación.\n\n## 8. Lo que no pude verificar\n- La exposición de motivos original y los objetivos declarados en 2007-2009.\n- La fecha exacta de entrada en vigor.\n- Si hubo acciones de inconstitucionalidad ante la Suprema Corte y cómo se resolvieron.\n- El contenido de la Ley 20.127.\n- El contexto macroeconómico y el gobierno de turno (sin fuente).\n- **Discrepancia de fechas:** la fecha de adopción del 2009-09-02 que registra NATLEX no coincide con la promulgación del 11/09/2009. Probablemente corresponde a la sanción parlamentaria (sin fuente).",
+  "fuentes": [
+    {
+      "url": "https://www.cuestaduarte.org.uy/sites/default/files/2023-06/Ley%2020145%20reforma%20de%20la%20ley%2018566.pdf",
+      "titulo": "NEGOCIACIÓN COLECTIVA",
+      "citada": true
+    },
+    {
+      "url": "https://docs.uruguay.justia.com/nacionales/leyes/ley-18566-sep-11-2009.pdf",
+      "titulo": "Ley Nº 18.566 SISTEMA DE NEGOCIACIÓN COLECTIVA",
+      "citada": true
+    },
+    {
+      "url": "https://www.ferrere.com/en/news/tres-cambios-clave-en-la-ley-de-negociacion-colectiva/",
+      "titulo": "News",
+      "citada": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/374038151_La_derogacion_de_la_ultraactividad_de_los_convenios_colectivos_en_el_Uruguay_un_retorno_sobre_la_teoria_de_la_incorporacion",
+      "titulo": "(PDF) La derogación de la ultraactividad de los convenios colectivos en el Uruguay: ¿un retorno sobre la teoría de la incorporación?",
+      "citada": true
+    },
+    {
+      "url": "https://www.cronista.com/uruguay/politica-uy/la-oit-exhorto-al-gobierno-a-modificar-la-ley-que-regula-la-negociacion-colectiva/",
+      "titulo": "La OIT exhortó al gobierno a modificar la ley que regula la negociación colectiva - El Cronista",
+      "citada": true
+    },
+    {
+      "url": "https://galantemartins.com/negociacion-colectiva-nueva-ley-se-adapta-a-las-reglas-de-oit/",
+      "titulo": "Negociación colectiva: nueva ley se adapta a las reglas de OIT",
+      "citada": true
+    },
+    {
+      "url": "https://www.forvismazars.com/uy/es/insights/nuestras-publicaciones/legales/ley-de-negociacion-colectiva",
+      "titulo": "Breve informe sobre la Ley nº 20.145, modificaciones a la Ley nº 18.566 de negociación colectiva - Forvis Mazars",
+      "citada": true
+    },
+    {
+      "url": "https://www.genteditalia.org/2023/05/27/la-ley-20-145-y-la-cuestion-de-la-ultractividad/",
+      "titulo": "La Ley 20.145 y la cuestión de la ultractividad - Gente d'Italia",
+      "citada": true
+    },
+    {
+      "url": "https://fcu.edu.uy/p/modificaciones-de-la-ley-de-negociacion-colectiva-de-la-actividad-privada-y-personas-publicas-no-estatales-n-18-566",
+      "titulo": "Modificaciones de la Ley de negociación colectiva de la actividad privada y personas públicas no estatales n.°18.566",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/ley-n-18566-negociacion-632166565",
+      "titulo": "Ley N° 18566, de Negociación Colectiva - vLex Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.textovigente.com/ley-18566/",
+      "titulo": "Sistema de negociación colectiva del sector privado de Uruguay actualizado 2026 · texto vigente en PDF",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/866",
+      "titulo": "Modificaciones en la integración del Consejo Superior Tripartito",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18566-2009/8",
+      "titulo": "consejo superior tripartito - ley de negociacion colectiva",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/727615757",
+      "titulo": "Sentencia Definitiva nº 666/2018 de Supreme Court of Justice (Uruguay), 23 de Mayo de 2018 - vLex Uruguay - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://www.cuestaduarte.org.uy/sites/default/files/2022-07/ProcesoReformaNC_220722.pdf",
+      "titulo": "INFORME La reforma de la ley de negociación colectiva del",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/media/221376/download",
+      "titulo": "C.App-Cas 7-Uruguay-C98-Web-NORME-190610-5.docx 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.pdelc.com.uy/es/novedades/laboral/oit-insta-a-modificar-los-consejos-de-salarios/",
+      "titulo": "OIT insta a modificar los Consejos de Salarios",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18566-2009/18",
+      "titulo": "Ley N° 18566",
+      "citada": true
+    },
+    {
+      "url": "http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2393-61932023000201204",
+      "titulo": "La derogación de la ultraactividad de los convenios colectivos en el Uruguay: ¿un retorno sobre la teoría de la incorporación?",
+      "citada": false
+    },
+    {
+      "url": "https://www.ferrere.com/es/novedades/tres-cambios-clave-en-la-ley-de-negociacion-colectiva/",
+      "titulo": "Novedades",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/4068",
+      "titulo": "Impacts of the Elimination of Ultraactivity in the National System of Collective Bargaining",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.ucu.edu.uy/index.php/revistadederecho/article/download/3539/3074",
+      "titulo": "Revista de Derecho n.º 28 (julio-diciembre 2023) ISSN en línea 2393-6193",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/index.php/breve-comentario-al-proyecto-de-ley-propuesto-por-el-poder-ejecutivo-que-modifica-disposiciones-de-la-ley-18566-sobre-negociacion-colectiva-en-uruguay/24795",
+      "titulo": "Breve comentario al proyecto de ley propuesto por el Poder Ejecutivo que modifica disposiciones de la Ley 18.566 sobre Negociación Colectiva en Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://www.gub.uy/presidencia/institucional/normativa/ley-n-20145-fecha-17052023-se-modifica-ley-n-18566-11-setiembre-2009-sobre",
+      "titulo": "Ley N° 20.145 de fecha 17/05/2023 Se modifica la Ley n° 18.566, de 11 de setiembre de 2009, sobre Negociación Colectiva",
+      "citada": false
+    },
+    {
+      "url": "https://www.elobservador.com.uy/nacional/la-oit-vuelve-senalar-uruguay-la-negociacion-colectiva-y-pide-revisar-el-rol-los-consejos-salarios-n6034509",
+      "titulo": "La OIT vuelve a señalar a Uruguay por la negociación colectiva y pide revisar el rol de los consejos de salarios",
+      "citada": false
+    },
+    {
+      "url": "https://www.ferrere.com/es/novedades/proyecto-de-ley-con-modificaciones-a-la-ley-de-negociacion-colectiva/",
+      "titulo": "Novedades",
+      "citada": false
+    },
+    {
+      "url": "https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8440",
+      "titulo": "Suprema Corte de Justicia de la NaciÃ³n",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/la-corte-suprema-de-justicia-de-la-nacion-declaro-lainconstitucionalidad-de-las-sumas-no-remunerativas-pactadas-en-convenioscolectivos/12395",
+      "titulo": "La Corte Suprema de Justicia de la Nación Declaró la Inconstitucionalidad de las Sumas No Remunerativas Pactadas en Convenios Colectivos",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2018/SU086-18.htm",
+      "titulo": "SU086-18 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2024/c-288-24.htm",
+      "titulo": "Sentencia C-288 de 2024 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronista.com/opinion/la-corte-suprema-ratifico-la-inconstitucionalidad-de-las-prestaciones-no-remunerativas-pactadas-en-los-convenios-colectivos-de-trabajo/",
+      "titulo": "La Corte Suprema ratificó la inconstitucionalidad de las prestaciones no remunerativas pactadas en los convenios colectivos de trabajo - El Cronista",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambitojuridico.com/noticias/analisis/laboral-y-seguridad-social/los-pactos-colectivos-son-constitucionales",
+      "titulo": "Los pactos colectivos son constitucionales",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2015/C-495-15.htm",
+      "titulo": "REPÚBLICA DE COLOMBIA",
+      "citada": false
+    },
+    {
+      "url": "https://www2.jus.mendoza.gov.ar/listas/proveidos/vertexto.php?ide=3858650085",
+      "titulo": "Fojas: 520",
+      "citada": false
+    },
+    {
+      "url": "https://www.elperuano.pe/noticia/305246-un-convenio-colectivo-beneficia-a-todos-corte-suprema-fija-criterios-para-sindicatos-minoritarios",
+      "titulo": "¿Un convenio colectivo beneficia a todos? Corte Suprema fija criterios para sindicatos minoritarios",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/colombia/2026/09/22/corte-suprema-fija-limites-a-despidos-durante-conflictos-sindicales-y-ordena-reintegro-laboral/",
+      "titulo": "Corte Suprema fija límites a despidos durante conflictos sindicales y ordena reintegro laboral - Infobae",
+      "citada": false
+    },
+    {
+      "url": "http://www.rcj.com.uy/web/71/Noticia/Ley-N%C2%B0-19.027-sobre-modificaci%C3%B3n-de-la-integraci%C3%B3n-del-Consejo-Superior-Tripartito.html",
+      "titulo": "Ley N° 19.027 sobre modificación de la integración del Consejo Superior Tripartito",
+      "citada": false
+    },
+    {
+      "url": "https://www.ppv.com.uy/en/uncategorized-en/observaciones-de-la-oit-a-la-ley-de-negociacion-colectiva-3/",
+      "titulo": "Observaciones de la OIT a la ley de negociación colectiva",
+      "citada": false
+    },
+    {
+      "url": "https://galantemartins.com/modificaciones-a-la-ley-n-18-566-negociacion-colectiva/",
+      "titulo": "Modificaciones a la Ley N° 18.566: “Negociación colectiva”",
+      "citada": false
+    },
+    {
+      "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/sites/ministerio-trabajo-seguridad-social/files/2020-11/Reglamento%20del%20Consejo%20Superior%20Tripartito.pdf",
+      "titulo": "ANEXO I DEL ACTA DEL CONSEJO SUPERIOR TRIPARTITO DE FECHA 14 DE OCTUBRE DE 2016",
+      "citada": false
+    },
+    {
+      "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/consejo-superior-tripartito",
+      "titulo": "Consejo Superior Tripartito",
+      "citada": false
+    },
+    {
+      "url": "https://grupormultimedio.com/la-oit-exhorto-a-uruguay-a-revisar-la-negociacion-colectiva-id197865/",
+      "titulo": "La OIT exhortó a Uruguay a revisar la negociación colectiva",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.poderjudicial.gub.uy/index.php?id=3860&l_typdoc=&lvl=categ_see&nb_per_page_custom=29&nbr_lignes=29&page=1",
+      "titulo": "Catálogo en línea Biblioteca de la Suprema Corte de Justicia Dr.Nelson García Otero",
+      "citada": false
+    },
+    {
+      "url": "http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+      "titulo": "Ley General de Mecanismos Alternativos de Solución de ...",
+      "citada": false
+    },
+    {
+      "url": "https://comisionjurisdiccionlaboral.poder-judicial.go.cr/images/descargables/Decreto40875.pdf",
+      "titulo": "DECRETO N° 40875 - MTSS - JP REGLAMENTO PARA LA SOLUCIÓN DE CONFLICTOS JURÍDICO",
+      "citada": false
+    },
+    {
+      "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/leyes/ley_de_mecanismos_alternativos_para_la_solucion_de_controversias_para_el_estado_de_nuevo_leon/",
+      "titulo": "H. Congreso de Nuevo León",
+      "citada": false
+    },
+    {
+      "url": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/ley/vig/leyvig173.pdf",
+      "titulo": "leyvig173.pdf - Periódico Oficial",
+      "citada": false
+    },
+    {
+      "url": "https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1315-62682004000200005",
+      "titulo": "Algunos métodos alternos de resolución de conflictos y su consagración en la Constitución de la República Bolivariana de Venezuela: El arbitraje y la mediación",
+      "citada": false
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/MANUAL_DE_CONCILIACION_LABORAL_24-04-2020_DAGN_VF.pdf",
+      "titulo": "Manual de Conciliación Laboral en materia individual",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/per193485.pdf",
+      "titulo": "Decreto Legislativo que modifica la Ley Nº 26872, ...",
+      "citada": false
+    },
+    {
+      "url": "http://www.ftaa-alca.org/busfac/comarb/Peru/lconcil1_s.asp",
+      "titulo": "ALCA - FTAA - ZLEA - Commercial Arbitration / Arbitraje Comercial",
+      "citada": false
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6668",
+      "titulo": "Decreto 1818 de 1998 - Gestor Normativo - Función Pública",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "CHL_2023",
+  "iso": "CHL",
+  "pais": "Chile",
+  "anio": 2023,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1875,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 21.561",
+  "otras": "Ley N° 21.578; Ley N° 21.645",
+  "confianza": "alta",
+  "texto": "Identifiqué la **Ley N° 21.561** como la reforma laboral principal de Chile en 2023. Modifica el Código del Trabajo para reducir la jornada laboral ordinaria y tiene confirmación oficial: fue publicada en el Diario Oficial de fecha 26 de abril de 2023, según la Dirección del Trabajo. El presidente Gabriel Boric la promulgó el 14 de abril, después de que el Congreso Nacional la despachara.\n\n**Qué hace.** Según la Dirección del Trabajo, su objetivo principal es reducir la jornada. También incluye la distribución de la jornada en cuatro días de trabajo por tres de descanso; la compensación de horas de trabajo extraordinarias por días de descanso adicionales; el establecimiento del derecho a exigir la implementación de bandas horarias para trabajadores con hijos menores, además de una precisión de los casos que quedan excluidos de la limitación de jornada.\n\n**Por qué la elijo.** Es la norma con mayor alcance sobre el mercado laboral en 2023: se aplica a todos los trabajadores regulados por el Código del Trabajo y cambia la regla general de jornada. Las demás candidatas tienen un alcance menor.\n\n**Nota para etapas posteriores.** Aunque se publicó en 2023, la reducción de la jornada se hará de forma gradual a partir del 26.04.2024 y continuará hasta el 26.04.2028. Por eso, en la base habrá que marcar `vigencia_escalonada = true`.\n\n**Otras normas laborales de 2023:**\n- **Ley N° 21.578.** Fue publicada en el Diario Oficial el 30 de mayo de 2023. Reajusta el ingreso mínimo mensual, amplía las asignaciones familiar y maternal, y extiende el subsidio para alcanzar un ingreso mínimo garantizado y establece un subsidio temporal para micro, pequeñas y medianas empresas y cooperativas. Es una ley de reajuste periódico, no una reforma estructural de la legislación laboral.\n- **Ley N° 21.645 (conciliación de la vida personal, familiar y laboral).** Se promulgó el 22 de diciembre de 2023 y se publicó el 29 de diciembre de 2023. Regula el trabajo a distancia o teletrabajo para personas cuidadoras. Pertenece al mismo año, pero entró en vigencia el 29 de enero de 2024 y su alcance se limita a esa población.\n- **Ley N° 21.643 («Ley Karin», sobre acoso laboral) (sin fuente).** Según mi conocimiento, se publicó en enero de 2024, así que la excluyo del año 2023. No lo verifiqué en esta búsqueda.\n\nNORMA: Ley N° 21.561\nOTRAS: Ley N° 21.578; Ley N° 21.645\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/articles-107884_recurso_63.pdf",
+      "titulo": "LEY N° 21.561; QUE MODIFICA EL CÓDIGO DEL TRABAJO CON EL OBJETO DE",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/w3-propertyname-2556.html",
+      "titulo": "Minisitio 40 horas - DT - Dirección del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.mintrab.gob.cl/ley-que-reduce-la-jornada-laboral-a-40-horas-semanales-es-publicada-en-el-diario-oficial/",
+      "titulo": "Ley que reduce la jornada laboral a 40 horas semanales es publicada en el Diario Oficial - Ministerio del Trabajo y Previsión Social",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-125559.html",
+      "titulo": "ORD. N° 81/2 - DT - Normativa 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://www.achs.cl/docs/librariesprovider2/default-document-library/ficha-tecnica_ley-21-645.pdf?sfvrsn=b77a7720_4",
+      "titulo": "ción y familia (Ley 21.645)",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/ley-21645_29-dic-2023.pdf",
+      "titulo": "Ley 21645 Documento firmado digitalmente por Diego Matte Palacios, Director.",
+      "citada": true
+    },
+    {
+      "url": "https://scr.cl/2023/06/02/reajuste-del-ingreso-minimo-mensual-de-acuerdo-a-la-ley-n-21-578-publicada-en-el-diario-oficial-el-30-de-mayo-de-2023/",
+      "titulo": "Reajuste del Ingreso Mínimo Mensual de acuerdo a la Ley N° 21.578, publicada en el Diario Oficial el 30 de mayo de 2023",
+      "citada": true
+    },
+    {
+      "url": "https://jdf.cl/en/ley-al-dia-se-publica-la-ley-no-21-578-que-reajusta-el-monto-del-ingreso-minimo-mensual-aumenta-el-universo-de-beneficiarios-y-beneficiarias-de-la-asignacion-familiar-y-maternal-y-extiende-el-ingr/",
+      "titulo": "Ley al día: Se publica la Ley No. 21.578 que reajusta el monto del ingreso mínimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignación familiar y maternal y, extiende el ingreso mínimo garantizado y subsidio temporal a las micro, pequeñas y medianas empresas. - JDF Jara del Favero",
+      "citada": true
+    },
+    {
+      "url": "https://capacitaciondt.dirtrab.cl/pluginfile.php/559/mod_page/content/10/DT_Ley%2021.561%20que%20reduce%20la%20jornada%20de%20trabajo%20a%2040%20horas..pdf",
+      "titulo": "LEY N° 21.561; QUE MODIFICA EL CÓDIGO DEL TRABAJO CON EL OBJETO DE",
+      "citada": false
+    },
+    {
+      "url": "https://www.cnnchile.com/sin-categoria/diario-oficial-publico-ley-40-horas/",
+      "titulo": "Diario Oficial publicó la ley que reduce la jornada laboral a 40 horas",
+      "citada": false
+    },
+    {
+      "url": "https://www.ascende.cl/ley-no-21561-modifica-el-codigo-del-trabajo-con-el-objeto-de-reducir-la-jornada-laboral/",
+      "titulo": "Ley nº 21.561: Modifica el Código del Trabajo con el objeto de reducir la jornada laboral - Ascende Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://newsflash.asoex.cl/userfiles/file/2022/LEY%2021_561%2040%20HORAS.pdf",
+      "titulo": "Ley N° 21.561",
+      "citada": false
+    },
+    {
+      "url": "https://www.delaboral.cl/reduccion-jornada-laboral-40-horas/",
+      "titulo": "Reducción de la Jornada Laboral. Ley de 40 Horas y sus Implicancias.",
+      "citada": false
+    },
+    {
+      "url": "https://www.inspecciondeltrabajochile.com/ley-40-horas-semanales/",
+      "titulo": "Ley 40 horas semanales Chile (Ley 21.561) - Inspección del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://actualidadjuridica.doe.cl/ley-n-21-645-ley-de-conciliacion-de-vida-familiar-y-laboral/",
+      "titulo": "Ley N° 21.645, ley de conciliación de vida familiar y laboral - DOE",
+      "citada": false
+    },
+    {
+      "url": "https://ecija.com/sala-de-prensa/82465/",
+      "titulo": "Ley de Conciliación de la Vida Familiar y Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.pandape.com/blog/ley-21645-de-chile/",
+      "titulo": "Ley 21.645 para conciliar la vida laboral y familiar - Pandape",
+      "citada": false
+    },
+    {
+      "url": "https://arhabogados.com/ley-conciliacion-de-la-vida-familiar-personal-y-laboral/",
+      "titulo": "Ley Conciliación de la Vida Familiar, Personal y Laboral • ARH Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-125522.html",
+      "titulo": "ORD. N°67/1 - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://www.buk.cl/blog/la-nueva-ley-de-conciliacion-de-vida-laboral-familiar-y-personal",
+      "titulo": "Ley de conciliación: vida laboral, familiar y personal - Buk",
+      "citada": false
+    },
+    {
+      "url": "https://lyd.org/centro-de-prensa/noticias/2024/01/entro-en-vigencia-ley-sobre-conciliacion-laboral-cuales-son-sus-alcances/",
+      "titulo": "ENTRÓ EN VIGENCIA LEY SOBRE CONCILIACIÓN LABORAL ¿CUÁLES SON SUS ALCANCES?",
+      "citada": false
+    },
+    {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1204399",
+      "titulo": "Ley Chile - Resolución 648 EXENTA 21-JUN-2024 MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL, SUBSECRETARÍA DEL TRABAJO - Biblioteca del Congreso Nacional",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.cl/vid/ley-num-21578-publicada-932629955",
+      "titulo": "Ley núm. 21578, publicada el 30 de Mayo de 2023. REAJUSTA EL MONTO DEL INGRESO MÍNIMO MENSUAL, AUMENTA EL UNIVERSO DE BENEFICIARIOS Y BENEFICIARIAS DE LA ASIGNACIÓN FAMILIAR Y MATERNAL, Y EXTIENDE EL INGRESO MÍNIMO GARANTIZADO Y EL SUBSIDIO TEMPORAL A LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS EN LA FORMA QUE INDICA - vLex Chile - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://www.cerlatam.com/normatividad/ley-21-578-reajuste-de-ingreso-minimo-mensual/",
+      "titulo": "Ley 21.578 Reajuste de Ingreso mínimo mensual. - Centro de Estudios Regulatorios",
+      "citada": false
+    },
+    {
+      "url": "https://www.ossandon.cl/esp/ley-numero-21-578-ingreso-minimo-mensual/",
+      "titulo": "Ley número 21.578: ingreso mínimo mensual",
+      "citada": false
+    },
+    {
+      "url": "https://bofillmir.cl/eng/ley-21-578-ajusta-el-monto-del-ingreso-minimo-mensual/",
+      "titulo": "Ley 21.578 ajusta el monto del Ingreso Mínimo Mensual - Bofill Mir Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://aylwinestudio.cl/ley-n21-561-modifica-el-codigo-del-trabajo-con-el-objeto-de-reducir-la-jornada-laboral-4/",
+      "titulo": "Ley N°21.578. Reajusta el monto del ingreso minimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignación familiar, maternal, y extiende el ingreso minimo garantizado y el subsidio temporal a las micro, pequeñas y medianas empresas en la forma que indica. - Aylwin Estudio",
+      "citada": false
+    },
+    {
+      "url": "https://fontaineycia.cl/nuevo-ingreso-minimo-mensual/",
+      "titulo": "Nuevo Ingreso Mínimo Mensual - Fontaine & Cía.",
+      "citada": false
+    },
+    {
+      "url": "https://actualidadjuridica.doe.cl/nueva-ley-reajusta-el-monto-del-ingreso-minimo-mensual/",
+      "titulo": "Nueva ley reajusta el monto del ingreso mínimo mensual - DOE",
+      "citada": false
+    },
+    {
+      "url": "https://bofillmir.cl/eng/de-acuerdo-con-la-ley-21-587-a-contar-de-hoy-1-de-septiembre-de-2023-el-ingreso-minimo-mensual-para-los-trabajadores-y-las-trabajadoras-mayores-de-18-anos-de-edad-y-hasta-los-65-anos-de-edad-sera-d/",
+      "titulo": "De acuerdo con la Ley 21.587, a contar de hoy, 1 de septiembre de 2023, el ingreso mínimo mensual para los trabajadores y las trabajadoras mayores de 18 años de edad y hasta los 65 años de edad será de $460.000. - Bofill Mir Abogados",
+      "citada": false
+    }
+  ]
+}

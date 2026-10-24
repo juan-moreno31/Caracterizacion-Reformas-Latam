@@ -1,0 +1,279 @@
+{
+  "id": "MEX_2017",
+  "iso": "MEX",
+  "pais": "México",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.366,
+  "incompleto": false,
+  "norma": "Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral (DOF 24-02-2017)",
+  "texto": "# Informe de investigación: MEX 2017, reforma constitucional en materia de justicia laboral (DOF 24-02-2017)\n\n**Recomendación:** la norma se mantiene identificada con confianza alta y su estado es `vigente`. En 2017 cambió el texto de la Constitución, pero en la práctica no operó todavía: las instituciones nuevas empezaron a funcionar por etapas entre 2020 y 2022.\n\n## 1. Objetivo declarado\n\nLa iniciativa del Ejecutivo se presentó en 2016. Su antecedente fueron los *Diálogos por la Justicia Cotidiana*, en particular la Mesa de Justicia Laboral Cotidiana. Según su exposición de motivos, la necesidad de revisar las Juntas de Conciliación y Arbitraje surgió de una consulta del CIDE y del diálogo entre gobierno, tribunales laborales, academia y sociedad civil. Uno de los objetivos declarados era acabar con los espacios que permitían inercias, vicios y prácticas que generan incertidumbre jurídica en los conflictos laborales.\n\nEn el debate parlamentario se insistió en dos ideas. La primera fue la independencia judicial: el dictaminador sostuvo que las Juntas \"están jefaturadas\" por los poderes ejecutivos y que en ellas participan dirigentes sindicales y patronales. La segunda fue la democracia sindical.\n\nHay una diferencia entre lo declarado y lo aprobado. Un estudio señala que los Diálogos propusieron fortalecer las Juntas, pero en ningún momento recomendaron su desaparición. Un análisis crítico de prensa especializada (blog de *Nexos*, fuente de nivel 4) calificó la exposición de motivos como un catálogo de aspiraciones incongruentes con las soluciones normativas que se ponen sobre la mesa.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**`justicia_laboral_e_inspeccion`. Efecto sugerido: aumenta, con matices.**\n- Los conflictos entre trabajadores y patrones pasan a los tribunales laborales del Poder Judicial de la Federación o de las entidades federativas. Sus sentencias deben observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.\n- Antes de acudir a los tribunales, trabajadores y patrones deben asistir a la instancia conciliatoria correspondiente.\n- La ley fijará las reglas para que los convenios laborales tengan condición de cosa juzgada y para su ejecución.\n- Se ajusta el amparo directo (art. 107) para que proceda contra las sentencias de los nuevos tribunales.\n\nLa parte de independencia judicial apunta claramente a más garantías. La conciliación obligatoria es más ambigua: entre los diagnósticos previos figuraba el uso indebido de la conciliación para conseguir una disminución de las obligaciones mínimas legales. Por eso `reorganiza` es una alternativa defendible.\n\n**`derechos_colectivos_sindicales`. Efecto: aumenta.**\n- El voto de los trabajadores será personal, libre y secreto para resolver conflictos entre sindicatos, para solicitar la firma de un contrato colectivo y para elegir dirigentes.\n- La nueva fracción XXII Bis obliga a que la ley garantice la representatividad de las organizaciones sindicales y la certeza en la firma, registro y depósito de los contratos colectivos. Según un análisis académico, este derecho no estaba antes en el texto constitucional.\n- Para obtener la firma de un contrato colectivo se debe acreditar que se cuenta con la representación de los trabajadores. Esto limita las huelgas promovidas por sindicatos sin representatividad.\n- Registro: en el orden federal, un organismo descentralizado se encarga de la conciliación y además del registro de todos los contratos colectivos y organizaciones sindicales, con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Con ello el registro deja de estar en manos de la STPS y de las Juntas.\n\n**`despido_e_indemnizacion`: no se codifica.** El dictamen del Senado proponía la desaparición de la fracción XXI del artículo 123, relativa a la estabilidad en el empleo, y recibió críticas por ello. El texto publicado conserva en la fracción XXI la regla de terminación del contrato e indemnización cuando el patrón se niega a someterse al procedimiento o a cumplir la resolución. No encontré un cambio sustantivo en el sentido de la protección. Es solo una lectura de los fragmentos disponibles: no comparé los textos completos de la fracción XXI antes y después de la reforma.\n\n**Orientación sugerida:** `protectora`, por el componente sindical. La alternativa es `administrativa` si se privilegia el componente de justicia laboral.\n\n## 3. Población objetivo\n\n- `asalariados_formales`, en particular los cubiertos por contratos colectivos y sindicatos.\n- `general`, en la medida en que cambia la vía de acceso a la justicia laboral del apartado A.\n- No incluye `sector_publico`: el apartado B solo se toca en lo relativo al amparo contra los laudos del Tribunal Federal de Conciliación y Arbitraje.\n\n## 4. Contexto político y económico\n\nLa reforma se aprobó durante el gobierno de Enrique Peña Nieto, con apoyo amplio de todos los partidos en ambas cámaras. Un documento legislativo posterior señala como antecedente inmediato los cuestionamientos internacionales por violaciones recurrentes a la libertad sindical y de negociación colectiva, tanto en la negociación del Tratado Transpacífico como ante el Comité de Libertad Sindical de la OIT. En el debate, un diputado de Morena sostuvo que la reforma respondía al Tratado Transpacífico, para que no acusen a México de \"dumping laboral\".\n\nDespués vinieron la ratificación del Convenio 98 de la OIT por el Senado en septiembre de 2018 y la renegociación del TLCAN, que dio lugar al T-MEC. No reuní evidencia sobre el contexto macroeconómico de 2016–2017: queda sin fuente.\n\n## 5. ¿Revierte una reforma previa?\n\nNo. Sustituye el modelo de Juntas tripartitas que existía desde la Constitución de 1917. No es una contrarreforma de la reforma a la LFT de 2012. La presidenta de la Comisión de Trabajo la presentó como una reforma \"de igual o inclusive mayor trascendencia que la reforma laboral aprobada en 2012\", es decir, como algo distinto y no como una reversión.\n\n## 6. Entrada en vigor y aplicación diferida\n\n- **`fecha_entrada_vigencia`: 2017-02-25.** El decreto entró en vigor al día siguiente de su publicación en el DOF.\n- **`vigencia_escalonada`: true.** Mientras no se crearan e iniciaran operaciones los tribunales laborales, los Centros de Conciliación y el organismo descentralizado, las Juntas, la STPS o las autoridades locales siguieron atendiendo los conflictos y el registro de contratos colectivos y sindicatos. El plazo que el transitorio segundo daba para las adecuaciones legislativas no se cumplió.\n\nCronología de la implementación:\n- **1 de mayo de 2019:** se publica la reforma a la LFT.\n- **6 de enero de 2020:** se publica en el DOF la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral.\n- **Implementación territorial:** se hizo por etapas que comenzaron el 18 de noviembre de 2020, el 3 de noviembre de 2021 y el 3 de octubre de 2022.\n- **Registro nacional:** desde el 3 de noviembre de 2021 el CFCRL asumió las funciones registrales a nivel nacional en materia sindical y de contratos colectivos.\n- **Cierre de las Juntas:** a partir del 3 de octubre de 2022 las Juntas dejaron de recibir demandas.\n\nPara la variable de tratamiento: en 2017 no hubo un cambio operativo en ninguna entidad. Esto debe quedar en `notas`.\n\n## 7. Estado de vigencia posterior\n\n**Recomendación: `vigente`.** Los principios de 2017 se desarrollaron después, no se recortaron. La reforma de 2019 y la de 2020 que creó el CFCRL (LOCFCRL) se presentan como su reglamentación.\n\nLa reforma judicial de 2024 cambió la manera de designar a las personas juzgadoras. Implementó la elección popular de la totalidad de los juzgadores federales y locales. Esto afecta indirectamente a los tribunales laborales, porque la fracción XX remite a los artículos constitucionales sobre designación de jueces. Esa reforma también modificó el segundo párrafo de la fracción XII del apartado B del artículo 123, que trata de los conflictos internos del Poder Judicial y no del núcleo de la reforma de 2017. No la considero una modificación sustantiva de la norma, pero puede ir en `notas`.\n\nNo encontré fallos judiciales que anularan o suspendieran el decreto. Las reformas constitucionales en México difícilmente se pueden impugnar, pero esto no lo verifiqué con fuente.\n\n## 8. Lo que no pude verificar\n\n- No consulté NATLEX ni EPLex de la OIT.\n- No revisé el texto completo de la exposición de motivos, solo citas secundarias.\n- No comparé en detalle la redacción final de las fracciones XXI y XXII frente a la anterior.\n- No verifiqué si la reforma de 2024 modificó literalmente la fracción XX del apartado A.\n- No encontré fuentes sobre el contexto macroeconómico.\n- Una fuente académica (SciELO) fecha la iniciativa en 2012. Parece una errata: las demás fuentes indican el 28 de abril de 2016.",
+  "fuentes": [
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_231_24feb17.pdf",
+      "titulo": "Viernes 24 de febrero de 2017 DIARIO OFICIAL (Primera Sección) 9",
+      "citada": true
+    },
+    {
+      "url": "https://colungaabogados.com.mx/decreto-por-el-que-se-declaran-reformadas-y-adicionadas-diversas-disposiciones-de-los-articulos-107-y-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-justicia-laboral/",
+      "titulo": "DECRETO por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral.",
+      "citada": true
+    },
+    {
+      "url": "https://eljuegodelacorte.nexos.com.mx/?p=6140",
+      "titulo": "La reforma a la justicia laboral: lo bueno, lo malo y lo feo - El Juego de la Suprema Corte - Blog de la revista Nexos",
+      "citada": true
+    },
+    {
+      "url": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-51362018000100105",
+      "titulo": "La justicia cotidiana y la nueva justicia laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www5.diputados.gob.mx/index.php/esl/Comunicacion/Boletines/2016/Noviembre/04/2477-Avalan-reformas-para-trasladar-justicia-laboral-al-Poder-Judicial-y-desaparecer-Juntas-de-Conciliacion-y-Arbitraje",
+      "titulo": "2477 - Avalan reformas para trasladar justicia laboral al Poder Judicial y desaparecer Juntas de Conciliación y Arbitraje / 04 / Noviembre / 2016 / Boletines / Comunicación / Inicio - Camara de Diputados",
+      "citada": true
+    },
+    {
+      "url": "https://legalcloudmrci.com/noticias/propuestas-de-reformas-en-pro-de-la-justicia-laboral/",
+      "titulo": "Propuestas de reformas, en pro de la Justicia Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.jornada.com.mx/2016/10/01/opinion/016a2pol",
+      "titulo": "La Jornada: Reforma laboral: una buena y una mala",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/7610335.pdf",
+      "titulo": "Reforma constitucional de la justicia en materia laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-trimestrales/recuadros/%7B2A7BA161-E586-0233-6992-7800EEF8C010%7D.pdf",
+      "titulo": "Consideraciones sobre la Reforma Laboral de 2019 1",
+      "citada": true
+    },
+    {
+      "url": "https://gaceta.diputados.gob.mx/Gaceta/64/2019/ene/20190103-II.html",
+      "titulo": "Gaceta Parlamentaria, año XXII, número 5188-II, jueves 3 de enero de 2019",
+      "citada": true
+    },
+    {
+      "url": "https://revistas-colaboracion.juridicas.unam.mx/index.php/nova-iustitia/article/download/39383/36220",
+      "titulo": "Introducción. I. La Reforma Constitucional de 2017 en materia ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_258_15sep24.pdf",
+      "titulo": "2 (Edición Vespertina) DIARIO OFICIAL Domingo 15 de septiembre de 2024",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.juridicas.unam.mx/index.php/reforma-judicial/article/view/20966",
+      "titulo": "La reforma judicial mexicana de 2024. Breve crónica sobre su implementación",
+      "citada": true
+    },
+    {
+      "url": "https://www.garrigues.com/es_ES/noticia/mexico-entra-vigor-tercera-ultima-etapa-reforma-sistema-justicia-laboral",
+      "titulo": "México: Entra en vigor la tercera y última etapa de la reforma al sistema de justicia laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.asf.gob.mx/Trans/Informes/IR2021c/Documentos/Auditorias/2021_0036_a.pdf",
+      "titulo": "Grupo Funcional Desarrollo Económico 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.gazhal.com.mx/pdf/gazhal/2023/20230825-CONCILIACION_LABORAL_BASAL_DEF_GAZHAL.pdf",
+      "titulo": "conciliación laboral.",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/proceso/docleg/63/231_DOF_24feb17.pdf",
+      "titulo": "DECRETO por el que se declaran reformadas y ...",
+      "citada": false
+    },
+    {
+      "url": "http://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_231_24feb17.doc",
+      "titulo": "PODER EJECUTIVO SECRETARIA DE GOBERNACION",
+      "citada": false
+    },
+    {
+      "url": "https://legalcloudmrci.com/noticias/justicia-laboral-en-mexico-una-realidad/",
+      "titulo": "Justicia Laboral en México: Una realidad",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/transitorios/",
+      "titulo": "Transitorios ‹ Constitución Política de los Estados Unidos Mexicanos (CPEUM)",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/transitorios/",
+      "titulo": "Transitorios ‹ Ley Federal del Trabajo (LFT)",
+      "citada": false
+    },
+    {
+      "url": "https://www.mondaq.com/mexico/employee-rights-labour-relations/572734/reforma-constitucional-de-los-art%C3%ADculos-107-y-123-de-la-constituci%C3%B3n-pol%C3%ADtica-de-los-estados-unidos-mexicanos",
+      "titulo": "Reforma Constitucional de los Artículos 107 Y 123 de la Constitución Política de los Estados Unidos Mexicanos - Employee Rights/ Labour Relations - Mexico",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.juridicas.unam.mx/index.php/hechos-y-derechos/article/download/17545/17961?inline=1",
+      "titulo": "Untitled",
+      "citada": false
+    },
+    {
+      "url": "https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5658637",
+      "titulo": "implementación de la reforma al sistema de justicia laboral ...",
+      "citada": false
+    },
+    {
+      "url": "https://archivos.juridicas.unam.mx/www/bjv/libros/15/7176/3.pdf",
+      "titulo": "LA NUEVA JUSTICIA LABORAL EN MÉXICO: instituciones jurídicas implementadas",
+      "citada": false
+    },
+    {
+      "url": "https://infosen.senado.gob.mx/sgsp/gaceta/64/1/2019-04-29-1/assets/documentos/Dict_er_dictamen_senado_definitivo.pdf",
+      "titulo": "DICTAMEN EN SENTIDO POSITIVO A LA MINUTA CON PROYECTO DE",
+      "citada": false
+    },
+    {
+      "url": "https://revistas-colaboracion.juridicas.unam.mx/index.php/judicatura/article/viewFile/35644/32569",
+      "titulo": "87 Revista del Instituto de la Judicatura Federal",
+      "citada": false
+    },
+    {
+      "url": "https://gaceta.diputados.gob.mx/PDF/64/2018/dic/20181222-I.pdf",
+      "titulo": "Gaceta Parlamentaria Año XXII",
+      "citada": false
+    },
+    {
+      "url": "https://www.ellitoral.com/politica/ahora-diputados-quorum-reforma-laboral-gobierno-oficialismo_0_bMexXA2VNR.html",
+      "titulo": "La Cámara de Diputados aprobó en general la reforma laboral: ¿qué pasó en particular?",
+      "citada": false
+    },
+    {
+      "url": "https://www.palabrasdelderecho.com.ar/articulo/6556/Diputados-aprobo-la-reforma-laboral,-pero-volvera-al-Senado-para-su-tratamiento",
+      "titulo": "Diputados aprobó la reforma laboral, pero volverá al Senado para su tratamiento",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambito.com/politica/reforma-laboral-asi-es-el-texto-que-aprobo-el-senado-n6245097",
+      "titulo": "Reforma laboral: así es el texto que aprobó el Senado",
+      "citada": false
+    },
+    {
+      "url": "https://chequeado.com/el-explicador/que-cambia-con-la-reforma-laboral-una-por-una-las-modificaciones-que-promueve-javier-milei/",
+      "titulo": "¿Qué cambia con la reforma laboral? Una por una, las modificaciones que aprobó el Senado - Chequeado",
+      "citada": false
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/senado-el-gobierno-esta-cada-vez-mas-cerca-de-sancionar-la-reforma-laboral-a-pesar-del-rechazo-del-nid27022026/",
+      "titulo": "Senado: el Gobierno sancionó la reforma laboral y le torció el brazo al PJ y la CGT - LA NACION",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/8654371.pdf",
+      "titulo": "libertad sindical en méxico. aplicación de los convenios 87 ...",
+      "citada": false
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/apuntes_reforma.pdf",
+      "titulo": "Apuntes sobre la Reforma Laboral de Libertad Sindical Y Negociación",
+      "citada": false
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/apuntes_libertad_sindical.pdf",
+      "titulo": "Apuntes sobre libertad sindical, democracia y negociación ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.legallaboral.com/blog/hacia-la-necesaria-evolucion-del-modelo-de-asociacion-sindical-y-justicia-del-trabajo/",
+      "titulo": "Hacia la necesaria evolución del modelo de asociación sindical y justicia del trabajo - Legal Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.rendiciondecuentas.org.mx/la-forma-y-el-fondo-de-la-reforma-laboral/",
+      "titulo": "La Forma y el Fondo de la Reforma Laboral - Rendición de Cuentas",
+      "citada": false
+    },
+    {
+      "url": "https://sidof.segob.gob.mx/notas/docFuente/5634515",
+      "titulo": "ACUERDO General del Pleno del Consejo de la Judicatura Federal, que reforma el diverso que establece el Procedimiento y Lineamientos Generales para acceder al cargo de Jueza y Juez de Distrito Especializado en Materia de Trabajo, mediante concursos abier",
+      "citada": false
+    },
+    {
+      "url": "https://pub.indetec.gob.mx/delivery?srv=0&sl=2&cat=8&path=%2Fboletin_financiero%2Fndiem%2F125%2FBoletinFNo125_5.pdf",
+      "titulo": "NUEVA ÉPOCA No. 125 Quincena del 1 al 15 de septiembre de 2024 3",
+      "citada": false
+    },
+    {
+      "url": "https://comunicacionsocial.diputados.gob.mx/index.php/notas/publica-dof-decreto-de-la-reforma-constitucional-al-poder-judicial",
+      "titulo": "Publica DOF decreto de la reforma constitucional al Poder Judicial",
+      "citada": false
+    },
+    {
+      "url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5738985&fecha=15%2F09%2F2024",
+      "titulo": "Decreto de Reforma Constitucional al Poder Judicial",
+      "citada": false
+    },
+    {
+      "url": "https://www.sitios.scjn.gob.mx/cec/sites/default/files/page/files/2024-06/Ana%CC%81lisis%20de%20la%20iniciativa%20de%20reforma.%20Problemas%20asociados_final.pdf",
+      "titulo": "ANÁLISIS DE LA INICIATIVA DE REFORMA AL PODER JUDICIAL EN MÉXICO",
+      "citada": false
+    },
+    {
+      "url": "https://prime.tirant.com/mx/actualidad-prime/reforma-constitucional-del-poder-judicial/",
+      "titulo": "Reforma Constitucional del Poder Judicial - Tirant Prime México",
+      "citada": false
+    },
+    {
+      "url": "https://www.uic.mx/blog-reforma-judicial-2024-mexico-eleccion-jueces/",
+      "titulo": "Puntos de vista sobre la reforma al Poder Judicial de 2024: del mérito a la mayoría - Universidad UIC",
+      "citada": false
+    },
+    {
+      "url": "https://www.sitios.scjn.gob.mx/cec/sites/default/files/publication/documents/2025-10/Gardun%CC%83o_ReformaAlPoderJudicialEnMe%CC%81xico.pdf",
+      "titulo": "Reforma al Poder Judicial en México",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/derecho-laboral/centro-federal-de-conciliacion-y-registro-laboral/",
+      "titulo": "Centro Federal de Conciliación y Registro Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.cuentapublica.hacienda.gob.mx/work/models/CP/2021/tomo/VII/MAT_Print.14PBE.01.INTRO.pdf",
+      "titulo": "CUENTA PÚBLICA 2021 CENTRO FEDERAL DE CONCILIACIÓN Y REGISTRO LABORAL",
+      "citada": false
+    },
+    {
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/02/asun_4305383_20220215_1644962008.pdf",
+      "titulo": "iniciativa que reforma el artículo quinto transitorio del decreto ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.cuentapublica.hacienda.gob.mx/work/models/CP/2020/tomo/VII/Print.PBE.01.INTRO.pdf",
+      "titulo": "CUENTA PÚBLICA 2020 CENTRO FEDERAL DE CONCILIACIÓN Y REGISTROS LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://centrolaboral.gob.mx/documentos/Programa_Institucional_CFCRL_2021-2024.pdf",
+      "titulo": "CENTRO FEDERAL DE CONCILIACION Y REGISTRO ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.bermudezabogados.mx/stps-arranca-segunda-etapa-de-implementacion-de-la-reforma-laboral/",
+      "titulo": "STPS arranca segunda etapa de implementación de la reforma laboral",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Reforma_laboral_de_2019_de_M%C3%A9xico",
+      "titulo": "Reforma laboral de 2019 de México",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "PRY_1995",
+  "iso": "PRY",
+  "pais": "Paraguay",
+  "anio": 1995,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0605,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 496/1995, que modifica, amplía y deroga artículos de la Ley N° 213/93, Código del Trabajo",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto N° 10047/1995"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "desconocida",
+    "vigencia_escalonada": false,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "No identificado (sin fuente): no se halló exposición de motivos ni documentos del Ejecutivo; el encabezado oficial solo indica que la ley modifica, amplía y deroga artículos del Código del Trabajo (Ley 213/93).",
+    "descripcion_intenciones": "La reforma recorta garantías colectivas del Código de 1993: limita y hace proporcional el fuero sindical, deroga el amparo de estabilidad por lugar de trabajo del artículo 325 y elimina el depósito mensual del salario del dirigente suspendido preventivamente. Introduce la revisión anticipada del contrato colectivo por iniciativa del empleador ante crisis económica de la empresa, flexibiliza el pago de horas extraordinarias para trabajadores rurales y domésticos y limita la obligación patronal de pagar salarios por enfermedad no cubiertos por el Instituto de Previsión Social. En sentido opuesto, incorpora el acoso sexual como causa de despido y de retiro justificado, reconoce el traslado de la trabajadora embarazada sin reducción de salario y sanciona con multa el exceso de jornada. También amplía expresamente el ámbito del Código a las empresas del Estado y municipales.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Pone un tope al fuero sindical, lo reparte proporcionalmente entre sindicatos, deroga el artículo 325 y condiciona al resultado del juicio el pago de salarios del dirigente suspendido. Un estudio publicado por CLACSO sostiene que los cambios fueron principalmente de redacción, por lo que el efecto neto es discutido."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Permite la revisión anticipada del contrato colectivo por iniciativa del empleador cuando la actividad o existencia de la empresa peligra, con prohibición de despido sin justa causa durante ese lapso."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Las horas extraordinarias en guardias rurales y el excedente de jornada de domésticos y rurales se pagan sin recargo salvo ciertos límites, aunque se fija un tope diario con descanso obligatorio y se sanciona con multa el exceso de jornada."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Reformula los artículos 91, 185, 188 y 189 manteniendo la indemnización por despido injustificado; asegura el acceso de los herederos a ella y considera despido injustificado la negativa a reintegrar tras una suspensión ilegal."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Incorpora el acoso sexual por superiores como justa causa de despido y de retiro justificado, y reconoce el traslado de la embarazada a tareas compatibles sin reducción de salario."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Limita con un tope máximo la obligación del empleador de pagar salarios por enfermedad o accidente no cubiertos por el Instituto de Previsión Social."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Reformula las reglas del trabajo de menores (trabajo nocturno, límites de jornada, reducción para estudiantes) y mantiene la prohibición de horas extraordinarias salvo en el trabajo rural; la dirección del cambio es ambigua."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Traslada la calificación de la huelga y del paro patronal al Juzgado en lo Laboral de Turno con plazo para pronunciarse; el paro declarado legal no obliga a pagar salarios."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Se modificó el artículo 26 sobre intermediarios y contratistas, pero el informe no pudo determinar el sentido del cambio."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Ámbito de aplicación: el Código cubre expresamente a trabajadores de empresas estatales y municipales, y rige transitoriamente la sindicalización del resto del sector público hasta una ley especial."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres",
+      "jovenes",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley modifica el Código del Trabajo establecido por la Ley N° 213/93, aprobado durante la transición democrática y promulgado bajo Juan Carlos Wasmosy, quien también promulgó esta reforma el 22 de agosto de 1995 junto al Ministro de Justicia y Trabajo Juan Manuel Morales. El período estuvo marcado por la huelga general de la CUT y la CNT del 2 de mayo de 1994 por el salario mínimo y por quejas ante la OIT sobre libertad sindical presentadas casi exclusivamente por organizaciones sindicales internacionales; según CLACSO, un anteproyecto de modificación de 1994–1995 recogía observaciones de la OIT que no se concretaron. Contexto económico: sin fuente.",
+    "notas": "Reversión parcial: recorta garantías creadas por la Ley 213/93 (fuero sindical, artículo 325, pago sin tope de salarios por enfermedad), pero añade protecciones, por lo que no es una contrarreforma total. Orientación codificada como mixta siguiendo el informe, aunque el peso de los recortes (colectivos, jornada rural y doméstica, salarios por enfermedad) sugiere predominio flexibilizador. Fecha de entrada en vigor desconocida: solo se verificó la promulgación (1995-08-22) según la Biblioteca y Archivo Central del Congreso; no se verificó la publicación en la Gaceta Oficial. El fechado como 496/94 en algunas copias (DNIT, CEPAL) parece error de transcripción. Estado de vigencia: se codifica vigente porque el núcleo sindical y de jornada se mantiene en versiones consolidadas actuales, si bien hubo modificaciones puntuales posteriores (artículo 9 por la Ley N° 6470; un artículo de trabajo doméstico derogado por la Ley N° 5407/2015); no se verificó si la Ley 1416/1999 ni el artículo 257 de la Ley 1680/01 afectaron artículos de esta reforma; podría alternativamente codificarse como modificada_o_derogada_despues. No se hallaron acciones de inconstitucionalidad. Las comparaciones antes/después se basan en versiones consolidadas y tienen confianza media. Se descarta la afirmación de un sitio comercial de que esta ley creó la estabilidad decenal. El Decreto N° 10047/1995 se incluye por la etapa de identificación; el informe no describe su contenido."
+  },
+  "fuentes": [
+    {
+      "url": "https://simel.mtess.gov.py/wp-content/uploads/2025/06/Nota_Tecnica_Estabilidad_Laboral_en_el_Codigo_de_Trabajo.pdf",
+      "titulo": "Estabilidad Laboral en el Código de Trabajo - Simel.Py",
+      "citada": true
+    },
+    {
+      "url": "https://www.icasa.com.py/web/LEYES/ADMINISTRATIVAS/adm/LEY_N_496_95_Modificaciones_al_Codigo_del_Trabajo.pdf",
+      "titulo": "LEY Nº 496/95 Ver Ley Nº 213/93 Establece el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://librosdederechoparaguay.blogspot.com/2009/09/codigo-laboral-leyes-complementarias_24.html",
+      "titulo": "EL DERECHO EN PARAGUAY - LIBROS, ARTÍCULOS Y COMENTARIOS - LA CONSTITUCIÓN (1992), CÓDIGOS Y LEYES: CÓDIGO LABORAL - LEYES COMPLEMENTARIAS - LEY Nº 496/95",
+      "citada": true
+    },
+    {
+      "url": "https://portal.ips.gov.py/sistemas/ipsportal/archivos/archivos/1641907590.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/2514/ley-n-496-modifica-amplia-y-deroga-articulos-de-la-ley-21393-codigo-del-trabajo",
+      "titulo": "Ley Nº 496 / MODIFICA, AMPLIA Y DEROGA ARTICULOS DE LA LEY 213/93, CODIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/9119/ley-n-6470-modifica-el-articulo-9-de-la-ley-n-2131993-que-establece-el-codigo-del-trabajo-modificado-por-la-ley-n-4961995",
+      "titulo": "Ley Nº 6470 / MODIFICA EL ARTÍCULO 9° DE LA LEY Nº 213/1993, “QUE ESTABLECE EL CÓDIGO DEL TRABAJO”, MODIFICADO POR LA LEY N° 496/1995",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1994_ley496_pry.pdf",
+      "titulo": "PODER LEGISLATIVO LEY N° 496",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/9784fb23-c049-11e9-8e7a-525400c761ca/text",
+      "titulo": "BL:Ley 496/1995 - modifica Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://germinal.pyglobal.com/pdf/documento_trabajo_23.pdf",
+      "titulo": "GERMINAL DOCUMENTOS DE TRABAJO PUBLICACIÓN PERIÓDICA DE ANÁLISIS Y ESTUDIOS",
+      "citada": true
+    },
+    {
+      "url": "https://upe.edu.py/docs/marco_legal/Ley-del-Trabajo-en-el-Sector-Privado.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/baa39c78-83c4-11e8-ba40-52f3cc265641",
+      "titulo": "BL:Ley 213/93 - Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.clacso.edu.ar/Paraguay/ceepg/20170404043218/pdf_494.pdf",
+      "titulo": "La libertad sindical en el Paraguay, según resultados de las ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2014/03/26/informe-especial-huelga-general-en-paraguay/",
+      "titulo": "Informe especial: Huelga general en Paraguay - Resumen Latinoamericano",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/59808/PRY59808.pdf",
+      "titulo": "LEY N° 1.680/01 CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA",
+      "citada": true
+    }
+  ]
+}

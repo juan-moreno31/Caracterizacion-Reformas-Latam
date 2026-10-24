@@ -1,0 +1,139 @@
+{
+  "id": "URY_2021",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2021,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0528,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 19.973 de 13 de agosto de 2021 (promoción del empleo)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto N° 308/021 (reglamentario de la Ley 19.973)",
+      "Ley N° 19.978 de 20 de agosto de 2021 (teletrabajo)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "desconocida",
+    "vigencia_escalonada": true,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "Desarrollar políticas activas de empleo que favorezcan el acceso a una actividad remunerada, por cuenta propia o ajena, de jóvenes, trabajadores de mayor edad y personas con discapacidad, facilitando su ingreso o reinserción y su formación. Responde a problemas del mercado de empleo agravados por la pandemia de COVID-19 y a dificultades estructurales, con discriminación positiva en favor de las mujeres (art. 1 y exposición de motivos del Poder Ejecutivo).",
+    "descripcion_intenciones": "La ley sustituye el régimen de empleo juvenil de la Ley 19.133 por un esquema más amplio de subsidios a la contratación de grupos con dificultades de inserción laboral. El subsidio se otorga como crédito para pagar contribuciones de seguridad social ante el Banco de Previsión Social, lo que abarata la contratación para el empleador. Los contratos subsidiados son a plazo, requieren autorización del MTSS y mantienen el salario y las condiciones de leyes, laudos y convenios colectivos. Incorpora una salvaguarda contra la sustitución de personal e incentivos diferenciales para mujeres y personas con cargas familiares. El Decreto 308/021 declara buscar instrumentos flexibles y eficientes para el sector privado y ampliar los beneficiarios.",
+    "dimensiones": [
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Reemplaza el régimen de la Ley 19.133 con programas de subsidio temporal, primera experiencia laboral, práctica para egresados, trabajo protegido y prácticas formativas. El informe no pudo comparar programa por programa con el régimen anterior."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Los contratos subsidiados son a plazo, con período de prueba variable y autorización del MTSS, pero conservan las garantías de laudos y convenios. Posible sesgo a reducir no verificado; la fuente sobre el período de prueba es un despacho."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "No modifica el régimen general de despido, pero condiciona el subsidio a no haber rescindido unilateralmente contratos ni enviado trabajadores de la misma categoría al seguro por desempleo. Efecto indirecto como salvaguarda contra la sustitución de personal."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Abarata los aportes patronales sin ampliar prestaciones del trabajador; los contratos mantienen los derechos previsionales, salvo en la modalidad de práctica formativa en empresas."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Obliga a considerar la situación de las mujeres y prevé incentivos diferenciales, con subsidios mayores para contratar mujeres y personas con cargas familiares según fuentes secundarias."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Encomienda al MTSS facilitar la formalización, el crédito y la asistencia técnica a emprendedores, y atender a trabajadores informales para su incorporación a la seguridad social. Incluye reglas específicas de topes para empresas pequeñas y a las cooperativas."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Asigna la dirección y ejecución al MTSS mediante su Dirección Nacional de Empleo, con cooperación del INEFOP y gestión a través de la plataforma Vía Trabajo."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Inclusión de trabajadores de mayor edad y personas con discapacidad como beneficiarios de los programas, principal ampliación frente a la Ley 19.133. Estos colectivos no tienen categoría propia en el codebook."
+      }
+    ],
+    "poblacion_objetivo": [
+      "jovenes",
+      "mujeres",
+      "informales",
+      "empleadores_mipymes",
+      "asalariados_formales"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Aprobada durante el gobierno de coalición encabezado por Luis Lacalle Pou (dato general, sin fuente específica), en un contexto de deterioro del empleo por la pandemia. El ministro de Trabajo, Pablo Mieres, defendió el proyecto ante la Comisión de Legislación del Trabajo de Diputados en julio de 2021. La ley derogó la Ley 19.133 de empleo juvenil (según IMPO), pero mantiene y amplía su lógica de subsidios, por lo que es una reforma de continuidad y no una contrarreforma. No se verificó la votación parlamentaria ni la postura de centrales sindicales y empresariales.",
+    "notas": "Fecha: promulgada el 2021-08-13 y publicada el 2021-08-20 (IMPO). No se halló un artículo de vigencia expresa, por lo que la fecha de entrada en vigor se registra como desconocida. Se marca vigencia escalonada porque la aplicación efectiva de los programas dependía del Decreto 308/021 (de 2021-09-10, publicado el 2021-09-22), que precisa topes, montos y procedimientos. Orientación: se codifica como mixta porque el mecanismo central reduce costos de contratación para el empleador (criterio flexibilizador), pero no recorta derechos y agrega salvaguardas e incentivos para grupos vulnerables (lógica protectora); una lectura alternativa sería protectora o política activa de empleo. Vigencia posterior: la Ley 20.075 de 2022 dio nueva redacción a un artículo (contenido no verificado); la Ley 20.397 de 2025 amplió el régimen a personas liberadas; la Ley 20.506 de 2026-06-26 derogó la mayor parte de la ley, y según fuente secundaria quedan vigentes las disposiciones sobre prácticas formativas. No se encontraron fallos judiciales de anulación o suspensión. No verificados: régimen de transición de contratos en curso y fecha de reglamentación de la Ley 20.506. Discrepancia: un despacho afirma que también se derogó la Ley 19.689 de 2018, pero la Ley 20.506 deroga artículos de esa ley, lo que indica que seguía al menos parcialmente vigente; no se da por cierta su derogación total. La frase sobre menos criterios burocráticos proviene de prensa sin cita directa del ministro. No se consultaron NATLEX ni EPLex; tampoco se hallaron evaluaciones de impacto."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.impo.com.uy/bases/decretos/308-2021",
+      "titulo": "Decreto N° 308/021",
+      "citada": true
+    },
+    {
+      "url": "https://uy.ecovis.com/medidas-de-promocion-de-empleo/",
+      "titulo": "Medidas de promoción de empleo - ECOVIS Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/19973-2021",
+      "titulo": "Ley N° 19973",
+      "citada": true
+    },
+    {
+      "url": "http://www.diputados.gub.uy/data/docs/LegActual/Repartid/R0466.pdf",
+      "titulo": "COMISIÓN DE LEGISLACIÓN DEL TRABAJO Y SEGURIDAD SOCIAL CARPETA Nº 1634 DE 2021",
+      "citada": true
+    },
+    {
+      "url": "https://agora.edu.es/descarga/articulo/8754907.pdf",
+      "titulo": "LA PROMOCIÓN DEL EMPLEO DE PERSONAS EN ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/19133-2013",
+      "titulo": "Ley N° 19133",
+      "citada": true
+    },
+    {
+      "url": "https://www.ppv.com.uy/radio-carve/regimenes-de-promocion-del-empleo-reciente-ampliacion-del-beneficio/",
+      "titulo": "Regímenes de promoción del empleo: reciente ampliación del beneficio",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/20397-2025",
+      "titulo": "Ley N° 20397",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/20506-2026",
+      "titulo": "Ley N° 20506",
+      "citada": true
+    },
+    {
+      "url": "https://www.elobservador.com.uy/nota/gobierno-busca-incentivo-fuerte-para-promover-el-empleo-en-los-jovenes-y-mayores-de-45-anos-2021316142322",
+      "titulo": "Gobierno busca incentivo fuerte para promover el empleo en los jóvenes y mayores de 45 años",
+      "citada": true
+    },
+    {
+      "url": "https://www.montevideo.com.uy/Noticias/Diputados-aprobo-el-proyecto-de-ley-que-amplia-la-promocion-del-empleo--en-que-se-enfoca--uc965454",
+      "titulo": "Diputados aprobó el proyecto de ley que amplía la promoción del empleo: ¿en qué se enfoca?",
+      "citada": true
+    },
+    {
+      "url": "https://fernandezsecco.com/en/2026/07/23/ley-20-506-nuevos-subsidios-a-la-contratacion-laboral-de-hasta-el-80-del-salario/",
+      "titulo": "Ley 20.506: nuevos subsidios a la contratación laboral de hasta el 80% del salario",
+      "citada": true
+    }
+  ]
+}

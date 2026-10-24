@@ -1,0 +1,249 @@
+{
+  "id": "SLV_2022",
+  "iso": "SLV",
+  "pais": "El Salvador",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3519,
+  "incompleto": false,
+  "norma": "Decreto Legislativo n.° 614 de 2022, Ley Integral del Sistema de Pensiones",
+  "texto": "# Informe de investigación: El Salvador 2022, Decreto Legislativo n.° 614, Ley Integral del Sistema de Pensiones (LISP)\n\n## 1. Objetivo declarado\n\nSegún los considerandos, el sistema de capitalización individual de la Ley del Sistema de Ahorro para Pensiones no responde a las necesidades previsionales de los afiliados a dicho Sistema, dado que el mismo, no es capaz de generar pensiones dignas y suficientes. El texto también afirma que las reformas acumuladas sobre la ley anterior generó un esquema desigual y distorsionante, en relación al tratamiento de las personas pensionadas. Propone, en consecuencia, un nuevo sistema de pensiones que permita incrementar los montos de las pensiones y que sea sostenible para las generaciones futuras. La iniciativa vino del Presidente de la República, por medio del Ministro de Hacienda y del Ministro de Trabajo y Previsión Social.\n\n**Declarado y efectivo.** El discurso oficial habla de un \"nuevo sistema\". La norma, sin embargo, conserva la arquitectura de capitalización individual. Las cotizaciones siguen destinándose a la capitalización en la cuenta individual de ahorro para pensiones de cada afiliado, y las AFP continuarán administrando los recursos destinados para el pago de beneficios (vejez, invalidez y muerte) a sus afiliados. Esto concuerda con la observación del informe previo de que el contenido se parece mucho al de la ley anterior.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**seguridad_social_y_pensiones** (dimensión central; efecto neto: *aumenta*, con matices que la *reducen*):\n\n- **Más beneficios de vejez (aumenta).** Se dispone un incremento generalizado de las pensiones de vejez para los pensionados del sistema y se elevan los pisos y techos (fuente). La subida alcanzó también a los pensionados del sistema público: a los pensionados por vejez tanto de las AFP como los del ISSS y del INPEP se les aplicó un incremento.\n- **Edad y requisitos sin cambios.** Se mantienen la edad de retiro (fuente) y el tiempo mínimo de cotización. También se mantendrá la pensión vitalicia al terminar el saldo de la Cuenta Individual de Ahorro para Pensiones.\n- **Cotización (aumenta la protección; sube el costo laboral del empleador).** La tasa sube y se reparte de otro modo entre la cuenta individual, la Cuenta de Garantía Solidaria (CGS) y la comisión de las AFP (fuente). Según la prensa, el aporte del trabajador no cambia y el del empleador aumenta (fuente).\n- **Se elimina el anticipo de saldo (reduce la liquidez del afiliado).** La reforma imposibilita el retiro de anticipos de ahorros de los cotizantes del sistema privado. Como compensación, quienes ya lo retiraron no estarán obligadas a devolverlo, aunque reciben un incremento de pensión menor (fuente).\n- **Invalidez y sobrevivencia (reduce).** Estas pensiones no se incrementaron (fuente). Las AFP quedaron relevadas de la obligación de contratar un seguro para cubrir las pensiones de invalidez y sobrevivencia. Esas pensiones ahora se financian por medio de la cuenta individual de ahorro de cada cotizante y, al agotarse, se paga desde la Cuenta de Garantía Solidaria. La fuente es un medio nacional; no lo verifiqué en el articulado.\n- **Comisiones (reorganiza).** La reforma quita 0.9 a la comisión de administración pero suprimiendo a la vez el costo que incluía el 1.9 de comisión en un seguro de invalidez y sobrevivencia.\n- **Inversión de los fondos (reorganiza; el riesgo para el afiliado es discutido).** Se excluyen los títulos de la Tesorería, del BCR y de entidades estatales, y se incorporan los Certificados de Obligación Previsional (COP) del Instituto Salvadoreño de Pensiones (ISP), inversión que no está sujeta a límite máximo. Además, los Fondos deberán adquirir los Certificados de Obligaciones Previsionales que corresponden al Programa Anual de Emisiones del Instituto Salvadoreño de Pensiones.\n- **Cobertura voluntaria.** Pueden afiliarse los patronos de las medianas, pequeñas y microempresas, así como también los salvadoreños no residentes en el territorio nacional. No verifiqué si esto es nuevo o venía de la ley de 1996.\n\n**otro (institucional y fiscal).** Junto con las leyes complementarias, la reforma liquida el Fondo de Obligaciones Previsionales (FOP), cuyos activos y pasivos pasan al ISP (fuente). El ISP absorbió las competencias y atribuciones del INPEP. La supervisión queda en la Superintendencia del Sistema Financiero y la regulación en el Comité de Normas del BCR (fuente).\n\n**No aplican** las demás dimensiones del codebook (temporalidad, despido, jornada, derechos colectivos, etc.). No encontré disposiciones del Código de Trabajo en el DL 614.\n\n**Propuesta de orientación general: `protectora`, con confianza moderada.** Aumentan los beneficios de vejez y el aporte patronal, pero hay recortes en invalidez y liquidez. Si se da más peso a estos recortes y a los riesgos sobre los fondos, podría defenderse `mixta`.\n\n## 3. Población objetivo\n\n- **asalariados_formales y sector_publico.** La afiliación para los trabajadores del sector privado, público y municipal es obligatoria e irrevocable.\n- **Pensionados actuales** (no hay categoría propia en el codebook).\n- **Exclusiones.** Quedan fuera los cotizantes y pensionados del Instituto de Previsión Social de la Fuerza Armada. La ley no aplica a la población no cotizante a dichos sistemas, por lo que no corresponde codificar `informales`.\n\n## 4. Contexto político y económico\n\nLa reforma se aprobó durante el gobierno de Nayib Bukele, en medio de necesidades de financiamiento interno:\n\n- **Críticas.** Según críticos, la reforma no aumenta la cantidad de salvadoreños que tendrán derecho a pensionarse. Un economista citado afirma que el gobierno busca mantener un chorro de financiamiento proveniente de préstamos a nivel doméstico.\n- **Lectura de los inversores.** Barclays vio con alivio que se mantuviera el papel de las AFP y se descartara una nacionalización (fuente).\n- **Sindicatos.** Algunos lamentaron que no se eliminó a las Administradoras de Fondos de Pensiones (AFP) privadas, y varios sindicatos docentes rechazaron el proyecto (fuente).\n- **Evaluación posterior.** En marzo de 2025 el FMI pidió ajustes especialmente para contener los costos fiscales derivados de la reforma aprobada en 2022.\n\n## 5. ¿Revierte una reforma previa?\n\n**Sí, pero solo en parte.** Deroga la Ley del Sistema de Ahorro para Pensiones de 1996 (dato del informe previo), aunque no revierte la privatización: las AFP y las cuentas individuales se mantienen. Lo que sí revierte es un componente de la reforma de 2017, el anticipo de saldo, un derecho adquirido en la reforma del sistema previsional en 2017, que ahora se elimina. Propuesta: `revierte_reforma_previa` = parcial (reforma de 2017; número de decreto no verificado).\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Fechas.** Aprobada el 20 de diciembre y publicada en el Diario Oficial del 21 de diciembre de 2022, la reforma entró en vigor el 30 de diciembre de 2022. `fecha_entrada_vigencia` = 2022-12-30.\n- **Aplicación escalonada leve: `true`.**\n  - La nueva distribución de la cotización rige a partir de enero de 2023.\n  - Los primeros pagos con el incremento se hicieron en enero de 2023 (fuente).\n  - De los seguros de invalidez ya contratados, la reforma únicamente indica que durarán 10 años, lo que es un régimen de transición.\n  - **Discrepancia para `notas`:** una fuente de prensa la describe como aprobada a finales de 2022 y vigente desde 2023, porque los efectos se sintieron en la práctica a partir de enero.\n\n## 7. Estado de vigencia posterior\n\n- **Modificaciones.** Encontré una modificación menor de procedimiento: una reforma reciente a la LISP para que los pensionados reciban el pago de la pensión de navidad (aguinaldo), desde el primer día hábil de octubre hasta el quinto día hábil de diciembre. No identifiqué su número de decreto ni otras reformas entre 2023 y 2025.\n- **Reforma pendiente.** El acuerdo con el FMI exige una reforma paramétrica: el Ejecutivo prevé presentar ante la Asamblea Legislativa una propuesta de reforma paramétrica de pensiones antes de que finalice junio de 2027. A la fecha no se ha aprobado.\n- **Fallos judiciales.** No encontré sentencias de la Sala de lo Constitucional contra el DL 614. Sí existen antecedentes contra la ley de 1996, pero no son pertinentes. No descarto que haya demandas: simplemente no aparecieron en las fuentes consultadas.\n\n**Propuesta: `vigente`.** La ley sigue esencialmente en vigor; la reforma del aguinaldo es menor y debe ir en `notas`. Si la base codifica cualquier modificación posterior, la alternativa es `modificada_o_derogada_despues`.\n\n## 8. Lo que no pude verificar\n\n- Si la eliminación del seguro de invalidez y el nuevo régimen de financiación de esas pensiones están en el articulado (la fuente es prensa).\n- Si la afiliación voluntaria de patronos de mipymes y salvadoreños en el exterior es nueva o venía de la ley de 1996.\n- El número del decreto de reforma del aguinaldo y la existencia de otras reformas o demandas de inconstitucionalidad.\n- Fuentes OIT (NATLEX) y multilaterales sobre el DL 614: no las consulté por límite de búsquedas. La mayor parte del contenido proviene del texto oficial (Asamblea, SSF) y de prensa nacional.\n\n**Confianza de identificación: `media`, sin cambios.** El DL 614 es una reforma de seguridad social, no de la legislación laboral en sentido estricto. Para el DL 450, el DL 519 y el DL 510 sigue pendiente la decisión metodológica señalada en el informe previo.",
+  "fuentes": [
+    {
+      "url": "https://ssf.gob.sv/wp-content/uploads/2023/02/Ley-Integral-del-Sistema-de-Pensiones.pdf",
+      "titulo": "1 DECRETO N.° 614 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR,",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=5fc2efed-fd26-493f-bf4d-c4add01af907",
+      "titulo": "Nuevo sistema de pensiones - Ley integral del sistema de pensiones (LISP) - Lexology",
+      "citada": true
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/node/12614",
+      "titulo": "Cotizantes esperaron 26 años para tener una ley que brindara pensiones justas",
+      "citada": true
+    },
+    {
+      "url": "https://repo.funde.org/1940/1/Pensio-23.pdf",
+      "titulo": "Reforma del sistema de pensiones 2022 MARZO 2023",
+      "citada": true
+    },
+    {
+      "url": "https://moodyslocal.com.sv/wp-content/uploads/2024/11/Analisis-de-reformas-de-pensiones-en-El-Salvador.pdf",
+      "titulo": "Análisis de reforma de pensiones El Salvador",
+      "citada": true
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2022/12/20/el-salvador-gobierno-de-bukele-usara-la-reforma-de-pensiones-para-financiarse-hasta-las-elecciones-2024/",
+      "titulo": "El Salvador. Gobierno de Bukele usará la reforma de pensiones para financiarse hasta las elecciones 2024 - Resumen Latinoamericano",
+      "citada": true
+    },
+    {
+      "url": "https://www.fundaungo.org.sv/noticias-sobre-pensiones",
+      "titulo": "Noticias sobre pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/latinoamerica/el-salvador/reforma-de-pensiones-en-el-salvador-enfrenta-plazo-del-fmi-ante-riesgos-fiscales/",
+      "titulo": "Reforma de pensiones en El Salvador enfrenta plazo del FMI ante riesgos fiscales",
+      "citada": true
+    },
+    {
+      "url": "https://diario.elmundo.sv/politica/ya-esta-vigente-nueva-reforma-de-pensiones-en-el-salvador",
+      "titulo": "Ya está vigente nueva reforma de pensiones en El Salvador",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsalvador.com/h-noticias/h-negocios/fondos-de-pensiones-afp-deuda-publica-el-salvador-nayib-bukele/1195086/2025/",
+      "titulo": "Reforma de pensiones: Pocos ganadores y muchas deudas",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsalvador.com/dinero-y-negocios/entorno-economico/reforma-de-pensiones-fecha-fmi-el-salvador/1296576/2026/",
+      "titulo": "El Salvador aplaza reforma de pensiones, esta es la nueva fecha prevista",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsalvador.com/noticias/nacional/gobierno-aun-no-presenta-reforma-de-pensiones-al-fmi-/1262286/2026/",
+      "titulo": "Gobierno aún no presenta reforma de pensiones al FMI",
+      "citada": true
+    },
+    {
+      "url": "https://www.diariocolatino.com/asamblea-aprueba-paquete-de-reformas-que-amplia-plazo-de-entrega-del-aguinaldo/",
+      "titulo": "Asamblea aprueba paquete de reformas que amplía plazo de entrega del aguinaldo - Diario Co Latino",
+      "citada": true
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/F94AF319-257C-4A85-97B7-4D03A6C65A48.pdf",
+      "titulo": "1 DECRETO N.° 614 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR,",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/taxonomy/term/2492",
+      "titulo": "Ley Integral del Sistema de Pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/4FAC0F94-B012-4F32-B418-FD4909984DC7.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073802586_archivo_documento_legislativo.pdf",
+      "titulo": "1 ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR",
+      "citada": false
+    },
+    {
+      "url": "https://sv.vlex.com/vid/decreto-no-614-ley-916882223",
+      "titulo": "Decreto No. 614.- Ley Integral del Sistema de Pensiones - vLex El Salvador - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://elcontadorsv.com/descarga/dl-614-2022-reforma-de-pensiones-el-salvador/",
+      "titulo": "DL 614/2022 Reforma de Pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://www.bcr.gob.sv/regulaciones/upload/NSP-84.pdf",
+      "titulo": "Alameda Juan Pablo II, entre 15 y 17 Av. Norte, San Salvador, El Salvador.",
+      "citada": false
+    },
+    {
+      "url": "https://www.pensionpolicyinternational.com/el-salvador-deuda-de-pensiones-adquirida-tras-reforma-abarca-el-22-del-total/",
+      "titulo": "El Salvador. Deuda de pensiones adquirida tras reforma abarca el 22% del total - Pension Policy International",
+      "citada": false
+    },
+    {
+      "url": "https://www.celag.org/informe-expres-reforma-del-sistema-pensiones-salvador/",
+      "titulo": "Informe Exprés: Reforma del Sistema de Pensiones de El Salvador — CELAG",
+      "citada": false
+    },
+    {
+      "url": "https://www.elsalvador.com/dinero-y-negocios/entorno-economico/fondos-de-pensiones-instituto-salvadoreno/1262039/2026/",
+      "titulo": "Hoy vence el plazo para reformar las pensiones: ¿qué sigue? - Noticias de El Salvador",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/noticias-y-reformas-laborales/tu-pension-en-el-salvador/",
+      "titulo": "Tu Pensión en El Salvador 2026La Reforma del Sistema AFP",
+      "citada": false
+    },
+    {
+      "url": "https://www.eldiariodehoy.com/negocios/el-fmi-confirma-que-gobierno-reformara-las-pensiones-el-proximo-ano/92106/2026/",
+      "titulo": "El FMI confirma que gobierno reformará las pensiones el próximo año - El Diario de Hoy",
+      "citada": false
+    },
+    {
+      "url": "https://www.elsalvador.com/dinero-y-negocios/entorno-economico/fmi-confirma-reforma-pensiones/1291631/2026/",
+      "titulo": "FMI confirma reforma de pensiones en El Salvador para 2027, ¿Qué podría cambiar?",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/el-salvador/2026/09/04/reforma-de-pensiones-en-el-salvador-se-aprobara-hasta-2027-preve-el-fmi/",
+      "titulo": "Reforma de pensiones en El Salvador se aprobará hasta 2027 prevé el FMI - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.elsalvadortimes.com/articulo/politicos/salvador-fmi-alcanzan-acuerdo-tecnico-segunda-tercera-revision-programa-economico/20260903193106104676.html",
+      "titulo": "El Salvador y el FMI alcanzan un acuerdo técnico sobre la segunda y tercera revisión de su programa económico",
+      "citada": false
+    },
+    {
+      "url": "https://andina.pe/agencia/noticia-congreso-aprueba-reforma-integral-pensiones-cuales-son-los-cambios-trae-norma-988050.aspx",
+      "titulo": "Congreso aprueba reforma integral de pensiones: ¿cuáles son los cambios que trae la norma?",
+      "citada": false
+    },
+    {
+      "url": "https://accion.coop/2026/07/31/pais/economia/reforma-previsional-fmi-georgieva/",
+      "titulo": "Reforma previsional a pedido",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2009/C-027-09.htm",
+      "titulo": "C-027-09 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/1/1990-1999/1998/08/8927B.PDF",
+      "titulo": "4-97 y ac. Salinas y otros vrs. Decreto Legislativo N° 927",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2018/c-134-18.htm",
+      "titulo": "Corteconstitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2019/C-083-19.htm",
+      "titulo": "C-083-19 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.co.cr/vid/sentencia-n-2025011517-sala-1099351525",
+      "titulo": "Sentencia Nº 2025011517 de Sala Constitucional, 22-04-2025 - vLex Costa Rica",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2023/c-227-23.htm",
+      "titulo": "C-227/23 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-admite-primera-demanda-contra-la-reforma-pensional-3371952",
+      "titulo": "Reforma pensional: Corte Constitucional admite primera demanda en su contra - El Tiempo",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambitojuridico.com/noticias/constitucional/constitucional-y-derechos-humanos/esta-es-la-primera-demanda-que-tramita-la",
+      "titulo": "Esta es la primera demanda que tramita la Corte Constitucional contra la reforma pensional",
+      "citada": false
+    },
+    {
+      "url": "https://www.eltiempo.com/justicia/cortes/la-corte-constitucional-ya-recibio-la-primera-demanda-que-pide-tumbar-toda-la-reforma-pensional-3363430",
+      "titulo": "'Lluvia' de demandas en la Corte Constitucional contra la reforma pensional: van 15 y una de ellas pide que se estrene la facultad de suspender leyes - El Tiempo",
+      "citada": false
+    },
+    {
+      "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=190532",
+      "titulo": "Sentencia C-269 de 2025 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://cms.law/es/col/publication/aprobada-la-reforma-pensional",
+      "titulo": "¿Aprobada la reforma pensional?",
+      "citada": false
+    },
+    {
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2023/160323-rp-cministros-extraordinario.aspx",
+      "titulo": "La Moncloa. El Gobierno aprueba la reforma del sistema público de pensiones y garantiza su poder adquisitivo",
+      "citada": false
+    },
+    {
+      "url": "https://www.mintrabajo.gov.co/comunicados/2024/junio/aprobada-la-reforma-pensional-en-la-camara-de-representes",
+      "titulo": "Aprobada la reforma pensional en la Cámara de Representes - Ministerio del trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2023/300323-congreso-convalida-real-decreto-pensiones.aspx",
+      "titulo": "La Moncloa. El Congreso de los Diputados convalida el Real Decreto-ley que culmina la modernización del sistema de pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-aprueba-ley-de-modernizacion-del-sistema-previsional-peruano/",
+      "titulo": "Pleno aprueba Ley de modernización del sistema previsional peruano - Comunicaciones » Comunicaciones",
+      "citada": false
+    },
+    {
+      "url": "https://www.senado.gov.co/index.php/el-senado/noticias/5428-plenaria-del-senado-aprobo-la-reforma-pensional-paso-ahora-a-la-camara",
+      "titulo": "Plenaria del Senado aprobó la reforma pensional, paso ahora a la Cámara",
+      "citada": false
+    },
+    {
+      "url": "https://acnweb.org/gremial-y-cups/reforma-pensional/",
+      "titulo": "Reforma Pensional",
+      "citada": false
+    }
+  ]
+}

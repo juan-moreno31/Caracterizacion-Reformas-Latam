@@ -1,0 +1,91 @@
+{
+  "id": "PRY_1993",
+  "iso": "PRY",
+  "pais": "Paraguay",
+  "anio": 1993,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1267,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 213/93, que establece el Código del Trabajo (Gaceta Oficial, 29 de octubre de 1993, núm. 105 bis)",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Paraguay en 1993 es la **Ley N° 213/93, que establece el Código del Trabajo**. Es un código completo que deroga el sancionado en 1961. Según la nota editorial de la versión de la OIT, que también aloja el Observatorio de Igualdad de Género de la CEPAL, fue aprobada por la Cámara de Diputados el 15 de junio de 1993, sancionada por la Cámara de Senadores el 29 de junio de 1993 y promulgada con fecha 29 de octubre de 1993. Se publicó en la Gaceta Oficial del 29 de octubre de 1993, núm. 105 bis.\n\n**Por qué es la que corresponde.** NATLEX (OIT) la clasifica como Labour codes, general labour and employment acts. Su texto oficial está en la Biblioteca y Archivo del Congreso Nacional y en el Digesto Legislativo, que la registra como Ley N° 213 del 29 de octubre de 1993. Al reemplazar un código entero, cubre casi todas las dimensiones del codebook: el contrato individual, las condiciones de trabajo, el salario mínimo, los derechos sindicales, la seguridad social y la aplicación de la ley. En la etapa siguiente habrá que caracterizar solo su componente laboral, como indican las reglas para códigos completos.\n\n**Otras candidatas.** No encontré otra norma laboral de 1993 con un alcance comparable, así que no hay competencia real por la categoría de norma principal. No hice una búsqueda exhaustiva de normas laborales menores de ese año, por lo que dejo \"ninguna\" con esa salvedad.\n\n**Para las etapas siguientes:**\n- **Fechas que no coinciden entre fuentes oficiales.** La Biblioteca del Congreso indica Fecha de Promulgación: 29-06-1993, y el Digesto, Fecha de Sanción: 1993-05-29. Las dos parecen confundir la sanción del 29 de junio con la promulgación, o tener un error de transcripción. La OIT y el propio texto de la ley sitúan la promulgación por el presidente Wasmosy el 29 de octubre de 1993. Ambas fechas caen en 1993, así que el año de la base no cambia.\n- **Modificación posterior importante.** El código fue reformado por la Ley núm. 496 que modifica, amplía y deroga artículos de la ley núm. 213/93, promulgada el 22 de agosto de 1995. Esto apunta a un estado de vigencia `modificada_o_derogada_despues`.\n\nNORMA: Ley N° 213/93, que establece el Código del Trabajo (Gaceta Oficial, 29 de octubre de 1993, núm. 105 bis)\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1993_ley213_pry.pdf",
+      "titulo": "1 PARAGUAY Ley núm. 213, que establece el Código del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/2608/ley-n-213-establece-el-codigo-del-trabajo",
+      "titulo": "Ley Nº 213 / ESTABLECE EL CODIGO DEL TRABAJO.",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=35443",
+      "titulo": "NATLEX - Paraguay - Ley núm. 213 que establece el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://digestolegislativo.gov.py/detalles&id=2605",
+      "titulo": "Ley N° 213 del 29 de octubre de 1993. Que establece ...",
+      "citada": true
+    },
+    {
+      "url": "https://portal.ips.gov.py/sistemas/ipsportal/archivos/archivos/1641907590.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.embajadadelparaguay.es/wp-content/uploads/2013/06/Codigo-Laboral-Paraguayo-Ley-213-93.pdf",
+      "titulo": "1 PARAGUAY Ley núm. 213, que establece el Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://portalguarani.com/detalles_museos_otras_obras.php?PqwoiflUYTeslk=MTc5Nw%3D%3D",
+      "titulo": "Portal Guaraní - CÓDIGO DEL TRABAJO DEL PARAGUAY LEY 213/93 - MEVES - EDUCAR EN DEMOCRACIA, MANUAL DE ACTIVIDADES - MUSEO VIRTUAL DE LA MEMORIA Y VERDAD SOBRE EL STRONISMO",
+      "citada": false
+    },
+    {
+      "url": "https://www.dnit.gov.py/en/web/portal-institucional/w/n-ley-n-213-93",
+      "titulo": "Ley N° 213-93 - Portal Institucional - Dirección Nacional de Ingresos Tributarios - GGII",
+      "citada": false
+    },
+    {
+      "url": "https://baselegal.com.py/docs/baa39c78-83c4-11e8-ba40-52f3cc265641",
+      "titulo": "BL:Ley 213/93 - Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/2514/ley-n-496-modifica-amplia-y-deroga-articulos-de-la-ley-21393-codigo-del-trabajo",
+      "titulo": "Ley Nº 496 / MODIFICA, AMPLIA Y DEROGA ARTICULOS DE LA LEY 213/93, CODIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://py.vlex.com/vid/ley-n-213-93-631747701",
+      "titulo": "Ley Nº 213/93 , Código del Trabajo - vLex Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://upe.edu.py/docs/marco_legal/Ley-del-Trabajo-en-el-Sector-Privado.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.morinigoyasociados.com.py/todas_disposiciones/1993/leyes/ley_213_93.htm",
+      "titulo": "Ley N   213/93",
+      "citada": false
+    },
+    {
+      "url": "https://www.agr.una.py/descargas/biblioteca_digital_gestion_riesgos/C/2.0-Codigo_Laboral-Ley_213-93.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/par223852.pdf",
+      "titulo": "PODER LEGISLATIVO LEY N°. 213 QUE ESTABLECE EL CODIGO DEL TRABAJO. EL CONGRESO",
+      "citada": false
+    }
+  ]
+}

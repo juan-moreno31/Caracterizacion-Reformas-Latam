@@ -1,0 +1,214 @@
+{
+  "id": "PRY_1995",
+  "iso": "PRY",
+  "pais": "Paraguay",
+  "anio": 1995,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.36,
+  "incompleto": false,
+  "norma": "Ley N° 496/1995",
+  "texto": "# Informe de investigación: Paraguay 1995, Ley N° 496/1995\n\n## Advertencia metodológica\nNo encontré la exposición de motivos ni el diario de sesiones. Para comparar el texto original de la Ley 213/93 con el reformado usé versiones consolidadas del Código. Algunas, como la del IPS y la de la UPE, parecen reproducir el texto de 1993 con la nota \"Modificado por el artículo 1° de la Ley Nº 496/95\", aunque ese formato no lo puedo confirmar del todo. Las comparaciones \"antes/después\" que siguen tienen, por eso, confianza media.\n\n## 1. Objetivo declarado\n**No identificado (sin fuente).** No encontré la exposición de motivos, ni discursos o documentos del Ejecutivo que justifiquen la reforma. El encabezado oficial solo indica que la ley modifica, amplía y deroga artículos de la Ley 213/93, Código del Trabajo. La promulgaron en Asunción, el 22 de agosto de 1995, el Presidente Juan Carlos Wasmosy y el Ministro de Justicia y Trabajo Juan Manuel Morales.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**derechos_colectivos_sindicales: reduce (el componente de mayor peso).**\n- *Fuero sindical.* El texto que las versiones consolidadas presentan como original protegía a un número fijo de dirigentes titulares por sindicato, y si había más de un sindicato de empresa, el mayoritario tenía asegurada la protección de un número propio de dirigentes. La Ley 496 fija un tope (\"hasta\") que depende del número de afiliados. Además, en caso de pluralidad de sindicatos, el total de dirigentes con estabilidad no puede sobrepasar el tope señalado y se reparte por representación proporcional.\n- *Derogación del artículo 325.* Ese artículo extendía el amparo de estabilidad en el empleo a varias personas por lugar de trabajo, con un número creciente según el tamaño del establecimiento. El artículo 2° de la ley lo deroga, junto con el 287.\n- *Suspensión preventiva del dirigente.* Antes, si el juez suspendía preventivamente al dirigente, el empleador debía depositar judicialmente cada mes su salario hasta la resolución definitiva. Con la reforma, el juez puede suspenderlo sin perjuicio de pagarle salarios y beneficios al término de la demanda, si ella no prospera. El pago deja de ser mensual y pasa a depender del resultado del juicio.\n- *Huelga.* La calificación de la huelga deja de corresponder a cualquier Juzgado en lo laboral y pasa al Juzgado en lo Laboral de Turno, que debe pronunciarse dentro de un plazo. Se mantiene que mientras una huelga no sea declarada ilegal, el empleador no puede sustituir a los huelguistas, y se exceptúan de la ilegalidad las huelgas de solidaridad o huelgas generales.\n- *Paro patronal.* Se dispone que el paro declarado legal por el Juzgado en lo Laboral de Turno no obliga al empleador a pagar salarios durante su duración.\n- *Matiz en contra.* Un estudio publicado por CLACSO sostiene que los cambios de 1995 y 1999 no afectan de manera sustancial a los derechos que aquí hemos expuesto, ya que básicamente se ajustó la redacción en algunos artículos. El efecto neto es, por tanto, discutido.\n\n**salario_y_negociacion_salarial: reduce.** Se introduce la revisión anticipada del contrato colectivo por iniciativa del empleador, cuando circunstancias económicas pongan en peligro la actividad o la existencia misma de la empresa. A cambio, durante ese lapso, los trabajadores afectados no pueden ser despedidos sin justa causa.\n\n**jornada_y_horas_extra: reduce para los rurales y domésticos, aumenta en la fiscalización.**\n- En las guardias rurales, las horas extraordinarias se pagan sin el recargo que establece el artículo 234, salvo que se supere un umbral semanal.\n- Para los trabajadores no sometidos a jornada, como los del servicio doméstico y los rurales, el excedente de la jornada ordinaria se paga sin recargo. A la vez, se fija un tope diario con descanso obligatorio.\n- Se sanciona con multa a los empleadores que obligan a los trabajadores a trabajar más tiempo que el que establece el Código.\n\n**despido_e_indemnizacion: reorganiza.**\n- Se reformulan los artículos 91, 185, 188 y 189. La indemnización por despido injustificado se mantiene, y en caso de muerte del trabajador, sus herederos tienen derecho a ella con la sola acreditación del vínculo.\n- Si una suspensión no se ajusta a la ley, el trabajador tiene derecho al reintegro con pago de salarios caídos; si el empleador se niega, el hecho se considera despido injustificado.\n- No encontré respaldo para la afirmación de un sitio comercial según la cual esta ley creó la estabilidad decenal. Una nota técnica del Ministerio de Trabajo indica que la estabilidad laboral fue introducida en el primer Código del Trabajo promulgado en el año 1961. La descarto.\n\n**genero_y_conciliacion: aumenta.**\n- El acoso sexual se incorpora como justa causa de despido cuando lo cometen los representantes del empleador, jefes o cualquier otro superior jerárquico, y como causa de retiro justificado del trabajador.\n- Se reconoce el derecho de la embarazada a ser trasladada de lugar de trabajo, con tareas compatibles con su estado y sin reducción de salario.\n\n**seguridad_social_y_pensiones: reduce.** Antes, el empleador pagaba sin límite los salarios por enfermedad o accidente no cubiertos por subsidios del Instituto de Previsión Social. La reforma pone un tope a esa obligación (\"hasta un máximo\").\n\n**empleo_juvenil_y_aprendizaje: reorganiza.** Se reformulan las reglas sobre trabajo de menores: la prohibición del trabajo nocturno, con exclusión del trabajo doméstico, los límites de jornada y la reducción de horas para quienes estudian. Se mantiene que para los menores de dieciocho años no habrá horas extraordinarias, salvo en el trabajo rural. El intervalo nocturno protegido parece menor que en la versión de 1993, pero la dirección general es ambigua.\n\n**otro (ámbito de aplicación): reorganiza.** El Código pasa a cubrir de forma expresa a los trabajadores de las empresas del Estado y de las empresas municipales. Para el resto del sector público, la sindicalización se rige por el Código hasta que una ley especial regule la materia.\n\n**tercerizacion_subcontratacion.** El artículo 26, que distingue intermediarios de contratistas, fue modificado, pero no pude determinar el sentido del cambio.\n\n## 3. Población objetivo\n- Asalariados formales del sector privado.\n- Trabajadores rurales y domésticos, en jornada y despido.\n- Mujeres.\n- Menores.\n- Dirigentes sindicales.\n- Sector público, con alcance parcial: empresas estatales y municipales, y sindicalización transitoria.\n\n## 4. Contexto político y económico\n- El Código de 1993 lo firmó Andrés Rodríguez y lo promulgó Juan Carlos Wasmosy, quien llegó a la presidencia en agosto de 1993.\n- La CUT y la CNT encabezaron la huelga del 2 de mayo de 1994, que reclamaba un aumento del salario mínimo.\n- En la transición, las quejas ante la OIT por violaciones a la libertad sindical estuvieron casi exclusivamente a cargo de organizaciones sindicales internacionales. Según CLACSO, un anteproyecto de modificación del Código de 1994–1995 recogía observaciones de la OIT que nunca se realizaron.\n- **Contexto económico: sin fuente.** No verifiqué fuentes de CEPAL o del BID sobre la coyuntura de 1995.\n\n## 5. ¿Revierte una reforma previa?\n**Parcialmente.** La ley recorta, dentro del mismo Código, garantías que la Ley 213/93 había creado dos años antes: el fuero sindical, el artículo 325 y la obligación sin tope de pagar salarios por enfermedad. No es una contrarreforma total, porque también agrega protecciones (acoso sexual, maternidad, multas). Las fuentes no coinciden sobre cuánto pesa este recorte (ver CLACSO en la sección 2).\n\n## 6. Entrada en vigor\n- Fecha de promulgación: 1995-08-22, según la Biblioteca y Archivo Central del Congreso.\n- **No verifiqué** la fecha de publicación en la Gaceta Oficial, que marcaría la vigencia efectiva.\n- No encontré aplicación escalonada ni diferida. La ley solo ordena reordenar numéricamente los artículos de la Ley 213/93.\n- El fechado como \"496/94\" de la DNIT y de una copia de la CEPAL (\"Asunción, 22 de agosto de 1994\") parece un error de transcripción.\n\n## 7. Estado de vigencia posterior\n- **Modificaciones identificadas:**\n  - El artículo 9, en la redacción de la Ley 496, fue modificado por la Ley N° 6470.\n  - Un artículo de la sección de trabajo doméstico que había reformado la Ley 496 aparece derogado por el artículo 26 de la Ley N° 5407/2015.\n  - El Código también fue modificado por la Ley 1416/1999. No verifiqué si esa ley tocó artículos de la 496.\n- **Ley 1680/01:** confirmé que su artículo 257 es una cláusula derogatoria, pero \"Deróganse la Ley N° 903 'Código del Menor'...\" es lo único legible en la fuente. **No pude verificar** qué artículos del Código del Trabajo deroga.\n- **Fallos judiciales:** no encontré acciones de inconstitucionalidad contra la ley.\n- **Codificación sugerida:** `modificada_o_derogada_despues`. Los cambios posteriores que identifiqué afectan componentes no centrales; el núcleo sindical y de jornada sigue en las versiones consolidadas actuales.\n\n## Clasificación preliminar\n- **Orientación:** `mixta`, con peso flexibilizador en lo colectivo y en la jornada rural.\n- **Instrumento:** `ley`.\n- **Confianza de identificación:** `alta`.\n- **Normas relacionadas:** Decreto N° 10047/1995.\n\n## Pendiente de verificar\n- Exposición de motivos.\n- Fecha de publicación oficial.\n- El texto original de 1993 en fuente primaria, para confirmar las comparaciones.\n- El sentido del cambio en el artículo 26.\n- El alcance del artículo 257 de la Ley 1680/01.\n- El contexto económico.",
+  "fuentes": [
+    {
+      "url": "https://simel.mtess.gov.py/wp-content/uploads/2025/06/Nota_Tecnica_Estabilidad_Laboral_en_el_Codigo_de_Trabajo.pdf",
+      "titulo": "Estabilidad Laboral en el Código de Trabajo - Simel.Py",
+      "citada": true
+    },
+    {
+      "url": "https://www.icasa.com.py/web/LEYES/ADMINISTRATIVAS/adm/LEY_N_496_95_Modificaciones_al_Codigo_del_Trabajo.pdf",
+      "titulo": "LEY Nº 496/95 Ver Ley Nº 213/93 Establece el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://librosdederechoparaguay.blogspot.com/2009/09/codigo-laboral-leyes-complementarias_24.html",
+      "titulo": "EL DERECHO EN PARAGUAY - LIBROS, ARTÍCULOS Y COMENTARIOS - LA CONSTITUCIÓN (1992), CÓDIGOS Y LEYES: CÓDIGO LABORAL - LEYES COMPLEMENTARIAS - LEY Nº 496/95",
+      "citada": true
+    },
+    {
+      "url": "https://portal.ips.gov.py/sistemas/ipsportal/archivos/archivos/1641907590.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/2514/ley-n-496-modifica-amplia-y-deroga-articulos-de-la-ley-21393-codigo-del-trabajo",
+      "titulo": "Ley Nº 496 / MODIFICA, AMPLIA Y DEROGA ARTICULOS DE LA LEY 213/93, CODIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/9119/ley-n-6470-modifica-el-articulo-9-de-la-ley-n-2131993-que-establece-el-codigo-del-trabajo-modificado-por-la-ley-n-4961995",
+      "titulo": "Ley Nº 6470 / MODIFICA EL ARTÍCULO 9° DE LA LEY Nº 213/1993, “QUE ESTABLECE EL CÓDIGO DEL TRABAJO”, MODIFICADO POR LA LEY N° 496/1995",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1994_ley496_pry.pdf",
+      "titulo": "PODER LEGISLATIVO LEY N° 496",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/9784fb23-c049-11e9-8e7a-525400c761ca/text",
+      "titulo": "BL:Ley 496/1995 - modifica Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://germinal.pyglobal.com/pdf/documento_trabajo_23.pdf",
+      "titulo": "GERMINAL DOCUMENTOS DE TRABAJO PUBLICACIÓN PERIÓDICA DE ANÁLISIS Y ESTUDIOS",
+      "citada": true
+    },
+    {
+      "url": "https://upe.edu.py/docs/marco_legal/Ley-del-Trabajo-en-el-Sector-Privado.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/baa39c78-83c4-11e8-ba40-52f3cc265641",
+      "titulo": "BL:Ley 213/93 - Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.clacso.edu.ar/Paraguay/ceepg/20170404043218/pdf_494.pdf",
+      "titulo": "La libertad sindical en el Paraguay, según resultados de las ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2014/03/26/informe-especial-huelga-general-en-paraguay/",
+      "titulo": "Informe especial: Huelga general en Paraguay - Resumen Latinoamericano",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/59808/PRY59808.pdf",
+      "titulo": "LEY N° 1.680/01 CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA",
+      "citada": true
+    },
+    {
+      "url": "https://finiquitojusto.com/derechos-laborales/estabilidad-laboral-paraguay/",
+      "titulo": "Estabilidad Laboral Paraguay 2026",
+      "citada": false
+    },
+    {
+      "url": "https://www.morinigoyasociados.com.py/todas_disposiciones/1995/leyes/ley_496_95.htm",
+      "titulo": "Ley N   496/95",
+      "citada": false
+    },
+    {
+      "url": "https://humanidades.uni.edu.py/wp-content/uploads/2016/07/Ley-213-93-C%C3%B3digo-Laboral.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://piac.com.ar/codigo-de-trabajo-paraguay/",
+      "titulo": "Código Laboral Paraguayo: Derechos y Horas",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@americas/@ro-lima/@sro-santiago/documents/publication/wcms_709389.pdf",
+      "titulo": "Código del Trabajo de la República del Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://ciencialatina.org/index.php/cienciala/article/download/8365/12574/",
+      "titulo": "Arista de la Flexibilización Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://elsurti.com/laprecisa/chequeo/2024/09/17/estabilidad-laboral-un-derecho-adquirido-que-no-puede-retroceder/",
+      "titulo": "Estabilidad laboral: un derecho adquirido que no puede retroceder",
+      "citada": false
+    },
+    {
+      "url": "https://paraguay.justia.com/categorias/trabajo/n-a/",
+      "titulo": "Justia Paraguay :: Trabajo > Martima y fluvial :: Ley de Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://www.dnit.gov.py/en/web/portal-institucional/w/m-ley-n-496-94",
+      "titulo": "Ley Nº 496-94 - Portal Institucional - Dirección Nacional de Ingresos Tributarios - GGII",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/es/media/404156/download",
+      "titulo": "El desarrollo de la institucionalidad del trabajo, empleo y ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.pj.gov.py/ebook/libros_files/Derecho_Labora-Tomo2-Vol2.pdf",
+      "titulo": "1 Versiones lunes, 30 de octubre de 2017 viernes, 27 de octubre de 2017",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1993_ley213_pry.pdf",
+      "titulo": "1 PARAGUAY Ley núm. 213, que establece el Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://py.vlex.com/vid/ley-n-213-93-631747701",
+      "titulo": "Ley Nº 213/93 , Código del Trabajo - vLex Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://desarrollo.edu.py/wp-content/uploads/2022/05/derechos_laborales_estado_de_Derecho_CI.pdf",
+      "titulo": "derechos laborales y acceso a la justicia en sectores ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/media/404156/download",
+      "titulo": "El desarrollo de la institucionalidad del trabajo, empleo y ...",
+      "citada": false
+    },
+    {
+      "url": "https://codehupy.org.py/ddhh2020/derechos-laborales",
+      "titulo": "Hacia la fulminación de los derechos laborales",
+      "citada": false
+    },
+    {
+      "url": "https://py.vlex.com/vid/modifica-articulos-94-96-896541892",
+      "titulo": "Que Modifica los Artículos 94 y 96 de la Ley N° 213/93,código del Trabajo Paraguayo - vLex Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://siteal.iiep.unesco.org/sites/default/files/sit_accion_files/codigo_de_la_ninez_y_la_adolescencia.pdf",
+      "titulo": "1 Ley Nº 1680/01 CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA (Versión Concordada)",
+      "citada": false
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/5261/codigo-de-la-ninez-y-la-adolescencia",
+      "titulo": "Ley Nº 1680 / CODIGO DE LA NIÑEZ Y LA ADOLESCENCIA",
+      "citada": false
+    },
+    {
+      "url": "https://www.embajadadelparaguay.es/wp-content/uploads/2013/06/Codigo-de-la-Ni%C3%B1ez-y-de-la-Adolescencia-LEY-1680.2001.pdf",
+      "titulo": "/Vic Ley No. 1680/01 CODIGO DE LA NIÑEZ Y LA ADOLESCENCIA",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=59808",
+      "titulo": "NATLEX - Paraguay - Ley núm. 1680 por el cual se dicta el Código de la Niñez y de la Adolescencia.",
+      "citada": false
+    },
+    {
+      "url": "https://py.vlex.com/vid/ley-n-1-680-631747725",
+      "titulo": "Ley Nº 1.680/01, Código de la niñez y la adolescencia - vLex Paraguay",
+      "citada": false
+    },
+    {
+      "url": "https://dof.gob.mx/nota_detalle.php?codigo=5396526&amp=&fecha=12%2F06%2F2015",
+      "titulo": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo de menores",
+      "citada": false
+    },
+    {
+      "url": "https://dof.gob.mx/avisos/2455/STPS_120615/STPS_120615.html",
+      "titulo": "STPS_120615",
+      "citada": false
+    },
+    {
+      "url": "https://www.aldeasinfantiles.org.uy/sites/default/files/media/2022-04/C%C3%B3digo%20de%20la%20Ni%C3%B1ez%20y%20la%20Adolescencia_0.pdf",
+      "titulo": "CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA CAPÍTULO I PRINCIPIOS GENERALES",
+      "citada": false
+    },
+    {
+      "url": "https://silpy.congreso.gov.py/web/descarga/dictamencomision-405856?preview=",
+      "titulo": "que modifica la ley nº 1680/01, código de la niñez ...",
+      "citada": false
+    }
+  ]
+}

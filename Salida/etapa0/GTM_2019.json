@@ -1,0 +1,156 @@
+{
+  "id": "GTM_2019",
+  "iso": "GTM",
+  "pais": "Guatemala",
+  "anio": 2019,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1824,
+  "incompleto": false,
+  "norma_propuesta": "Acuerdo Gubernativo 89-2019 (Reglamento del Convenio 175 de la OIT sobre el Trabajo a Tiempo Parcial)",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Guatemala en 2019 es el **Acuerdo Gubernativo 89-2019**, que contiene el Reglamento del Convenio 175 de la OIT sobre el trabajo a tiempo parcial.\n\n**Resumen.** El texto oficial lleva la fecha Guatemala, 3 de junio de 2019. Además, ese día se publicó en el Diario Oficial el Acuerdo Gubernativo No. 89-2019, del Ministerio de Trabajo y Previsión Social, el cual se refiere al Reglamento que permitirá la aplicación del Convenio 175 de la Organización Internacional del Trabajo (OIT) trabajo de tiempo parcial, el 27 de junio de 2019. El reglamento desarrolla un convenio que Guatemala aprobó a través del Decreto Número 2-2017 de fecha 8 de febrero de 2017, y que entró en vigencia para Guatemala el 28 febrero 2018. Su contenido central es permitir que todo patrono puede contratar a su personal a tiempo completo o parcial, respetando y cumpliendo con las disposiciones del Código de Trabajo y del Convenio relacionado. Lo elijo porque aparece en una fuente oficial (el Congreso) con fecha de 2019. También es la única norma laboral de ese año que encontré con efecto sustantivo sobre la contratación, y la cuestionó la propia Corte de Constitucionalidad (expedientes acumulados 4958-2019 y 5135-2019).\n\n**Puntos para las etapas siguientes:**\n- **Tipo de instrumento:** es un acuerdo gubernativo, es decir, un reglamento del Ejecutivo. En el codebook encajaría como `decreto`, y no como `ley`.\n- **Fecha de vigencia:** según fuentes secundarias, el reglamento entraría en vigencia el 5 de julio del año 2019, sin embargo, por dos acciones de inconstitucionalidad presentadas en contra de dicho Acuerdo se suspendió la entrada en vigencia. Las fuentes no coinciden: una de baja calidad lo fecha en \"marzo 2019\" y otra dice que entró en vigor \"a inicios de junio\". Hay que verificar esto con el texto oficial.\n- **Estado judicial:** el miércoles 3 de octubre del 2019 la Corte de Constitucionalidad (CC) suspendió de manera provisional los artículos 2 y 4, así como las frases de los artículos 1 y 6 del Acuerdo Gubernativo 89-2019. Después, con fecha 15 de julio de 2021 la Corte de Constitucionalidad resolvió sin lugar la acción de inconstitucionalidad. Esto pesa para saber si hubo tratamiento real: la parte central estuvo suspendida casi dos años.\n- **Otras candidatas:** no encontré ninguna otra norma laboral de 2019 con respaldo de fuentes. El Decreto 7-2017 (reforma del Código de Trabajo sobre inspección) y el Decreto 2-2017 (aprobación del Convenio 175) son de 2017. No revisé los acuerdos de salario mínimo de 2019, así que no los incluyo. Tampoco pude confirmar la norma en NATLEX.\n\nNORMA: Acuerdo Gubernativo 89-2019 (Reglamento del Convenio 175 de la OIT sobre el Trabajo a Tiempo Parcial)\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://republica.com/guatemala/2021-3-7-15-41-43-el-fallo-de-la-corte-de-constitucionalidad-que-arrebato-miles-de-oportunidades-de-empleo",
+      "titulo": "El fallo de la Corte de Constitucionalidad que arrebató miles de oportunidades de empleo",
+      "citada": true
+    },
+    {
+      "url": "https://www.bdo.com.gt/es-gt/publicaciones/impuestos-legal/trabajo-a-tiempo-parcial",
+      "titulo": "BDO en Guatemala- Inicio",
+      "citada": true
+    },
+    {
+      "url": "https://leyes.infile.com/index.php?cmd=login&id=181&id_publicacion=79691",
+      "titulo": "Leyes de Guatemala",
+      "citada": true
+    },
+    {
+      "url": "https://www.chilemonroy.com/docs/1561659178ACUERDO%20GUBERNATIVO%2089-2019.pdf",
+      "titulo": "Publicado en el Diario de C.A. con fecha 27-6-2019 ACUERDO GUBERNATIVO 89-2019",
+      "citada": true
+    },
+    {
+      "url": "https://www.congreso.gob.gt/noticias_congreso/3198/2019/",
+      "titulo": "CONTRATACIÓN LABORAL DE  TIEMPO PARCIAL APROBADA POR EL CONGRESO SERÁ REALIDAD",
+      "citada": true
+    },
+    {
+      "url": "https://www.camaradelagro.org/wp-content/uploads/2021/07/ManualtrabajoTiempoParcialSectorAgro.pdf",
+      "titulo": "en el Sector Agro Trabajo a Tiempo Parcial",
+      "citada": true
+    },
+    {
+      "url": "https://bergerpemueller.com/publicaciones/2021-9-16-trabajo-a-tiempo-parcial/",
+      "titulo": "Trabajo a tiempo parcial - Berger Pemueller y Asociados",
+      "citada": true
+    },
+    {
+      "url": "https://republica.com/economia/2021-7-15-20-10-18-trabajo-a-tiempo-parcial-cobra-vigencia-de-nuevo-en-guatemala-con-fallo-de-organo-constitucional",
+      "titulo": "Trabajo a tiempo parcial cobra vigencia de nuevo en Guatemala con fallo de órgano constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/noticias-y-reformas-laborales/contrato-por-horas-en-guatemala/",
+      "titulo": "Trabajo a Tiempo Parcial en Guatemala 2026 Convenio 175",
+      "citada": false
+    },
+    {
+      "url": "https://leyes.infile.com/index.php/index.php?id=181&id_publicacion=83445&cmd=login",
+      "titulo": "Leyes de Guatemala",
+      "citada": false
+    },
+    {
+      "url": "https://competitividad.gt/en/alerta/corte-de-constitucionalidad-da-luz-verde-a-la-implementacion-del-trabajo-a-tiempo-parcial/",
+      "titulo": "Corte de Constitucionalidad da Luz Verde a la Implementación del Trabajo a Tiempo Parcial - Observatorio",
+      "citada": false
+    },
+    {
+      "url": "https://latinalliance.co/2020/08/27/guatemala-reglamento-sobre-el-trabajo-a-tiempo-parcial/",
+      "titulo": "GUATEMALA",
+      "citada": false
+    },
+    {
+      "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/sector-empresarial-recibe-con-beneplacito-respaldo-al-trabajo-a-tiempo-parcial/",
+      "titulo": "Sector empresarial recibe con beneplácito respaldo al trabajo a tiempo parcial",
+      "citada": false
+    },
+    {
+      "url": "https://iies.usac.edu.gt/index.php/2021/09/29/boletin-economia-al-dia-9-2021/",
+      "titulo": "Boletín «Economía al día» 9/2021",
+      "citada": false
+    },
+    {
+      "url": "https://guatemala.gob.gt/el-ministerio-de-trabajo-y-prevision-social-sobre-el-trabajo-a-tiempo-parcial-informa/",
+      "titulo": "El Ministerio de Trabajo y Previsión Social sobre el Trabajo a Tiempo Parcial informa: - Gobierno de Guatemala",
+      "citada": false
+    },
+    {
+      "url": "https://conadi.gob.gt/web/wp-content/uploads/2019/06/Iniciativa-de-Ley-5232.pdf",
+      "titulo": "CONGRESO DE LA REPUBLICA GUATEMALA, C. A. DIRECCIÓN LEGISLATIVA",
+      "citada": false
+    },
+    {
+      "url": "https://defensores.org.gt/wp-content/uploads/1.48-Codigo-de-Trabajo.pdf",
+      "titulo": "Defensores",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/gua205813.pdf",
+      "titulo": "Código de Trabajo de Guatemala",
+      "citada": false
+    },
+    {
+      "url": "https://mcd.gob.gt/wp-content/uploads/2013/07/codigo-de-trabajo.pdf",
+      "titulo": "OFICINA NACIONAL DE SERVICIO CIVIL 1080 CÓDIGO DE TRABAJO DECRETO NÚMERO 1441",
+      "citada": false
+    },
+    {
+      "url": "http://bvs.gt/eblueinfo/ML/ML_027.pdf",
+      "titulo": "1 EL CONGRESO DE LA REPÚBLICA DE GUATEMALA CONSIDERANDO:",
+      "citada": false
+    },
+    {
+      "url": "https://bvssan.incap.int/local/legislacion/LDT005.pdf",
+      "titulo": "Código de Trabajo PRESENTACIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/67e56-10-2022.pdf",
+      "titulo": "!. t ' l 1 . • 1. 2 Guatemala, JUEVES 3 de marzo 2022 DIARIO de CENTRO AMÉRICA",
+      "citada": false
+    },
+    {
+      "url": "https://www.leyestributariasguatemala.com/leyes/codigo-de-trabajo-decreto-no.-1441-titulo-i-y-ii",
+      "titulo": "Codigo de Trabajo Decreto No. 1441 TITULO I y II",
+      "citada": false
+    },
+    {
+      "url": "http://ww2.oj.gob.gt/es/QueEsOJ/EstructuraOJ/UnidadesAdministrativas/CentroAnalisisDocumentacionJudicial/pdfs/Codigos/CodigoTrabajo_CENADOJ.pdf",
+      "titulo": "Cenadoj CENTRO NACIONAL DE ANÁLISIS Y DOCUMENTACIÓN JUDICIAL Código de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://investguatemala.com/wp-content/uploads/2024/01/guia-para-el-trabajador-final-mayo23-2.pdf",
+      "titulo": "guia para el trabajador final mayo23",
+      "citada": false
+    },
+    {
+      "url": "https://www.chilemonroy.com/docs/1626632200CC%20TRABAJO%20TIEMPO%20PARCIAL%20150721.pdf",
+      "titulo": "Expedientes Acumulados 4958-2019 y 5135-2019 Página 1 de 37",
+      "citada": false
+    },
+    {
+      "url": "https://republica.com/guatemala/asi-se-ha-discutido-la-contratacion-a-tiempo-parcial-en-guatemala-20225614420",
+      "titulo": "Así se ha discutido la contratación a tiempo parcial en Guatemala",
+      "citada": false
+    },
+    {
+      "url": "https://mayora-mayora.com/en/mm-news-guatemala-legal-overview-of-part-time-work-in-guatemala/",
+      "titulo": "Panorama jurídico del trabajo a tiempo parcial en Guatemala",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "BOL_1999",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 1999,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0556,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 2027 de 27 de octubre de 1999 (Estatuto del Funcionario Público)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Supremo N° 25421 de 11 de junio de 1999",
+      "Decreto Supremo N° 25489 de 13 de agosto de 1999",
+      "Decreto Supremo N° 25340 de 31 de marzo de 1999",
+      "Ley N° 2104 de 21 de junio de 2000 (modificatoria de la Ley N° 2027)",
+      "Decreto Supremo N° 25749 de 20 de abril de 2000 (Reglamento de Desarrollo Parcial)",
+      "Decreto Supremo N° 26115 de 16 de marzo de 2001 (Normas Básicas del Sistema de Administración de Personal)",
+      "Decreto Supremo N° 26257 de 20 de julio de 2001 (reglamento parcial)",
+      "Decreto Supremo N° 26740 de 4 de agosto de 2002 (Reglamento de Desarrollo Parcial de las Leyes N° 2027 y N° 2104)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "desconocida",
+    "vigencia_escalonada": true,
+    "orientacion_general": "mixta",
+    "objetivo_declarado": "Según el artículo de objeto de la ley, regular la relación del Estado con sus servidores públicos, garantizar el desarrollo de la carrera administrativa y asegurar la dignidad, transparencia, eficacia y vocación de servicio en la función pública, promoviendo el eficiente desempeño y la productividad, con una permanencia de los funcionarios de carrera condicionada a su desempeño. No se halló exposición de motivos ni debates legislativos.",
+    "descripcion_intenciones": "La ley crea un régimen jurídico propio para los servidores públicos, separado de la Ley General del Trabajo, cuyos derechos quedan excluidos para quienes se rigen por el Estatuto. Instituye una carrera administrativa basada en el mérito que prohíbe el retiro discrecional de los funcionarios de carrera, aunque condiciona la permanencia a evaluaciones de desempeño y permite retiros excepcionales fundados. Deja fuera de toda protección laboral a quienes se vinculan de forma eventual o por servicios específicos, cuya relación pasa a regirse por normas de contratación de bienes y servicios. Crea la Superintendencia de Servicio Civil y traslada los conflictos de ingreso, promoción y retiro a una vía administrativa y contencioso-administrativa. Introduce además incompatibilidades, códigos de ética y declaraciones juradas de bienes y rentas.",
+    "dimensiones": [
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Prohíbe el retiro discrecional de funcionarios de carrera y fija causales tasadas. Con matices: permanencia ligada al desempeño, retiros excepcionales fundados y exigencia de renuncia y liquidación bajo el régimen anterior para ingresar a la carrera."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Excluye del Estatuto y de la Ley General del Trabajo al personal eventual o de servicios específicos, sujeto a normas de contratación de bienes y servicios. Codificación tentativa: no se verificó si cambió o solo formalizó la práctica previa."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea la Superintendencia de Servicio Civil y una vía de recursos de revocatoria y jerárquico, con acceso posterior solo a lo contencioso-administrativo, fuera de la jurisdicción laboral ordinaria."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Reconoce el derecho a una remuneración justa acorde con la responsabilidad y la eficiencia, y la vincula a evaluación obligatoria del desempeño e incentivos."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Ética pública e integridad: incompatibilidades, sujeción a códigos de ética institucionales y declaraciones juradas de bienes y rentas verificables durante y al término de la relación."
+      }
+    ],
+    "poblacion_objetivo": [
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Ley promulgada durante el gobierno de Hugo Banzer Suárez, apoyada en el sistema de administración de personal de la Ley 1178 y precedida por un Programa de Servicio Civil dependiente del Ministerio de Hacienda. Desplaza para los servidores públicos la aplicación de la Ley General del Trabajo, salvo el personal de entidades autárquicas y descentralizadas previamente amparado por ella, que conserva ese régimen. Las carreras municipal, universitaria, judicial, del Ministerio Público, del servicio exterior y del magisterio se remiten a legislación especial. Sin fuente: recesión de 1999, participación de organismos multilaterales y agenda de reforma del Estado.",
+    "notas": "Fecha de vigencia: la ley fue promulgada el 1999-10-27 (Lexivox registra 22 de octubre); las nuevas incorporaciones quedaban sujetas al Estatuto desde su publicación, cuya fecha en la Gaceta no se verificó, por lo que se codifica 'desconocida'. La vigencia plena se difería y la Ley N° 2104 (2000) la hizo depender de la posesión del Superintendente del Servicio Civil, fecha no verificada; la reglamentación fue escalonada entre 2000 y 2002. Estado: la Ley N° 2104 modificó el ámbito (Fuerzas Armadas, Policía, salud pública y seguridad social sujetas solo a partes del Estatuto), incompatibilidades, financiamiento y derogó incisos de los arts. 9 y 61; la tuición de la Superintendencia pasó al Ministerio de Trabajo y Microempresa, y en 2009 los DS 29894 y 0071 la extinguieron, transfiriendo funciones al Ministerio de Trabajo, Empleo y Previsión Social. La SC 0092/2003 parece afectar al reglamento sobre declaraciones juradas, efecto menor; en 2020 se rechazó promover una acción contra los arts. 5, 6 y 71. No verificado: alcance del DS 26781 (2002) y efecto de la Constitución de 2009. Orientación 'mixta': la estabilidad de carrera es protectora, pero se excluyen derechos de la Ley General del Trabajo, se condiciona la permanencia al desempeño y se deja sin protección laboral al personal eventual; hay además fuerte peso administrativo. Derechos colectivos y sindicales no codificados por falta de fuente. Confianza 'alta' porque la norma consta en fuentes oficiales (Gaceta Oficial, Lexivox, DGSC); la limitación es su alcance exclusivo al sector público. Los Decretos Supremos N° 25421, 25489 y 25340 de 1999 se incluyen por la etapa de identificación, pero el informe no describe su contenido."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-2027.html",
+      "titulo": "Bolivia: Ley del Estatuto del Funcionario Público, 22 de octubre de 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-RE-DS26740.html",
+      "titulo": "Bolivia: Reglamento de Desarrollo Parcial de la Ley Nº 2027 del Estatuto del Funcionario Público y de la Ley Nº 2104 modificatoria de la Ley del Estatuto del Funcionario Público, 4 de agosto de 2002",
+      "citada": true
+    },
+    {
+      "url": "https://www.dgsc.gob.bo/normativa/leyes/fpublico.html",
+      "titulo": "Ley del Estatuto del Funcionario Público",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/666/estatuto-del-funcionario-p%C3%BAblico-2027",
+      "titulo": "Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/15329",
+      "titulo": "Law No. 2027 of October 27, 1999, relating to Statute on Public Officials, Bolivia (Plurinational State of), WIPO Lex",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-n-2027-estatuto-1104534926",
+      "titulo": "LEY Nº 2027, ESTATUTO DEL FUNCIONARIO ÍUBLICO - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.wipo.int/edocs/lexdocs/laws/es/bo/bo055es.pdf",
+      "titulo": "LEY 2027 del ESTATUTO DEL FUNCIONARIO PUBLICO DEL 27 DE OCTUBRE DE 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-26740.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 26740, 4 de agosto de 2002",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-2104.html",
+      "titulo": "Bolivia: Ley Nº 2104, 21 de junio de 2000",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/670/ley-modificatoria-a-la-ley-n%C2%BA-2027-del-estatuto-del-funcionario-p%C3%BAblico-2104",
+      "titulo": "Ley Modificatoria a La Ley Nº 2027 del Estatuto del Funcionario Público (2104) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "http://www.oas.org/juridico/spanish/blv_res19.pdf",
+      "titulo": "LEY N° 2027 LEY DEL 27 DE OCTUBRE DE 1999 HUGO BANZER SUAREZ",
+      "citada": true
+    },
+    {
+      "url": "http://www.oas.org/juridico/spanish/mesicic2_blv_ley_2027_sp.pdf",
+      "titulo": "LEY 2027 del ESTATUTO DEL FUNCIONARIO PUBLICO DEL 27 DE OCTUBRE DE 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.planificacion.gob.bo/uploads/marco-legal/Ley%20N%C2%B0%202027%20ESTATUTO%20DEL%20FUNCIONARIO%20PUBLICO.pdf",
+      "titulo": "Ley N° 2027 ESTATUTO DEL FUNCIONARIO PUBLICO.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/13133",
+      "titulo": "ARTÍCULO 7° (DERECHOS)., Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.oas.org/es/sla/dlc/mesicic/docs/blv_res40.pdf",
+      "titulo": "DECRETO SUPREMO N° 27349 CARLOS D. MESA GISBERT",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/sentencia-n-0099-2020-869173811",
+      "titulo": "Sentencia Nº 0099/2020-CA de Tribunal Constitucional, 03-07-2020 - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/13167",
+      "titulo": "ARTÍCULO 41° (CAUSALES)., Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N071.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 071, 9 de abril de 2009",
+      "citada": true
+    },
+    {
+      "url": "https://jurisprudenciaconstitucional.com/resolucion/35539-sentencia-constitucional-0921-2011-r",
+      "titulo": "Sentencia Constitucional 0921/2011-R SUCRE, 22 DE JUNIO DE 2011",
+      "citada": true
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/21262",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "GTM_2019",
+  "iso": "GTM",
+  "pais": "Guatemala",
+  "anio": 2019,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0511,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Acuerdo Gubernativo 89-2019, Reglamento del Convenio 175 de la OIT sobre el Trabajo a Tiempo Parcial (Guatemala)",
+    "tipo_instrumento": "decreto",
+    "normas_relacionadas": [
+      "Acuerdo 1522 de la Junta Directiva del IGSS (protección de seguridad social para trabajadores a tiempo parcial)",
+      "Acuerdo Gubernativo 258-2022 (aprueba el Acuerdo 1522 del IGSS)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2019-07-05",
+    "vigencia_escalonada": false,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Según sus considerandos y su artículo 1, desarrollar el Convenio 175 de la OIT para regular las relaciones laborales de los trabajadores a tiempo parcial, proteger los derechos de las partes y respetar los principios de voluntariedad, proporcionalidad, seguridad y certeza jurídica, realismo, equidad e igualdad de remuneración. Los promotores del sector privado (CACIF) la presentaron además como instrumento para promover el empleo y formalizar el trabajo por horas de la economía informal, objetivos que no constan en el texto.",
+    "descripcion_intenciones": "La norma habilita expresamente a todo patrono para contratar personal a tiempo parcial, definido como aquel que trabaja menos que la jornada ordinaria del Código de Trabajo, mediante contrato escrito. Establece el pago sobre una base horaria con piso en el salario mínimo por hora y permite determinar proporcionalmente las prestaciones laborales y de previsión social. Incorpora salvaguardas como la voluntariedad expresa del traslado entre modalidades, su comunicación a la autoridad y el derecho preferente a puestos de tiempo completo. Su retórica es protectora, pero su efecto principal es abaratar y dar certeza jurídica a las jornadas reducidas.",
+    "dimensiones": [
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Habilitación expresa de la contratación a tiempo parcial con contrato escrito y regulación del traslado voluntario entre modalidades, con derecho preferente a tiempo completo. No es contratación temporal."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Sustituye en la práctica el piso salarial mensual o diario por uno horario, aunque conserva el mínimo por hora. Confianza media; los sindicatos alegaron violación de la progresividad."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Las prestaciones pueden determinarse proporcionalmente; según la prensa, ello alcanza a la indemnización, aunque el texto no la menciona expresamente (tentativo)."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Aplica a jornadas reducidas las categorías del Código (ordinaria, extraordinaria, continua o discontinua) sin alterar los límites máximos."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Reconoce los derechos de previsión social en forma proporcional, pero sin reglas de cotización; estas llegaron con la normativa del IGSS de 2022."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Efecto menor: exige comunicar el traslado a la autoridad competente. El registro de contratos y la verificación por la Inspección provienen de un comunicado ministerial posterior, no del acuerdo."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "informales",
+      "general"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "El acuerdo desarrolla el Convenio 175 de la OIT, aprobado por el Decreto 2-2017 y en vigor para Guatemala desde 2018, y se aplica junto con el Código de Trabajo sin derogar reformas previas. Fue firmado por el presidente Jimmy Morales y el ministro de Trabajo Gabriel Aguilera en el último año de ese gobierno, tras una consulta tripartita con posturas divergentes. El CACIF lo impulsó y valoró la certeza jurídica; las centrales sindicales lo impugnaron ante la Corte de Constitucionalidad. No se caracteriza el contexto macroeconómico por falta de fuentes multilaterales.",
+    "notas": "Firmado el 2019-06-03 y publicado en el Diario de Centro América el 2019-06-27; vigencia calculada a partir del artículo 7 y confirmada por prensa. Texto íntegro obtenido de una copia alojada en un despacho de abogados, cotejada con la sentencia de la CC y una nota del Congreso; no verificado en NATLEX. La CC suspendió provisionalmente (resolución del 26-09-2019, divulgada el 03-10-2019) los artículos 2 y 4 y frases de los artículos 3, 5 y 6 (posiblemente también del 1), componentes sustantivos como la base horaria, la proporcionalidad de prestaciones y el traslado. El Mintrab siguió aceptando contratos durante la suspensión. La sentencia del 15-07-2021 declaró constitucionales los artículos impugnados y revocó la suspensión; por eso se codifica como vigente, aunque para medir la exposición efectiva podría considerarse suspendida parcialmente entre 2019 y 2021. No se verificó el contenido de la aclaración de la CC de 2020. El componente de seguridad social quedó diferido de hecho hasta el Acuerdo 1522 del IGSS (Acuerdo Gubernativo 258-2022). La orientación alternativa defendible es mixta. No se verificó la cobertura del sector público ni reformas posteriores a 2023."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.chilemonroy.com/docs/1561659178ACUERDO%20GUBERNATIVO%2089-2019.pdf",
+      "titulo": "Publicado en el Diario de C.A. con fecha 27-6-2019 ACUERDO GUBERNATIVO 89-2019",
+      "citada": true
+    },
+    {
+      "url": "https://bergerpemueller.com/publicaciones/2020-4-16-acuerdo-gubernativo-89-2019-del-ministerio-de-trabajo-y-prevensin-social-reglamento-del-convenio-175-de-la-organizacin-internacional-del-trabajo-oit-el-trabajo-a-tiempo-parcial/",
+      "titulo": "Acuerdo Gubernativo 89-2019 del Ministerio de Trabajo y Prevensión Social, Reglamento del convenio 175 de la Organización Internacional del Trabajo OIT - El trabajo a tiempo parcial - Berger Pemueller y Asociados",
+      "citada": true
+    },
+    {
+      "url": "https://vescco.tax/blog/reglamento-sobre-el-trabajo-a-tiempo-parcial-guatemala-acuerdo-gubernativo-89-19/",
+      "titulo": "Reglamento sobre el trabajo a tiempo parcial Guatemala",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensalibre.com/economia/regresa-el-tiempo-parcial-cc-revoca-suspension-del-reglamento-para-contrataciones-por-horas/",
+      "titulo": "Regresa el tiempo parcial: CC revoca suspensión del reglamento para contrataciones por horas",
+      "citada": true
+    },
+    {
+      "url": "https://leyes.infile.com/index.php?id=182&id_publicacion=83445",
+      "titulo": "Leyes de Guatemala",
+      "citada": true
+    },
+    {
+      "url": "https://emisorasunidas.com/2019/06/27/empresas-podran-contratar-personal-por-horas-acuerdo-ministerial/",
+      "titulo": "Empresas podrán contratar personal por horas, según acuerdo ministerial",
+      "citada": true
+    },
+    {
+      "url": "https://www.publinews.gt/gt/noticias/2019/06/27/mintrab-publica-el-acuerdo-gubernativo-89-2019-que-regula-el-trabajo-a-tiempo-parcial.html",
+      "titulo": "Mintrab publica el Acuerdo Gubernativo 89-2019 que regula el trabajo a tiempo parcial",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensalibre.com/economia/se-reactiva-debate-sobre-contratos-de-trabajo-a-tiempo-parcial/",
+      "titulo": "Se reactiva debate sobre contratos de trabajo a tiempo parcial",
+      "citada": true
+    },
+    {
+      "url": "https://republica.com/economia/2019-7-5-16-12-13-trabajo-a-tiempo-parcial-los-derechos-que-gozaran-los-empleados",
+      "titulo": "Trabajo a tiempo parcial: Los derechos que gozarán los empleados",
+      "citada": true
+    },
+    {
+      "url": "https://www.fundacionlibertad.com/en/articulo/el-trabajo-tiempo-parcial",
+      "titulo": "El trabajo a tiempo parcial",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensalibre.com/economia/los-trabajadores-a-tiempo-parcial-tendran-cobertura-del-igss-si-se-aprueba-un-reglamento-especifico/",
+      "titulo": "Los trabajadores a tiempo parcial tendrán cobertura del IGSS, si se aprueba un reglamento específico",
+      "citada": true
+    },
+    {
+      "url": "https://lahora.gt/lh-economia/andrea-solorzano/2022/11/02/laboras-a-tiempo-parcial-conoce-el-reglamento-para-la-proteccion-de-estos-trabajadores/",
+      "titulo": "¿Laboras a tiempo parcial?, conoce el reglamento para la protección de estos trabajadores - La Hora",
+      "citada": true
+    },
+    {
+      "url": "https://guatemala.gob.gt/el-ministerio-de-trabajo-y-prevision-social-sobre-el-trabajo-a-tiempo-parcial-informa/",
+      "titulo": "El Ministerio de Trabajo y Previsión Social sobre el Trabajo a Tiempo Parcial informa: - Gobierno de Guatemala",
+      "citada": true
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "PER_2014",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2014,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.2739,
+  "incompleto": false,
+  "norma": "Ley 30288",
+  "texto": "# Informe de investigación: PER 2014, Ley 30288 (régimen laboral juvenil, conocida como \"Ley Pulpín\")\n\n**Dos correcciones al informe previo.** (1) Según el Tribunal Constitucional, la ley **nunca llegó a aplicarse**, así que no es correcto decir que \"se aplicó apenas unas semanas\". (2) La confianza de identificación puede subir a **alta**: consulté el texto oficial en el portal del Congreso y el registro en FAOLEX.\n\n## 1. Objetivo declarado\nEl artículo de objeto dice que la ley busca mejorar la empleabilidad y promover la contratación de jóvenes desocupados para que cuenten con mayores oportunidades de acceso al mercado laboral a través de un empleo de calidad con protección social. Según el ministro de Economía y Finanzas, Alonso Segura, el régimen buscaba reducir el desempleo y la informalidad, que afectan con más fuerza a los jóvenes. El MEF lo presentó como dirigido a jóvenes que se encuentran desempleados o trabajando en la informalidad y sostuvo que no originará despidos ni desplazamiento laboral.\n\n## 2. Qué cambia efectivamente\nLa ley crea el régimen laboral especial, de carácter opcional, para la contratación de jóvenes. Solo pueden usarlo las empresas privadas que al momento de la contratación no tengan multas consentidas impagas vigentes por infracciones a la normativa sociolaboral. El régimen es de naturaleza temporal, y no se aplica a contratos firmados antes de que entrara en vigor.\n\n- **contratacion_temporal (reduce).** El contrato juvenil es un contrato sujeto a plazo determinado y a tiempo completo, con periodo de prueba y prórrogas hasta un tope máximo. Un comentarista señala que la temporalidad se impone desde la ley y desprovista de toda causa empresarial. Como contrapeso, el contrato se considera de duración indeterminada si se excede el plazo (desnaturalización). La ley también fija un tope a la proporción de jóvenes contratados bajo el régimen sobre la plantilla total.\n- **despido_e_indemnizacion (reorganiza).** Si la empresa termina el contrato antes de tiempo sin causa justa, debe pagar una reparación propia del régimen. No hallé fuentes que la comparen formalmente con la indemnización del régimen general, por lo que dejo el efecto como \"reorganiza\". Además, la ley prohíbe el cese de trabajadores sin causa justa, con el fin de ser sustituidos, en el mismo puesto y funciones, por jóvenes.\n- **salario_y_negociacion_salarial (reduce).** El texto oficial consultado no lo enumera de forma explícita. Según la prensa y especialistas, el régimen excluía CTS, gratificaciones, derecho a utilidades, asignación familiar, y la remuneración mínima sería la Remuneración Mínima Vital. La ley admite mejoras de manera unilateral por parte de los empleadores, por costumbre, por mutuo acuerdo en el contrato de trabajo o vía negociación colectiva.\n- **jornada_y_horas_extra (reduce, solo por las vacaciones).** La jornada, el pago de horas extra y el descanso semanal y en feriados siguen las normas del régimen laboral general de la actividad privada. Lo que cambia es el descanso vacacional, que es más corto que en el régimen general (artículo 14).\n- **seguridad_social_y_pensiones (aumenta frente a la informalidad).** Los jóvenes deben afiliarse a cualquiera de los regímenes previsionales públicos o privados, y también a la seguridad social en salud. Frente al régimen formal general hay un matiz: según la prensa, se excluía el seguro de vida.\n- **formalizacion_y_mipymes (reorganiza).** En las micro y pequeñas empresas, el Estado asume el costo correspondiente al primer año de la cotización del seguro social en salud de los jóvenes que entran por primera vez a planilla. Es un incentivo de costo para el empleador; no cambia directamente la protección del trabajador.\n- **empleo_juvenil_y_aprendizaje (reduce en lo neto).** Es el núcleo de la reforma: un régimen diferenciado y con menos beneficios para los jóvenes. Tiene componentes protectores: la obligación del empleador de dar capacitación, un crédito tributario contra el Impuesto a la Renta equivalente al monto del gasto de capacitación y la inscripción automática en la Bolsa de Trabajo de la Ventanilla Única de Promoción del Empleo (VUPE).\n- **justicia_laboral_e_inspeccion (aumenta, menor).** Sustituir trabajadores por jóvenes del régimen constituye infracción administrativa muy grave según la Ley 28806. El proyecto de reglamento creaba además un registro de contratos juveniles.\n- **derechos_colectivos_sindicales: no aplica.** Estos derechos se regulan por las normas del régimen general laboral de la actividad privada.\n\n**Declarado vs. efectivo.** El gobierno lo presentó como formalización con protección social. En la práctica, la norma reducía el costo laboral del empleador mediante un contrato temporal con menos beneficios, y esa es la lógica dominante. Por eso sugiero orientación **flexibilizadora**.\n\n## 3. Población objetivo\nSon jóvenes del sector privado que se incorporen por primera vez a la planilla electrónica como trabajador, o b) a la fecha de contratación, se encuentren desocupados. Quedan fuera los jóvenes que ya estaban en planilla. Códigos sugeridos: `jovenes`, `informales` y `empleadores_mipymes` (por el subsidio). No incluyo `asalariados_formales` ni `sector_publico`.\n\n## 4. Contexto político y económico\nDurante el gobierno de Ollanta Humala, el proyecto forma parte del quinto paquete de medidas para reactivar la economía. El proyecto de ley fue de iniciativa del Ministerio de Economía y Finanzas y consensuado con el Ministerio del Trabajo y Promoción del Empleo. Se tramitó como proyecto de ley n.° 3942/2014-PE en un contexto de desaceleración económica (esto último solo tiene respaldo de una fuente académica crítica, desco). La Confiep y la Cámara de Comercio de Lima lo apoyaron. La OIT advirtió que la disminución de beneficios no garantiza la reducción de informalidad. Las protestas juveniles empezaron el 18 de diciembre de 2014, se extendieron a varias regiones y llevaron a varios congresistas a retirar su apoyo.\n\n## 5. ¿Revierte una reforma previa?\nNo. Crea un régimen nuevo y no deroga ninguna reforma laboral anterior. La que revierte es la Ley 30300, que deroga a la propia Ley 30288.\n\n## 6. Entrada en vigor y aplicación diferida\n- **Publicación:** El Peruano, 16 de diciembre de 2014.\n- **Vigencia formal:** por la regla constitucional general, desde el día siguiente (2014-12-17). Esta fecha no la verifiqué en una disposición expresa de la ley.\n- **Aplicación diferida (vigencia_escalonada = true):** la ley exigía un reglamento aprobado por decreto supremo en un plazo no mayor de ciento veinte (120) días calendario, y que la SUNAT adaptara la planilla electrónica. El Ministerio de Trabajo solo llegó a ordenar la prepublicación del reglamento (Resolución Ministerial 2-2015-TR). El Tribunal Constitucional confirmó que la ley no surtió efectos durante su vigencia, al no haberse aprobado las normas complementarias para su aplicación.\n\n## 7. Estado de vigencia posterior\n- **Derogación:** la Ley 30300, de artículo único, se aprobó el 26 de enero de 2015 y se publicó el 28 de enero de 2015. Derogó de forma expresa la Ley 30288 en su totalidad.\n- **Control judicial:** el 24 de diciembre de 2014, el Colegio de Abogados de Puno presentó una demanda de inconstitucionalidad (Exp. 0002-2015-PI/TC). El Tribunal la declaró improcedente por sustracción de la materia. Ningún tribunal anuló la norma; dejó de existir por derogación legislativa.\n- **Categoría sugerida:** `anulada_o_suspendida_total`, porque el codebook la define como \"nunca se aplicó\". En `notas` conviene aclarar que la causa fue la derogación y la falta de reglamento, no un fallo judicial. `modificada_o_derogada_despues` no encaja, porque esa categoría supone que la norma se aplicó. Para la variable de tratamiento, esto equivale a **no haber tratamiento efectivo**, aunque sí hubo un choque de expectativas.\n\n## Otros campos sugeridos\n- `tipo_instrumento`: ley (aprobada por el Congreso a iniciativa del Ejecutivo).\n- `normas_relacionadas`: Ley 30300 (deroga); Ley 30222 y Decreto Supremo 006-2014-TR (seguridad y salud en el trabajo, 2014); Resolución Ministerial 2-2015-TR.\n\n## Lo que no pude verificar\n- Que la exclusión de CTS, gratificaciones, utilidades, asignación familiar y seguro de vida esté en el texto oficial: solo la confirman la prensa y especialistas, no los fragmentos oficiales que consulté.\n- Una comparación formal entre la reparación por despido del régimen y la indemnización del régimen general.\n- La fecha exacta de vigencia formal según la propia ley.\n- NATLEX y EPLex: no los consulté.\n- Una fuente oficial de que la reglamentación final nunca se aprobó: la tengo por el Tribunal Constitucional y una fuente académica, no por un registro oficial.\n- El papel concreto de la desaceleración económica: solo lo respalda una fuente académica crítica.",
+  "fuentes": [
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/CA11D1CDAEE13AEC05257EF400055CFC/$FILE/30288.pdf",
+      "titulo": "LEY Nº 30288 EL PRESIDENTE DE LA REPÚBLICA POR CUANTO:",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-30288-ley-578578806",
+      "titulo": "Ley Nº 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social. - vLex Perú",
+      "citada": true
+    },
+    {
+      "url": "https://www.mef.gob.pe/es/noticias/3750-ley-que-promueve-el-acceso-de-jovenes-al-mercado-laboral-y-a-la-proteccion-social-ley-nd-30288",
+      "titulo": "Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social (Ley N° 30288)",
+      "citada": true
+    },
+    {
+      "url": "https://www.elperulegal.com/2014/12/ley-n-30288.html",
+      "titulo": "LEY N° 30288 DEL EMPLEO JUVENIL (Ley \"Pulpin\") - El Perú Legal",
+      "citada": true
+    },
+    {
+      "url": "https://sni.org.pe/ley-que-promueve-el-acceso-de-jovenes-al-mercado-laboral-y-a-la-proteccion-social/",
+      "titulo": "Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social.",
+      "citada": true
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Ley_de_r%C3%A9gimen_laboral_juvenil_del_Per%C3%BA",
+      "titulo": "Ley de régimen laboral juvenil del Perú",
+      "citada": true
+    },
+    {
+      "url": "https://tc.gob.pe/jurisprudencia/2015/00002-2015-AI.pdf",
+      "titulo": "TRIBUNAL CONSTITUCIONAL PLENO JURISDICCIONAL Expediente 0002-2015-PUTC",
+      "citada": true
+    },
+    {
+      "url": "https://ius360.com/ley-del-regimen-laboral-juvenil-inclusion-vs-precariedad/",
+      "titulo": "LEY DEL REGIMEN LABORAL JUVENIL: Inclusión vs precariedad",
+      "citada": true
+    },
+    {
+      "url": "https://diariocorreo.pe/politica/ley-laboral-juvenil-genera-polemica-551529/",
+      "titulo": "Ley laboral juvenil genera polémica",
+      "citada": true
+    },
+    {
+      "url": "https://elcomercio.pe/economia/peru/regimen-laboral-juvenil-5-criticas-propia-ley-desmorona-181989-noticia/",
+      "titulo": "Régimen laboral juvenil: 5 críticas que la propia ley desmorona",
+      "citada": true
+    },
+    {
+      "url": "https://noticierocontable.com/ley-que-promueve-el-acceso-de-jovenes-al-mercado-laboral-y-a-la-proteccion-social/",
+      "titulo": "Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social - Noticiero Contable",
+      "citada": false
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/792255AD570B561D05257DCD007C7F2D/$FILE/DisponenPrepublicaci%C3%B3nReglamentoLey30288.pdf",
+      "titulo": "reglamento de la ley nº 30288, ley que promueve el ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC143586",
+      "titulo": "Ley Nº 30288 - Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social.",
+      "citada": false
+    },
+    {
+      "url": "https://www.deperu.com/abc/en-leyes_5895_ley-30288-ley-que-promueve-el-acceso-de-jovenes-al-mercado-laboral-y-a-la-proteccion-social.html",
+      "titulo": "Ley 30288 - Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-30300-ley-555294798",
+      "titulo": "LEY N° 30300 - Ley que deroga la Ley 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://www.informea.org/en/legislation/ley-n%C2%BA-30300-deroga-la-ley-n%C2%BA-30288-ley-que-promueve-el-acceso-de-j%C3%B3venes-al-mercado",
+      "titulo": "Ley Nº 30300 - Deroga la Ley Nº 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social.",
+      "citada": false
+    },
+    {
+      "url": "https://ejcls.adapt.it/index.php/rlde_adapt/article/download/289/376",
+      "titulo": "Adapt",
+      "citada": false
+    },
+    {
+      "url": "https://elcomercio.pe/politica/gobierno/ley-pulpin-ejecutivo-promulgo-norma-deroga-328650-noticia/?outputType=amp",
+      "titulo": "Ley Pulpín: Poder Ejecutivo promulgó norma que la deroga",
+      "citada": false
+    },
+    {
+      "url": "https://rpp.pe/politica/actualidad/ley-jovenes-poder-ejecutivo-oficializa-norma-que-la-deroga-noticia-763969",
+      "titulo": "Ley Jóvenes: Poder Ejecutivo oficializa norma que la deroga",
+      "citada": false
+    },
+    {
+      "url": "https://elcomercio.pe/politica/gobierno/ley-pulpin-ejecutivo-promulgo-norma-deroga-328650-noticia/",
+      "titulo": "Ley Pulpín: Poder Ejecutivo promulgó norma que la deroga",
+      "citada": false
+    },
+    {
+      "url": "https://radiouno.pe/noticias/45692/ley-pulpin-poder-ejecutivo-promulgo-norma-que-deroga/",
+      "titulo": "Ley Pulpín: Poder Ejecutivo promulgó norma que la deroga",
+      "citada": false
+    },
+    {
+      "url": "https://sni.org.pe/ley-que-deroga-la-ley-30288-ley-que-promueve-el-acceso-de-jovenes-al-mercado-laboral-y-a-la-proteccion-social/",
+      "titulo": "Ley que deroga la Ley 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social.",
+      "citada": false
+    },
+    {
+      "url": "https://gestion.pe/economia/management-empleo/regimen-laboral-juvenil-mejoraron-las-condiciones-de-los-jovenes-tras-derogacion-de-norma-noticia/",
+      "titulo": "Régimen laboral juvenil: ¿mejoraron las condiciones de los jóvenes tras derogación de norma?",
+      "citada": false
+    },
+    {
+      "url": "https://blogs.gestion.pe/menulegal/2014/12/ley-pulpin-regimen-laboral-juvenil-a-favor-y-en-contra.html",
+      "titulo": "Ley Pulpín (régimen laboral juvenil): a favor y en contra",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/peru/2025/06/18/quienes-vivan-en-edificios-tendrian-que-pagar-gratificaciones-y-cts-a-los-porteros/",
+      "titulo": "Quienes vivan en edificios tendrían que pagar gratificaciones y CTS a los porteros - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.perucontable.com/noticias/pago-de-gratificaciones-y-cts-a-trabajadores-cas-se-implementara-de-forma-progresiva/",
+      "titulo": "Decreto establece que pago de gratificaciones y CTS a trabajadores CAS se implementará de forma progresiva hasta el 2030",
+      "citada": false
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2014/12/25/multitudinaria-protesta-en-peru-contra-el-regimen-laboral-juvenil-aprobado-por-el-gobierno/",
+      "titulo": "Multitudinaria protesta en Perú contra el Régimen Laboral Juvenil aprobado por el Gobierno - Resumen Latinoamericano",
+      "citada": false
+    },
+    {
+      "url": "https://gestion.pe/economia/management-empleo/jovenes-en-informalidad-o-desempleo-en-peru-que-formulas-regionales-aplicar-para-2-millones-de-peruanos-noticia/",
+      "titulo": "Jóvenes en informalidad o desempleo en Perú: ¿qué fórmulas regionales aplicar para 2 millones de peruanos?",
+      "citada": false
+    },
+    {
+      "url": "https://www.desco.org.pe/recursos/site/files/CONTENIDO/1220/09_Cavero_PHj18.pdf",
+      "titulo": "¿Los empresarios preocupados por los jóvenes? Reforma ...",
+      "citada": false
+    },
+    {
+      "url": "https://larepublica.pe/economia/2026/09/29/facultades-legislativas-geps-cuestiona-que-se-busque-formalizar-a-jovenes-reduciendo-costos-laborales-hnews-1776250",
+      "titulo": "Facultades legislativas: GEPS cuestiona que se busque formalizar a jóvenes reduciendo costos laborales |hnews",
+      "citada": false
+    }
+  ]
+}

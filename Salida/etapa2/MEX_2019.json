@@ -1,0 +1,137 @@
+{
+  "id": "MEX_2019",
+  "iso": "MEX",
+  "pais": "México",
+  "anio": 2019,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.04,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del INFONAVIT y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva (DOF 01-05-2019)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social, en materia de las personas trabajadoras del hogar (DOF 02-07-2019)",
+      "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional (DOF 01-05-2019)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2019-05-02",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según la STPS, garantizar la democracia sindical (libre afiliación, autonomía sindical, prohibición de injerencia, representatividad y negociación colectiva auténtica) y una justicia laboral expedita mediante conciliación obligatoria y juicios orales ante un juez, en cumplimiento de los Convenios 87 y 98 de la OIT y del Capítulo 23 y Anexo 23-A del T-MEC.",
+    "descripcion_intenciones": "La reforma busca democratizar la vida sindical y erradicar la simulación en la negociación colectiva mediante el voto personal, libre y secreto, la Constancia de Representatividad y la legitimación de los contratos colectivos existentes. Sustituye las Juntas de Conciliación y Arbitraje por Tribunales Laborales del Poder Judicial y centros de conciliación federal y locales, con una etapa de conciliación prejudicial obligatoria. Prohíbe la cláusula de exclusión por separación e impide la disolución administrativa de sindicatos. Incorpora además obligaciones patronales en materia de prevención de la discriminación de género, el acoso y el hostigamiento sexual.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la reforma: libre afiliación, voto personal, libre y secreto, Constancia de Representatividad, prohibición de la cláusula de exclusión por separación y legitimación obligatoria de los contratos colectivos existentes."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "El contenido de los contratos colectivos y sus revisiones debe ser aprobado por los trabajadores mediante consulta verificada por el Centro Federal; si un contrato no se legitima, se conservan los derechos y prestaciones adquiridos."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Se reemplazan las Juntas de Conciliación y Arbitraje por Tribunales Laborales del Poder Judicial y centros de conciliación, con conciliación prejudicial obligatoria salvo excepciones como discriminación y acoso. El informe señala un sesgo hacia el aumento de la protección."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Se obliga al patrón a implementar, en acuerdo con los trabajadores, un protocolo contra la discriminación de género, la violencia y el acoso u hostigamiento sexual. Se incorporan definiciones legales de hostigamiento y acoso sexual."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Trabajo del hogar: se adiciona una fracción IV al artículo 337 de la LFT con vigencia diferida según el Vigésimo Quinto Transitorio; su contenido exacto no se verificó."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "general",
+      "mujeres"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "El decreto desarrolla la reforma constitucional al artículo 123 de febrero de 2017 y modifica la Ley Federal del Trabajo, la Ley Orgánica del Poder Judicial de la Federación, la Ley Federal de la Defensoría Pública, la Ley del INFONAVIT y la Ley del Seguro Social. Se vincula con la ratificación del Convenio 98 de la OIT por el Senado (20 de septiembre de 2018) y con las exigencias del Anexo 23-A del capítulo laboral del T-MEC. La iniciativa fue presentada en diciembre de 2018 por el grupo parlamentario mayoritario, en el primer año del gobierno de López Obrador. La implementación enfrentó retrasos por problemas presupuestarios y de coordinación entre los niveles federal y estatal. Contexto económico: sin fuente.",
+    "notas": "Tipo de instrumento: decreto del Congreso de la Unión que reforma leyes, codificado como 'ley'. Entrada en vigor al día siguiente de su publicación en el DOF (primer transitorio), confirmada mediante la transcripción de transitorios y la compilación de la Cámara de Diputados, no directamente en el PDF del DOF. Vigencia escalonada: el nuevo sistema de justicia laboral entró por etapas entre el 18 de noviembre de 2020 y el 3 de octubre de 2022, de modo que el tratamiento real varía por entidad federativa. Las funciones registrales del Centro Federal quedaron sujetas a disponibilidad presupuestaria (Tercero Transitorio). La legitimación de contratos colectivos venció el 1 de mayo de 2023 y los no legitimados se dan por terminados a partir del 2 de mayo de 2023. Un decreto del DOF del 18-05-2022 reformó el Quinto Transitorio solo para ampliar los plazos de las entidades federativas; no afecta el contenido, por lo que se mantiene 'vigente'. La SCJN avaló la constitucionalidad de artículos sobre cuotas sindicales, transparencia y voto libre y secreto; no se halló anulación sustantiva. La Acción de inconstitucionalidad 68/2019 (CNDH) no se imputa por no confirmarse su objeto. No se codifica seguridad_social_y_pensiones: hay cambios a la Ley del Seguro Social y a la Ley del INFONAVIT, pero su contenido no se verificó; solo hay un indicio en el artículo 5 de la LFT (nulidad de registrar al trabajador con un salario menor al real). Las afirmaciones sobre carga de la prueba al patrón y defensoría pública laboral provienen solo de un blog comercial y se excluyen. Se excluye sector_publico, que corresponde al decreto paralelo sobre la Ley Federal de los Trabajadores al Servicio del Estado. No se consultó la exposición de motivos: lo declarado proviene de materiales de la STPS. Pendiente de verificar: registro en NATLEX/OIT, reformas posteriores a la LFT que alteren este decreto y el efecto de la reforma judicial de 2024 sobre los tribunales laborales. revierte_reforma_previa = false: desmonta el modelo de Juntas y contratos de protección, pero no restablece normas anteriores ni revierte, según lo verificado, la reforma a la LFT de 2012 (sin fuente)."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref30_01may19.pdf",
+      "titulo": "Reforma 30: Ley Federal del Trabajo. DOF 01-05-2019",
+      "citada": true
+    },
+    {
+      "url": "https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/transitorios/",
+      "titulo": "Transitorios ‹ Ley Federal del Trabajo (LFT)",
+      "citada": true
+    },
+    {
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/02/asun_4305383_20220215_1644962008.pdf",
+      "titulo": "iniciativa que reforma el artículo quinto transitorio del decreto ...",
+      "citada": true
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/HACIA_UN_NUEVO_MODELO_LABORAL.pdf",
+      "titulo": "HACIA UN NUEVO MODELO LABORAL 2019 REFORMA A LA LEY FEDERAL DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.veracruz.gob.mx/desarrollosocial/wp-content/uploads/sites/8/2019/05/Ley-Federal-del-Trabajo.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": true
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/nuevo_modelo_laboral",
+      "titulo": "Nuevo Modelo Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Reforma_laboral_de_2019_de_M%C3%A9xico",
+      "titulo": "Reforma laboral de 2019 de México",
+      "citada": true
+    },
+    {
+      "url": "https://www.ansleyconsultores.com/assets/documentos/TEMEC-AVANCES.pdf",
+      "titulo": "El T-MEC y los avances en la legitimación de los Contratos ...",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/7450113.pdf",
+      "titulo": "Metamorfosis del Mundo del Trabajo. Caso México",
+      "citada": true
+    },
+    {
+      "url": "https://www.jornada.com.mx/notas/2021/03/30/sociedad/avala-corte-constitucionalidad-de-varios-articulos-de-reforma-laboral/",
+      "titulo": "La Jornada - Avala Corte constitucionalidad de varios artículos de reforma laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.dof.gob.mx/2023/CFCRL/acuerdo-terminacion-CCT.pdf",
+      "titulo": "acuerdo por el que se dan a conocer los contratos ...",
+      "citada": true
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/legitimacion-de-contratos-colectivos.pdf",
+      "titulo": "Legitimación y revisión de contratos colectivos de trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://transparencia.info.jalisco.gob.mx/sites/default/files/Ley%20Federal%20del%20Trabajo.pdf%2004-06-2019_0.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/2022/10/03/mexico-pone-a-prueba-nuevo-modelo-de-justicia-laboral-con-etapa-mas-compleja-de-la-reforma/",
+      "titulo": "México pone a prueba nuevo modelo de justicia laboral con etapa más compleja de la reforma",
+      "citada": true
+    },
+    {
+      "url": "https://www.mggl.com.mx/eng/reforma-laboral-en-materia-deimparticion-de-justicia/",
+      "titulo": "REFORMA LABORAL EN MATERIA DE IMPARTICIÓN DE JUSTICIA: IMPLEMENTACIÓN ÚLTIMA ETAPA.￼ - MGGL",
+      "citada": true
+    }
+  ]
+}

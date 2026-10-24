@@ -1,0 +1,156 @@
+{
+  "id": "HND_2022",
+  "iso": "HND",
+  "pais": "Honduras",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1827,
+  "incompleto": false,
+  "norma_propuesta": "Decreto Legislativo No. 38-2022 (derogatorio de la Ley de Empleo por Hora, Decreto 354-2013)",
+  "otras": "Sentencia de la Sala de lo Constitucional de la CSJ que declara inconstitucional el Decreto Legislativo 56-2015, Ley Marco del Sistema de Protección Social (publicada en La Gaceta el 2022-10-27); Acuerdo STSS-002-2022",
+  "confianza": "media",
+  "texto": "La reforma laboral principal de Honduras en 2022 es el **Decreto Legislativo No. 38-2022**, que derogó la Ley de Empleo por Hora. La identificación es clara, pero la confianza queda en \"media\": no consulté el texto en La Gaceta ni en NATLEX, solo fuentes secundarias.\n\n**Qué es y por qué la elijo.** Según la Cámara de Comercio e Industria de Tegucigalpa, el 28 de abril de 2022 se publicó en La Gaceta el Decreto Legislativo No. 38-2022, que derogó el Decreto 354-2013 de la Ley de Empleo por Hora. El decreto entró en vigor sesenta días después de su publicación. Desde entonces, los trabajadores contratados bajo esa ley quedan protegidos por el Derecho del Trabajo, la Constitución y las demás leyes vigentes, y se prohíbe usar el decreto como causal de despido.\n\nLa elijo porque es la norma de mayor alcance directo sobre el mercado laboral ese año. Elimina un régimen especial de contratación que la prensa situaba en torno a casi 700 mil personas. Además, su derogación era una propuesta del plan de Gobierno de la presidenta Xiomara Castro.\n\n**Datos útiles para las etapas siguientes:**\n- **Contrarreforma.** Revierte una reforma flexibilizadora anterior: el Decreto 354-2013 elevó a rango de ley el Programa Nacional de Empleos por Horas, aprobado en 2010. Esto debe marcarse en `revierte_reforma_previa`.\n- **Objetivo declarado.** Los diputados del partido de gobierno dijeron derogar la ley porque \"disminuye, restringe, tergiversa y tritura derechos de los trabajadores\".\n- **Discrepancia de fechas.** Dos fuentes (Lexology y Latin Alliance) dicen que se publicó en La Gaceta No. 35,909 el 8 de abril del 2022. Eso no puede ser cierto, porque el Congreso aprobó el decreto el 27–28 de abril. La numeración de La Gaceta encaja con el 28 de abril: el número 35,915 corresponde al 5 de mayo de 2022. Hay que confirmarlo con el texto oficial antes de fijar `fecha_entrada_vigencia`.\n- **Posible cuestionamiento constitucional.** Algunos especialistas advierten posibles conflictos con el marco constitucional. No encontré ningún fallo que haya suspendido el decreto.\n\n**Otras candidatas del mismo año (descartadas como principales):**\n- **Sentencia sobre la Ley Marco del Sistema de Protección Social.** El 27 de octubre de 2022 se publicó en La Gaceta la sentencia de la Sala de lo Constitucional contra el Decreto Legislativo 56-2015. El fallo conllevó a la supresión del Régimen del Seguro de Cobertura Laboral del cual se derivaba el Fondo de Reserva Laboral. Pesa mucho en seguridad social, pero es una decisión judicial, no una norma del año, y su efecto se resolvió con leyes de 2024.\n- **Acuerdo STSS-002-2022.** Se publicó en La Gaceta del 5 de mayo de 2022 y parece ser un protocolo de inspección del trabajo, incluida la libertad sindical. Es de carácter administrativo.\n- **Decreto 19-2022.** Trata de la antigüedad del personal por contrato en el sector público. Se ve marginal y no verifiqué todo su contenido, así que no lo incluyo en OTRAS.\n\nNORMA: Decreto Legislativo No. 38-2022 (derogatorio de la Ley de Empleo por Hora, Decreto 354-2013)\nOTRAS: Sentencia de la Sala de lo Constitucional de la CSJ que declara inconstitucional el Decreto Legislativo 56-2015, Ley Marco del Sistema de Protección Social (publicada en La Gaceta el 2022-10-27); Acuerdo STSS-002-2022\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://blogs.unah.edu.hn/presencia-universitaria/regulacion-del-empleo-por-hora-en-honduras-historia-legislativa-derogacion-y-nuevos-intentos-de-regulacion",
+      "titulo": "Regulación del empleo por hora en Honduras: historia legislativa, derogación y nuevos intentos de regulación - Blogs UNAH",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/2022/04/28/congreso-nacional-aprueba-derogacion-de-la-ley-de-empleo-por-hora-en-honduras/",
+      "titulo": "Congreso Nacional aprueba derogación de la Ley de Empleo por Hora en Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/2022/04/27/derogacion-de-la-ley-de-empleo-por-hora-en-honduras-pasa-su-primer-debate/",
+      "titulo": "Derogación de la Ley de Empleo por Hora en Honduras pasa su primer debate",
+      "citada": true
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/congreso-aprueba-derogacion-ley-de-empleo-por-hora-honduras-AF7896552",
+      "titulo": "Congreso deroga la Ley de Empleo por Hora en Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://www.ccit.hn/single-post/derogaci%C3%B3n-de-la-ley-de-empleo-por-hora",
+      "titulo": "Derogación de la Ley de Empleo por hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=7b6f10e1-8d31-48f7-acc2-8dd79d73be23",
+      "titulo": "Derogación Ley de Empleo por Hora - Lexology",
+      "citada": true
+    },
+    {
+      "url": "https://proceso.hn/wp-content/uploads/2024/05/Ley-de-Reserva-Laboral-Honduras-.pdf",
+      "titulo": "Ley-de-Reserva-Laboral-Honduras-.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.ey.com/es_ce/technical/tax/tax-alerts/honduras-nuevos-cambios-en-la-ley-marco-del-sistema-de-proteccion",
+      "titulo": "Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://finiquitojusto.com/noticias-y-reformas-laborales/ley-de-empleo-por-hora-en-honduras/",
+      "titulo": "Ley de Empleo por Hora en Honduras:Derogación, Derechos",
+      "citada": false
+    },
+    {
+      "url": "https://contracorriente.red/2022/05/16/los-claroscuros-de-la-derogacion-de-la-ley-de-empleo-por-hora/",
+      "titulo": "Los claroscuros de la derogación de la Ley de Empleo por Hora - Contra Corriente",
+      "citada": false
+    },
+    {
+      "url": "https://www.rel-uita.org/honduras/honduras-deroga-ley-de-empleo-por-hora/",
+      "titulo": "Honduras deroga Ley de Empleo por Hora",
+      "citada": false
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/primer-debate-derogacion-ley-empleo-por-hora-honduras-congreso-nacional-LH7867805",
+      "titulo": "Derogación de Ley de Empleo por Hora pasa primer debate en el Congreso Nacional",
+      "citada": false
+    },
+    {
+      "url": "https://latinalliance.co/en/2022/05/13/derogacion-ley-de-empleo-por-hora-honduras/",
+      "titulo": "Derogación Ley de Empleo por Hora - Honduras",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/web/leyes/Acuerdo-STSS-002-2022.pdf",
+      "titulo": "7 La Gaceta A. Sección A Acuerdos y Leyes",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/web/leyes/Decreto-19-2022.pdf",
+      "titulo": "Decreto 19-2022 - Poder Legislativo",
+      "citada": false
+    },
+    {
+      "url": "https://www.bibliotecalegalhn.com/collections/codigo-del-trabajo-honduras",
+      "titulo": "Código del Trabajo vigente",
+      "citada": false
+    },
+    {
+      "url": "https://leyes.hn/codigo/trabajo-de-honduras/articulo/281",
+      "titulo": "Código del Trabajo de Honduras — Artículo 281",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/biblioteca/index.php/codigos/607-codigo-de-trabajo",
+      "titulo": "Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gob.hn/wp-content/uploads/2022/09/Codigo-del-Trabajo-y-sus-Reformas.pdf",
+      "titulo": "Código del trabajo y sus reformas Decreto 189-59",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikisource.org/wiki/C%C3%B3digo_del_trabajo_de_Honduras",
+      "titulo": "Código del trabajo de Honduras - Wikisource",
+      "citada": false
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/derogar-ley-marco-riesgo-reserva-laboral-empleados-AA7165332",
+      "titulo": "Derogar la Ley Marco pondría en riesgo reserva laboral de empleados",
+      "citada": false
+    },
+    {
+      "url": "https://todolegal.app/laws/96-ley-marco-del-sistema-de-proteccion-social",
+      "titulo": "Ley Marco del Sistema de Protección Social - TodoLegal",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/web/leyes/Decreto-48-2024.pdf",
+      "titulo": "Decreto-48-2024.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://www.laprensa.hn/premium/honduras-ley-seguro-social-salud-larga-espera-crisis-ihss-derechohabientes-BJ16799844",
+      "titulo": "Se alarga espera por ley del Seguro Social de Honduras",
+      "citada": false
+    },
+    {
+      "url": "https://sgpr.gob.hn/SGPR.Admin2019/Repositorio/Details/54",
+      "titulo": "Details - SGPR Honduras 2022",
+      "citada": false
+    },
+    {
+      "url": "https://www.tsc.gob.hn/web/leyes/Decreto-47-2024.pdf",
+      "titulo": "1 A. EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G. Sección A",
+      "citada": false
+    },
+    {
+      "url": "https://www.cnbs.gob.hn/la-cnbs-responde/",
+      "titulo": "La CNBS Responde - Comisión Nacional de Bancos y Seguros",
+      "citada": false
+    },
+    {
+      "url": "https://cienciasjuridicas.unah.edu.hn/dmsdocument/129-29-proyecto-de-la-ley-marco-del-sistema-de-proteccion-social-para-una-vida-mejor",
+      "titulo": "PROYECTO DE LA LEY MARCO DEL SISTEMA DE PROTECCION SOCIAL PARA UNA VIDA MEJOR",
+      "citada": false
+    }
+  ]
+}

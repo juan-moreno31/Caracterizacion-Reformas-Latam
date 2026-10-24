@@ -1,0 +1,294 @@
+{
+  "id": "DOM_1992",
+  "iso": "DOM",
+  "pais": "República Dominicana",
+  "anio": 1992,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.373,
+  "incompleto": false,
+  "norma": "Ley 16-92 (Código de Trabajo de la República Dominicana)",
+  "texto": "# Informe de investigación: DOM 1992, Ley 16-92 (Código de Trabajo)\n\n## 1. Objetivo declarado\n\nNo encontré una exposición de motivos ni considerandos. El objetivo declarado se reconstruye a partir de los Principios Fundamentales del texto oficial y de lo que dijeron los actores de la época.\n\n- **En el texto de la norma.** El Principio I dice que el trabajo es una función social que se ejerce con la protección y asistencia del Estado. Este debe velar porque las normas del derecho de trabajo se sujeten a sus fines esenciales, que son el bienestar humano y la justicia social. El Principio III dice que el Código tiene por objeto fundamental regular los derechos y obligaciones de empleadores y trabajadores y proveer los medios de conciliar sus respectivos intereses. Consagra el principio de la cooperación entre el capital y el trabajo como base de la economía nacional.\n- **En el proceso político.** El propósito explícito era que la ley fuera compatible con los convenios de la OIT. Según una fuente de prensa, la OIT consideró que algunos artículos del Código de 1951 contradecían convenios ratificados, por lo que mediante decreto 407 del 9 de octubre de 1990, el Poder Ejecutivo designó una comisión encargada de modificar estos artículos.\n\n## 2. Qué cambia efectivamente, por dimensión\n\nAdvertencia general: varias fuentes describen el contenido vigente del Código, no lo que cambió respecto de 1951. Marco con **(novedad no verificada)** los casos en que no pude confirmar que la disposición fuera nueva.\n\n**despido_e_indemnizacion: aumenta.** Una fuente de prensa señala que se incrementó el plazo del preaviso, el importe del auxilio de cesantía. Un balance académico confirma que se atendió a los sindicatos que habían exigido el aumento de los montos de las indemnizaciones por ruptura de contrato, conocidas comúnmente como prestaciones laborales (Arts. 76, 80 y 95, CT).\n\n**derechos_colectivos_sindicales: aumenta.** Es el eje central de la reforma.\n- El Código consagró nuevos derechos ignorados por la legislación de 1951, tales como el fuero sindical, que protege en el trabajo a los dirigentes y activistas sindicales.\n- La Comisión de Expertos de la OIT tomó nota con satisfacción de que el Código cubre a los trabajadores agrícolas y agroindustriales. También señaló que aumenta las multas y sanciones contra los actos antisindicales y que la protección contra la discriminación antisindical y la promoción de la negociación colectiva se aplican a las zonas francas de exportación.\n- Se prohíbe a las autoridades toda intervención que tienda a limitar o entorpecer el ejercicio de la libertad sindical.\n- **Matiz:** se mantuvieron restricciones que la OIT siguió observando. Entre ellas, la exigencia de mayoría absoluta para negociar colectivamente y la exigencia de que las federaciones obtengan el voto de dos tercios de sus miembros para formar confederaciones (artículo 383 del Código de 1992) (traducción propia). El efecto neto sigue siendo un aumento.\n\n**jornada_y_horas_extra: aumenta.** se eleva el pago por horas extras y días feriados, se fija una compensación para el trabajo nocturno.\n\n**salario_y_negociacion_salarial: aumenta.** se mejora el salario de vacaciones, se incrementa la retribución a los trabajadores de la participación en los beneficios de la empresa. Hay una exención de la participación en beneficios para empresas de zonas francas y empresas agrícolas, industriales, forestales y mineras durante sus primeros años de operación (traducción propia), pero no verifiqué si proviene del texto original de 1992.\n\n**genero_y_conciliacion: aumenta.** El Código incrementa la protección laboral a la mujer en estado de embarazo. Además, la trabajadora tiene los mismos derechos y obligaciones que el trabajador. Las disposiciones especiales previstas en este Código tienen como propósito fundamental la protección de la maternidad.\n\n**justicia_laboral_e_inspeccion: aumenta.** Es uno de los cambios más claros.\n- Se crearon por primera vez tribunales de trabajo especializados, es decir que los litigios laborales ya no se conocerían por jurisdicciones civiles y comerciales.\n- se lleva al tribunal laboral la fase conciliatoria para la solución de los conflictos entre empleadores y trabajadores, la cual estaba a cargo de la Secretaría de Estado de Trabajo.\n- La reforma reforzó el régimen de sanciones penales por violación al Código de Trabajo y creó el Ministerio Público para asuntos penal-laborales.\n\n**contratacion_temporal: aumenta (novedad no verificada).** Los contratos por cierto tiempo terminan con el plazo, pero si el trabajador continúa prestando los mismos servicios con el conocimiento del empleador, su contrato será por tiempo indefinido. Los contratos estacionales azucareros se reputan contratos de trabajo por tiempo indefinido sujetos a las reglas establecidas para éstos en caso de desahucio.\n\n**tercerizacion_subcontratacion: aumenta (novedad no verificada).** El principio de primacía de la realidad declara nulo el contrato simulado, sea aparentando normas contractuales no laborales, interposición de personas o de cualquier otro medio.\n\n**otro (no discriminación): aumenta.** La OIT destacó con satisfacción que el Principio VII prohíbe expresamente la discriminación por sexo, edad, raza, color, origen nacional, origen social, opinión política, actividad sindical o creencia religiosa (traducción propia).\n\n**empleo_juvenil_y_aprendizaje: aplicación dudosa.** El Código consagra el derecho a la capacitación provista por el empleador (art. 256) y restringe el trabajo de menores. No pude verificar cambios respecto de 1951, así que sugiero no codificar esta dimensión o hacerlo con confianza baja.\n\n**Sin evidencia de cambios en:** seguridad_social_y_pensiones, formalizacion_y_mipymes y nuevas_formas_de_trabajo.\n\n**Orientación sugerida: `protectora`.** No encontré componentes flexibilizadores relevantes. Una guía jurídica lo caracteriza por su strong and sometimes inflexible protection of the rights of the individual employee (protección fuerte y a veces inflexible de los derechos del trabajador individual).\n\n## 3. Población objetivo\n\n- **asalariados_formales** y **general**: el Código regula las relaciones individuales y colectivas del trabajo subordinado.\n- **mujeres**: por la protección de la maternidad.\n- **Sector público:** queda excluido en general. El Código no se aplica a los funcionarios y empleados públicos, salvo disposición contraria, aunque se aplica a los trabajadores que prestan servicios en empresas del Estado y en sus organismos oficiales autónomos de carácter industrial, comercial, financiero o de transporte. Sugiero no codificar `sector_publico`.\n- **Grupos destacados en las fuentes:** trabajadores agrícolas y de zonas francas, en materia sindical.\n- **Exclusión relevante:** los trabajadores domésticos quedan fuera de muchas de sus disposiciones, según una guía jurídica.\n\n## 4. Contexto político y económico\n\n- **Gobierno y presión externa.** Gobernaba Joaquín Balaguer. Según la prensa, República Dominicana estaba frente a la disyuntiva histórica de abandonar el Código Trujillista del Trabajo, vigente desde 1952, por uno que respetara los convenios internacionales de la OIT, o ser expulsada de todos los esquemas preferenciales de comercio. Esa disyuntiva provenía de una ola de sanciones económicas que amenazaban al país, resultado de las campañas de denuncias que se llevaban a cabo en Estados Unidos. Se refiere al SGP y a la Iniciativa de la Cuenca del Caribe.\n- **Resistencia empresarial y trámite legislativo.** El proyecto provocó resistencia empresarial. El Ejecutivo lo envió al Congreso como señal de presión, y fue aprobado por los diputados, con modificaciones más favorables para los trabajadores.\n- **Asistencia de la OIT y consenso tripartito.** El Código se redactó con asistencia técnica de la OIT. Según una publicación de la OIT, se consensuó tripartitamente y pasó a ser la primera ley laboral paccionada en la región latinoamericana.\n- **Contexto económico.** No obtuve fuentes sobre el contexto macroeconómico de 1992 (sin fuente).\n\n## 5. ¿Revierte una reforma previa?\n\nSugiero `revierte_reforma_previa = false`, con nota. El Código deroga y sustituye el Código de 1951 y elimina disposiciones restrictivas que la OIT había observado. Pero no es una contrarreforma en el sentido del codebook: no revierte una reforma flexibilizadora reciente. Lo que hace es reemplazar integralmente un código heredado de la dictadura trujillista.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Fechas.** El Congreso aprobó la ley el 25 de mayo de 1992 y fue promulgada el 29. Una fuente indica que fue publicado el 16 de junio del mismo año. Esto contradice la fecha de publicación en la Gaceta de 1992-05-31 que registra NATLEX, pero encaja con la entrada en vigor del **1992-06-17** de NATLEX. Además, una sentencia del Tribunal Constitucional fecha la ley el veintiséis (26) de mayo de mil novecientos noventa y dos (1992). Conviene registrar la discrepancia en `notas`.\n- **Posible aplicación diferida de la parte procesal.** Un blog de baja calidad sugiere que el procedimiento anterior se mantuvo transitoriamente conforme a una resolución del 2 de julio de 1992 de la suprema corte de justicia. Esto indicaría una puesta en marcha diferida de la jurisdicción especializada. **No verificado.** Sugiero `vigencia_escalonada = true` solo si se confirma en una fuente oficial; si no, `false` con nota.\n- **Reglamento de aplicación.** Su fecha sigue sin verificarse.\n\n## 7. Estado de vigencia posterior\n\n**Sugerido: `vigente`.**\n\n- **Modificaciones.** Según un balance de 2007, la legislación no ha tenido modificaciones sustanciales luego de la gran reforma del año 1992. Tan solo han surgido cuatro pequeñas modificaciones relativas a las vacaciones, la regalía pascual y los días feriados. Otras leyes también modificaron el artículo 706 para crear tribunales de trabajo en localidades del país diferentes al Distrito Nacional y Santiago. Ninguna de estas modificaciones cambia el sentido de la reforma.\n- **Fallos judiciales.**\n  - El Tribunal Constitucional declaró conformes con la Constitución el artículo 711 (TC/0094/25) y la parte final del artículo 641 (TC/0035/25).\n  - En la sentencia TC/0563/15 se impugnaron numerosos artículos. El dictamen del Ministerio Público pidió declarar no conforme el numeral 1 del artículo 44, pero **no verifiqué el fallo final**. Aun si se anuló, sería un componente menor y no cambiaría la categoría.\n- **Reforma en curso, no promulgada.** El Ejecutivo presentó un proyecto en octubre de 2024. Las fuentes discrepan sobre su situación:\n  - Una nota de mayo de 2026 informa que la Cámara de Diputados aprobó modificaciones por unanimidad.\n  - Una fuente posterior indica que el proyecto que avanzó durante la legislatura anterior perimió en la Cámara de Diputados y una nueva iniciativa fue presentada en el Senado el 27 de agosto de 2026.\n  - En cualquier caso, la Ley 16-92 sigue vigente.\n\n## 8. Pendiente de verificar\n\n- Exposición de motivos oficial.\n- Si son nuevas respecto de 1951 las reglas sobre contratación temporal, simulación e interposición, aprendizaje y la exención de zonas francas en la participación en beneficios.\n- La fecha exacta de publicación en la Gaceta Oficial (31 de mayo o 16 de junio).\n- La transición procesal de 1992.\n- El fallo final de TC/0563/15.\n- El contexto macroeconómico.\n\n**Confianza en la identificación:** alta. **Instrumento:** `codigo` (aprobado como ley por el Congreso Nacional; conviene unificar el criterio en la base).",
+  "fuentes": [
+    {
+      "url": "https://mt.gob.do/wp-content/uploads/2024/07/codigo_de_trabajo.pdf",
+      "titulo": "codigo de trabajo (ley 16-92) y normas complementarias",
+      "citada": true
+    },
+    {
+      "url": "https://drlawyer.com/espanol/leyes/codigo-de-trabajo-de-la-republica-dominicana-ley-16-92/",
+      "titulo": "CÓDIGO DE TRABAJO DE LA REPÚBLICA DOMINICANA (LEY 16-92) - Guzmán Ariza",
+      "citada": true
+    },
+    {
+      "url": "http://legalia.com.do/serve/listfile_download.aspx?id=1017&num=1",
+      "titulo": "CÓDIGO DE TRABAJODE LA REPÚBLICA DOMINICANA LEY NO. 16-92",
+      "citada": true
+    },
+    {
+      "url": "https://docs.republica-dominicana.justia.com/nacionales/codigos/codigo-de-trabajo.pdf",
+      "titulo": "Codigo de Trabajo de la Republica Dominicana",
+      "citada": true
+    },
+    {
+      "url": "https://bufetesolisyrodriguez.com/wp-content/uploads/2012/01/codtrabrepdom-1.pdf",
+      "titulo": "Código de Trabajo de la República Dominicana Ley N° 16-92",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/media/345146/download",
+      "titulo": "III. Dominican Republic",
+      "citada": true
+    },
+    {
+      "url": "https://dr1.com/legal/business/Labor_Law.pdf",
+      "titulo": "An Overview of Dominican Labor Law by Fabio J. Guzmán Guzman Ariza & Asociados",
+      "citada": true
+    },
+    {
+      "url": "https://www.eljaya.com/16197/la-reforma-laboral-antecedentes/",
+      "titulo": "La Reforma Laboral; antecedentes",
+      "citada": true
+    },
+    {
+      "url": "https://www.diariolibre.com/economia/las-sanciones-econmicas-obligan-en-1992-a-una-reforma-del-cdigo-laboral-GJDL543511",
+      "titulo": "Las sanciones económicas obligan en 1992 a una reforma del código laboral - Diario Libre",
+      "citada": true
+    },
+    {
+      "url": "https://www.elfarodelsur.com/2021/11/historia-del-derecho-del-trabajo-en_8.html",
+      "titulo": "HISTORIA DEL DERECHO DEL TRABAJO: En República Dominicana III - El Faro del Sur",
+      "citada": true
+    },
+    {
+      "url": "https://carloshernandezcontreras.com/wp-content/uploads/2020/08/Codigo-de-Trabajo-15-Anos-Despues.-Balance-y-Perspectivas-Carlos-Hernandez-2007.pdf",
+      "titulo": "El Código de Trabajo de 1992, 15 años después BALANCE Y PERSPECTIVAS",
+      "citada": true
+    },
+    {
+      "url": "http://mistrabajosdederecho.blogspot.com/2011/01/evolucion-del-derecho-de-trabajo-en-rd.html",
+      "titulo": "CONOCIMIENTO PARA TODOS: EVOLUCIÓN DEL DERECHO DE TRABAJO EN R.D.",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/publication/wcms_537018.pdf",
+      "titulo": "EN MATERIA DE LIBERTAD SINDICAL Y NEGOCIACIÓN",
+      "citada": true
+    },
+    {
+      "url": "https://drlawyer.com/labor-law/",
+      "titulo": "Labor Law Guzmán Ariza",
+      "citada": true
+    },
+    {
+      "url": "https://webapps.ilo.org/public/english/dialogue/download/dominican.pdf",
+      "titulo": "International Labour Organization > Fundamental principles and rights",
+      "citada": true
+    },
+    {
+      "url": "https://tribunalsitestorage.blob.core.windows.net/media/8662/sentencia-tc-0563-15.pdf",
+      "titulo": "República Dominicana TRIBUNAL CONSTITUCIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://siemprealdia.co/republica-dominicana/derecho-laboral/reforma-al-codigo-de-trabajo-en-republica-dominicana/",
+      "titulo": "Reforma al Código de Trabajo en República Dominicana 2026",
+      "citada": true
+    },
+    {
+      "url": "https://do.vlex.com/vid/ley-n-16-92-840887813",
+      "titulo": "Ley Nº 16-92. Ley que Aprueba el Codigo de Trabajo. - vLex República Dominicana",
+      "citada": false
+    },
+    {
+      "url": "https://ojd.org.do/documentos/ley-num-16-92-codigo-de-trabajo-de-la-republica-dominicana/",
+      "titulo": "Ley núm. 16-92, Código de Trabajo de la República Dominicana - Observatorio Judicial Dominicano",
+      "citada": false
+    },
+    {
+      "url": "https://www.sclawyer.com.do/base-de-datos/codigo-de-trabajo?lang=en",
+      "titulo": "Codigo de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://jnlopez.com/wp-content/uploads/2022/01/Codigo-de-Trabajo-de-la-Republica-Dominicana.pdf",
+      "titulo": "CÓDIGO DE TRABAJO DE LA REPÚBLICA DOMINICANA LEY NO. 16-92",
+      "citada": false
+    },
+    {
+      "url": "https://phlaw.com/es/post/34principales-aspectos-codigo-trabajo-en-republica-dominicana34/",
+      "titulo": "Principales aspectos del Código de Trabajo en la República Dominicana - Pellerano & Herrera",
+      "citada": false
+    },
+    {
+      "url": "https://chambers.com/content/item/6826",
+      "titulo": "DOMINICAN REPUBLIC: An Introduction to Labour & Employment Law",
+      "citada": false
+    },
+    {
+      "url": "https://phlaw.com/wp-content/uploads/2025/01/Main-aspects-ruling-the-Labor-Legislation-in-the-Dominican-Republic.pdf",
+      "titulo": "labor code.p65",
+      "citada": false
+    },
+    {
+      "url": "https://ustr.gov/sites/default/files/files/agreements/FTA/CAFTA-DR/CAFTA-DR%20-%20LRR%20(2005).pdf",
+      "titulo": "Labor Rights Report Costa Rica, Dominican Republic, El Salvador,",
+      "citada": false
+    },
+    {
+      "url": "https://www.state.gov/reports/2026-investment-climate-statements/dominican-republic",
+      "titulo": "Dominican Republic - United States Department of State",
+      "citada": false
+    },
+    {
+      "url": "https://www.ulisescabrera.com/en/dominican-labor-code-reform-proposal/",
+      "titulo": "Dominican Labor Code Reform Proposal",
+      "citada": false
+    },
+    {
+      "url": "https://freetheslaves.net/our-work/where-we-work/dominican-republic/",
+      "titulo": "Dominican Republic - Free the Slaves",
+      "citada": false
+    },
+    {
+      "url": "https://www.expatfocus.com/dominican-republic/guide/dominican-republic-employment-terms-and-conditions",
+      "titulo": "Dominican Republic - Employment Terms and Conditions - Expat Focus",
+      "citada": false
+    },
+    {
+      "url": "https://www.mondaq.com/Employment-and-HR/623698/Labor-Law",
+      "titulo": "Labor Law - Employee Rights/ Labour Relations - Dominican Republic",
+      "citada": false
+    },
+    {
+      "url": "https://webapps.ilo.org/public/spanish/region/ampro/mdtsanjose/papers/pasado.htm",
+      "titulo": "PASADO Y PRESENTE DE LA LEGISLACION LABORAL EN AMERICA LATINA",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/419/414",
+      "titulo": "La reforma antes de la reforma. La construcción del nuevo Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.elcaribe.com.do/opiniones/editorial/el-codigo-laboral/",
+      "titulo": "El Código Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://acento.com.do/economia/la-reforma-laboral-que-nadie-termina-de-aprobar-quien-le-teme-al-nuevo-codigo-del-trabajo-9670267.html",
+      "titulo": "La reforma laboral que nadie termina de aprobar: ¿Quién le teme al nuevo Código del Trabajo?",
+      "citada": false
+    },
+    {
+      "url": "https://dr1.com/news/2026/05/25/deputies-pass-changes-to-labor-code/",
+      "titulo": "Deputies pass changes to Labor Code",
+      "citada": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/s319_e.pdf",
+      "titulo": "RESTRICTED WT/TPR/S/319 3 June 2015 (15-2897) Page: 1/152",
+      "citada": false
+    },
+    {
+      "url": "https://www.usemultiplier.com/dominican-republic/employment-laws",
+      "titulo": "Dominican Republic Labor Law Guide",
+      "citada": false
+    },
+    {
+      "url": "https://www.dol.gov/sites/dolgov/files/ILAB/research_file_attachment/DRLaborRights.pdf",
+      "titulo": "Labor Rights Report Costa Rica, Dominican Republic, El Salvador,",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc009425",
+      "titulo": "Tribunal Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc003525/",
+      "titulo": "Tribunal Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.cl/descargar_sentencia3.php?id=11030",
+      "titulo": "1 2022 REPÚBLICA DE CHILE TRIBUNAL CONSTITUCIONAL ____________ Sentencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-52002011000200022",
+      "titulo": "Comentario a la Sentencia recaída en cuestión de de inaplicabilidad por inconstitucionalidad del Art. 26 bis del Código del Trabajo (STC Rol Nº 1.852/2010, de 26 de julio de 2011)",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.cl/descargar_sentencia3.php?id=13075",
+      "titulo": "1 2023 REPÚBLICA DE CHILE TRIBUNAL CONSTITUCIONAL ____________ Sentencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.camara.cl/verDOC.aspx?prmID=70140&prmTipo=FICHAPARLAMENTARIA&prmFICHATIPO=BAN&prmLOCAL=0",
+      "titulo": "1 2022 REPÚBLICA DE CHILE TRIBUNAL CONSTITUCIONAL ____________ Sentencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.doe.cl/alerta/21122023/202312213007",
+      "titulo": "1 2023 REPÚBLICA DE CHILE TRIBUNAL CONSTITUCIONAL ____________ Sentencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.cl/descargar_sentencia3.php?id=7588",
+      "titulo": "1 2020 TRIBUNAL CONSTITUCIONAL DE CHILE ____________ Sentencia Rol 7588-2019",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.cl/descargar_sentencia3.php?id=10452",
+      "titulo": "1 2021 REPÚBLICA DE CHILE TRIBUNAL CONSTITUCIONAL ____________ Sentencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=10a8e751-1721-4a24-b15c-c90c30b47225",
+      "titulo": "Reforma a la Ley Federal del Trabajo - Reducción Gradual de la Jornada Laboral - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://www.diariolibre.com/economia/empleo/2025/07/16/los-principales-cambios-de-la-reforma-laboral/3183737",
+      "titulo": "¿Qué cambiaría en el trabajo si se aprueba la reforma laboral?",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/politica/2026/03/06/reforma-laboral-que-dice-la-reglamentacion-de-la-ley-y-cuales-son-los-principales-cambios-para-el-trabajador/",
+      "titulo": "Reforma laboral: qué dice la reglamentación de la ley y cuáles son los principales cambios para el trabajador - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.ignacioonline.com.ar/es-ley-la-reforma-laboral-argentina-2026/",
+      "titulo": "Es ley la Reforma Laboral Argentina 2026 - Ignacio online",
+      "citada": false
+    },
+    {
+      "url": "https://www.rivenza.com.mx/blog/ley-federal-del-trabajo-2026-derechos-basicos",
+      "titulo": "Ley Federal del Trabajo 2026: guía de derechos básicos · RIVENZA",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambito.com/politica/el-gobierno-promulgo-la-reforma-laboral-indemnizaciones-vacaciones-y-limites-la-actividad-sindical-n6252859",
+      "titulo": "El Gobierno promulgó la reforma laboral: indemnizaciones, vacaciones y límites a la actividad sindical",
+      "citada": false
+    },
+    {
+      "url": "https://vegaguerrero.com/labor-law/reform-of-the-federal-labor-law-2026-new-obligations-for-companies-in-the-areas-of-decent-work-equality-and-violence-prevention/?lang=en",
+      "titulo": "Reform of the Federal Labor Law 2026: new obligations for companies in the areas of decent work, equality and violence prevention - Vega, Guerrero & Asociados",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref52_01may26.pdf",
+      "titulo": "Reforma 52: Ley Federal del Trabajo. DOF 01-05-2026",
+      "citada": false
+    },
+    {
+      "url": "https://www.conocetuderecho.com.ar/detalle/424/4/reforma-laboral-2026-ley-27802-10-preguntas-para-entender-que-cambio/",
+      "titulo": "Reforma laboral 2026 (Ley 27.802): 10 preguntas para entender qué cambió",
+      "citada": false
+    }
+  ]
+}

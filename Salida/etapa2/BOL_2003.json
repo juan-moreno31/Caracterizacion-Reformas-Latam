@@ -1,0 +1,159 @@
+{
+  "id": "BOL_2003",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2003,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0562,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 2450 de 9 de abril de 2003, Ley de Regulación del Trabajo Asalariado del Hogar",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Supremo N° 27066 de 6 de junio de 2003 (creación del SENASIR)",
+      "Decreto Supremo N° 4589 de 28 de septiembre de 2021 (reglamenta la afiliación de las trabajadoras del hogar a la Caja Nacional de Salud)",
+      "Resolución Ministerial MT 218/14 (Contrato Individual de Trabajo para el sector)",
+      "Decreto Supremo N° 28655 de 2006 (norma complementaria posterior)",
+      "Ley N° 309 de 2012 (ratifica el Convenio 189 de la OIT)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2003-04-09",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Sin exposición de motivos localizada. Según una evaluación oficial posterior del Servicio Plurinacional de la Mujer y de la Despatriarcalización, buscaba que el trabajo de las trabajadoras del hogar fuera reconocido, valorado y remunerado, con derechos similares a los del resto de la fuerza laboral; el objetivo de equiparación fue impulsado por el movimiento sindical del sector más que por la agenda propia del gobierno.",
+    "descripcion_intenciones": "La ley sustituye el régimen especial del trabajo doméstico de la Ley General del Trabajo, que no sujetaba a horario a estas trabajadoras, por un régimen propio que acerca sus derechos a los del régimen general. Introduce jornada máxima, descanso, vacaciones, salario mínimo en dinero, aguinaldo, indemnización y desahucio, protección de la maternidad y afiliación a la seguridad social de salud. También reconoce la sindicalización, el trato digno y vías de denuncia ante la Policía, el Ministerio Público y la Inspectoría del Trabajo. En la práctica, su aplicación fue parcial y diferida: la afiliación a la salud y el contrato escrito dependieron de normas dictadas muchos años después.",
+    "dimensiones": [
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Fija por primera vez una jornada máxima, diferenciada para quienes viven en el hogar empleador, y reconoce descanso semanal, feriados, vacaciones y pago de horas extraordinarias. La jornada de las trabajadoras que viven en el hogar sigue siendo más extensa que la del régimen general."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Exige pago mensual en moneda de curso legal, prohíbe el pago fraccionado o en especie, establece como piso el salario mínimo nacional para jornada completa y reconoce el aguinaldo."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reconoce indemnización y desahucio por despido injustificado, preaviso más favorable a la trabajadora y prohibición de despido durante la suspensión del contrato. Como contrapeso, el Art. 20 enumera causales sin pago de beneficios sociales."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Presume indefinido el contrato a falta de contrato escrito. Excluye de la ley el trabajo sin horario o discontinuo, considerado eventual."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Sujeta el trabajo del hogar a la afiliación a la Caja Nacional de Salud y obliga al empleador a cubrir la atención médica mientras no exista afiliación. El trámite quedó diferido hasta el D.S. 4589 de 2021, y la aplicación del derecho a pensión también dependía de un decreto."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Obliga a otorgar descanso pre y posnatal y habilita denuncias por abuso, agresión física y acoso sexual ante la Brigada de Protección de la Mujer y Familia, la Policía y el Ministerio Público."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reconoce la sindicalización entre los derechos del sector, de forma declarativa y sin desarrollo adicional."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Las instituciones que comprueben denuncias deben remitir los antecedentes a la Inspectoría del Trabajo para regularizar el pago de salarios y beneficios sociales."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Remite el trabajo de niños, niñas y adolescentes en el hogar al Código Niño, Niña y Adolescente y a la Ley General del Trabajo, sin crear un régimen propio."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Dignidad y trato: prohíbe retener los efectos personales de la trabajadora y exige un trato acorde con la dignidad humana y el respeto de la identidad cultural."
+      }
+    ],
+    "poblacion_objetivo": [
+      "mujeres",
+      "informales"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley deroga los Artículos 36 a 40 de la Ley General del Trabajo y los Artículos 27 y 28 de su Decreto Reglamentario, y abroga la Resolución Ministerial de 19 de mayo de 1954, que conformaban el régimen especial del trabajo doméstico. No revierte una reforma flexibilizadora reciente, y el régimen general del D.S. 21060 no fue modificado. Fue una concesión obtenida por FENATRAHOB tras una larga campaña, en alianza con ONG feministas, el movimiento obrero y el MAS, del gobierno de Gonzalo Sánchez de Lozada. Este gobierno enfrentaba fuertes movilizaciones contra el neoliberalismo y una grave recesión. La ley se aprobó tras la crisis de febrero de 2003, originada por el anuncio de un impuesto al salario. En octubre, las protestas por la exportación de gas forzaron la renuncia del presidente, a quien sucedió Carlos Mesa.",
+    "notas": "Fechas: la ley fue promulgada el 9 de abril de 2003, y vLex registra su publicación el 11 de abril de 2003. NATLEX consignaría el 3 de abril (no verificado), y una evaluación oficial menciona un 19 de abril, al parecer una errata. No se verificó si existe una cláusula expresa de entrada en vigor. Vigencia escalonada: la afiliación a la Caja Nacional de Salud quedó diferida hasta el D.S. 4589 de 28 de septiembre de 2021, que la condiciona a percibir al menos el salario mínimo. No se verificó si se dictó el decreto sobre pensiones. El contrato escrito solo se puso en práctica con la R.M. 218/14; WIEGO lo atribuye al Art. 2, aunque en el texto oficial figura en el Art. 3. Vigencia: Infoleyes la registra como vigente y no se hallaron normas modificatorias ni fallos constitucionales, sin poder descartar estos últimos. Advertencia econométrica: existe una brecha amplia entre la norma y su cumplimiento, pues persisten mayoritariamente los contratos verbales no registrados; el tratamiento efectivo fue parcial y gradual. El D.S. 27066 (SENASIR) se incluye en normas relacionadas por indicación de la etapa de identificación, pero no guarda relación directa con esta ley; el D.S. 26877 no fue investigado. Población: no existe una categoría sectorial para el trabajo del hogar. Se excluye asalariados_formales por la informalidad predominante del sector. Tampoco se incluyó jovenes, porque la ley solo remite su regulación a otras normas. El texto es neutro en género, pero la población es mayoritariamente femenina, indígena y de origen rural."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-2450.xhtml",
+      "titulo": "Bolivia: Ley de regulación del Trabajo Asalariado del Hogar, 9 de abril de 2003",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/1309/ley-de-regulacion-del-trabajo-asalariado-del-hogar-2450",
+      "titulo": "Ley de Regulacion del Trabajo Asalariado del Hogar (2450) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "http://www.silep.gob.bo/norma/4204/texto_ordenado",
+      "titulo": "SILEP - Sistema de Información Legal",
+      "citada": true
+    },
+    {
+      "url": "https://sepmud.gob.bo/wp-content/uploads/2025/08/2450.pdf",
+      "titulo": "2450.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://siip.produccion.gob.bo/repSIIP2/files/normativa_12345_29092021d567.pdf",
+      "titulo": "DECRETO SUPREMO N° 4589 LUIS ALBERTO ARCE CATACORA",
+      "citada": true
+    },
+    {
+      "url": "https://lapatria.bo/enfoque-nacional/gestion/promulgan-decreto-que-permite-la-afiliacion-de-trabajadoras-del-hogar-a-la-cns/",
+      "titulo": "Promulgan decreto que permite la afiliación de trabajadoras del hogar a la CNS - La Patria 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://www.wiego.org/wp-content/uploads/2019/09/Castano_Movilizaciones_trabajadoras_hogar-Bolivianas_WIEGO_OB10.pdf",
+      "titulo": "Las movilizaciones de las trabajadoras del hogar bolivianas",
+      "citada": true
+    },
+    {
+      "url": "https://www.wiego.org/wp-content/uploads/2019/09/Castano_Tierno-poli%CC%81ticas-derechos-trabajadoras-del-hogar-Bolivia-WIEGO-PB17.pdf",
+      "titulo": "Leyes, legitimidad y lucha: lecciones de las políticas sobre ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.wiego.org/wp-content/uploads/2019/09/Castano_Tierno-Bolovian-Policies-Domestic-Workers-Rights-WIEGO-PB17.pdf",
+      "titulo": "Lessons from Bolivian Policies on Domestic Workers' Rights",
+      "citada": true
+    },
+    {
+      "url": "https://www.derechoteca.com/legal-tech-bolivia-bo-d-lex-norma/ley-2450-del-09-abril-2003",
+      "titulo": "Bolivia: Ley No 2450 del 09 Abril 2003",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-trabajo-hogar-474285038",
+      "titulo": "Ley 2450 - vLex Bolivia - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://reliefweb.int/report/bolivia/bolivia-crisis-and-justice-days-violence-feb-and-oct-2003",
+      "titulo": "Bolivia: Crisis and Justice - Days of violence in Feb and Oct 2003 - Bolivia (Plurinational State of)",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/4969/resoluci%C3%B3n-ministerial-mt-2014-218-14",
+      "titulo": "Resolución Ministerial MT 2014 218/14 - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "http://gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/18860",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    }
+  ]
+}

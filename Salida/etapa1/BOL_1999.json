@@ -1,0 +1,259 @@
+{
+  "id": "BOL_1999",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 1999,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3681,
+  "incompleto": false,
+  "norma": "Ley N° 2027 de 27 de octubre de 1999 (Estatuto del Funcionario Público)",
+  "texto": "# Informe de investigación: BOL 1999, Ley N° 2027 (Estatuto del Funcionario Público)\n\n## 1. Objetivo declarado\n\nSegún su artículo de objeto, el Estatuto busca regular la relación del Estado con sus servidores públicos, garantizar el desarrollo de la carrera administrativa y asegurar la dignidad, transparencia, eficacia y vocación de servicio a la colectividad en el ejercicio de la función pública, así como la promoción de su eficiente desempeño y productividad. La carrera administrativa se crea para promover la eficiencia de la actividad administrativa pública en servicio de la colectividad, el desarrollo laboral de sus funcionarios de carrera y la permanencia de éstos condicionada a su desempeño.\n\n**No verificado:** no encontré la exposición de motivos ni los debates legislativos. El objetivo declarado sale solo del texto de la ley, así que no puedo comparar el discurso del gobierno con la norma.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**Régimen separado (base de todo lo demás).** La ley establece que los derechos reconocidos para los servidores públicos en el presente Estatuto y su régimen jurídico, excluyen otros derechos establecidos en la Ley General del Trabajo y otras disposiciones del régimen laboral que rige únicamente para los trabajadores. Cubre a todos los servidores públicos que presten servicios en relación de dependencia con cualquier entidad del Estado, independientemente de la fuente de su remuneración. Hay una salvaguarda transitoria: el personal de entidades autárquicas y descentralizadas que estaba amparado por la Ley General del Trabajo antes de la vigencia seguirán sujetos a dicho régimen laboral.\n\n- **`despido_e_indemnizacion` — aumenta (para funcionarios de carrera), con matices.** La ley prohíbe el retiro de funcionarios de carrera a través de decisiones discrecionales y unilaterales de las autoridades y fija causales de retiro, entre ellas supresión del cargo, entendida como la eliminación de puestos de trabajo o cargos en el marco del Sistema de Organización Administrativa. Los matices:\n  - La máxima autoridad ejecutiva puede, excepcionalmente y por motivos fundados y de acuerdo a Reglamento, retirar a un funcionario de carrera.\n  - La permanencia depende del desempeño: las evaluaciones no satisfactorias reiteradas llevan a sanciones que pueden llegar a la destitución.\n  - Para entrar a la carrera, el personal en funciones debe presentar renuncia voluntaria a su cargo y sean liquidados de acuerdo al régimen laboral a que tengan derecho. Es decir, cambia la protección de la Ley General del Trabajo por la estabilidad estatutaria.\n  - Fuera de la carrera la ley no ofrece estabilidad equivalente. No están en la carrera los funcionarios electos, los de libre nombramiento ni los interinos, a quienes se define como provisionales: de manera provisional y por un plazo máximo e improrrogable.\n- **`contratacion_temporal` — reduce (tentativo).** La ley deja fuera tanto del Estatuto como de la Ley General del Trabajo a quienes con carácter eventual o para la prestación de servicios específicos o especializados, se vinculen contractualmente con una entidad pública. Su relación pasa a regirse por las normas de contratación de bienes y servicios. **No verificado:** si esto cambió la práctica anterior o solo la formalizó.\n- **`justicia_laboral_e_inspeccion` — reorganiza.** La ley crea la Superintendencia de Servicio Civil, una entidad con autonomía técnica, operativa y administrativa, bajo la tuición del Ministerio de Hacienda, encargada de supervisar la carrera. Los conflictos sobre ingreso, promoción y retiro siguen una vía administrativa: primero recurso de revocatoria y después recurso jerárquico ante el Superintendente, sin lugar a recurso administrativo ulterior salvo el contencioso administrativo. Así, los servidores públicos dejan la jurisdicción laboral ordinaria y pasan a la contencioso-administrativa.\n- **`salario_y_negociacion_salarial` — reorganiza.** Se reconoce el derecho a una justa remuneración, correspondiente con la responsabilidad de su cargo y la eficiencia de su desempeño, y se crean incentivos y evaluación obligatoria del desempeño. La remuneración queda ligada al desempeño, pero sin un sentido claro de más o menos protección.\n- **`derechos_colectivos_sindicales` — no verificado.** En los fragmentos consultados no hallé disposiciones sobre sindicalización, huelga o negociación colectiva. Como se excluyen los derechos de la Ley General del Trabajo, podría haber efectos indirectos en esta dimensión, pero no tengo fuente que lo confirme. Recomiendo no codificarla sin revisar el texto completo.\n- **`otro` (ética pública e integridad) — reorganiza.** La ley introduce incompatibilidades y somete a los servidores inexcusablemente a códigos de ética institucionales. También regula declaraciones juradas de bienes y rentas, cuya verificación es posible durante la vigencia de la relación laboral del servidor con la administración y aun al final de la misma.\n- **`seguridad_social_y_pensiones` — no aplica.** La ley enumera derechos a pensiones y prestaciones de salud, pero no encontré que cambie esos regímenes.\n\n**Lectura preliminar de la orientación (para la Etapa 2).** El componente central es protector para los funcionarios de carrera: estabilidad, mérito e impugnación. Al mismo tiempo, la permanencia queda condicionada al desempeño, se excluye la Ley General del Trabajo y se deja fuera a los consultores. La ley tiene además un fuerte peso administrativo e institucional. Las candidatas son `protectora` o `mixta`, pero conviene revisar los derechos colectivos antes de decidir.\n\n## 3. Población objetivo\n\n`sector_publico`, de forma exclusiva. Las carreras de los gobiernos municipales, las universidades, el Poder Judicial, el Ministerio Público, el servicio exterior y el magisterio se regularán por su legislación especial aplicable en el marco establecido en el presente Estatuto. Además, la carrera solo se aplica desde cierto nivel jerárquico hacia abajo (art. 75). La ley no toca el empleo privado.\n\n## 4. Contexto político y económico\n\nLa ley fue promulgada por Hugo Banzer Suarez y se apoya institucionalmente en el sistema de administración de personal de la Ley 1178. Las disposiciones transitorias muestran que ya existía un Programa de Servicio Civil, dependiente del Ministerio de Hacienda, cuyo personal podía entrar a la carrera.\n\n**Sin fuente:** la recesión de 1999, la posible participación de organismos multilaterales (Banco Mundial, BID) en el diseño y la agenda de reforma del Estado del gobierno de Banzer. No pude confirmarlo con fuentes CEPAL, BID o del Banco Mundial.\n\n## 5. ¿Revierte una reforma previa?\n\nNo encontré evidencia de que lo haga. La ley crea un régimen nuevo y no hallé indicios de que deshaga una reforma anterior. **No verificado:** si existía un estatuto del funcionario anterior y qué contenía.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Texto original:** la ley entraba en vigencia plena a los seis meses de su publicación, sin embargo, toda nueva incorporación de personal en las entidades públicas, deberá sujetarse a las disposiciones previstas en el presente Estatuto.\n- **Ley N° 2104 de 21 de junio de 2000:** cambió el artículo 77. La vigencia plena pasa a depender de la posesión del Superintendente del Servicio Civil, más un plazo adicional.\n- **Reglamentación escalonada:**\n  - DS 25749 de 20 de abril de 2000: Reglamento de Desarrollo Parcial.\n  - DS 26115 de 16 de marzo de 2001: Normas Básicas del Sistema de Administración de Personal.\n  - DS 26257 de 20 de julio de 2001: reglamento parcial.\n  - DS 26740 de 4 de agosto de 2002: otro reglamento parcial, que todavía fijaba plazos para solicitar la incorporación a la carrera.\n\nEsto apoya marcar `vigencia_escalonada` = true. La fecha formal de promulgación es 1999-10-27, pero el tratamiento pleno es posterior.\n\n**No verificado:** la fecha de publicación en la Gaceta y la fecha de posesión del primer Superintendente, de la que depende la vigencia plena.\n\n## 7. Estado de vigencia posterior\n\n- **Ley N° 2104 (2000):** modificó la ley en varios puntos.\n  - **Ámbito:** el personal de las Fuerzas Armadas, la Policía, la salud pública y la seguridad social queda solamente sujetos al Capítulo III del Título II y al Título V.\n  - **Incompatibilidades y financiamiento** de la Superintendencia.\n  - **Derogaciones:** derogó el inciso h) del Artículo 9° y los incisos b), g), i), n) y o) del artículo 61°.\n  - **Tuición:** según el reglamento de 2002, la tuición sobre la Superintendencia pasó al Ministerio de Trabajo y Microempresa.\n- **Reestructuración institucional de 2009:** el DS 29894 y el DS 0071 extinguieron la Superintendencia. sus atribuciones serán asumidas por el Ministerio de Trabajo, Empleo y Previsión Social a través del Viceministerio de Empleo, Servicio Civil y Cooperativas. El Tribunal Constitucional consideró que la Dirección General del Servicio Civil no hizo otra cosa que dar continuidad a la misión de cuidar la carrera administrativa.\n- **Fallos judiciales:** no encontré ninguna anulación sustantiva de la ley.\n  - La Sentencia Constitucional 0092/2003 se cita en relación con la inaplicabilidad de artículos sobre declaraciones juradas. Según el DS 27349, parece afectar al reglamento y no a la ley, lo que sería un efecto menor que va en `notas`.\n  - En 2020 se rechazó promover una acción contra los arts. 5, 6 y 71 del Estatuto del Funcionario Público.\n- **Estado actual:** la ley consta como Vigente en Infoleyes, que no es fuente oficial.\n\n**Sugerencia:** `modificada_o_derogada_despues`. El núcleo sigue vigente, pero el ámbito, la vigencia y el órgano supervisor cambiaron.\n\n**No verificado:**\n- Lexivox anota sobre la Ley 2104 una \"edición especial\" suspendida por el DS 26781 (2002). No queda claro qué se suspendió.\n- El efecto de la Constitución de 2009 sobre la ley.\n- Si el texto completo de la Sentencia 0092/2003 toca la ley.\n\n## Resumen de vacíos\n\n1. Exposición de motivos.\n2. Derechos colectivos y sindicales.\n3. Fecha de publicación y de posesión del Superintendente.\n4. Contexto económico y participación de organismos multilaterales, ambos sin fuente.\n5. Alcance del DS 26781 y de la Sentencia 0092/2003.\n\nLa confianza media del informe previo me parece adecuada. El país-año está bien identificado, pero la norma solo trata al sector público.",
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-2027.html",
+      "titulo": "Bolivia: Ley del Estatuto del Funcionario Público, 22 de octubre de 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-RE-DS26740.html",
+      "titulo": "Bolivia: Reglamento de Desarrollo Parcial de la Ley Nº 2027 del Estatuto del Funcionario Público y de la Ley Nº 2104 modificatoria de la Ley del Estatuto del Funcionario Público, 4 de agosto de 2002",
+      "citada": true
+    },
+    {
+      "url": "https://www.dgsc.gob.bo/normativa/leyes/fpublico.html",
+      "titulo": "Ley del Estatuto del Funcionario Público",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/666/estatuto-del-funcionario-p%C3%BAblico-2027",
+      "titulo": "Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/15329",
+      "titulo": "Law No. 2027 of October 27, 1999, relating to Statute on Public Officials, Bolivia (Plurinational State of), WIPO Lex",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-n-2027-estatuto-1104534926",
+      "titulo": "LEY Nº 2027, ESTATUTO DEL FUNCIONARIO ÍUBLICO - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.wipo.int/edocs/lexdocs/laws/es/bo/bo055es.pdf",
+      "titulo": "LEY 2027 del ESTATUTO DEL FUNCIONARIO PUBLICO DEL 27 DE OCTUBRE DE 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-26740.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 26740, 4 de agosto de 2002",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-2104.html",
+      "titulo": "Bolivia: Ley Nº 2104, 21 de junio de 2000",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/670/ley-modificatoria-a-la-ley-n%C2%BA-2027-del-estatuto-del-funcionario-p%C3%BAblico-2104",
+      "titulo": "Ley Modificatoria a La Ley Nº 2027 del Estatuto del Funcionario Público (2104) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "http://www.oas.org/juridico/spanish/blv_res19.pdf",
+      "titulo": "LEY N° 2027 LEY DEL 27 DE OCTUBRE DE 1999 HUGO BANZER SUAREZ",
+      "citada": true
+    },
+    {
+      "url": "http://www.oas.org/juridico/spanish/mesicic2_blv_ley_2027_sp.pdf",
+      "titulo": "LEY 2027 del ESTATUTO DEL FUNCIONARIO PUBLICO DEL 27 DE OCTUBRE DE 1999",
+      "citada": true
+    },
+    {
+      "url": "https://www.planificacion.gob.bo/uploads/marco-legal/Ley%20N%C2%B0%202027%20ESTATUTO%20DEL%20FUNCIONARIO%20PUBLICO.pdf",
+      "titulo": "Ley N° 2027 ESTATUTO DEL FUNCIONARIO PUBLICO.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/13133",
+      "titulo": "ARTÍCULO 7° (DERECHOS)., Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.oas.org/es/sla/dlc/mesicic/docs/blv_res40.pdf",
+      "titulo": "DECRETO SUPREMO N° 27349 CARLOS D. MESA GISBERT",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/sentencia-n-0099-2020-869173811",
+      "titulo": "Sentencia Nº 0099/2020-CA de Tribunal Constitucional, 03-07-2020 - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/13167",
+      "titulo": "ARTÍCULO 41° (CAUSALES)., Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N071.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 071, 9 de abril de 2009",
+      "citada": true
+    },
+    {
+      "url": "https://jurisprudenciaconstitucional.com/resolucion/35539-sentencia-constitucional-0921-2011-r",
+      "titulo": "Sentencia Constitucional 0921/2011-R SUCRE, 22 DE JUNIO DE 2011",
+      "citada": true
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/21262",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/normativa/LEY%202027.pdf",
+      "titulo": "LEY No. 2027 LEY DEL ESTATUTO DEL FUNCIONARIO PÚBLICO",
+      "citada": false
+    },
+    {
+      "url": "https://egpp.gob.bo/wp-content/uploads/2025/08/LEY-2027-ESTATUTO-DEL-FUNCIONARIO-PUBLICO.pdf",
+      "titulo": "LEY-2027-ESTATUTO-DEL-FUNCIONARIO-PUBLICO. ...",
+      "citada": false
+    },
+    {
+      "url": "http://www.oas.org/juridico/spanish/mesicic2_blv_ley_2104_sp.pdf",
+      "titulo": "LEY N° 2104 LEY DE 21 DE JUNIO DE 2000 LEY MODIFICATORIA A LA LEY N° 2027",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/13445",
+      "titulo": "ARTÍCULO 77° (VIGENCIA)., Ley Modificatoria a La Ley Nº 2027 del Estatuto del Funcionario Público (2104) - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/13436",
+      "titulo": "ARTICULO CUARTO, Ley Modificatoria a La Ley Nº 2027 del Estatuto del Funcionario Público (2104) - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://sea.gob.bo/digesto/CompendioII/S/204_L_2027.pdf",
+      "titulo": "2353 Ley Nº 2027, del 27 de octubre de 1999 Estatuto del funcionario público",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-n-estatuto-funcionario-474280234",
+      "titulo": "Ley 2104 - vLex Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://iuslatin.pe/que-trabajadores-publicos-no-pueden-sindicalizarse-informe-002213-2021-servir-gpgsc/",
+      "titulo": "¿Qué trabajadores públicos no pueden sindicalizarse? [Informe 002213-2021-Servir-GPGSC]",
+      "citada": false
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Homenaje-bodas-de-plata-full-439-462.pdf",
+      "titulo": "439 LAS RELACIONES COLECTIVAS DE TRABAJO EN LA LEY DEL SERVICIO CIVIL",
+      "citada": false
+    },
+    {
+      "url": "https://www.mef.gob.pe/contenidos/rec_publicos/documentos/OPINION_0176-2023-DGPA.pdf",
+      "titulo": "1 OPINIÓN Nº 0176-2023-DGGFRH/DGPA Lima, 10 de julio de 2023 CONSULTA CONSULTA",
+      "citada": false
+    },
+    {
+      "url": "https://javiersagardoy.com/informacion-laboral/huelga",
+      "titulo": "HUELGA",
+      "citada": false
+    },
+    {
+      "url": "https://lpderecho.pe/ante-la-derogacion-de-los-arts-40-al-45-de-la-ley-del-servicio-civil-los-derechos-de-sindicacion-y-huelga-de-los-servidores-civiles-se-regiran-por-las-disposiciones-de-la-ley-de-relaciones-colectiva/",
+      "titulo": "Ante la derogación de los arts. 40 al 45 de la Ley del Servicio Civil, los derechos de sindicación y huelga de los servidores civiles se regirán por las disposiciones de la Ley de Relaciones Colectivas de Trabajo en todo aquello que sea compatible con la naturaleza del empleo público [Informe Técnico 001384-2026-Servir-GPGSC]",
+      "citada": false
+    },
+    {
+      "url": "https://tese.edomex.gob.mx/sites/tese.edomex.gob.mx/files/files/Marco%20Juridico/Leyes/Ley-del-Trabajo-de-los-Servidores-Publicos-del-Estado-de-Mexico_.pdf",
+      "titulo": "Ley del Trabajo de los Servidores Públicos del Estado y ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.sedegeslapaz.gob.bo/files/uploads/D.S.%20No.%2027349%20(MODIFICACIONES%20AL%20REGLAMENTO%20PARCIAL%20DE%20LA%20LEY%20No.%202027).pdf",
+      "titulo": "D.S. No. 27349 (MODIFICACIONES AL REGLAMENTO ...",
+      "citada": false
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/29100",
+      "titulo": "Sistema HJ - Resolución: SENTENCIA 129/2022",
+      "citada": false
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/31282",
+      "titulo": "Sistema HJ - Resolución: SENTENCIA 131/2024",
+      "citada": false
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/30153",
+      "titulo": "Sistema HJ - Resolución: SENTENCIA 67/2024",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/tc010124/",
+      "titulo": "Tribunal Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.lamoncloa.gob.es/espana/leyfundamental/paginas/titulo_noveno.aspx",
+      "titulo": "La Moncloa. Título IX. Del Tribunal Constitucional [España]",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2025_008/STC%205514-2023.pdf",
+      "titulo": "TRIBUNAL CONSTITUCIONAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.abt.gob.bo/images/2023/07/normasgenerales/7ds0071_2009extincion.pdf",
+      "titulo": "DECRETO SUPREMO N° 0071/2009 Del 09 de Abril de 2009 EVO MORALES AYMA",
+      "citada": false
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/27480",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/bol87458.pdf",
+      "titulo": "1 DECRETO SUPREMO Nº 0071 DE 9 DE ABRIL DE 2009 EVO MORALES AYMA",
+      "citada": false
+    },
+    {
+      "url": "https://www.pixilegal.com/normativa/decreto-71-2009-04-14",
+      "titulo": "Decreto Supremo N° 71 · Pixi Legal",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N71.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 71, 9 de abril de 2009",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/679/decreto-supremo-0071",
+      "titulo": "Decreto Supremo 0071 - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/13184",
+      "titulo": "ARTÍCULO 58° (SUPERINTENDENCIA DE SERVICIO CIVIL)., Estatuto del Funcionario Público (2027) - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-NB-DS26115.html",
+      "titulo": "Bolivia: Normas Básicas del Sistema de Administración de Personal, 16 de marzo de 2001",
+      "citada": false
+    },
+    {
+      "url": "https://www.sedegeslapaz.gob.bo/files/uploads/D.S.%20No.%2026115%20(NORMAS%20BASICAS%20DE%20ADMINISTRACION%20DE%20PERSONAL).pdf",
+      "titulo": "D.S. No. 26115 (NORMAS BASICAS DE ...",
+      "citada": false
+    }
+  ]
+}

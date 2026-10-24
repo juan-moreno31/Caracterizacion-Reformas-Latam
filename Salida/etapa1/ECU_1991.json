@@ -1,0 +1,214 @@
+{
+  "id": "ECU_1991",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3256,
+  "incompleto": false,
+  "norma": "Ley N.º 133, reformatoria al Código del Trabajo (Registro Oficial, Suplemento N.º 817, 21-11-1991)",
+  "texto": "# Informe de investigación: ECU 1991, Ley N.º 133, reformatoria al Código del Trabajo\n\n## 1. Objetivo declarado\n\nNo encontré la exposición de motivos ni discursos oficiales. Por eso el objetivo declarado queda como **no verificado en fuente primaria**. Hay dos indicios indirectos:\n\n- **Justificación del umbral sindical.** Un informe nacional del Instituto Latinoamericano de Derecho del Trabajo y de la Seguridad Social (ISLSSL) dice que el umbral se justificó así: el argumento fue que los empleadores se negaban a contratar más trabajadores por temor a que le formen un sindicato. El mismo autor sostiene que no se promovió el empleo, pero si se perjudicó la institución central del derecho laboral.\n- **Diagnóstico de rigidez.** Un documento de la OIT dice que los autores de la reforma de 1991 consideraron que el modelo de contrato que ofrecía la legislación entonces en vigor, imponía rigideces que afectaban la competitividad de las empresas y desalentaban la creación de empleos. **Advertencia:** por cómo está ordenado el texto, esa frase podría referirse a otra reforma regional. No la uso como objetivo declarado de Ecuador sin confirmarlo.\n\n## 2. Qué cambia efectivamente\n\nSegún la OIT, esta reforma cubrió distintos temas, pero se centró esencialmente en el contrato de trabajo, la intemnización por despido intempestivo y las relaciones colectivas.\n\n**`contratacion_temporal` — reduce.** NATLEX señala que en lo que se refiere a la flexibilidad del trabajo se añaden los contratos de trabajo eventuales, ocasionales y de temporada. El Código vigente todavía excluye los contratos eventuales, ocasionales y de temporada de la regla de estabilidad del contrato indefinido. Esas reglas actuales fueron reformadas después, así que no reflejan el texto de 1991.\n\n**`despido_e_indemnizacion` — dirección no verificada (presumiblemente reduce).** NATLEX solo indica que se modifican las condiciones del auxilio de cesantía y de indemnización por despido intempestivo. No encontré en qué sentido. La literatura ecuatoriana afirma que la ley flexibilizó ampliamente las reformas laborales e hizo que los salarios retrocedieran, pero no detalla este punto. Recomiendo marcar el efecto como tentativo.\n\n**`derechos_colectivos_sindicales` — lecturas contrapuestas.**\n\n- *Lectura de la OIT (amplía):* la reforma fue muy inspirada en la doctrina de la Comisión de Expertos y del Comité de Libertad Sindical de la OIT. En particular derogó las disposiciones del Código que impedían la sindicación rural, facilitó la constitución de sindicatos y limitó la injerencia de las autoridades públicas en la vida interna de los mismos.\n- *Lectura ecuatoriana (restringe):* la ley eleva el número mínimo de trabajadores para formar una organización laboral. Además, suspende la garantía de estabilidad en el caso de huelgas solidarias, dispone la obligatoriedad de que la declaratoria de huelga la haga un comité especial, a falta del comité de empresa. Una fuente de la Friedrich-Ebert-Stiftung (FES) de 1997 precisa que la Ley 133 exige que ese comité especial reúna igual número y porcentaje de trabajadores que el comité de empresa.\n- *Negociación y conflictos:* NATLEX registra nuevas disposiciones sobre la negociación de los contratos colectivos de trabajo, el trámite de los conflictos colectivos y el régimen de la huelga. No pude verificar su contenido.\n\nHay que distinguir dos planos. En lo **formal** hay liberalización (sindicación rural, menos injerencia estatal). En lo **efectivo**, el umbral más alto y los nuevos requisitos para la huelga restringen la organización, sobre todo en empresas pequeñas. El umbral sigue siendo hoy objeto de observaciones de la Comisión de Expertos de la OIT.\n\n**`genero_y_conciliacion` — reorganiza.** Se deroga la prohibición del \"enganche de mujeres\" para trabajos fuera del país y la prohibición del trabajo nocturno de mujeres. Esto elimina normas tutelares. Puede leerse como pérdida de protección o como avance en igualdad formal, por eso no tiene una dirección clara.\n\n**`empleo_juvenil_y_aprendizaje` — reorganiza.** Se contempla la posibilibidad de celebrar contratos de aprendizaje en la industria para la enseñanza de oficios. No encontré su régimen detallado.\n\n**`justicia_laboral_e_inspeccion` — reorganiza.** Según el informe del ISLSSL, en su artículo 73 la ley creó la \"Dirección y Subdirecciones de Mediación Laboral\", y se la introdujo en el Código del Trabajo.\n\n**`otro` (trabajo doméstico) — dirección no verificada.** Se modifica el régimen de los trabajadores domésticos.\n\n**`salario_y_negociacion_salarial` — tentativa, sin verificar.** NATLEX vincula como texto de aplicación de esta ley el Acuerdo ministerial núm. 039-A de 1992, del Ministro de Trabajo y Recursos Humanos, por el que se dicta el Reglamento para la organización y funcionamiento de las Comisiones Sectoriales de Salarios y para la fijación del salario mínimo vital general. Esto sugiere que la ley tocó la fijación salarial, pero no identifiqué el artículo correspondiente.\n\n## 3. Población objetivo\n\n- `asalariados_formales` y `general`: es una reforma de todo el Código.\n- `mujeres`: se derogan prohibiciones específicas.\n- `jovenes`: aprendizaje, de forma tentativa.\n- Trabajadores rurales y domésticos, que pueden ir en notas.\n- El umbral sindical afecta sobre todo a los trabajadores de empresas pequeñas. No codificaría `empleadores_mipymes` como destinatario explícito porque no tengo fuente que lo declare.\n\n## 4. Contexto político y económico\n\nLa ley fue una iniciativa del presidente Rodrigo Borja aprobada por el Congreso: se trata de reformas propuestas por el ex presidente de la República, Dr. Rodrigo Borja, y aprobadas por el Congreso Nacional en 1991, con el número y nombre de \"Ley No. 133, Reformatoria al Código del Trabajo\".\n\nLa reforma forma parte de un paquete: durante el gobierno de Rodrigo Borja Cevallos se aprobaron las principales leyes de flexibilización laboral, que incluyen la Ley de Maquila de 1990 y la Ley de Zonas Francas de 1991. Una tesis del Instituto de Altos Estudios Nacionales (IAEN) la sitúa en una ola de ajuste en la que se dictan las leyes reformatorias al Código del Trabajo, con la Ley 90, el Decreto Ley 01 y la Ley 133. Esta fuente tiene un tono militante.\n\nLa OIT sugiere una influencia regional: quizás inspirado por la reforma colombiana, Ecuador revisó parcialmente su Código de Trabajo en 1991, mediante la adopción de la ley núm. 133.\n\nNo encontré cobertura de prensa sobre la reacción sindical ni sobre la coyuntura macroeconómica de ese año.\n\n## 5. ¿Revierte una reforma previa?\n\n**No se identificó como contrarreforma de una norma concreta.** Modifica el Código de 1978 en su conjunto y profundiza la línea flexibilizadora de la Ley 90 de 1990. No la deshace.\n\n**Discrepancia a resolver:** una acción ante la Corte Constitucional cita una observación de la Comisión de Expertos que fecha el aumento del umbral sindical en la reforma legislativa en 1985. Todas las demás fuentes lo atribuyen a la Ley 133 de 1991, incluida la del ISLSSL: hasta Noviembre 21 de 1991, en que se dictó la Ley No. 133, Ley Reformatoria al Código del Trabajo, los sindicatos podían formarse hasta con 15 trabajadores. Probablemente se trata de un error en la cita secundaria, pero conviene contrastarlo con el texto original de la Comisión.\n\n## 6. Fecha de entrada en vigor y aplicación escalonada\n\n- **Fechas:** NATLEX da la adopción el 1991-11-13. El Código vigente remite a la Ley No. 133 promulgada en el Suplemento del Registro Oficial No. 817 del 21 de noviembre de 1991.\n- **Vigencia:** no verifiqué la cláusula de vigencia. Lo más probable es que rija desde su publicación (1991-11-21), pero queda como **sin fuente**.\n- **Aplicación escalonada:** no encontré. Sí hay una **disposición transitoria de salvaguarda**: las organizaciones laborales constituidas antes de la vigencia de la Ley No. 133 [...] con un número de trabajadores inferior al mínimo exigido para el efecto en dicha reforma, conservarán su personería jurídica. El nuevo umbral solo afecta a organizaciones nuevas, lo que importa para medir la intensidad del tratamiento. Sugiero `vigencia_escalonada = false` y anotar esto en `notas`.\n- **Reglamentación posterior:** un acuerdo ministerial de reglamentación salarial de febrero de 1992.\n\n## 7. Estado de vigencia posterior\n\n**Modificaciones posteriores:**\n\n- *Contratos temporales:* el régimen fue reformado varias veces. El artículo 17 vigente fue reformado por la Disposición Final Primera del Mandato Constituyente 8, R.O. 330-S, 6-V-2008; y, por la Disposición reformatoria quinta, num. 3, de la Ley s/n, R.O. 351-S, 29-XII-2010. El Código también se volvió a codificar en 1997 y 2005.\n- *Núcleo colectivo:* sigue en vigor. El Código actual exige fundadores en número no menor de treinta al tratarse de trabajadores.\n- *Mediación laboral:* la Dirección creada por la ley sigue existiendo.\n\n**Fallos judiciales:** no encontré ninguna sentencia del Tribunal de Garantías Constitucionales ni de la Corte Suprema que anulara o suspendiera partes de la Ley 133. Tampoco puedo afirmar que no existan.\n\n**Codificación sugerida:** `modificada_o_derogada_despues`. Se aplicó; su componente contractual fue modificado después y su componente sindical sigue vigente.\n\n## 8. Orientación preliminar\n\nSugiero **flexibilizadora**, con un componente protector-formal en libertad sindical que va en `notas`. Si en la etapa de codificación se le da mucho peso a la lectura de la OIT, `mixta` también se puede defender. El balance de la literatura ecuatoriana la llama quizás la muestra más contundente de la flexibilización laboral.\n\n**Confianza en la identificación:** alta (NATLEX).\n\n## 9. Lo que no pude verificar\n\n- Exposición de motivos y objetivo declarado oficial.\n- Dirección concreta de los cambios en cesantía y despido intempestivo.\n- Contenido de las reglas sobre negociación colectiva y conflictos colectivos.\n- Régimen de trabajo doméstico y de aprendizaje.\n- Componente salarial.\n- Cláusula de vigencia.\n- Existencia de impugnaciones de constitucionalidad.\n- Discrepancia entre 1985 y 1991 sobre el umbral sindical.\n- Contexto macroeconómico y reacción sindical en prensa.",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=26599",
+      "titulo": "NATLEX - Ecuador - Ley núm. 133, reformatoria al Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/419/414",
+      "titulo": "La reforma antes de la reforma. La construcción del nuevo Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/CODIGO_DEL_TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": true
+    },
+    {
+      "url": "https://islssl.org/wp-content/uploads/2013/12/Tema2-Ecuador-DrCarlosSalmonAlvear.pdf",
+      "titulo": "1 INFORME NACIONAL DE ECUADOR TEMA 2: LA REPRESENTACIÓN COLECTIVA DE LOS",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.ec/vid/codigo-trabajo-631473899",
+      "titulo": "Código del Trabajo - vLex Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://ecuador.fes.de/fileadmin/user_upload/pdf/283%20ORGSIN1997_0309.pdf",
+      "titulo": "organizaciones sindicales",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J2VzY3JpdG8nLCB1dWlkOic4YzY1NTQ1Mi0wMWQxLTQ0NjMtYjMyMC05NTBmZWZmMDU0MDcucGRmJ30=",
+      "titulo": "Quito, 27 de septiembre de 2021 Caso No. 1760-21-EP ...",
+      "citada": true
+    },
+    {
+      "url": "https://library.fes.de/pdf-files/bueros/quito/21175.pdf",
+      "titulo": "EVOLUCIÓN DE LOS DERECHOS LABORALES Y SINDICALES EN ECUADOR 2008-2023",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.iaen.edu.ec/bitstream/24000/4499/1/Mor%C3%A1n%20Gonz%C3%A1lez%20Miguel.pdf",
+      "titulo": "REPUBLlCA DEL ECUADOR SECRETARIA GENERAL DEL CONSEJO DE SEGURIDAD NACIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://webapps.ilo.org/public/spanish/region/ampro/mdtsanjose/papers/pasado.htm",
+      "titulo": "PASADO Y PRESENTE DE LA LEGISLACION LABORAL EN AMERICA LATINA",
+      "citada": true
+    },
+    {
+      "url": "https://www.defensa.gob.ec/wp-content/uploads/downloads/2023/03/Codigo-de-Trabajo_feb_2023.pdf",
+      "titulo": "Código de trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://derechostrabajadores.wordpress.com/2011/06/30/momentos-historicos-sobre-las-reformas-laborales-en-ecuador/",
+      "titulo": "Momentos históricos sobre las reformas laborales en Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.ces.gob.ec/lotaip/2020/Junio/Literal_a2/C%C3%B3digo%20del%20Trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/8549545.pdf",
+      "titulo": "Un análisis doctrinal y legal dentro del derecho laboral en ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.cfn.fin.ec/wp-content/uploads/downloads/2016/08/Codigo-de-trabajo-1.pdf",
+      "titulo": "CODIGO DEL TRABAJO - Corporación Financiera Nacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.inredh.org/archivos/pdf/manual_tecnico_critico.pdf",
+      "titulo": "Manual (crítico) de Garantías Jurisdiccionales Constitucionales",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/2025/07/Acuerdo-Ministerial-Nro.-MDT-2025-082.pdf",
+      "titulo": "1 Dirección: Av. República de El Salvador N34-183 y Suiza",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3RyYW1pdGUnLCB1dWlkOic4ODM3OGZiYi1iM2RlLTQ3MGUtYjNjZS05N2Q4ODJhYWJlMmMucGRmJ30=",
+      "titulo": "Quito, D.M., 25 de noviembre de 2020 CASO No. 84-15-IN EL ...",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiNzBmNmMwYzAtOTg4MS00NzVmLThmMjItN2Q0Zjc3OWM1YzgwLnBkZiJ9",
+      "titulo": "Año III -- Quito, Miércoles 15 de Agosto del 2002 -- Nº 641",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/ecuador_-_ley_org._para_la_justicia_labora_y_reconocimiento_del_trabajo_en_el_hogar.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN EL HOGAR",
+      "citada": false
+    },
+    {
+      "url": "https://dspace.uniandes.edu.ec/handle/123456789/9064",
+      "titulo": "Repositorio Digital Uniandes: Violación del derecho constitucional a la sindicalización de los trabajadores del sector público",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/419/414/1620",
+      "titulo": "La reforma antes de la reforma. La construcción del nuevo Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6645190/",
+      "titulo": "¿Reforma de salud en Ecuador como modelo de éxito? Crítica al número especial de la Revista Panamericana de Salud Pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6645352/",
+      "titulo": "La reforma en salud del Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612718/",
+      "titulo": "Positioning Ecuador in the global health agenda as a result of sector reform",
+      "citada": false
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/11",
+      "titulo": "Sistema HJ - Resolución: SENTENCIA 11/1981",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/1994/C-548-94.htm",
+      "titulo": "Sentencia No",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/politica/2026/03/30/tras-una-presentacion-de-la-cgt-la-justicia-suspendio-la-aplicacion-de-varios-articulos-de-la-reforma-laboral/",
+      "titulo": "Tras una presentación de la CGT, la Justicia suspendió la aplicación de 83 artículos de la reforma laboral - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2008/c-858-08.htm",
+      "titulo": "REF: Demanda de inconstitucionalidad contra los artículos 362 y 452 (parcial) del Código Sustantivo del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.palabrasdelderecho.com.ar/articulo/6647/A-pedido-de-la-CGT,-la-Justicia-suspendio-mas-de-80-articulos-de-la-reforma-laboral-",
+      "titulo": "A pedido de la CGT, la Justicia suspendió más de 80 artículos de la reforma laboral",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.uned.es/index.php/derechopolitico/article/download/8330/7966/12268",
+      "titulo": "La Huelga y sus Garantías Constitucionales",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2025/05/28/norma-que-excluye-del-derecho-a-huelga-los-servicios-minimos-para-proteger-bienes-corporales-de-la-empresa-se-impugna-ante-el-tribunal-constitucional/",
+      "titulo": "Norma que excluye del derecho a huelga los servicios mínimos para proteger bienes corporales de la empresa, se impugna ante el Tribunal Constitucional - Diario Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.noticiasdelacalle.com.ar/noticias/2026/10/11/200253-freno-judicial-a-dos-articulos-de-la-reforma-laboral-abre-un-nuevo-frente-de-conflicto",
+      "titulo": "Freno judicial a dos artículos de la reforma laboral abre un nuevo frente de conflicto",
+      "citada": false
+    },
+    {
+      "url": "https://www.continental.com.ar/2025-07-14/derecho-a-huelga-la-camara-del-trabajo-ratifico-la-inconstitucionalidad-de-las-modificaciones-con-un-dnu-146195/",
+      "titulo": "Derecho a huelga: la Cámara del Trabajo ratificó la inconstitucionalidad de las modificaciones con un DNU",
+      "citada": false
+    },
+    {
+      "url": "https://litigio.com.ar/2026/09/25/declaran-inconstitucional-la-reforma-que-expulsaba-del-fuero-laboral-los-juicios-contra-el-estado/",
+      "titulo": "Declaran inconstitucional la reforma que expulsaba del fuero laboral los juicios contra el Estado - Litigio",
+      "citada": false
+    },
+    {
+      "url": "https://www.acnur.org/fileadmin/Documentos/BDL/2014/9506.pdf",
+      "titulo": "1 DIRECCIÓN NACIONAL DE ASESORÍA JURÍDICA DE LA PGE CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/fc80c975-8a69-46d4-84da-4f5bdc998f2e/Codigo_Trabajo_16052024.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO (Codificación No. 2005-017)",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6ICJub3RhaXAyMDIzIiwgdXVpZDoiNjI2OWE2NWItZWYxNy00ZjQ4LWFkYzktNDZiYzM3MGQzOWUzLnBkZiJ9",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J2VzY3JpdG8nLCB1dWlkOidkODgyZTI2NS02NThiLTQyOTktOWRjNC0wOWJkZTJhN2MzNDkucGRmJ30=",
+      "titulo": "Confederación Ecuatoriana de Organizaciones Sindicales Libres",
+      "citada": false
+    },
+    {
+      "url": "https://www.uteq.edu.ec/lotaip/lotaip/pdf/literala2/REGLAMENTOSYLEYESEXTERNAS/CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO (Codificación No. 2005­017) Nota:",
+      "citada": false
+    }
+  ]
+}

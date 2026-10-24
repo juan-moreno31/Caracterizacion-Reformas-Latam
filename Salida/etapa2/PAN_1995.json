@@ -1,0 +1,157 @@
+{
+  "id": "PAN_1995",
+  "iso": "PAN",
+  "pais": "Panamá",
+  "anio": 1995,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.043,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley No. 44 de 12 de agosto de 1995, por la cual se dictan normas para regularizar y modernizar las relaciones laborales (reforma al Código de Trabajo)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Ejecutivo No. 106 de 1995 (reglamenta el fondo de cesantía)",
+      "Decreto Ejecutivo No. 87 de 31 de octubre de 1995 (objeto no verificado)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "1995-08-14",
+    "vigencia_escalonada": true,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Según el Ministerio de Economía y Finanzas, reducir la intervención del gobierno en las relaciones obrero-patronales y dar más flexibilidad a los empresarios en salarios, reasignación de personal, adecuación del empleo a las necesidades del mercado y reducción de condiciones y costos de despido, como parte del programa de libre competencia.",
+    "descripcion_intenciones": "La reforma busca abaratar y facilitar el ajuste de personal mediante la ampliación de las causas económicas de despido y el tope a los salarios caídos. Flexibiliza la contratación por tiempo definido, la distribución y reducción temporal de la jornada, la fijación de salarios variables y la movilidad funcional. Al mismo tiempo, crea un fondo de cesantía administrado por fideicomisos privados que garantiza el pago de la prima de antigüedad y la indemnización aun si la empresa cierra. Incorpora algunas garantías para el trabajador, como la presunción de represalia ante despidos vinculados a pliegos y la protección durante la licencia de maternidad. La literatura crítica sostiene que su objetivo central fue abaratar el despido en favor de los empleadores.",
+    "dimensiones": [
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Amplía las causas económicas de despido y limita temporalmente los salarios caídos. El fondo de cesantía mejora la garantía de cobro, pero sus réditos corresponden al empleador."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Mantiene la cláusula antifraude, pero añade excepciones (nueva actividad, primer año de actividad del empleador, modalidades aprobadas o pactadas) y permite prorrogar el contrato por obra determinada."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Permite convenir la distribución de descansos en jornadas nocturnas o mixtas y reducir temporalmente horarios ante crisis o fuerza mayor con consentimiento sindical o de los trabajadores. El aumento de horas extra no fue verificado en el texto."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Las fluctuaciones del salario variable no cuentan como reducción salarial y las bonificaciones y participación en utilidades dejan de considerarse condiciones de trabajo y quedan exentas de cotizaciones. Se mantiene el piso del salario mínimo."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Flexibilidad funcional: las órdenes de movilidad funcional u horizontal compatibles con la posición y aptitudes del trabajador dejan de considerarse alteración unilateral, con salvaguardas para fueros sindical y de maternidad."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Introduce presunción de represalia, reintegro administrativo por violación del fuero sindical e inscripción automática de sindicatos, pero somete huelgas en servicios públicos a un mecanismo de solución y, según fuente secundaria no verificada, restringe la negociación colectiva en los primeros años de la empresa."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Prohíbe, bajo pena de nulidad, adoptar o comunicar medidas o sanciones a la trabajadora durante la licencia de maternidad y suspende a su favor los términos de caducidad."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Prevé el establecimiento de Juntas de Conciliación y Decisión, exige contrato escrito remitido a la Dirección General de Trabajo y regula las agencias privadas de colocación."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Exime del fondo de cesantía a ciertas empresas del artículo 212 y a las cooperativas, que según la prensa son principalmente pequeñas."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres",
+      "empleadores_mipymes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La Ley 44 de 1995 modifica el Código de Trabajo de 1971 (Decreto de Gabinete No. 252 de 30 de diciembre de 1971), cuyo núcleo protector revisa sin restituir normas previas derogadas; la prensa menciona reformas anteriores como la Ley 2 de 1993, cuya relación con esta ley no fue verificada. La reforma formó parte de la propuesta de gobierno de Ernesto Pérez Balladares y la condujo el ministro de Trabajo Mitchell Doens, dentro de la primera fase de un plan de ajuste que incluyó reducción de aranceles, privatizaciones y concesiones. En agosto de 1995 hubo una huelga sindical contra la reforma con muertos y heridos en enfrentamientos con la policía, lo que deterioró las relaciones entre el Gobierno y los trabajadores organizados.",
+    "notas": "Fecha de vigencia: el artículo final dispone su vigencia desde la promulgación; se toma la publicación en la Gaceta Oficial No. 22847 registrada por NATLEX (confianza media, transcripción de fuente comercial con errores de OCR). Vigencia escalonada: los empleadores contaban con un plazo posterior para constituir los fideicomisos del fondo; el fondo cubre solo prima e indemnización causadas desde su vigencia; el tope de salarios caídos y el recargo indemnizatorio difieren entre trabajadores ya empleados y nuevos ingresos; los procesos en trámite se rigen por las normas anteriores; para los ya empleados, el período anterior al fondo solo se reconoce con larga antigüedad continua. Discrepancia: prensa y literatura crítica afirman que se eliminó la prima de antigüedad y se sustituyó por un seguro de desempleo; el texto consolidado no lo confirma y se codificó según el texto. Estado de vigencia provisional: no se verificó el resultado del Fallo No. 2 de 31/01/1997 de la Corte Suprema contra la ley en su conjunto, ni de la advertencia de 1996 contra el artículo 377 ni de la sentencia de 24 de agosto de 2007 sobre un plazo de inscripción sindical (aspecto menor); tampoco se investigaron modificaciones legislativas posteriores. Indicios de vigencia: la OIT la usa como base de la edición consolidada del Código y reglamentos posteriores la citan. No se encontró exposición de motivos oficial. Las cláusulas sobre horas extra, la restricción temporal a la negociación colectiva y la duración de la licencia de maternidad no fueron verificadas en el texto. La fuente partidaria cercana al expresidente solo se usó como contexto."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.superbancos.gob.pa/documentos/fiduciarias/leyes/ley44_1995.pdf",
+      "titulo": "República de Panamá ASAMBLEA LEGISLATIVA LEY N°44 ( De 12 de agosto de 1995)",
+      "citada": true
+    },
+    {
+      "url": "https://blog.laboremia.com/leyes/reforma-codigo-del-trabajo-4-agosto-1995",
+      "titulo": "Leyes Panamá - Reforma Código del trabajo - Ley 44 del 12 de Agosto de 1995 - Laboremia",
+      "citada": true
+    },
+    {
+      "url": "https://docs.panama.justia.com/federales/codigos/codigo-de-trabajo.pdf",
+      "titulo": "codigo-de-trabajo.pdf - Panamá",
+      "citada": true
+    },
+    {
+      "url": "https://cetippat.gob.pa/wp-content/uploads/2021/06/codigo-detrabajo.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO DECRETO DE GABINETE No. 252 De 30 de diciembre de 1971",
+      "citada": true
+    },
+    {
+      "url": "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=41407",
+      "titulo": "Panama - Ley núm. 44, de 12 de agosto de 1995, por la cual se dictan normas para regularizar y modernizar las relaciones laborales.",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/impresa/economia/Fondo-Cesantia_0_3769873056.html",
+      "titulo": "Fondo de Cesantía",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pa/tags/ley-44-1995-codigo-trabajo-461593",
+      "titulo": "ley 44 1995 código trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://legispan.asamblea.gob.pa/norms/1115f37a-a497-42f4-a515-f30c9229251f",
+      "titulo": "Detalle de Norma",
+      "citada": true
+    },
+    {
+      "url": "https://toroperezballadares.com/2022/12/26/reforma-contra-el-desempleo/",
+      "titulo": "Reforma contra el desempleo",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/5350/535055609003.pdf",
+      "titulo": "Tareas E-ISSN: 0494-7061 cela@salacela.net Centro de Estudios Latinoamericanos",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa.com/politica/reformas-anos_0_2856464348.html",
+      "titulo": "Ocho reformas en 39 años",
+      "citada": true
+    },
+    {
+      "url": "https://ipsnoticias.net/1996/09/panama-sindicatos-inician-protestas-contra-plan-de-ajuste/",
+      "titulo": "PANAMA: Sindicatos inician protestas contra plan de ajuste : IPS Agencia de Noticias",
+      "citada": true
+    },
+    {
+      "url": "https://cijulenlinea.ucr.ac.cr/portal/descargar.php?q=ODkz",
+      "titulo": "REFORMA AL CODIGO DE TRABAJO PANAMENO.odt",
+      "citada": true
+    },
+    {
+      "url": "https://www.mef.gob.pa/wp-content/uploads/2021/03/Informe-Economico-1994-1999.pdf",
+      "titulo": "Informe Economico",
+      "citada": true
+    },
+    {
+      "url": "https://www.mitradel.gob.pa/wp-content/uploads/flipbook/28/files/basic-html/page102.html",
+      "titulo": "Page 102 - Libro La Salud de los Trabajadores en Panamá",
+      "citada": true
+    }
+  ]
+}

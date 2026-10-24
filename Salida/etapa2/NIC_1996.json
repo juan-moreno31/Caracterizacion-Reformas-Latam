@@ -1,0 +1,155 @@
+{
+  "id": "NIC_1996",
+  "iso": "NIC",
+  "pais": "Nicaragua",
+  "anio": 1996,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0445,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley No. 185, Código del Trabajo (aprobada el 1996-09-05; publicada en La Gaceta No. 205 del 1996-10-30)",
+    "tipo_instrumento": "codigo",
+    "normas_relacionadas": [],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "1996-12-29",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "No verificado en fuente primaria: no se localizó la exposición de motivos. Los principios del propio código declaran que el trabajo es un derecho y una responsabilidad social bajo especial protección del Estado, que el Estado procurará la ocupación plena y productiva, y que el código regula las relaciones de trabajo estableciendo derechos y deberes mínimos de empleadores y trabajadores.",
+    "descripcion_intenciones": "El código sustituye el régimen laboral de la etapa somocista y busca sobre todo facilitar la organización sindical, la negociación colectiva y la huelga, reduciendo la intervención del Ministerio del Trabajo en la constitución de sindicatos. Amplía la protección a la trabajadora embarazada, consagra la igualdad de trato y restringe el trabajo de menores. En materia de despido mantiene el despido sin causa con indemnización por antigüedad, pero introduce el reintegro ante despidos represivos o discriminatorios. Al mismo tiempo fija límites a la huelga y permite moderar las indemnizaciones en pequeñas empresas y en el servicio doméstico.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Según NATLEX, reduce las funciones del Ministerio para reconocer sindicatos, flexibiliza su constitución, simplifica el pliego de peticiones y la huelga, obliga a negociar convenciones colectivas y protege contra el despido a quienes se sindicalizan. Mantiene límites: exige acuerdo mayoritario para la huelga y permite terminar los contratos en caso de huelga ilegal."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Permite el despido sin causa con indemnización por antigüedad sujeta a tope, establece el reintegro ante despidos que violan derechos o son represalias, y exige autorización del Inspector para el despido por causa justa. No se verificó la comparación con el código anterior."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Atribuye carácter de empleador a contratistas y subcontratistas con elementos propios. Hace responsable de los riesgos profesionales a quien contrata a través de intermediarios."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "NATLEX señala que amplía la protección a la trabajadora embarazada. El código garantiza además la igualdad de trato y prohíbe la discriminación."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Según el Departamento de Estado de EE. UU., eleva la edad mínima para trabajar con permiso de los padres, limita la jornada de los menores y prohíbe su trabajo nocturno."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Obliga al empleador a pagar las indemnizaciones por riesgos profesionales si el trabajador no está afiliado a la seguridad social. Esto se matiza en pequeñas empresas y servicio doméstico, donde puede fijarse una indemnización menor."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "El Libro Segundo regulaba el procedimiento laboral, derogado luego por la Ley No. 815 de 2012. Un estudio señala vacíos en el procedimiento administrativo de los inspectores."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reconoce la participación de los trabajadores, a través de sus organizaciones, en la gestión de empresas privadas, autónomas y estatales. Exige además contratar mayoritariamente a trabajadores nicaragüenses."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "mujeres",
+      "jovenes",
+      "general"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "El código se aprobó durante el gobierno de Chamorro, que en 1990 puso fin a la guerra civil, inició un proceso de reforma estructural y renegoció la deuda heredada. Sustituye y deroga expresamente el Código del Trabajo de la etapa de Somoza García, su decreto, sus reformas y reglamentos; las fuentes difieren entre 1944 y 1945 como año de ese código. Un estudio de Cornell indica que se aprobó por consenso entre representantes de empleadores y trabajadores, con apoyo del gobierno. La tramitación fue larga e incluyó un veto presidencial aceptado posteriormente. El contexto electoral de 1996 no se verificó (sin fuente).",
+    "notas": "Vigencia: el código entra en vigor sesenta días después de su publicación en La Gaceta; se adopta la fecha de NATLEX (1996-12-29), consistente con el texto oficial. Otras fuentes indican noviembre de 1996 (Departamento de Estado) y 1997-01-01 (guía no académica). Reformas posteriores: la Ley No. 815 de 2012 derogó los títulos procesales del Libro Segundo; el título sobre trabajo de niños, niñas y adolescentes fue reformado (Ley 474 de 2003, no verificada); la Ley 442 dio interpretación auténtica del artículo 236. No se hallaron fallos de anulación; un amparo de 2018 reafirmó los beneficios del código como garantías mínimas, lo que amplía la protección y no altera la categoría. La OIT recomendó modificar artículos en el marco del Convenio 87 y el Estado lo rechazó. La orientación protectora tiene confianza media en el contenido, porque no se verificó la exposición de motivos ni una comparación artículo por artículo con el código anterior en despido, temporalidad y jornada. No se codifican la contratación temporal (presunción de contrato indefinido sin comparación disponible) ni la jornada (sin cambio verificado). Queda una posible contradicción sobre la autorización previa del Inspector para el despido por causa justa. No se confirmó la cobertura del sector público. La referencia a mipymes es marginal y no se incluyó como población objetivo."
+  },
+  "fuentes": [
+    {
+      "url": "http://legislacion.asamblea.gob.ni/Normaweb.nsf/($All)/FA251B3C54F5BAEF062571C40055736C",
+      "titulo": "Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=45784",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 185 por la que se dicta el Código del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/1996/09/05/185",
+      "titulo": "Ley 185/1996, de 5 de septiembre, del Código del Trabajo - Diccionario panshipánico del español jurídico - RAE",
+      "citada": true
+    },
+    {
+      "url": "https://www.serviciocontablenicaragua.com/codigo-del-trabajo-ley-185/",
+      "titulo": "CODIGO DEL TRABAJO (Ley 185) - GCH Accounting Firm.",
+      "citada": true
+    },
+    {
+      "url": "https://nicatributos.com/codigo-del-trabajo/",
+      "titulo": "Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.saltra.una.ac.cr/images/SALTRA/Documentacion/Compendio_Normativa/Codigo_del_trabajo_NIC.pdf",
+      "titulo": "LEY No. 185 “CODIGO DEL TRABAJO”",
+      "citada": true
+    },
+    {
+      "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/16a196fa-75f5-490a-9921-52c304e6214f/content",
+      "titulo": "“Flexibility”: The Labor Strategy of Free Trade",
+      "citada": true
+    },
+    {
+      "url": "https://1997-2001.state.gov/issues/economic/trade_reports/latin_america96/nicaragua96.html",
+      "titulo": "Nicaragua:Economic Policy and Trade Practices Report (1996)",
+      "citada": true
+    },
+    {
+      "url": "https://1997-2001.state.gov/issues/economic/trade_reports/1999/nicaragua.html",
+      "titulo": "U.S. Department of State, Country Reports on Economic Policy and Trade Practices for 1999: Nicaragua",
+      "citada": true
+    },
+    {
+      "url": "http://aisgut.web.wesleyan.edu/papers/nicaragua.pdf",
+      "titulo": "Wesleyan",
+      "citada": true
+    },
+    {
+      "url": "https://www.law.cornell.edu/gender-justice/resource/C%C3%B3digo_del_Trabajo_de_Nicaragua_1996",
+      "titulo": "Código del Trabajo de Nicaragua (1996)",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1996_codtrabajo_nic.pdf",
+      "titulo": "Nicaragua. Código del Trabajo NICARAGUA Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/gacetas/1996/10/g205.pdf",
+      "titulo": "REPUBLICA DE NICARAGUA AMERICA CENTRAL LA GACETA DIARIO OFICIAL",
+      "citada": true
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/2012/10/30/815",
+      "titulo": "Ley 815/2012, de 30 de octubre, del Código Procesal del Trabajo y de la Seguridad Social de Nicaragua - Diccionario panshipánico del español jurídico - RAE",
+      "citada": true
+    },
+    {
+      "url": "http://www.mitrab.gob.ni/documentos/publicaciones/cod_trab_rubr.pdf",
+      "titulo": "ley núm. 185, código del trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://desc.scjn.gob.mx/recurso-de-amparo-sentencia-no-282",
+      "titulo": "Recurso de amparo. Sentencia No. 282",
+      "citada": true
+    }
+  ]
+}

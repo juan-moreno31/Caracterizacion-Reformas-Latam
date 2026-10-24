@@ -1,0 +1,284 @@
+{
+  "id": "MEX_2012",
+  "iso": "MEX",
+  "pais": "México",
+  "anio": 2012,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3831,
+  "incompleto": false,
+  "norma": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo (DOF 30-11-2012)",
+  "texto": "# Informe de investigación: MEX 2012, Decreto que reforma la Ley Federal del Trabajo (DOF 30-11-2012)\n\n**Lo principal:** la norma flexibiliza la contratación temporal y el costo del despido. A la vez, regula la subcontratación y añade garantías de género y de transparencia sindical, aunque más débiles que en la iniciativa original. El Tribunal Supremo confirmó su eje más polémico, el límite a los salarios caídos. La parte sobre subcontratación fue derogada en 2021.\n\n## 1. Objetivo declarado\n\nCalderón envió la iniciativa con carácter preferente, junto con su último Informe de labores. Propuso nuevas modalidades de contratación (periodos de prueba, capacitación inicial y trabajo de temporada) para atender las condiciones del mercado de trabajo. El fin declarado era que más personas, sobre todo jóvenes y mujeres, entraran a empleos formales. La exposición de motivos dice que el periodo de prueba \"permitirá al patrón conocer la aptitud, actitud y competencia de los trabajadores en un breve tiempo\". El límite a los salarios vencidos buscaba combatir la práctica de alargar artificialmente los juicios laborales. La regulación del outsourcing buscaba evitar que el patrón evadiera o eludiera sus obligaciones. La secretaria del Trabajo resumió los fines así: dar más acceso al trabajo, pasar de la informalidad a la formalidad y aumentar la productividad. También había un objetivo político: combatir la falta de democracia, transparencia y rendición de cuentas de los sindicatos.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**contratacion_temporal (reduce).** El artículo 35 permite relaciones por obra o tiempo determinado, por temporada o por tiempo indeterminado, y en su caso sujetas a prueba o a capacitación inicial. Si no hay estipulación expresa, la relación es por tiempo indeterminado. Si al final del periodo de prueba el trabajador no acredita los requisitos, a juicio del patrón, la relación termina sin responsabilidad para el patrón. La norma incluye salvaguardas:\n- La relación debe constar por escrito; si no, se entiende que es por tiempo indeterminado.\n- Los periodos no se pueden prorrogar ni aplicar al mismo trabajador de forma sucesiva o en más de una ocasión.\n- Si la relación continúa, se vuelve indeterminada y el periodo cuenta para la antigüedad.\n\n**despido_e_indemnizacion (reduce).** Antes de la reforma, los salarios vencidos no tenían límite y se acumulaban hasta que se cumplía el laudo. La reforma los limita a un periodo máximo y, si el juicio sigue después, solo se generan intereses (fuente de prensa sobre la iniciativa; confirmado por la jurisprudencia de la sección 7). Además, el fin del periodo de prueba o de capacitación queda como causa de terminación sin responsabilidad (ver arriba).\n\n**tercerizacion_subcontratacion (reorganiza).** La reforma define y regula una figura que antes no tenía reglas. El artículo 15-D prohíbe la subcontratación cuando se transfieren trabajadores deliberadamente de la contratante a la subcontratista para disminuir derechos, y la norma pone límites a su uso. Hay dos lecturas opuestas:\n- El gobierno sostuvo que no legalizaba el outsourcing, porque ya era legal, solo que sin reglamentar.\n- Los sindicatos críticos dicen que volvió regular una figura que debería ser excepcional.\n\nPor esa ambigüedad la codifico como \"reorganiza\".\n\n**salario_y_negociacion_salarial (reorganiza).** Se introduce el pago por hora. Debe ser remunerador, no exceder la jornada máxima y respetar los derechos laborales y de seguridad social. Lo que perciba el trabajador nunca puede ser menor a lo que corresponde a una jornada diaria. Es una forma de pago más flexible, pero con un piso que limita su alcance.\n\n**derechos_colectivos_sindicales (aumenta, de forma limitada).** Aquí la distancia entre lo declarado y lo aprobado es grande:\n- La iniciativa quería voto libre, directo y secreto obligatorio. El texto final permite que la asamblea elija votación indirecta y secreta o directa y secreta. Según una fuente del Tribunal Electoral, el voto secreto no se impuso por un acuerdo entre partidos, empresarios y sindicatos.\n- Sí se aprobaron la obligación de publicar los estatutos sindicales en la página de la Secretaría del Trabajo y sanciones a las directivas que no informen sobre el destino de las cuotas.\n- La prensa resumió que el Congreso dejó fuera la mayor parte del plan de transparencia sindical.\n\n**genero_y_conciliacion (aumenta).** El texto votado sanciona el hostigamiento y el acoso sexual en los centros de trabajo, e incorpora un permiso de paternidad con goce de sueldo, también en caso de adopción. La prohibición de exigir certificados de no embarazo aparece solo en la iniciativa (Expansión); no verifiqué que esté en el texto final.\n\n**empleo_juvenil_y_aprendizaje (reduce).** La capacitación inicial se crea como una relación laboral subordinada para que el trabajador adquiera los conocimientos necesarios para el puesto. Puede terminar sin responsabilidad para el patrón. Está declaradamente dirigida a jóvenes.\n\n**nuevas_formas_de_trabajo (aumenta; sin verificar en el texto final).** La iniciativa proponía reconocer el teletrabajo como una forma de trabajo a domicilio. No confirmé su redacción final.\n\n**justicia_laboral_e_inspeccion (reorganiza).** La Corte señala que la reforma creó otros mecanismos para que los juicios no se demoraran sin justificación, como sanciones a las partes. Hubo multas más altas por abusar de la subcontratación (según la Secretaría del Trabajo; omito la magnitud).\n\n**otro (aumenta).** Prohibición del trabajo infantil por debajo de la edad mínima legal. Además, un despacho de abogados con fines comerciales, fuente de baja jerarquía, informa que la inscripción de los patrones en el INFONACOT se vuelve obligatoria; no lo confirmé en una fuente oficial.\n\n## 3. Población objetivo\n\n- **asalariados_formales:** es el núcleo regulado.\n- **jovenes** y **mujeres:** son la población declarada. La Secretaría del Trabajo habló de abrir el acceso al trabajo formal a mujeres, jóvenes y adultos mayores.\n- **informales:** solo a nivel declarado (paso a la formalidad); no hay un instrumento específico verificado.\n\n## 4. Contexto político y económico\n\n- **Vía legislativa:** la iniciativa preferente era una facultad nueva del Ejecutivo, creada por la reciente reforma política, que obligaba al Congreso a votar en un plazo fijo.\n- **Antecedente:** el texto era casi una copia de la propuesta del PAN de marzo de 2010, elaborada por el entonces secretario del Trabajo Javier Lozano.\n- **Momento:** se publicó el último día del sexenio de Calderón, con el apoyo del PRI y el PAN en el Senado (La Jornada).\n- **Actores:** el sector empresarial respaldó la iniciativa. El PRD sostuvo que su único objetivo era contratar y despedir barato.\n- **Justificación económica:** se citó el lugar de México en el Índice de Competitividad Global del Foro Económico Mundial, en particular en eficiencia del mercado de trabajo (El Horizonte; omito las posiciones), y la recomendación de la OCDE de modernizar el marco laboral.\n- **No verificado:** el contexto macroeconómico (crecimiento, informalidad) no tiene respaldo en fuentes consultadas.\n\n## 5. ¿Revierte una reforma previa?\n\nNo se identificó. Modifica la Ley Federal del Trabajo de 1970, que llevaba décadas vigente sin una revisión integral. Lo inverso sí ocurre: la reforma de 2021 revierte parte de esta (sección 7).\n\n## 6. Entrada en vigor\n\n- **Fecha propuesta:** 2012-12-01. Dos fuentes secundarias indican que entró en vigor el 1o. de diciembre de 2012: la Academia Fiscal de la UAA (informe previo) y un despacho comercial (Basham).\n- **No verificado:** el artículo transitorio en el propio DOF. Tampoco pude confirmar si hay entradas en vigor diferidas.\n- **vigencia_escalonada:** sin verificar. Lo propongo como false de forma provisional.\n\n## 7. Estado de vigencia posterior\n\n**Fallos judiciales: no recortan la reforma.**\n- Hubo un criterio en contra: un tribunal colegiado consideró que el límite a los salarios caídos vulneraba el principio de progresividad.\n- La Segunda Sala del Tribunal Supremo resolvió la contradicción de criterios por tres votos contra dos y declaró constitucional el cambio al artículo 48. Esto quedó en la jurisprudencia 2a./J. 28/2016, de aplicación obligatoria desde el 7 de marzo de 2016.\n- Conclusión: no hubo anulación sustantiva; esto va en `notas`.\n\n**Modificación posterior sustantiva.** El decreto del DOF del 23-04-2021 derogó los artículos 15-A a 15-D, que eran el régimen de subcontratación de 2012. Además estableció que queda prohibida la subcontratación de personal.\n\n**Categoría propuesta:** `modificada_o_derogada_despues`.\n\n**Sin fuente:** recuerdo que la reforma del DOF 01-05-2019 sobre justicia laboral y democracia sindical, y la de teletrabajo de 2021, también modificaron componentes de 2012. No las verifiqué en esta ronda.\n\n## 8. Lo que no pude verificar\n\n- Que no haya otras normas laborales de 2012 en NATLEX o EPLex (no consulté OIT), así que `normas_relacionadas` sigue abierto.\n- El artículo transitorio de vigencia y una posible aplicación diferida.\n- Si el texto final incluye el teletrabajo, la prohibición del certificado de no embarazo y la obligación con el INFONACOT.\n- Las reformas de 2019 en adelante distintas de la de subcontratación.\n- Fuentes de CEPAL, BID o Banco Mundial; casi todo el apoyo es oficial (DOF, Cámara de Diputados, Tribunal Supremo), académico (*Cuestiones Constitucionales*) y de prensa.\n\n**Codificación preliminar:** orientación `flexibilizadora` (con componentes protectores secundarios); se podría debatir `mixta`. Instrumento: `ley`. Confianza de identificación: `alta`.",
+  "fuentes": [
+    {
+      "url": "https://www.vonwobeser.com/images/PDF_news/1_Reformas_a_la_Ley_Federal_del_Trabajo.pdf",
+      "titulo": "Reformas a la Ley Federal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.jornada.com.mx/2012/10/24/politica/005n1pol",
+      "titulo": "La Jornada: La reforma laboral intenta modificar más de la mitad de la Ley Federal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref26_30nov12.pdf",
+      "titulo": "Reforma 26: Ley Federal del Trabajo. DOF 30-11-2012",
+      "citada": true
+    },
+    {
+      "url": "https://www.profedet.gob.mx/profedet/pdf/leyfederaldeltrabajoactualizada.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO LEY FEDERAL DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.jornada.com.mx/2012/09/02/politica/014n1pol",
+      "titulo": "La Jornada: Busca Calderón que la reforma laboral se apruebe en su sexenio",
+      "citada": true
+    },
+    {
+      "url": "https://www.proceso.com.mx/reportajes/2012/9/24/reforma-laboral-la-de-calderon-provocadora-sin-destino-108725.html",
+      "titulo": "Reforma Laboral: la de Calderón, provocadora... y sin destino",
+      "citada": true
+    },
+    {
+      "url": "https://uson.staus.mx/staus_viejo/Notas/2012-09-24-N1/2012-09-24-N1.html",
+      "titulo": "La reforma laboral de Calderón y sus aliados: mayor pobreza a los trabajadores y más riqueza para los empresarios - STAUS EN LÍNEA",
+      "citada": true
+    },
+    {
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/170469/12_Reforma_laboral_-_Anual_2012.pdf",
+      "titulo": "12. REFORMA LABORAL Con la Reforma Laboral, México enfrentará",
+      "citada": true
+    },
+    {
+      "url": "https://expansion.mx/economia/2012/09/03/reforma-laboral-de-calderon-a-detalle",
+      "titulo": "La Reforma Laboral de Calderón a detalle - Expansión",
+      "citada": true
+    },
+    {
+      "url": "https://www.elhorizonte.mx/nacional/la-reforma-laboral-de-calderon-que-introdujo-el-outsourcing-como-forma-de-acceder-al-empleo/2960780",
+      "titulo": "La reforma laboral de Calderón que introdujo el outsourcing como forma de acceder al empleo",
+      "citada": true
+    },
+    {
+      "url": "https://www.elfinanciero.com.mx/economia/scjn-declara-constitucional-limitar-salarios-caidos-a-un-ano/",
+      "titulo": "¿Estás en un juicio laboral? La Corte aprueba limitar salarios caídos",
+      "citada": true
+    },
+    {
+      "url": "https://grupoanimal.mx/sociedad/despido-injustificado-suprema-corte-avala-fijar-un-limite-de-12-meses-a-salarios-caidos",
+      "titulo": "¿Despido injustificado? Suprema Corte avala fijar un límite de 12 meses a salarios caídos",
+      "citada": true
+    },
+    {
+      "url": "https://www.scjn.gob.mx/sites/default/files/sinopsis_asuntos_destacados/documento/2017-02/2S-200116-MBLR-0291.pdf",
+      "titulo": "SEGUNDA SALA SALARIOS CAÍDOS. SÓLO PUEDEN PAGARSE HASTA DOCE",
+      "citada": true
+    },
+    {
+      "url": "https://www.offixfiscal.com.mx/?p=6288",
+      "titulo": "Tesis Jurisprudencial: Constitucional la limitación de 12 meses para Salarios Caídos.",
+      "citada": true
+    },
+    {
+      "url": "https://www.vonwobeser.com/index.php/publicacion?p_id=178",
+      "titulo": "Von Wobeser y Sierra - Constitucionalidad del límite a los salarios vencidos contemplado en la reforma a la Ley Federal del Trabajo de 2012",
+      "citada": true
+    },
+    {
+      "url": "https://basham.com.mx/en/constitucionalidad-de-limitar-a-12-meses-el-pago-de-salarios-caidos/",
+      "titulo": "Constitucionalidad de limitar a 12 meses el pago de salarios caídos - BASHAM",
+      "citada": true
+    },
+    {
+      "url": "https://dof.gob.mx/nota_detalle.php?codigo=5616745&fecha=23%2F04%2F2021",
+      "titulo": "DOF, Reforma en materia de subcontratación laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.imss.gob.mx/sites/all/statics/icsoe/Decreto-23-abril-2021.pdf",
+      "titulo": "DOF: 23/04/2021",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsevier.es/es-revista-cuestiones-constitucionales-revista-mexicana-derecho-113-articulo-sobre-democracia-sindical-a-proposito-S1405919314704585",
+      "titulo": "Sobre la democracia sindical. A propósito de la reforma laboral de 30 de noviembre de 2012 *",
+      "citada": true
+    },
+    {
+      "url": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-91932014000100002",
+      "titulo": "Sobre la democracia sindical. A propósito de la reforma laboral de 30 de noviembre de 2012",
+      "citada": true
+    },
+    {
+      "url": "https://www3.diputados.gob.mx/camara/005_comunicacion/a_boletines/2012_2012/011_noviembre/08_08/0353_aprueban_diputados_el_dictamen_de_la_reforma_laboral_con_361_votos_a_favor_y_129_en_contra",
+      "titulo": "CAMARA DE DIPUTADOS",
+      "citada": true
+    },
+    {
+      "url": "https://expansion.mx/economia/2012/11/13/que-se-aprobo-en-la-reforma-laboral",
+      "titulo": "¿Qué se aprobó en la reforma laboral?",
+      "citada": true
+    },
+    {
+      "url": "https://www.te.gob.mx/editorial_service/media/pdf/080420241958572440.pdf",
+      "titulo": "3. Mesa 1. “El voto en las disputas sindicales” 3.1. Crónica preliminar",
+      "citada": true
+    },
+    {
+      "url": "http://skymiist.blogspot.com/2012/11/avala-senado-en-comisiones-minuta-sobre.html?m=1",
+      "titulo": "SME Victorioso: Avala Senado en comisiones minuta sobre reforma laboral",
+      "citada": true
+    },
+    {
+      "url": "https://gc.scalahed.com/recursos/files/r161r/w19408w/files/assets/common/downloads/publication.pdf",
+      "titulo": "Reforma a la Ley Federal del Trabajo (Diciembre del 2012) Especialista",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-segundo/capitulo-ii/",
+      "titulo": "Artículos 35 al 41 [Duración de las Relaciones de Trabajo] ‹ Ley Federal del Trabajo (LFT)",
+      "citada": false
+    },
+    {
+      "url": "http://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo9059.html",
+      "titulo": "Ley Federal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://rfcca.umich.mx/index.php/rfcca/article/download/13/14/",
+      "titulo": "Nuevas Formas de Contratación de Acuerdo a la Ley ...",
+      "citada": false
+    },
+    {
+      "url": "https://academiafiscaluaa.blogspot.com/2012/12/decreto-por-el-que-se-reforman.html?m=1",
+      "titulo": "Publicaciones Academia Fiscal de la Universidad Autónoma de Aguascalientes: Reformas a la Ley Federal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://gaceta.diputados.gob.mx/PDF/62/2012/sep/20120927-I.pdf",
+      "titulo": "27 sep anexo I.qxd - Gaceta Parlamentaria",
+      "citada": false
+    },
+    {
+      "url": "https://admin.industriall-union.org/wp-content/uploads/documents/Mexico/dcto_para_industriall_reforma_laboral.pdf",
+      "titulo": "SINDICATO UNICO DE TRABAJADORES DE LA EMPRESA",
+      "citada": false
+    },
+    {
+      "url": "https://www.internet2.scjn.gob.mx/red2/comunicados/noticia.asp?id=4229",
+      "titulo": "Suprema Corte de Justicia de la NaciÃ³n",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronica.com.mx/notas-scjn_declara_constitucional_reforma_a_salarios_caidos-940654-2016.html",
+      "titulo": "SCJN declara constitucional reforma a salarios caídos",
+      "citada": false
+    },
+    {
+      "url": "https://juristeca.com/mx/scjn/tesis-aisladas/2014/8/registro-2007330-salarios-caidos",
+      "titulo": "Registro 2007330 - SALARIOS CAÍDOS - Suprema Corte de Justicia de la Nación",
+      "citada": false
+    },
+    {
+      "url": "https://datos-publicos.mx/jurisprudencia/salarios-caidos-reforma-articulo-48-parrafo-segundo-ley-federal/",
+      "titulo": "<p>SALARIOS CAÍDOS. LA REFORMA AL ARTÍCULO 48, PÁRRAFO SEGUNDO, DE LA LEY FEDERAL DEL TRABAJO, DE 30 DE NOVIEMBRE DE 2012, NO TRANSGREDE EL PRINCIPIO DE PROGRESIVIDAD NI ES VIOLATORIA DE DERECHOS HUMANOS.</p>",
+      "citada": false
+    },
+    {
+      "url": "https://www.amcp.mx/reformas-en-materia-de-subcontratacion-laboral-dof-23-04-2021/",
+      "titulo": "Reformas en materia de SUBCONTRATACIÓN LABORAL, DOF 23/04/2021.",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref35_23abr21.pdf",
+      "titulo": "Reforma 35: Ley Federal del Trabajo. DOF 23-04-2021",
+      "citada": false
+    },
+    {
+      "url": "https://elconta.mx/dof-reforma-outsourcing-subcontratacion/",
+      "titulo": "DOF: Ya en vigor la Reforma 2021 para la subcontratación de personal (Outsourcing)",
+      "citada": false
+    },
+    {
+      "url": "https://contadorcontado.com/2021/04/27/nueva-reforma-a-la-subcontratacion-laboral/",
+      "titulo": "Nueva reforma a la subcontratación laboral - Contador Contado",
+      "citada": false
+    },
+    {
+      "url": "https://www.pkf.com.mx/media/ic3dkn1p/reforma-laboral-outsourcing.pdf",
+      "titulo": "REFORMA LABORAL EN MATERIA DE SUBCONTRATACION OUTSOURCING Mayo 2021",
+      "citada": false
+    },
+    {
+      "url": "https://www.manuelnevarez.com.mx/es/journal/reforma-en-materia-de-subcontratacion-laboral/",
+      "titulo": "REFORMA EN MATERIA DE SUBCONTRATACIÓN LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://blog.mysuitemex.com/2021/04/27/reforma-laboral-fiscal-subcontratacion-laboral-outsourcing/",
+      "titulo": "Reforma Subcontratación Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.univa.mx/queretaro/reforma-laboral-de-subcontratacion-evolucion-o-retroceso/",
+      "titulo": "Reforma Laboral de Subcontratación, ¿Evolución o retroceso? - Querétaro",
+      "citada": false
+    },
+    {
+      "url": "https://recursos.bitakora.co/blog/reforma-laboral-debate-camara/",
+      "titulo": "Reforma Laboral: es archivada en el Senado",
+      "citada": false
+    },
+    {
+      "url": "https://abcnoticias.mx/nacional/2012/11/14/aprueba-senado-reforma-laboral-6554.html",
+      "titulo": "Aprueba Senado reforma laboral",
+      "citada": false
+    },
+    {
+      "url": "https://abcnoticias.mx/nacional/2012/10/24/va-transparencia-6006.html",
+      "titulo": "Va transparencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambitojuridico.com/noticias/laboral/laboral-y-seguridad-social/reforma-laboral-aprobado-incremento-progresivo-de-la",
+      "titulo": "REFORMA LABORAL: Aprobado incremento progresivo de la licencia de paternidad",
+      "citada": false
+    },
+    {
+      "url": "https://www.laboral-social.com/reforma-laboral-2012-novedades-contratos-despido-eres-bonificaciones-empleo-convenio-colectivo-jubilacion.html",
+      "titulo": "La reforma del mercado laboral 2012: versión definitiva",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9110",
+      "titulo": "BOE-A-2012-9110 Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral.",
+      "citada": false
+    },
+    {
+      "url": "https://www.laboral-social.com/reforma-laboral-2012-contratos-despido-eres-bonificaciones-empleo-formacion-negociacion-colectiva-teletrabajo.html",
+      "titulo": "La reforma del mercado laboral: el Real Decreto-Ley 3/2012, de 10 de febrero",
+      "citada": false
+    },
+    {
+      "url": "https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/13/Sep/Fich/be1309-art5.pdf",
+      "titulo": "La reforma laboral de 2012: un primer análisis de algunos ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076",
+      "titulo": "BOE-A-2012-2076 Real Decreto-ley 3/2012, de 10 de febrero, de medidas urgentes para la reforma del mercado laboral.",
+      "citada": false
+    },
+    {
+      "url": "https://www.laboral-social.com/flexiguridad-politicas-mercado-trabajo-reforma-laboral-2012-costes-despido-flexibilidad-interna.html",
+      "titulo": "La versión parlamentaria de la Reforma Laboral 2012: mayor flexibilidad, mejoras técnicas y «versos sueltos»",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "PER_2002",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2002,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0475,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N.° 27626, Ley que regula la actividad de las empresas especiales de servicios y de las cooperativas de trabajadores (Ley de Intermediación Laboral)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Supremo N.° 003-2002-TR (reglamento de la Ley 27626)",
+      "Ley N.° 27696 (prórroga del plazo de adecuación)",
+      "Ley N.° 27671",
+      "Ley N.° 27735"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2002-01-10",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según su artículo 1, regular la intermediación laboral en el régimen laboral de la actividad privada y cautelar adecuadamente los derechos de los trabajadores. No se ubicó la exposición de motivos ni el dictamen del Congreso, por lo que el objetivo declarado se basa solo en el texto de la norma.",
+    "descripcion_intenciones": "La ley restringe la intermediación laboral a supuestos de temporalidad, complementariedad o especialización y prohíbe destacar personal para la actividad principal permanente de la empresa usuaria. Exige objeto social exclusivo, registro obligatorio y fianza, y establece la responsabilidad solidaria de la usuaria cuando la fianza no alcanza. Sanciona la desnaturalización, comprobada por inspección, con la existencia de contrato de trabajo directo con la usuaria desde el inicio, y equipara remuneraciones y condiciones de los destacados con las del personal de la usuaria. También protege los derechos colectivos al declarar nula la intermediación que los vulnere y prohibir su uso para reemplazar a huelguistas. El reglamento y la práctica atenúan parte de estas garantías.",
+    "dimensiones": [
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Dimensión central: limita los supuestos de intermediación, exige registro, objeto exclusivo y fianza, y crea la responsabilidad solidaria de la usuaria. La desnaturalización implica contrato directo con la usuaria desde el inicio."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "La intermediación temporal se limita a labores ocasionales y de suplencia, con un tope de destacados temporales respecto de la plantilla de la usuaria. El tope no rige para servicios complementarios o especializados con plena autonomía técnica."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Los destacados tienen derecho a las remuneraciones y condiciones de trabajo del personal de la usuaria. El reglamento excluye beneficios ligados a calificaciones personales o al puesto, y la doctrina señala una escasa aplicación práctica."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Declara nula la intermediación que vulnere derechos colectivos y prohíbe usarla para cubrir a trabajadores en huelga. La doctrina advierte dificultades de prueba para aplicar la nulidad."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "La desnaturalización se establece mediante inspección de la Autoridad Administrativa de Trabajo. El reglamento permite inspeccionar tanto a la entidad como a la empresa usuaria."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Componente secundario: la fianza garantiza también las obligaciones de seguridad social. La crítica académica señala que las obligaciones no cubiertas por la fianza quedan desprotegidas."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley se expidió durante el gobierno de Alejandro Toledo; el reglamento lo firman el presidente Toledo y el ministro de Trabajo y Promoción Social Fernando Villarán de la Puente. La literatura la presenta como respuesta a la precarización derivada de la política de flexibilización previa. En particular, el Decreto Legislativo N.° 728 de 1991 amplió los supuestos y el alcance de la intermediación. La Ley 27626 deroga los artículos 50, 51 y 52 del TUO del Decreto Legislativo N.° 728 (Ley de Formación y Promoción Laboral) y el Título V del TUO de la Ley de Productividad y Competitividad Laboral. También sustituye normas reglamentarias de fines de los noventa, como el D.S. 107-99-TR, que había suprimido la obligación general de presentar carta fianza. Antes, las cooperativas operaban bajo un régimen de flexibilidad máxima que dejaba desprotegido al socio trabajador. El contexto macroeconómico y el debate parlamentario no fueron verificados (sin fuente).",
+    "notas": "Publicada en El Peruano el 9 de enero de 2002 y vigente desde el 10 de enero de 2002. Una fuente secundaria no académica la fecha el 14 de diciembre de 2001, probablemente la aprobación congresal; esto no fue verificado. Vigencia escalonada: la ley otorgó un plazo de adecuación (registro y regularización de contratos) a las entidades en funcionamiento y a las usuarias. La Ley 27696 (publicada el 12 de abril de 2002) lo prorrogó, y el reglamento fija su vencimiento el 27 de mayo de 2002, también para el registro. El reglamento D.S. 003-2002-TR se publicó el 28 de abril de 2002 y una fuente lo da vigente desde el 29 de abril de 2002. Los destacados tienen derecho de preferencia para ser contratados directamente por la usuaria. El reglamento recorta la ley en dos aspectos: limita la solidaridad a derechos de origen legal o colectivo y excluye a los organismos públicos de la fianza y la solidaridad. Por eso no se codifica sector_publico. El Tribunal Constitucional declaró infundado el amparo de cooperativas contra la ley (Exp. 2670-2002-AA/TC), y no se encontró ninguna anulación de la ley. El reglamento fue modificado por el D.S. 019-2006-TR y el D.S. 020-2007-TR; según una fuente comercial, el D.S. 009-2020-TR incluyó el seguro de vida ley en la solidaridad. La Ley 29245 de 2008 no deja sin efecto la intermediación. Una ley posterior prohibió la intermediación para obreros municipales y el Tribunal Constitucional la validó en 2024 (Exp. 00006-2023-PI/TC). Queda pendiente la nota '(*)' del artículo 4 en el texto del Congreso. Para el análisis econométrico, la doctrina documenta una migración de empresas de la intermediación hacia la tercerización tras la reforma. No se consultaron directamente NATLEX ni EPLex; la confianza alta se basa en el texto oficial publicado por el Congreso. El informe no desarrolla el contenido de las leyes 27671 y 27735, que se incluyen como normas relacionadas por indicación de la etapa de identificación."
+  },
+  "fuentes": [
+    {
+      "url": "https://lpderecho.pe/ley-intermediacion-laboral-ley-27626/",
+      "titulo": "Ley de Intermediación Laboral (Ley 27626) [actualizado 2021]",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/11737/12303/46709",
+      "titulo": "La intermediación laboral peruana: Alcances (no todos ...",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/66FFAF02DDBC68D0052577C200765FC0/$FILE/Ley_N%C2%B0_27626.pdf",
+      "titulo": "Ley que regula la actividad de las empresas especiales de ...",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-27626-ley-575978022",
+      "titulo": "Ley Nº 27626. Ley que regula la actividad de las empresas especiales de servicios y de las cooperativas de trabajadores - vLex Perú",
+      "citada": true
+    },
+    {
+      "url": "https://laley.pe/art/5388/la-responsabilidad-solidaria-en-la-intermediacion-laboral-incluye-a-la-indemnizacion-por-despido",
+      "titulo": "La responsabilidad solidaria en la intermediación laboral, ¿incluye a la indemnización por despido?",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/E0441809E93D80C90525829D006239A5/$FILE/DS_003_2002_TR.pdf",
+      "titulo": "ESTABLECEN DISPOSICIONES PARA LA APLICACIÓN DE LAS LEYES NºS. 27626 Y",
+      "citada": true
+    },
+    {
+      "url": "https://content.lpderecho.pe/wp-content/uploads/2023/01/laboral-intermediacion-13-30.pdf",
+      "titulo": "Intermediación laboral",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/11737/12303/",
+      "titulo": "La intermediación laboral peruana: Alcances (no todos ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/ley_ey_p_19peru_27626_2002.htm",
+      "titulo": "Ministerio de Relaciones Exteriores - Normograma [LEY 27626 de 2002 Congreso Nacional]",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/20B1CD4BE633DA4A05257E22005A2018/$FILE/2_DECRETO_SUPREMO_003_28_04_2002.pdf",
+      "titulo": "TRABAJO Y PROMOCION SOCIAL",
+      "citada": true
+    },
+    {
+      "url": "https://actualidadlaboral.com/tercerizacion-laboral-analisis-nuevas-normas-reglamentarias/",
+      "titulo": "Tercerización laboral. Análisis nuevas normas reglamentarias",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/tags/ley-27626-1282160",
+      "titulo": "ley 27626",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.udep.edu.pe/derecho/en/article/download/2905/2426/8294?inline=1",
+      "titulo": "vía intermediación laboral",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/16034/16458/0",
+      "titulo": "La problemática de la intermediación laboral en el Perú",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/en/article/download/16051/16474/63761",
+      "titulo": "00 N (/) <U - ·;::: Q) > - Q) (/) ::::¡ 148 La descentralización de servicios",
+      "citada": true
+    },
+    {
+      "url": "http://netbankdes.com/aplication/webroot/archivos/130320034614ley%2029245,%20que%20regula%20los%20servicios%20de%20tercerizaci%C3%B3n%20y%20su%20influencia%20en%20las%20cmac.pdf",
+      "titulo": "Puerto España 250",
+      "citada": true
+    }
+  ]
+}

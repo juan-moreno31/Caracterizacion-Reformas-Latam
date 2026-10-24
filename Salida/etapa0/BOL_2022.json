@@ -1,0 +1,141 @@
+{
+  "id": "BOL_2022",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1957,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 1468 de 30 de septiembre de 2022 (publicada en Gaceta Oficial el 3 de octubre de 2022), Procedimiento Especial para la Restitución de Derechos Laborales",
+  "otras": "Decreto Supremo N° 4668 de 16 de febrero de 2022 (derechos laborales adquiridos); Decreto Supremo N° 4708 de 1 de mayo de 2022 (licencias especiales); Decreto Supremo N° 4709 de 1 de mayo de 2022 (fraccionamiento y acumulación de vacaciones); Decreto Supremo N° 4711 de 1 de mayo de 2022 (incremento salarial y salario mínimo nacional)",
+  "confianza": "alta",
+  "texto": "**Norma principal: Ley N° 1468 de 2022, \"Procedimiento Especial para la Restitución de Derechos Laborales\".** El Presidente la promulgó el 30 de septiembre y se publicó en la Gaceta de Bolivia el lunes 3 de octubre.\n\n**Qué es.** La ley se propone resguardar el derecho al trabajo, a la estabilidad laboral en caso de despido injustificado, la inamovilidad laboral, la falta de pago de remuneración o salario, y el cumplimiento del fuero sindical, mediante un procedimiento especial de restitución. El Ministerio de Trabajo, Empleo y Previsión Social emite resoluciones de reincorporación, de pago de salario y de cumplimiento del fuero sindical. Estas resoluciones son de inmediato y obligatorio cumplimiento por la persona obligada, y su impugnación no implica la suspensión de su ejecución. También manda al inspector a observar, de manera estricta, el principio de inversión de la prueba en favor de la trabajadora o el trabajador. Además, sustituye el procedimiento de reincorporación del Decreto Supremo N° 28699, de 1 de mayo de 2006, modificado por el Decreto Supremo N° 0495, de 1 de mayo de 2010.\n\n**Por qué la elijo.**\n- Es la única ley del Congreso entre las candidatas de 2022.\n- Figura en NATLEX (OIT) y aparece en la Gaceta Oficial y en Lexivox.\n- Tiene el mayor alcance sobre el mercado laboral: cambia en la práctica cuánto cuesta despedir sin causa y cómo se hace cumplir.\n- Fue políticamente relevante. La Confederación de Empresarios Privados de Bolivia sostuvo que la ley \"violenta derechos constitucionales de los empresarios, emprendedores y toda persona que realiza contrataciones laborales\".\n\n**Otras candidatas del mismo año (decretos supremos del Ejecutivo, de menor alcance):**\n- **DS 4668 (16–17 de febrero de 2022):** regula los derechos laborales adquiridos. Según NATLEX, prohíbe a las empleadoras o empleadores menoscabar, disminuir, alterar, o diferir los derechos laborales adquiridos. Más tarde, la Ley N° 1610 de 13 de noviembre de 2024 eleva a rango de Ley el Decreto Supremo N° 4668. Es la alternativa más fuerte, pero es un decreto y su contenido es principalmente interpretativo.\n- **DS 4708 (1 de mayo de 2022):** otorgar el beneficio de \"Licencias Especiales\" a todas las trabajadoras y los trabajadores amparados bajo la Ley General del Trabajo.\n- **DS 4709 (1 de mayo de 2022):** permite el goce fraccionado de las vacaciones y su acumulación sin necesidad de acuerdo escrito.\n- **DS 4711 (1 de mayo de 2022):** es el ajuste anual del incremento salarial y del salario mínimo nacional. Lo considero una medida rutinaria más que una reforma.\n\n**Ojo con la fecha de vigencia.** La identificación es segura, pero las fuentes secundarias no coinciden en la fecha exacta de entrada en vigor. Según la fuente, la ley rige desde el 31 de octubre, el 1 de noviembre de 2022 o el 02 de noviembre de 2022. Además, unas fuentes citan la norma con fecha de 30 de septiembre (promulgación) y otras con la de 3 de octubre (publicación). Conviene aclararlo en `notas` en la etapa siguiente.\n\nNORMA: Ley N° 1468 de 30 de septiembre de 2022 (publicada en Gaceta Oficial el 3 de octubre de 2022), Procedimiento Especial para la Restitución de Derechos Laborales\nOTRAS: Decreto Supremo N° 4668 de 16 de febrero de 2022 (derechos laborales adquiridos); Decreto Supremo N° 4708 de 1 de mayo de 2022 (licencias especiales); Decreto Supremo N° 4709 de 1 de mayo de 2022 (fraccionamiento y acumulación de vacaciones); Decreto Supremo N° 4711 de 1 de mayo de 2022 (incremento salarial y salario mínimo nacional)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/buscarg/ley%20general%20del%20trabajo",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4708.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 4708, 1 de mayo de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=113282",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 4668, 17 de febrero de 2022, que regula la aplicación de los derechos laborales adquiridos por las trabajadoras y los trabajadores, sujetos al régimen laboral de la Ley General del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N1468.html",
+      "titulo": "Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://emba.com.bo/procedimiento-especial-para-la-restitucion-de-derechos-laborales/",
+      "titulo": "PROCEDIMIENTO ESPECIAL PARA LA RESTITUCIÓN DE DERECHOS LABORALES",
+      "citada": true
+    },
+    {
+      "url": "https://soloderecho.com.bo/de-la-aplicacion-de-la-ley-1468-de-30-de-septiembre-de-2022/",
+      "titulo": "De la aplicación de la Ley 1468 de 30 de septiembre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://rojas-lawfirm.com/procedimiento-especial-para-la-restitucion-de-derechos-laborales-ley-no-1468/",
+      "titulo": "Procedimiento Especial para la Restitución de Derechos Laborales Ley No. 1468 - C. R. & F. Rojas Abogados",
+      "citada": true
+    },
+    {
+      "url": "https://noticias.unitel.bo/sociedad/luis-arce-promulgo-la-ley-de-restitucion-de-derechos-laborales-XI4468123",
+      "titulo": "Luis Arce promulgó la Ley de Restitución de Derechos Laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.bolivia.com/actualidad/nacionales/luis-arce-ley-de-restitucion-de-derechos-laborales-369378",
+      "titulo": "El presidente, Luis Arce, promulgó la Ley para la Restitución de Derechos Laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4668.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 4668, 17 de febrero de 2022",
+      "citada": false
+    },
+    {
+      "url": "https://www.pixilegal.com/normativa/decreto-4668-2022-02-16",
+      "titulo": "Decreto Supremo 4668",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4709.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 4709, 1 de mayo de 2022",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/116606/L%201468%20BOL.pdf",
+      "titulo": "Contenido Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": false
+    },
+    {
+      "url": "https://emba.com.bo/repaso-del-ano-2022-principales-normas-en-materia-laboral/",
+      "titulo": "REPASO DEL AÑO 2022: PRINCIPALES NORMAS EN MATERIA LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N4711.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 4711, 1 de mayo de 2022",
+      "citada": false
+    },
+    {
+      "url": "https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2022/february/regulation-on-acquired-labor-rights",
+      "titulo": "Dentons - Regulation on Acquired Labor Rights under Supreme Decree 4668 dated February 17, 2022",
+      "citada": false
+    },
+    {
+      "url": "https://emba.com.bo/el-decreto-n-5503-y-el-nuevo-rumbo-laboral-en-bolivia/",
+      "titulo": "El Decreto N° 5503 y el Nuevo Rumbo Laboral en Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/113608/DS%204709%20BOL.pdf",
+      "titulo": "Bolivia: Decreto Supremo Nº 4709, 1 de mayo de 2022 Decreto Supremo Nº 4709",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=25013",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Ley general del trabajo y decreto reglamentario [texto actualizado y concordado]",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/114697/DS-4807%20BOL.pdf",
+      "titulo": "Contenido Bolivia: Decreto Supremo Nº 4807, 12 de octubre de 2022",
+      "citada": false
+    },
+    {
+      "url": "https://www.derechoteca.com/gacetabolivia/decreto-supremo-no-4709-del-01-de-mayo-de-2022",
+      "titulo": "Bolivia: Decreto Supremo No 4709 del 01 De Mayo De 2022 - D-Lex Bolivia - Gaceta Oficial de Bolivia - Legislación - Derechoteca",
+      "citada": false
+    },
+    {
+      "url": "https://www.urenda.bo/blog/laboral-blog/procedimiento-especial-para-la-restitucion-de-derecho-laborales-ley-n-1468",
+      "titulo": "Procedimiento Especial Para La Restitución De Derecho Laborales (Ley N° 1468) - Urenda Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://www.opinion.com.bo/opinion/frank-i-taquichiri/restitucion-derechos-laborales/20221007204752882955.html",
+      "titulo": "Restitución de derechos laborales",
+      "citada": false
+    },
+    {
+      "url": "https://www.contadoresbolivia.org.bo/images/boletines/THE_POST_Boletin_Laboral_Ano_20_No._286_28-12-2022.pdf",
+      "titulo": "nuevos cuidados en audiencia de reincorporación",
+      "citada": false
+    },
+    {
+      "url": "https://comunidad.org.bo/index.php/indicadores/mostrarNormativas/cod/NO20221214213106",
+      "titulo": "Ley 1468, Procedimiento Especial para la Restitución ...",
+      "citada": false
+    }
+  ]
+}

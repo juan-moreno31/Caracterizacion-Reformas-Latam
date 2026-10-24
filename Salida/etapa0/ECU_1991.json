@@ -1,0 +1,161 @@
+{
+  "id": "ECU_1991",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1539,
+  "incompleto": false,
+  "norma_propuesta": "Ley N.º 133, reformatoria al Código del Trabajo (Registro Oficial, Suplemento N.º 817, 21-11-1991)",
+  "otras": "Ley N.º 01 de Zonas Francas (Registro Oficial N.º 625, 19-02-1991); Decreto Ejecutivo N.º 2710, Reglamento a la Ley de Zonas Francas (Registro Oficial N.º 769, 13-09-1991)",
+  "confianza": "alta",
+  "texto": "**Resultado de la identificación: ECU 1991**\n\nLa reforma laboral principal es la **Ley N.º 133, reformatoria al Código del Trabajo**. NATLEX (OIT) la registra como adoptada el 1991-11-13 y publicada en el Registro Oficial, Suplemento, 1991-11-21, núm. 817. Según el resumen de la OIT, modifica varias partes del Código de 1978. Por el lado de la flexibilización, se añaden los contratos de trabajo eventuales, ocasionales y de temporada y se modifican las condiciones del auxilio de cesantía y de indemnización por despido intempestivo. Además, se incluyen nuevas disposiciones sobre la negociación de los contratos colectivos de trabajo, el trámite de los conflictos colectivos y el régimen de la huelga.\n\nLa elijo porque es la de mayor alcance sobre el mercado laboral ese año. Es una reforma general del Código, mientras que la otra candidata solo se aplica en enclaves territoriales. La literatura académica ecuatoriana coincide: la describe como \"quizás la muestra más contundente de la flexibilización laboral\".\n\n**Otra norma del mismo año**\n\nLa otra candidata es la **Ley N.º 01 de Zonas Francas**. NATLEX la registra como adoptada el 1991-02-18, con entrada en vigor el 1991-02-19. Su capítulo laboral establece que los contratos de trabajo en las zonas francas son de carácter temporal. Su reglamento laboral es el Decreto núm. 2710, por el que se expide el reglamento a la ley de zonas francas, publicado en septiembre de 1991. La descarto como principal por dos razones: se aplica solo dentro de las zonas francas y NATLEX la clasifica como \"política económica y social\", no como legislación laboral general.\n\n**Advertencias para las etapas siguientes**\n\n1. **La orientación puede no ser puramente flexibilizadora.** Un documento de la OIT señala que la Ley 133 derogó las disposiciones del Código que impedían la sindicación rural, facilitó la constitución de sindicatos y limitó la injerencia de las autoridades públicas. En cambio, la literatura ecuatoriana destaca que subió el número mínimo de trabajadores para formar un sindicato, lo que limita la organización. Hay que contrastar ambas lecturas antes de codificar las dimensiones.\n2. **El tipo de instrumento de la ley de Zonas Francas no es claro.** NATLEX la llama \"Ley\", pero otras fuentes la llaman Decreto Ley No. 01, publicado en el Registro Oficial No. 625 del 19 de febrero de 1991.\n3. **La fecha de la ley de Zonas Francas varía entre fuentes.** Un documento de la OIT la sitúa en 1992. Es probable que sea un error o que se refiera a la reforma de 1992, porque NATLEX y el Registro Oficial la fechan en febrero de 1991.\n4. **Antecedente que no debe confundirse con la reforma de 1991:** la Ley núm. 90, de 24 de julio de 1990, de régimen de maquila, de contratación laboral a tiempo parcial, que corresponde a 1990.\n\nNORMA: Ley N.º 133, reformatoria al Código del Trabajo (Registro Oficial, Suplemento N.º 817, 21-11-1991)\nOTRAS: Ley N.º 01 de Zonas Francas (Registro Oficial N.º 625, 19-02-1991); Decreto Ejecutivo N.º 2710, Reglamento a la Ley de Zonas Francas (Registro Oficial N.º 769, 13-09-1991)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=26599",
+      "titulo": "Ecuador - Ley núm. 133, reformatoria al Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=26599",
+      "titulo": "NATLEX - Ecuador - Ley núm. 133, reformatoria al Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=47812",
+      "titulo": "Ecuador - Codificación del Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://webapps.ilo.org/public/spanish/region/ampro/mdtsanjose/papers/pasado.htm",
+      "titulo": "PASADO Y PRESENTE DE LA LEGISLACION LABORAL EN AMERICA LATINA",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/419/414",
+      "titulo": "La reforma antes de la reforma. La construcción del nuevo Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=&p_isn=21931",
+      "titulo": "Ecuador - Ley núm. 01 de zonas francas.",
+      "citada": true
+    },
+    {
+      "url": "http://www.ilo.org/dyn/natlex/natlex4.listResults?p_lang=es&p_country=ECU&p_count=367&p_first=201&p_pagelength=200",
+      "titulo": "Results list of Browse by country - NATLEX",
+      "citada": true
+    },
+    {
+      "url": "https://www.uasb.edu.ec/observatorio-pyme/wp-content/uploads/sites/6/2022/02/Texto-Legal-N%C2%B09.pdf",
+      "titulo": "1 CODIFICACION DE LA LEY DE ZONAS FRANCAS (R. O. 562 DE 11 DE ABRIL DEL 2005)",
+      "citada": true
+    },
+    {
+      "url": "https://www2019.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=26600",
+      "titulo": "Ecuador - Código del Trabajo, de 30 de junio de 1978",
+      "citada": false
+    },
+    {
+      "url": "https://ilo.org/dyn/natlex/natlex4.detail?p_classcount=17&p_classification=01.02&p_count=373&p_country=ECU&p_isn=47812&p_lang=es",
+      "titulo": "NATLEX - Ecuador - Codificación del Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://juristasecuador.com/2023/01/13/codigo-del-trabajo-ecuador/",
+      "titulo": "Código del Trabajo / Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/CODIGO_DEL_TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.tce.gob.ec/wp-content/uploads/2025/04/Codigo-del-Trabajo.pdf",
+      "titulo": "Página 1 de 158 www.lexis.com.ec TÍTULO: CÓDIGO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://www.defensa.gob.ec/wp-content/uploads/downloads/2023/03/Codigo-de-Trabajo_feb_2023.pdf",
+      "titulo": "Código de trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.ec/vid/codigo-trabajo-631473899",
+      "titulo": "Código del Trabajo - vLex Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.clacso.edu.ar/clacso/becas/20150407122930/VFSindicatosEcuador.pdf",
+      "titulo": "Situación, estrategia y contexto de los sindicatos en el Ecuador Titulo",
+      "citada": false
+    },
+    {
+      "url": "https://library.fes.de/pdf-files/bueros/quito/21175.pdf",
+      "titulo": "EVOLUCIÓN DE LOS DERECHOS LABORALES Y SINDICALES EN ECUADOR 2008-2023",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.org.mx/scielo.php?pid=S1870-46702022000200211&amp=&script=sci_arttext",
+      "titulo": "Del derecho al trabajo digno al régimen laboral neoliberal: captura estatal y autoritarismo en el Ecuador contemporáneo",
+      "citada": false
+    },
+    {
+      "url": "https://www.alainet.org/es/articulo/199944?language=pt",
+      "titulo": "Reforma laboral: retroceso histórico",
+      "citada": false
+    },
+    {
+      "url": "https://www.redalyc.org/journal/4296/429675476008/",
+      "titulo": "Del derecho al trabajo digno al régimen laboral neoliberal: captura estatal y autoritarismo en el Ecuador contemporáneo",
+      "citada": false
+    },
+    {
+      "url": "https://lexenlace.com/wp-content/uploads/2024/12/LEX-AC61.pdf",
+      "titulo": "1 ❖ Análisis crítico de la reforma laboral en Ecuador: Efectos en la",
+      "citada": false
+    },
+    {
+      "url": "https://derechostrabajadores.wordpress.com/2011/06/30/momentos-historicos-sobre-las-reformas-laborales-en-ecuador/",
+      "titulo": "Momentos históricos sobre las reformas laborales en Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_count=416&p_country=ECU&p_isn=26598&p_lang=es",
+      "titulo": "NATLEX - Ecuador - Decreto núm. 2710, por el que se expide el reglamento a la ley de zonas francas.",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=26598",
+      "titulo": "Equateur - Decreto núm. 2710, por el que se expide el reglamento a la ley de zonas francas.",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.iaen.edu.ec/jspui/bitstream/24000/81/1/IAEN-049-2007.pdf",
+      "titulo": "REPÚBLICA DEL ECUADOR INSTITUTO DE ALTOS ESTUDIOS NACIONALES",
+      "citada": false
+    },
+    {
+      "url": "https://globalsupport.com.ec/2024/02/28/el-nuevo-regimen-de-zonas-francas/",
+      "titulo": "El nuevo régimen de zonas francas - Global Support",
+      "citada": false
+    },
+    {
+      "url": "https://pdf.core.ac.uk/corefilesystem/pdf/2076/159773785.pdf?se=2026-10-09T16%3A54%3A59Z&sp=r&sv=2026-06-06&sr=b&rscd=inline%3B+filename%3D%22159773785.pdf%22&rsct=application%2Fpdf&sig=W7nl8mz41aSMxX2pd9oeMe17e37djRIzVXbBvf8lGxc%3D",
+      "titulo": "- 1 - Universidad Andina Simón Bolívar Sede Ecuador Área de Derecho",
+      "citada": false
+    },
+    {
+      "url": "https://www.pudeleco.com/infos/ACUERDO%20Nro.%20MPCEIP-MPCEIP-2024-0081-A.pdf",
+      "titulo": "Jueves 7 de noviembre de 2024 Registro Oﬁ cial - Segundo Suplemento Nº 678 13",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiMWU2ZmQwYmUtODkyOS00NzI3LWIzODEtMDNmMjIyOThiOWI4LnBkZiJ9",
+      "titulo": "Año I - Nº 34 - 51 páginas Quito, jueves 8 de mayo de 2025",
+      "citada": false
+    }
+  ]
+}

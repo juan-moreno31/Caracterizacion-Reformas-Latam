@@ -1,0 +1,184 @@
+{
+  "id": "URY_2006",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3429,
+  "incompleto": false,
+  "norma": "Ley N.º 17.940 de 2 de enero de 2006",
+  "texto": "# Informe de investigación: URY 2006, Ley N.º 17.940 sobre libertad sindical\n\n## 1. Objetivo declarado\n\nNo pude consultar la exposición de motivos ni las actas parlamentarias. Por eso el objetivo declarado se infiere del propio texto y de fuentes secundarias.\n\n- **Fundamento que invoca la ley.** El artículo 1 basa la nulidad de los actos antisindicales en tres normas: el artículo 57 de la Constitución, el artículo 1º del Convenio Internacional del Trabajo Nº 98, aprobado por la Ley Nº 12.030, y los literales a) y b) del artículo 9º de la Declaración Sociolaboral del MERCOSUR.\n- **Título.** En el Diario Oficial la norma aparece como \"Libertad sindical. Normas para su protección\".\n- **Discurso político (fuente de prensa de opinión).** Un editorial de la época sostiene que, por la falta de una ley, el país había sido observado en reiteradas ocasiones por el Comité de Libertad Sindical de la OIT. Esto sugiere que la intención era cumplir compromisos internacionales. No lo verifiqué en documentos de la OIT.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**derechos_colectivos_sindicales: aumenta.** Es el núcleo de la reforma.\n- **Nulidad de la discriminación antisindical.** Declara nula toda acción u omisión destinada a sujetar el empleo de un trabajador a la condición de que no se afilie a un sindicato o deje de ser miembro, o a despedirlo o perjudicarlo en cualquier otra forma por su afiliación o por su participación en actividades sindicales.\n- **Protección de quienes forman sindicatos.** La garantía también alcanza a los trabajadores que realizan gestiones para constituir organizaciones sindicales, dentro o fuera de los lugares de trabajo.\n- **Licencia sindical.** Se reconoce el derecho a tiempo libre remunerado para la actividad sindical, y su ejercicio se regulará en el Consejo de Salarios respectivo o por convenio colectivo.\n- **Cuota sindical.** Los afiliados tienen derecho a que la cuota se retenga de su salario, con consentimiento previo por escrito. El artículo 7 fija su lugar en el orden de prioridad de las retenciones.\n- **Facilidades en la empresa.** Se reconoce el derecho a colocar avisos sindicales en los locales de la empresa y a distribuir boletines. El límite es que no perjudiquen el funcionamiento normal de la empresa.\n- **Tripartismo.** El Ministerio de Trabajo y Seguridad Social (MTSS) debe crear mecanismos tripartitos para consultar, controlar y dar seguimiento a la aplicación de la ley.\n\n**despido_e_indemnizacion: aumenta.** Cuando la sentencia constata una violación, se ordena la reinstalación efectiva del trabajador, con derecho a todos los jornales que habría cobrado durante el proceso y hasta que se reintegre.\n- **Límite del alcance.** La doctrina académica advierte que la ley no creó un régimen de responsabilidad objetiva ni de inamovilidad absoluta del dirigente o militante sindical. El fuero protege solo frente al despido motivado por razones sindicales. Por eso el efecto se limita a ese tipo de despido y no es una estabilidad general.\n\n**justicia_laboral_e_inspeccion: aumenta.**\n- **Dos vías procesales.** Hay un proceso general, que inicialmente era el proceso extraordinario del Código General del Proceso. Hay además una tutela especial para dirigentes, delegados en órganos bipartitos o tripartitos, negociadores, promotores de sindicatos y trabajadores protegidos por convenio. Esta tutela usa el procedimiento y los plazos de la acción de amparo.\n- **Carga de la prueba.** En la tutela especial, el empleador debe probar una causa razonable vinculada a la capacidad o conducta del trabajador o a las necesidades de la empresa.\n- **Gratuidad y legitimación.** El demandante no paga tributos ni costas. La legitimación activa corresponde al trabajador actuando junto con su organización sindical.\n- **Multas.** Lo recaudado por las multas de la Inspección General del Trabajo se destina, entre otros fines, al fortalecimiento de la propia Inspección.\n\n**Dimensiones descartadas.** No identifiqué componentes sobre contratación temporal, jornada, salario mínimo, pensiones, género, juventud ni nuevas formas de trabajo.\n\n**Orientación sugerida: `protectora`.**\n\n## 3. Población objetivo\n\n- **Ámbito subjetivo.** Según una fuente sindical, la protección cubre a todos los trabajadores y no solo a los dirigentes sindicales, y no exige que exista un sindicato ya constituido.\n- **Matiz jurisprudencial.** Algunas salas han exigido acreditar la calidad de dirigente o promotor para aplicar el régimen especial, y no a simples afiliados.\n- **Etiqueta sugerida:** `asalariados_formales`.\n- **No verificado:** si la ley se aplica en la práctica a los funcionarios públicos. El artículo 6 menciona \"empresa o institución\", pero no encontré una fuente que lo aclare. No asigné `sector_publico`.\n\n## 4. Contexto político y económico\n\n- **Tramitación.** La ley fue sancionada el 22 de diciembre de 2005 y promulgada por el Poder Ejecutivo el 2 de enero de 2006.\n- **Gobierno y relaciones laborales.** Según el informe previo, la ley forma parte del nuevo esquema de relaciones laborales colectivas del gobierno de Tabaré Vázquez. Que ese esquema incluyó la reconvocatoria de los Consejos de Salarios en 2005 es conocimiento propio **sin fuente** en esta etapa.\n- **Recepción por los empleadores.** Un artículo publicado por OIT/Cinterfor menciona críticas empresariales: por ejemplo, que la ley fomentaría la incompetencia.\n- **Contexto macroeconómico:** no verificado (**sin fuente**).\n\n## 5. ¿Revierte una reforma previa?\n\n**No identificado como contrarreforma.** La ley llena un vacío legal más que derogar una norma flexibilizadora. Un despacho de abogados, fuente de menor jerarquía, afirma que hasta 2006 el despido antisindical se consideraba abusivo y daba lugar a una indemnización especial. A partir de 2006 se pasa a la nulidad con reinstalación. Sugiero `revierte_reforma_previa` = false.\n\n## 6. Entrada en vigor\n\n- **Fecha.** La ley entra en vigor desde su promulgación por el Poder Ejecutivo, es decir, el **2006-01-02**. La sanción en diciembre de 2005 no genera conflicto con el año de la base.\n- **Reglamentación.** Las disposiciones se aplican aunque falte reglamentación, sin perjuicio de que el MTSS deba dictarla. No identifiqué el decreto reglamentario.\n- **Vigencia escalonada: false**, con una salvedad para las notas: el ejercicio concreto de la licencia sindical depende de lo que fijen los Consejos de Salarios o los convenios colectivos. Ya se litigaba con la ley en su primer año: un estudio comenta sentencias dictadas tras más de diez meses de vigencia.\n\n## 7. Estado de vigencia posterior\n\n- **Modificación procesal.** Según vLex, que no es fuente oficial, el artículo 11 de la Ley Nº 18.847, de 25/11/2011, sustituye el proceso extraordinario por el proceso laboral ordinario. Es un cambio de procedimiento en el proceso general que no toca la nulidad ni la reinstalación. No lo verifiqué en IMPO.\n- **Debate constitucional.** La doctrina discutió la constitucionalidad del artículo 3 literal B, que exige que el trabajador demande junto con su sindicato. **No verifiqué** si la Suprema Corte de Justicia (SCJ) lo declaró inconstitucional. Aun si lo hubiera hecho, en Uruguay la declaración de inconstitucionalidad deja la norma vigente y solo la desaplica al caso concreto. Además, el requisito es procesal y no forma parte del núcleo de la reforma.\n- **Proyecto pendiente.** Hay un proyecto del senador Robert Silva para modificar los dos primeros artículos de la Ley Nº 17.940. No verifiqué su fecha ni su estado; no consta que se haya aprobado.\n- **Aplicación judicial.** La aplicación ha sido real: un estudio de la Facultad de Derecho (Universidad de la República) analizó un volumen considerable de sentencias de segunda instancia y de casación.\n- **Estado sugerido: `vigente`.** El núcleo sigue en vigor. Si la base prefiere registrar cualquier modificación posterior, la alternativa defendible es `modificada_o_derogada_despues`, por la Ley 18.847. En cualquier caso conviene anotarlo en `notas`.\n\n## Lo que no pude verificar\n\n- La exposición de motivos y el debate parlamentario.\n- El decreto reglamentario.\n- Si la ley se aplica al sector público.\n- El resultado de las impugnaciones de inconstitucionalidad ante la SCJ.\n- El texto oficial de la Ley 18.847 en IMPO.\n- El estado del proyecto de reforma del senador Silva.\n- El contexto macroeconómico.\n- Los pronunciamientos concretos del Comité de Libertad Sindical previos a la ley.\n\n**Confianza en la identificación: alta.** La norma aparece en IMPO y en el sitio del Parlamento para ese año.",
+  "fuentes": [
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/17940-2006",
+      "titulo": "Ley N° 17940",
+      "citada": true
+    },
+    {
+      "url": "http://affur.org.uy/wp-content/uploads/2016/09/ley-17.940-fuero-sindicales.pdf",
+      "titulo": "Publicada D.O. 10 ene/006 - Nº 26913 Ley Nº 17.940 LIBERTAD SINDICAL",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/ley-n-17940-libertad-632167565",
+      "titulo": "Ley N° 17940, de Libertad Sindical. Derechos sindicales - vLex Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.adeomrocha.com.uy/?page_id=912",
+      "titulo": "﻿Ley Nº 17.940",
+      "citada": true
+    },
+    {
+      "url": "http://www.acostaylara.com.uy/contenidos/contenidos_masinfo.php?id=20180&secc=contenidos&path=0.2374",
+      "titulo": "Proyecto de Ley modificando 17940 sobre libertad sindical",
+      "citada": true
+    },
+    {
+      "url": "https://fcu.edu.uy/fcu/libros/derecho-laboral-2/la-proteccion-de-la-actividad-sindical-en-la-ley-17-940/",
+      "titulo": "La Protección de la actividad sindical en la ley 17.940 - Fundación de Cultura Universitaria",
+      "citada": true
+    },
+    {
+      "url": "https://www6.rel-uita.org/sectores/frigorificos/proteccion_legal_libertad_sindical-uy.htm",
+      "titulo": "Protección legal de la libertad sindical en Uruguay - UITA",
+      "citada": true
+    },
+    {
+      "url": "https://www.fder.edu.uy/sites/default/files/2022-12/Informe%20final%20proyecto%20de%20investigaci%C3%B3n%20fuero%20sindical%20-%20Alejandro%20Castello%20%20otros.pdf",
+      "titulo": "Informe final proyecto de investigación fuero sindical",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/129",
+      "titulo": "Primera jurisprudencia sobre la Ley 17.940",
+      "citada": true
+    },
+    {
+      "url": "https://www.castellan.com.uy/es/novedades/aspectos-sindicales-y-derecho-de-huelga-en-uruguay/",
+      "titulo": "Aspectos sindicales y derecho de huelga en Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.lr21.com.uy/editorial/198115-acerca-de-la-ley-de-fuero-sindical",
+      "titulo": "Acerca de la ley de fuero sindical - Noticias Uruguay, LARED21 Diario Digital",
+      "citada": true
+    },
+    {
+      "url": "https://www.oitcinterfor.org/sites/default/files/file_articulo/rotero.pdf",
+      "titulo": "Ley de Fuero Sindical ¿Reafirmación o impedimento del ...",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/sentencia-definitiva-n-417-920949655",
+      "titulo": "Sentencia Definitiva Nº 417/2022 de Suprema Corte de Justicia, 24-05-2022 - vLex Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://legislativo.parlamento.gub.uy/temporales/leytemp5678561.htm",
+      "titulo": "Ley 17.940",
+      "citada": false
+    },
+    {
+      "url": "https://docs.uruguay.justia.com/nacionales/leyes/ley-17940-jan-2-2006.pdf",
+      "titulo": "Publicada D.O. 10 ene/006 - Nº 26913 Ley Nº 17.940 LIBERTAD SINDICAL",
+      "citada": false
+    },
+    {
+      "url": "https://uruguay.justia.com/nacionales/leyes/ley-17940-jan-2-2006/gdoc/",
+      "titulo": "Justia Uruguay :: Nacionales > Leyes > Ley 17940 :: Ley de Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://es-us.noticias.yahoo.com/fallo-corte-suprema-aclara-cu%C3%A1ndo-003000736.html",
+      "titulo": "Nuevo fallo de la Corte Suprema aclara cuándo trabajadores con fuero sindical sí pueden ser despedidos - Yahoo Noticias",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2013/t-148-13.htm",
+      "titulo": "Sentencia T-148/13",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambito.com/corte-suprema-las-empresas-no-pueden-elegir-que-trabajadores-afiliados-descontarles-la-cuota-sindical-n6337188",
+      "titulo": "Corte Suprema: las empresas no pueden elegir a qué trabajadores afiliados descontarles la cuota sindical",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2018/t-303-18.htm",
+      "titulo": "T-303-18 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.eltiempo.com/amp/economia/finanzas-personales/despido-de-trabajadores-con-fuero-sindical-en-colombia-hay-nueva-jurisprudencia-para-ciertos-casos-3572248",
+      "titulo": "Despido de trabajadores con fuero sindical en Colombia: hay nueva jurisprudencia para ciertos casos - El Tiempo",
+      "citada": false
+    },
+    {
+      "url": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/cartilladef/DC/STL7928-2020.pdf",
+      "titulo": "SCLAJPT-11 V.00 OMAR ÁNGEL MEJÍA AMADOR Magistrado ponente STL7928-2020",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2002/c-201-02.htm",
+      "titulo": "Sentencia C-201/02",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/tags/fuero-sindical-casos-de-procedencia-1663528",
+      "titulo": "fuero sindical casos de procedencia",
+      "citada": false
+    },
+    {
+      "url": "https://www2.jus.mendoza.gov.ar/listas/proveidos/vertexto.php?ide=1414004107",
+      "titulo": "Fojas: 72",
+      "citada": false
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes-originales/17940-2006",
+      "titulo": "Ley N° 17940",
+      "citada": false
+    },
+    {
+      "url": "https://fcu.edu.uy/p/proteccion-de-la-libertad-sindical",
+      "titulo": "Protección de la libertad sindical",
+      "citada": false
+    },
+    {
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2089488-1",
+      "titulo": "Decreto Supremo que modifica el Reglamento de la Ley de Relaciones Colectivas de Trabajo, aprobado por Decreto Supremo N° 011-92-TR - DECRETO SUPREMO -",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref30_01may19.pdf",
+      "titulo": "Reforma 30: Ley Federal del Trabajo. DOF 01-05-2019",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/derechoysociedad/article/download/13304/13929/53003",
+      "titulo": "228 La Legitimación Procesal de las Organizaciones Sindicales en el Marco",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN23551.pdf",
+      "titulo": "ASOCIACIONES SINDICALES",
+      "citada": false
+    },
+    {
+      "url": "https://desc.scjn.gob.mx/accion-de-inconstitucionalidad-sentencia-no-156",
+      "titulo": "Acción de inconstitucionalidad. Sentencia No. 156",
+      "citada": false
+    },
+    {
+      "url": "https://www.busqueda.com.uy/Secciones/Corte-declaro-inconstitucional-ley-que-reformo-la-carrera-judicial-uc53069",
+      "titulo": "Corte declaró inconstitucional ley que reformó la carrera judicial",
+      "citada": false
+    },
+    {
+      "url": "https://www.elobservador.com.uy/nota/suprema-corte-declaro-inconstitucional-ley-que-interpretaba-que-uruguayos-podian-votar-en-el-exterior-2020424173616",
+      "titulo": "Suprema Corte declaró inconstitucional ley que interpretaba que uruguayos podían votar en el exterior",
+      "citada": false
+    }
+  ]
+}

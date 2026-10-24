@@ -1,0 +1,166 @@
+{
+  "id": "BOL_2009",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2009,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1741,
+  "incompleto": false,
+  "norma_propuesta": "Constitución Política del Estado Plurinacional de Bolivia, promulgada el 7 de febrero de 2009 (componente laboral: arts. 46-55)",
+  "otras": "Decreto Supremo N° 0110 de 1 de mayo de 2009; Decreto Supremo N° 0012 de 19 de febrero de 2009; Decreto Supremo N° 0107 de 1 de mayo de 2009",
+  "confianza": "media",
+  "texto": "Elijo la **Constitución Política del Estado (CPE) de 2009** como reforma laboral principal de Bolivia en 2009. El pueblo la aprobó en el Referéndum de 25 de enero de 2009 y se promulgó el 7 de febrero de 2009. Su componente laboral está en la Sección III, \"Derecho al trabajo y al empleo\". Allí ordena que las normas laborales se interpreten y apliquen bajo los principios de protección de los trabajadores, primacía de la relación laboral, continuidad y estabilidad laboral, no discriminación e inversión de la prueba a favor del trabajador. También dispone que el Estado protegerá la estabilidad laboral y prohíbe el despido injustificado y toda forma de acoso laboral, y garantiza la inamovilidad laboral de las mujeres embarazadas y de los progenitores, hasta que la hija o el hijo cumpla un año de edad.\n\n**Por qué esta y no otra.** De las candidatas de 2009, es la de mayor alcance sobre el mercado laboral. La jurisprudencia constitucional se refiere a ella como un nuevo orden constitucional protector de los trabajadores y de la estabilidad laboral, instaurado a partir de su promulgación el 7 de febrero de 2009. Además, los decretos laborales del mismo año se fundamentan explícitamente en ella. El Decreto Supremo N° 0012 cita en sus considerandos el Parágrafo VI del Artículo 48 de la Constitución, y el Decreto Supremo N° 0110 cita el Parágrafo III del Artículo 49.\n\n**Las otras candidatas:**\n- **DS 0110 (1 de mayo de 2009).** NATLEX lo registra como decreto sobre garantía de indemnización por tiempo de servicios. Es el cambio operativo más directo en materia de despido e indemnización, porque deroga el Artículo 1 del Decreto Supremo Nº 11478 de 16 de mayo de 1974. Si la base prefiere normas de efecto inmediato y no marcos constitucionales, sería la alternativa más fuerte.\n- **DS 0012 (19 de febrero de 2009).** También está en NATLEX. Extiende al padre la inamovilidad que ya tenía la madre gestante por la Ley 975 de 1988.\n- **DS 0107 (1 de mayo de 2009).** Según una referencia cruzada en Lexivox, garantiza el cumplimiento de la legislación laboral a los trabajadores asalariados de las empresas, sea cual fuere su modalidad. No consulté su texto, así que su contenido queda sin verificar.\n\n**Confianza.** La pongo en *media* y no en *alta* por dos razones. Hay varias candidatas razonables, y la elección entre la Constitución y el DS 0110 depende del criterio de la base. Además, no confirmé la ficha de la Constitución en NATLEX. Su existencia y fecha sí están verificadas en Lexivox y WIPO Lex.\n\nNORMA: Constitución Política del Estado Plurinacional de Bolivia, promulgada el 7 de febrero de 2009 (componente laboral: arts. 46-55)\nOTRAS: Decreto Supremo N° 0110 de 1 de mayo de 2009; Decreto Supremo N° 0012 de 19 de febrero de 2009; Decreto Supremo N° 0107 de 1 de mayo de 2009\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N110.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 110, 1 de mayo de 2009",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=81456&cs=1uJ3szsAqQPeimQy7CKJK9aDpaUH-vNrbV3wj7gIibcsHtKp4Wz_ZT_hHCaHtji8U1vv6DXR-ckzzGEcNM-xYdw",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 0110 de 1 de mayo de 2009 sobre garantía de indemnización por tiempo de servicios.",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-19390524.html",
+      "titulo": "Bolivia: Ley General del Trabajo, 24 de mayo de 1939",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N12.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 12, 19 de febrero de 2009",
+      "citada": true
+    },
+    {
+      "url": "https://juristeca.com/bo/tsj/auto-supremo/2019/11/auto-supremo-as-0774-2019/con-la-promulgacion-del-decreto-supremo-n-0012-de-19-de-febrero-de-2009",
+      "titulo": "Con la promulgación del Decreto Supremo N° 0012 de 19 de febrero de 2009: Auto Supremo AS/0774/2019",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-CPE-20090207.html",
+      "titulo": "Bolivia: Constitución Política del Estado de 2009, 7 de febrero de 2009",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.justia.com/nacionales/nueva-constitucion-politica-del-estado/primera-parte/titulo-ii/capitulo-quinto/seccion-iii/",
+      "titulo": "Justia Bolivia :: Nueva Constitución Política Del Estado > PRIMERA PARTE > TÍTULO II > CAPÍTULO QUINTO > SECCIÓN III :: Ley de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://jurisprudencia.tcpbolivia.bo/Fichas/Ficha/4802",
+      "titulo": "Tribunal Constitucional Plurinacional",
+      "citada": true
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/5430",
+      "titulo": "Constitution of 2009 of the Plurinational State of Bolivia, Bolivia (Plurinational State of), WIPO Lex",
+      "citada": true
+    },
+    {
+      "url": "https://www.vobolex.org/bolivia/decreto-supremo-0110-del-01-mayo-2009/",
+      "titulo": "Bolivia - Decreto Supremo No 0110 del 01 Mayo 2009",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/740/decreto-supremo-0110",
+      "titulo": "Decreto Supremo 0110 - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://leyesdecretosbolivia.blogspot.com/2020/08/decreto-supremo-n-0110-garantizar-el.html",
+      "titulo": "DECRETO SUPREMO N° 0110 - Garantizar el pago de indemnización por tiempo de servicios de las trabajadoras y trabajadores, luego de haber cumplido más de noventa (90) días de trabajo continuo",
+      "citada": false
+    },
+    {
+      "url": "http://gacetaoficialdebolivia.gob.bo/normas/buscar/110",
+      "titulo": "Decreto Supremo 110",
+      "citada": false
+    },
+    {
+      "url": "https://www.opinion.com.bo/opinion/frank-i-taquichiri/indemnizacion-laboral/20210611210849823085.html",
+      "titulo": "Indemnización laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.defensoria.gob.bo/uploads/files/inspectorias-de-trabajo-no-garantizan-cumplimiento-de-derechos-laborales..pdf",
+      "titulo": "Informe Defensorial",
+      "citada": false
+    },
+    {
+      "url": "https://sepmud.gob.bo/wp-content/uploads/2025/08/2450.pdf",
+      "titulo": "2450.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=80775",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 0012 por el que se reglamentan las condiciones de inamovilidad laboral de la madre y padre progenitores que trabajen en el sector público o privado.",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/582/decreto-supremo-0012",
+      "titulo": "Decreto Supremo 0012 - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.vobolex.org/bolivia/decreto-supremo-0012-del-19-febrero-2009/",
+      "titulo": "Bolivia - Decreto Supremo No 0012 del 19 Febrero 2009",
+      "citada": false
+    },
+    {
+      "url": "https://mintrabajo.gob.bo/wp-content/uploads/2025/09/9.-DECRETO-SUPREMO-012.pdf",
+      "titulo": "EVO MORALES AYMA PRESIDENTE DEL ESTADO PLURINACIONAL CONSIDERANDO:",
+      "citada": false
+    },
+    {
+      "url": "https://segib.org/wp-content/uploads/2025/11/Textos-legales_Bolivia_actualizados.pdf",
+      "titulo": "1 / 12 Constitución Política del Estado (de 7 de Febrero de 2009)",
+      "citada": false
+    },
+    {
+      "url": "https://www.sedegeslapaz.gob.bo/files/uploads/D.S.%20No.%20496%20(MODIFICA%20D.S.%20No.%20012).pdf",
+      "titulo": "G A C E T A O F I C I A L D E B O ...",
+      "citada": false
+    },
+    {
+      "url": "https://obs.organojudicial.gob.bo/wp-content/anexos/archivos/normativa/6e27849a2b0b262d81d4b616c9af39b4.pdf",
+      "titulo": "Bolivia: Decreto Supremo Nº 12, 19 de febrero de 2009",
+      "citada": false
+    },
+    {
+      "url": "https://www.noticiasfides.com/nacional/sociedad/beneficio-de-inamovilidad-laboral-se-amplia-a-padres-de-familia-con-esposas-embarazadas-206611",
+      "titulo": "Beneficio de inamovilidad laboral se amplia a padres de familia con esposas embarazadas - ANF Agencia de Noticias Fides Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://sea.gob.bo/digesto/CompendioNormativo/01.pdf",
+      "titulo": "Constitución Política del Estado Febrero de 2009 PREÁMBULO",
+      "citada": false
+    },
+    {
+      "url": "https://www.constituteproject.org/constitution/Bolivia_2009",
+      "titulo": "Bolivia (Plurinational State of) 2009 Constitution - Constitute",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N110.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 110, 1 de mayo de 2009",
+      "citada": false
+    },
+    {
+      "url": "https://constitutions.unwomen.org/en/countries/americas/bolivia",
+      "titulo": "Bolivia - Global Gender Equality Constitutional Database",
+      "citada": false
+    },
+    {
+      "url": "https://www.ppolegal.com/wp-content/uploads/2022/10/Estabilidad-laboral.-entre-el-derecho-de-los-trabajadores-y-la-seguridad-juridica-del-empleador.pdf",
+      "titulo": "Estabilidad laboral: entre el derecho de los trabajadores y la ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/dil/esp/constitucion_bolivia.pdf",
+      "titulo": "http://bolivia.infoleyes.com/shownorm.php?id=469[12/28/2011 4:30:59 PM]",
+      "citada": false
+    }
+  ]
+}

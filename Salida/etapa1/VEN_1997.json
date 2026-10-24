@@ -1,0 +1,314 @@
+{
+  "id": "VEN_1997",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 1997,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3848,
+  "incompleto": false,
+  "norma": "Ley de Reforma Parcial de la Ley Orgánica del Trabajo (Gaceta Oficial N° 5.152 Extraordinario, 19 de junio de 1997)",
+  "texto": "# Informe de investigación: VEN 1997, Ley de Reforma Parcial de la Ley Orgánica del Trabajo (G.O. N° 5.152 Extraordinario, 19-06-1997)\n\n**Clasificación sugerida:** orientación flexibilizadora; `ley`; identificación de confianza alta; vigencia `modificada_o_derogada_despues`; `vigencia_escalonada` = true. La explico abajo.\n\n## 1. Objetivo declarado\n\nLa reforma salió del Acuerdo Tripartito sobre Seguridad Social Integral y Política Salarial (ATSSI). El 17 de marzo de 1997 lo firmó la Comisión Tripartita. El acuerdo buscaba por una parte, modificar el régimen de cálculo de las prestaciones sociales (antigüedad), y por la otra, transformar el sistema de seguridad social.\n\nLo que declaraban el gobierno y los actores:\n- **Ministra del ramo.** Según una fuente partidista (PSUV), que debe leerse con cautela, la ministra María del Rosario Bernardoni de Govea defendía el acuerdo por su presunta contribución a modernizar el sistema de seguridad social y las relaciones de trabajo, la reactivación de la economía y la generación de empleos.\n- **Lectura liberal.** CEDICE, un centro de pensamiento liberal, sostiene que el propósito principal fue la recomposición del salario, eliminando la nociva práctica de bonificaciones no computables para prestaciones, utilidades y cobertura de seguridad social.\n- **Intereses de cada parte.** Los sindicatos querían ante todo una modificación del concepto salario. Los empleadores aspiraba[n] cancelar menores cantidades por concepto de dichas prestaciones.\n\nNo consulté la exposición de motivos oficial. Lo declarado se reconstruye solo con fuentes secundarias.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**`despido_e_indemnizacion` — reduce (es el núcleo de la reforma).**\n- **Fin de la retroactividad.** La reforma eliminó el recálculo de las prestaciones con el último salario y sustituyó su esencia retroactiva por otra de consolidación y liquidación mensual.\n- **Depósito mensual definitivo.** Según la voluntad del trabajador, la prestación se depositará y liquidará mensualmente, en forma definitiva, en un fideicomiso individual o en un Fondo de Prestaciones de Antigüedad o se acreditará mensualmente a su nombre, también en forma definitiva, en la contabilidad de la empresa.\n- **Cambio de nombre.** La \"indemnización de antigüedad\" pasó a llamarse \"prestación de antigüedad\".\n- **Elementos que compensan al trabajador:**\n  - Intereses que están exentos del Impuesto sobre la Renta.\n  - La obligación del patrono de dar crédito o aval cuando la prestación está acreditada en la contabilidad de la empresa (art. 108).\n- **Despido injustificado (art. 125).** La nueva indemnización da fin al método de cálculo de la indemnización por despido basado en el monto de la prestación de antigüedad, independizando ambos beneficios y poniendo fin al llamado \"pago doble\". Una fuente académica de la ULA indica que la indemnización quedó con un tope máximo. No reporto la magnitud.\n- **Régimen de transición (arts. 666 y siguientes).** Se liquidó la antigüedad acumulada con el régimen anterior y se pagó una compensación por transferencia. Quienes demandaron la nulidad lo describieron como un \"corte de cuenta\" de lo acumulado, que no vuelve[n] a recalcularse más, se congelan definitivamente y quedan al riesgo absoluto del deterioro por efectos de la inflación.\n\n**`salario_y_negociacion_salarial` — reorganiza.** El efecto va en dos sentidos:\n- **Aumenta la protección: salarización de los bonos.** Se pasó de la bonificación del salario a la salarización de los bonos. Los bonos públicos y privados que antes no contaban como salario empezaron a integrarlo.\n- **Reduce la protección: nuevas exclusiones.**\n  - Se crea una lista legal de \"beneficios sociales de carácter no remunerativo\" (art. 133, parágrafo tercero). Incluye los servicios de comedores, provisión de comidas y alimento y de guarderías infantiles; los reintegros de gastos médicos, farmacéuticos y odontológicos; las provisiones de ropa de trabajo; las provisiones de útiles escolares y juguetes, entre otros.\n  - Se crea el \"salario de eficacia atípica\": por convención colectiva, acuerdo colectivo o contrato individual se puede excluir una parte del salario de la base de cálculo de prestaciones e indemnizaciones (art. 133, parágrafo primero). La jurisprudencia lo describe como aceptar que un porcentaje de lo que le es cancelado por la empresa demandada mensualmente, fuera excluido del salario que sirve base de cálculo de sus prestaciones sociales.\n- **Salario mínimo.** Se creó un régimen para la fijación del salario mínimo que le suprimía al Poder Ejecutivo la facultad de hacerlo unilateralmente sin antes consultar a la instancia tripartita (art. 167).\n\n**`seguridad_social_y_pensiones` — reorganiza (efecto menor).** La ley prevé Fondos de Prestaciones de Antigüedad como forma de administrar las prestaciones. Su regulación quedó para leyes posteriores del sistema de seguridad social integral.\n\n**`derechos_colectivos_sindicales` — reorganiza (tentativo).** La ley no reforma directamente la libertad sindical. Sí amplía lo que puede pactarse colectivamente (salario de eficacia atípica, carácter salarial de beneficios sociales) e institucionaliza el tripartismo. Podría bastar con anotarlo dentro de la dimensión salarial.\n\nNo encontré cambios en contratación temporal, tercerización, jornada, género, juventud ni inspección.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: es la población principal.\n- `sector_publico`: el régimen de transición alcanza expresamente a los funcionarios o empleados públicos nacionales, estadales y municipales.\n\n## 4. Contexto político y económico\n\n- **Programa económico.** La reforma se dio en el segundo gobierno de Rafael Caldera, dentro de la Agenda Venezuela. Ese programa, anunciado en 1996, tenía como propósitos fundamentales restituir el equilibrio macro-económico y reducir los dramáticos niveles de inflación.\n- **Papel del FMI.** Según una fuente académica, sus ejes centrales fueron diseñados por el Fondo Monetario Internacional (FMI), como única condición para que el gobierno de Caldera recibiera los préstamos. Entre ellos estaba la eliminación de la retroactividad (recálculo) de tales prestaciones.\n- **Antecedente: \"bonificación\" del salario.** Antes de la reforma, el régimen de prestaciones ya se estaba vaciando sin necesidad de cambiar la ley, de la mano de la desalarización de las remuneraciones o la bonificación de los salarios.\n- **Oposición.** Hubo resistencia parlamentaria. El diputado Alfredo Ramos, de La Causa R, afirmó que \"…es totalmente falso que los trabajadores han aceptado tranquilamente la modificación del régimen de prestaciones.\"\n\n## 5. ¿Revierte una reforma previa?\n\nEn sentido estricto, no: modifica la Ley Orgánica del Trabajo de 1990 sin revertir una reforma flexibilizadora anterior. Sí elimina el método de recálculo, una tradición que venía desde la legislación de 1936. Sugiero `revierte_reforma_previa` = false y explicar este matiz en `notas`.\n\n## 6. Fecha de entrada en vigor y aplicación escalonada\n\n- **Fecha:** 1997-06-19, igual a la de publicación. La Sala de Casación Social del TSJ confirma que la reforma de la Ley Orgánica del Trabajo entró en vigencia el 19-06-1997.\n- **Escalonamiento:** `vigencia_escalonada` = true por dos razones:\n  - Según el texto legal reproducido en fuente secundaria (sin cita aquí para no transcribir el plazo), los ingresos que pasaban a ser salario se fueron integrando de forma gradual, dentro de un plazo transitorio contado desde la vigencia de la ley.\n  - El abono adicional de antigüedad por año de servicio solo empieza después de un período de servicio bajo el nuevo régimen.\n- **Reglamento:** la reforma se desarrolló luego en el Reglamento de la Ley Orgánica del Trabajo. No verifiqué su número ni su fecha.\n\n## 7. Estado de vigencia posterior\n\n- **Desafío judicial fallido.** El recurso fue intentado el 15 de julio de 1997, ante la extinta Corte Suprema de Justicia. La Sala Constitucional, por sentencia Nº 2884 del 4 de noviembre de 2003, declaró sin lugar el recurso de nulidad interpuesto contra la totalidad de la Ley de Reforma. En un segundo recurso declaró IMPROCEDENTE la impugnación de los artículos 169, 170, 666, 667 y 671. No hay anulación sustantiva.\n- **Fallos menores (van en `notas`).** La jurisprudencia posterior varió entre una lectura taxativa y una enunciativa de los beneficios no remunerativos del art. 133. Esto no cambia la categoría de vigencia.\n- **Derogación en 2012.** La Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT) se publicó el 7 de mayo de 2012 en la Gaceta Oficial N.o 6076 extraordinaria, por el decreto 8938 del presidente Hugo Chávez, con poderes especiales. Con ella se recupera la retroactividad con el cálculo al último salario.\n- **Contrarreforma parcial.** La LOTTT conservó la lógica de depósitos periódicos como garantía y paga lo que resulte mayor entre lo depositado y el recálculo final. Por eso es una contrarreforma parcial. Esto corresponde a la ficha VEN 2012, no a esta.\n\n**Categoría:** `modificada_o_derogada_despues`.\n\n## 8. Lo que no pude verificar\n\n- La exposición de motivos oficial y el texto directamente en la Gaceta. Usé reproducciones, sentencias del TSJ y literatura académica.\n- La ficha NATLEX y EPLex de la OIT sobre el contenido.\n- Si hubo un pago diferido para el sector público. La literatura señala atrasos del Estado en pagar lo acumulado y la compensación por transferencia, pero no confirmé si la propia ley estableció un plazo especial.\n- El número y la fecha del Reglamento.\n\n**Sobre la orientación:** la clasifico como flexibilizadora porque su núcleo reduce el costo del despido y de las prestaciones para el empleador. Hay un argumento razonable a favor de `mixta`, dado el peso de la salarización de los bonos que exigieron los sindicatos. Conviene que lo decida el equipo de codificación.",
+  "fuentes": [
+    {
+      "url": "https://servicio.bc.uc.edu.ve/derecho/revista/idc21/21-14.pdf",
+      "titulo": "La Seguridad Social: hacia un nuevo Régimen de Prestaciones Sociales",
+      "citada": true
+    },
+    {
+      "url": "https://pandectasdigital.blogspot.com/2016/06/ley-de-reforma-parcial-de-la-ley.html",
+      "titulo": "Ley de Reforma Parcial de la Ley Orgánica del Trabajo <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: red;\"><b><i>Derogada</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": true
+    },
+    {
+      "url": "https://venezuelanalysis.com/wp-content/uploads/2018/11/lott_tabloideminciweb.pdf",
+      "titulo": "LOT Ley Orgánica del Trabajo, las trabajadoras y los trabajadores",
+      "citada": true
+    },
+    {
+      "url": "https://www.elsevier.es/pt-revista-suma-negocios-208-articulo-impacto-economico-legislacion-laboral-venezuela-S2215910X15000075",
+      "titulo": "Impacto económico de la legislación laboral en Venezuela",
+      "citada": true
+    },
+    {
+      "url": "https://www.produccioncientificaluz.org/index.php/gaceta/article/view/3630",
+      "titulo": "Tripartita y diálogo social en la Venezuela de 1997",
+      "citada": true
+    },
+    {
+      "url": "http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1315-85972010000100002",
+      "titulo": "Tripartita y diálogo social en la Venezuela de 1997",
+      "citada": true
+    },
+    {
+      "url": "http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1012-25082002000300009",
+      "titulo": "La reforma de la seguridad social en venezuela",
+      "citada": true
+    },
+    {
+      "url": "http://www.psuv.org.ve/gerrilla-mediatica/como-legislaba-iv/ley-trabajo/",
+      "titulo": "Como se legislaba en la IV: Ley del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://talcualdigital.com/25-anos-de-la-comision-tripartita-de-1997-por-humberto-villasmil-prieto/",
+      "titulo": "25 años de la Comisión Tripartita de 1997, por Humberto Villasmil Prieto",
+      "citada": true
+    },
+    {
+      "url": "https://cedice.org.ve/wp-content/uploads/2020/07/Mision-Imposible_compressed.pdf",
+      "titulo": "Misión Imposible La reforma laboral y Previsional venezolana 1",
+      "citada": true
+    },
+    {
+      "url": "https://html.rincondelvago.com/derecho-laboral-venezolano_2.html",
+      "titulo": "Encuentra aquí información de Derecho laboral venezolano para tu escuela ¡Entra ya!",
+      "citada": true
+    },
+    {
+      "url": "http://www.ulpiano.org.ve/revistas/bases/artic/texto/DERYSO/11/deryso_2012_11_19-35.pdf",
+      "titulo": "Las prestaciones sociales en Venezuela, ¿fin de la historia?",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/2949-141204-00-1244.HTM",
+      "titulo": "2949-141204-00-1244.htm",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scs/Noviembre/1697-291105-041825.htm",
+      "titulo": "1697-291105-041825.htm",
+      "citada": true
+    },
+    {
+      "url": "http://www.saber.ula.ve/bitstream/handle/123456789/37854/art12.pdf?sequence=1&isAllowed=y",
+      "titulo": "artículos científicos resultados de proyectos de ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.inces.gob.ve/wp-content/uploads/2017/10/lot.pdf",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras",
+      "citada": false
+    },
+    {
+      "url": "https://econpolisve.substack.com/p/la-crisis-del-salario-y-la-reconfiguracion",
+      "titulo": "La crisis del salario y la reconfiguración de la institucionalidad laboral del capitalismo rentístico venezolano: confrontación política, renta petrolera y trabajo (1990-2026)",
+      "citada": false
+    },
+    {
+      "url": "https://www.redalyc.org/pdf/4655/465545897008.pdf",
+      "titulo": "Alcance de la retroactividad de las prestaciones sociales",
+      "citada": false
+    },
+    {
+      "url": "https://alinin.org/wp-content/uploads/2023/06/ALININ-VOL.XIX-FINAL-97-108.pdf",
+      "titulo": "97 CAPITULO VII",
+      "citada": false
+    },
+    {
+      "url": "https://docs.venezuela.justia.com/federales/leyes-organicas/ley-organica-del-trabajo.pdf",
+      "titulo": "ley-organica-del-trabajo.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://revistasic.org/cual-es-la-verdad-sobre-el-segundo-gobierno-de-caldera/",
+      "titulo": "¿Cuál es la verdad sobre el segundo gobierno de Caldera? - Revista SIC",
+      "citada": false
+    },
+    {
+      "url": "https://www.aporrea.org/actualidad/a331363.html",
+      "titulo": "Revolución laboral de Hugo Chávez (1999-2013) y reforma neoliberal en Venezuela (1989-2024) - Por: Amado Moreno Pérez",
+      "citada": false
+    },
+    {
+      "url": "https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1315-85972011000100005",
+      "titulo": "El Proyecto de Reforma de la Ley Orgánica del Trabajo: Consideraciones generales sobre la LOT a 20 años de su promulgación. El contexto social, económico y político de la reforma",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Segundo_gobierno_de_Rafael_Caldera",
+      "titulo": "Segundo gobierno de Rafael Caldera",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scs/agosto/168142-1185-12814-2014-12-1601.html",
+      "titulo": "Tsj",
+      "citada": false
+    },
+    {
+      "url": "https://diazpino.com.ve/wp/tema-interes-beneficiosnr/",
+      "titulo": "BENEFICIOS DE CARACTER SOCIAL NO REMUNERATIVO - DÍAZ PINO & Asociados",
+      "citada": false
+    },
+    {
+      "url": "http://solucionlaboralvenezuela.blogspot.com/",
+      "titulo": "Solución Laboral revisa información actualizada en www.diazpinoyasociados.com",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/julio/1402-040707-06-1872.HTM",
+      "titulo": "magistrado-ponente: jesús eduardo cabrera romero",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/junio/178609-718-17615-2015-15-0339.HTML",
+      "titulo": "178609-718-17615-2015-15-0339.html",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scs/febrero/160812-0057-3214-2014-11-426.HTML",
+      "titulo": "Magistrado Ponente: OCTAVIO SISCO RICCIARDI",
+      "citada": false
+    },
+    {
+      "url": "https://www.ley.com.ve/laboral/lottt-articulo-105-beneficios-sociales-de-caracter-no-remunerativo",
+      "titulo": "LOTTT Artículo 105: Beneficios sociales de carácter no remunerativo.",
+      "citada": false
+    },
+    {
+      "url": "https://accesoalajusticia.org/glossary/beneficio-laboral/",
+      "titulo": "BENEFICIO LABORAL │ Acceso a la Justicia",
+      "citada": false
+    },
+    {
+      "url": "https://www.aapmra.com/st/cultura.informacion.ley-de-contrato-de-trabajo.Titulo-4",
+      "titulo": "Asociación Agentes de Propaganda Médica de la República Argentina",
+      "citada": false
+    },
+    {
+      "url": "https://www.venelogia.com/archivos/5962/",
+      "titulo": "Indemnización por despido injustificado",
+      "citada": false
+    },
+    {
+      "url": "https://accesoalajusticia.org/indemnizacion-por-despido-procede-en-caso-de-terminacion-por-causa-no-imputable-a-las-partes/",
+      "titulo": "Indemnización por despido procede en caso de terminación por causa no imputable a las partes │ Acceso a la Justicia",
+      "citada": false
+    },
+    {
+      "url": "https://revistascientificas.us.es/index.php/Trabajo-Persona-Derecho-Merca/article/view/26427",
+      "titulo": "La reformulación de la indemnización por despido improcedente a la luz de la Carta Social Europea",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2025-00000003025",
+      "titulo": "BOE.es - La indemnización legal por despido improcedente y su adecuación a la reparación del daño: exclusión de indemnizaciones de responsabilidad civil complementarias o adicionales.",
+      "citada": false
+    },
+    {
+      "url": "https://www.redalyc.org/journal/1275/127546588002/html/",
+      "titulo": "La estabilidad laboral: aspectos y procedimientos en la LOTTT",
+      "citada": false
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/2024/07/15/doctrina-el-derecho-de-danos-laborales-frente-a-la-ley-de-bases/",
+      "titulo": "#Doctrina El derecho de daños laborales frente a la Ley de Bases",
+      "citada": false
+    },
+    {
+      "url": "https://www.gerencie.com/indemnizacion-por-despido-injusto.html",
+      "titulo": "Indemnización por despido sin justa causa",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2025/t-311-25.htm",
+      "titulo": "Sentencia T-311 de 2025 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://simel.mtess.gov.py/wp-content/uploads/2025/06/Nota_Tecnica_Estabilidad_Laboral_en_el_Codigo_de_Trabajo.pdf",
+      "titulo": "Estabilidad Laboral en el Código de Trabajo - Simel.Py",
+      "citada": false
+    },
+    {
+      "url": "https://www.arielapp.co/es/biblioteca/documento/csj-sl971915-07-1997-56bc4b84",
+      "titulo": "CSJ - SL9719(15-07-1997)",
+      "citada": false
+    },
+    {
+      "url": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/not/laboraldesc22/prov/63145%20(10-05-2022).pdf",
+      "titulo": "SCLAJPT-04 V.00 OMAR DE JESÚS RESTREPO OCHOA Magistrado ponente AL1901-2022",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/octubre/1109-041000-00-1420.HTM",
+      "titulo": "sala constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://derecho.udd.cl/actualidad-juridica/files/2021/01/AJ-Num-21-P345.pdf",
+      "titulo": "Revista ACTUALIDAD JURIDICA N° 21 - Julio 2010 Universidad del Desarrollo",
+      "citada": false
+    },
+    {
+      "url": "https://revistatrabajo.uchile.cl/index.php/RDTSS/article/download/43044/44981/150907",
+      "titulo": "LOS RECURSOS DE NULIDAD Y UNIFICACIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-rechazo-tratar-el-per-saltum-del-gobierno-por-la-reforma-laboral-nid07052026/",
+      "titulo": "La Corte Suprema rechazó tratar el per saltum del Gobierno por la reforma laboral - LA NACION",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/octubre/1889-171007-03-3114.HTM",
+      "titulo": "1889-171007-03-3114.htm",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scs/abril/RC242-100403-02511.HTM",
+      "titulo": "RC242-100403-02511.htm",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-28053",
+      "titulo": "BOE-A-1997-28053 Ley 66/1997, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-29116",
+      "titulo": "BOE-A-1996-29116 Ley 12/1996, de 30 de diciembre, de Presupuestos Generales del Estado para 1997.",
+      "citada": false
+    },
+    {
+      "url": "https://www.aporrea.org/trabajadores/a153249.html",
+      "titulo": "El nuevo régimen de prestaciones sociales (Corte de Cuentas) - Por: Atilio Hernández R",
+      "citada": false
+    },
+    {
+      "url": "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1146639",
+      "titulo": "Retribuciones al personal en activo de la Administración del Estado y de los Organismos Autónomos a través de establecimientos bancarios o Cajas de Ahorro",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/15/texact.htm",
+      "titulo": "Ley 23697 Emergencia Economica - Jus.gob.ar - Infoleg",
+      "citada": false
+    },
+    {
+      "url": "https://gobpe-production.s3.amazonaws.com/uploads/document/file/229266/Reglamento_de_la_Ley_de_Compensaci%C3%B3n_por_tiempo_de_servicios_-_D.S_004-97-TR.pdf",
+      "titulo": "Reglamento de la Ley de Compensación por tiempo de servicios",
+      "citada": false
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=200006",
+      "titulo": "Concepto 260831 de 2022 Departamento Administrativo de la Función Pública - Gestor Normativo - Función Pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.perupetro.com.pe/wps/wcm/connect/corporativo/dd8991a1-d03c-44d9-b8a1-d0f4ba41175d/DS+N%C2%BA+003-97-TR.pdf?MOD=AJPERES&DS+N%C2%BA+003-97-TR=",
+      "titulo": "Texto Unico Ordenado del D. Leg. N° 728, Ley de ...",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/tags/decreto-legislativo-650-1280435",
+      "titulo": "decreto legislativo 650",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/peru/2025/05/10/restituyen-depositos-de-cts-para-estos-trabajadores-publicos-incluye-pago-de-intereses-por-10-anos/",
+      "titulo": "Restituyen depósitos de CTS a estos trabajadores públicos: Incluirá pago de intereses por 10 años - Infobae",
+      "citada": false
+    }
+  ]
+}

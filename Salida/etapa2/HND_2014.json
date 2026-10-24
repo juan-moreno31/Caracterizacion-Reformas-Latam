@@ -1,0 +1,170 @@
+{
+  "id": "HND_2014",
+  "iso": "HND",
+  "pais": "Honduras",
+  "anio": 2014,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.057,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Decreto Legislativo No. 354-2013, Ley de Empleo por Hora (Honduras)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Legislativo No. 357-2013, Ley del INJUPEMP (publicada el 5 de abril de 2014)",
+      "Decreto Legislativo No. 130-2014, reforma a la Ley del INJUPEMP",
+      "Decreto 75-2014, sobre feriados (sin fuente oficial)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2014-03-31",
+    "vigencia_escalonada": false,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Según sus artículos 1 y 2, fomentar el empleo digno, mantener los puestos de trabajo y evitar el crecimiento del desempleo y el subempleo; extender la seguridad social y la salud ocupacional a estos trabajadores; fomentar la capacitación, el uso pleno de la capacidad instalada y la inversión, y facilitar la inserción laboral juvenil para reducir la violencia, la delincuencia juvenil y la migración.",
+    "descripcion_intenciones": "La ley eleva a rango permanente el empleo por horas o por medias jornadas, bajo modalidades a plazo o por obra o servicio determinado, utilizable por cualquier empleador dentro de un tope sobre su planilla y sin tope para actividades basadas en empleo por hora, como los centros de llamadas. Las prestaciones (aguinaldo, décimo cuarto mes, cesantía) se pagan prorrateadas con el salario, y la protección frente al despido se limita al plazo restante del contrato, sin reconocimiento pleno de antigüedad. Como contrapesos, incorpora a los trabajadores al IHSS, prohíbe reducir personal permanente, prevé la conversión gradual a contratos indefinidos, reserva contrataciones para grupos vulnerables y refuerza la inspección. Aunque se presenta como una ley de empleo digno y formalización, su efecto jurídico central es flexibilizar la contratación y abaratar las prestaciones.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Núcleo de la norma: habilita contratos por horas o medias jornadas a plazo o por obra, también para labores de temporada. Incluye contrapesos como la primera opción a plazas permanentes y la conversión parcial a contrato indefinido (art. 12)."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "La protección contra el despido injustificado se limita al plazo restante del contrato (art. 121 del Código de Trabajo), sin reconocimiento de antigüedad para preaviso y cesantía, sustituido por bonificaciones crecientes. Se prohíbe reducir personal permanente salvo justa causa, renuncia o mutuo acuerdo."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Fija una jornada mínima diaria de contratación y remite el pago de las horas extraordinarias al Código de Trabajo. Las ausencias que justifican despido se computan sobre las jornadas pactadas."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Salario por hora efectivamente trabajada, proporcional al mínimo sectorial, con derechos adquiridos prorrateados en cada pago. Los críticos señalan que el prorrateo menoscaba el salario completo."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Codificación tentativa: la cobertura del contrato colectivo queda condicionada a que el trabajador opte por cotizar conforme al artículo 60-A del Código de Trabajo. Los sindicatos presentaron una queja ante la OIT, sin pronunciamiento identificado."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Incorpora a los trabajadores al IHSS con cotización sobre el salario mensual devengado. Una fuente crítica no verificada sostiene que el techo de cotización limitaba la afiliación en la práctica."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Asigna la vigilancia a la Dirección General de Empleo y a la Inspectoría General del Trabajo, con registro obligatorio de las unidades productivas. Prohíbe los contratos verbales y multa el incumplimiento del resguardo de plazas permanentes."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Las empresas más pequeñas quedan fuera del tope de contratación, pero deben conservar el personal permanente existente a la entrada en vigencia."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Inclusión de grupos vulnerables: reserva parte de las contrataciones a adultos mayores, personas con discapacidad, jóvenes deportados o en riesgo de migrar y jóvenes que han abandonado pandillas. Su cumplimiento efectivo no está verificado."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Efecto débil: no crea un contrato juvenil. Solo incluye jóvenes en riesgo dentro de la cuota de vulnerables y establece la cotización de los empleadores al INFOP."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "informales",
+      "jovenes",
+      "empleadores_mipymes",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley se aprobó al final del período presidencial de Porfirio Lobo Sosa. Elevó a rango de ley permanente las modalidades del Programa Nacional de Empleo por Horas, creado por el Decreto 230-2010 como programa temporal de emergencia nacional ante la crisis económica y reglamentado por el Acuerdo STSS-002-2011. Se apoya en el Código de Trabajo y lo complementa, en particular sus artículos 60-A y 121. Enfrentó la oposición de organizaciones sindicales, sociales, de derechos humanos y de mujeres. Los críticos recordaron que el trabajo por horas ya estaba regulado desde 1974 por el Decreto Ley 121. No se consultaron fuentes de CEPAL ni del BID sobre el contexto macroeconómico (sin fuente).",
+    "notas": "Fechas de expedición: el Congreso aprobó la ley el 20 de enero de 2014, pero NATLEX registra como fecha de adopción el 24 de marzo de 2014, probablemente la sanción (no verificado). Se publicó en La Gaceta núm. 33,393 el 31 de marzo de 2014 y rige desde esa fecha. Derogación: fue derogada por el Decreto Legislativo No. 38-2022, por lo que el tratamiento fue real entre 2014 y 2022. La fecha de publicación de la derogación es discrepante: abril de 2022, con el 28 de abril como fecha más citada frente al 8 de abril según Lexology. El efecto de la derogación probablemente se produjo a fines de junio de 2022 (27 o 29 de junio según la fuente), aunque algunas fuentes indican vigencia inmediata. El decreto derogatorio traslada a los trabajadores al régimen general y prohíbe invocarlo como causal de despido. Fallos judiciales: no se identificó ninguno; se anunció un recurso de inconstitucionalidad que no llegó a presentarse. Evolución posterior: en marzo de 2026 entró en vigor una Ley de Empleo a Tiempo Parcial que, según la prensa, ocupa el espacio de esta ley y podría ser relevante para la base. Aspectos no verificados: el texto completo de los artículos 6 a 8 y 11 a 12 (OCR fragmentado), la existencia de un reglamento propio de la ley de 2014 (previsto en el art. 15) y pronunciamientos de la CEACR o del Comité de Libertad Sindical. Normas relacionadas: el Decreto 75-2014 sobre feriados carece de fuente oficial."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.trabajo.gob.hn/wp-content/uploads/2016/07/Gaceta-33393-Decreto-No.-354-2013-Ley-de-Empleo-por-Hora.pdf",
+      "titulo": "Gaceta-33393-Decreto-No.-354-2013-Ley-de-Empleo-por- ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.tsc.gob.hn/web/leyes/Ley_empleo_porHora_2014.pdf",
+      "titulo": "DIARIO OFICIAL DE LA REPUBLICA DE HONDURAS",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=96166",
+      "titulo": "Honduras - Decreto núm. 354-2013 que dicta la Ley de empleo por hora.",
+      "citada": true
+    },
+    {
+      "url": "https://derechosdelamujer.org/wp-content/uploads/2016/02/Empleo-temporal-por-horas-y-los-derechos-humanos-laborales.pdf",
+      "titulo": "Monitoreo y los derechos humanos laborales y los derechos humanos laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/congreso-aprueba-derogacion-ley-de-empleo-por-hora-honduras-AF7896552",
+      "titulo": "Congreso deroga la Ley de Empleo por Hora en Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/2022/04/27/derogacion-de-la-ley-de-empleo-por-hora-en-honduras-pasa-su-primer-debate/",
+      "titulo": "Derogación de la Ley de Empleo por Hora en Honduras pasa su primer debate",
+      "citada": true
+    },
+    {
+      "url": "https://www.elheraldo.hn/economia/ley-de-empleo-por-hora-honduras-datos-KB5663268",
+      "titulo": "5 cosas que establece la Ley de Empleo por Hora en Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2022/03/10/honduras-ley-de-empleo-por-hora-la-enganosa-ley-que-favorece-a-empresarios-y-cercena-derechos-de-trabajadores%EF%BF%BC/",
+      "titulo": "Honduras. Ley de Empleo por Hora, la engañosa ley que favorece a empresarios y cercena derechos de trabajadores - Resumen Latinoamericano",
+      "citada": true
+    },
+    {
+      "url": "https://tiempo.hn/aprobar-ley-de-empleo-por-hora/",
+      "titulo": "Consideran que el CN cometió una aberración al aprobar Ley de Empleo por Hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensa-latina.cu/2026/03/30/en-vigor-polemica-ley-de-empleo-por-hora-en-honduras/",
+      "titulo": "En vigor polémica ley de empleo por hora en Honduras - Noticias Prensa Latina",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=91079",
+      "titulo": "NATLEX - Honduras - Acuerdo núm. STSS-002-2011 por el que se dicta el Reglamento del Programa Nacional de Empleo por horas.",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=7b6f10e1-8d31-48f7-acc2-8dd79d73be23",
+      "titulo": "Derogación Ley de Empleo por Hora - Lexology",
+      "citada": true
+    },
+    {
+      "url": "https://proceso.hn/publicado-en-la-gaceta-decreto-que-derogo-ley-de-empleo-por-hora/",
+      "titulo": "Publicado en La Gaceta decreto que derogó Ley de Empleo por Hora - Proceso Digital",
+      "citada": true
+    },
+    {
+      "url": "https://www.rcv.hn/2022/05/03/gaceta-publica-derogacion-de-la-ley-de-empleo-por-hora/",
+      "titulo": "Gaceta publica derogación de la Ley de Empleo por Hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.ccit.hn/single-post/derogaci%C3%B3n-de-la-ley-de-empleo-por-hora",
+      "titulo": "Derogación de la Ley de Empleo por hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.hondudiario.com/2022/08/29/continua-el-vacio-legal-por-la-derogacion-de-ley-de-empleo-por-hora/",
+      "titulo": "Continúa el vacío legal por la derogación de Ley de Empleo por Hora - Hondudiario",
+      "citada": true
+    }
+  ]
+}

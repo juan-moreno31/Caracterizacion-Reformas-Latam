@@ -1,0 +1,254 @@
+{
+  "id": "ARG_1991",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.4154,
+  "incompleto": false,
+  "norma": "Ley 24.013 (Ley Nacional de Empleo)",
+  "texto": "# Informe de investigación: ARG 1991, Ley 24.013 (Ley Nacional de Empleo)\n\n## 1. Objetivo declarado\n\nEl artículo 2 de la ley fija sus objetivos. Entre ellos: promover la creación del empleo productivo a través de las distintas acciones e instrumentos contenidos en las diferentes políticas del gobierno nacional; fomentar las oportunidades de empleo para los grupos que enfrentan mayores dificultades de inserción laboral; organizar un sistema eficaz de protección a los trabajadores desocupados; y promover la regularización de las relaciones laborales, desalentando las prácticas evasoras. En el discurso público, las reformas laborales posteriores a la hiperinflación proclamaban un objetivo similar: atenuar la crisis y resultar competitivos en el mundo, flexibilizando las relaciones laborales.\n*No verificado:* no consulté la exposición de motivos ni el mensaje de elevación del Ejecutivo.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**contratacion_temporal: reduce.** La ley crea las modalidades \"promovidas\": las de trabajo por tiempo determinado como medida de fomento del empleo por lanzamiento de nueva actividad, de práctica laboral para jóvenes y de trabajo-formación. El contrato de fomento del empleo trae una exención parcial de contribuciones patronales (el empleador será eximido del pago de una parte de ellas). Al vencer el plazo de estos contratos, el trabajador cobra una indemnización reducida en lugar de la ordinaria (art. 38).\nLa ley también pone salvaguardas:\n- Habilitación sindical: las modalidades promovidas se habilitarán a través de las convenciones colectivas de trabajo.\n- Solo pueden usarse para contrataciones que superen el plantel promedio previo. Quedan excluidas las empresas con despidos colectivos recientes (art. 36).\n- La sucesión de contratos por encima del máximo autorizado convertirá al contrato en uno por tiempo indeterminado.\n- Rige la igualdad de trato con los trabajadores permanentes (salarios, condiciones de trabajo y garantías colectivas iguales).\n\n**despido_e_indemnizacion: reduce (con un matiz procedimental).** El artículo 153 sustituye el artículo 245 de la Ley de Contrato de Trabajo. Pone un tope a la base de cálculo de la indemnización por despido, referido al promedio de las remuneraciones del convenio colectivo (art. 153). Según la prensa especializada, con esta ley se reinstaló en el cálculo de la indemnización por antigüedad la utilización de los \"Topes indemnizatorios\".\nEn sentido contrario, la ley crea el procedimiento preventivo de crisis. Este procedimiento debe tramitarse antes de despidos o suspensiones por fuerza mayor o por causas económicas o tecnológicas. Mientras dura, el empleador no podrá ejecutar las medidas objeto del procedimiento, ni los trabajadores ejercer la huelga.\n\n**formalizacion_y_mipymes: aumenta.** La ley impone indemnizaciones a favor del trabajador cuando no está registrado. Por ejemplo: el empleador que no registrare una relación laboral abonará al trabajador afectado una indemnización. NATLEX indica que se crea un \"sistema único de registro laboral\". Hubo además una amnistía transitoria para quien registrara espontáneamente (art. 12). También se prevén programas de reconversión de actividades informales que promueven la pequeña empresa, microemprendimientos, modalidades asociativas como cooperativas de trabajo.\n\n**seguridad_social_y_pensiones: aumenta.** NATLEX señala que se establece un sistema integral de prestaciones por desempleo, financiado por el Fondo Nacional del Empleo. Hasta que ese sistema funcionara, la ley creó una prestación por desempleo con carácter transitorio.\n\n**salario_y_negociacion_salarial: reorganiza.** La ley crea un órgano tripartito: el Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil con las siguientes funciones: a) Determinar periódicamente el salario mínimo, vital y móvil.\n\n**empleo_juvenil_y_aprendizaje: reduce, con un componente compensatorio.** Los contratos de práctica laboral y de trabajo-formación quedan fuera de la indemnización al vencimiento y de la regla de conversión por contratos sucesivos (arts. 38 y 40). En paralelo, la ley prevé programas para jóvenes desocupados (art. 83).\n\n**derechos_colectivos_sindicales: reorganiza.** Según la literatura, por primera vez se trasladaba al ámbito de la negociación colectiva la posibilidad de contratos flexibles que anteriormente la ley impedía. A esto se suma la restricción a la huelga durante el procedimiento de crisis.\n\n**otro (políticas activas): aumenta.** La ley incluye programas de emergencia ocupacional, formación profesional y una red de servicios de empleo (art. 130). Para trabajadores con discapacidad, se duplican los plazos máximos de duración de los contratos (art. 42).\n\n**Orientación sugerida: `mixta`.** La ley combina flexibilización de entrada y salida con componentes protectores de peso: sanciones por empleo no registrado, seguro de desempleo y procedimiento de crisis. La literatura la lee como flexibilizadora, así que `flexibilizadora` es una alternativa defendible si se pondera el tope indemnizatorio. La decisión queda para la etapa de codificación.\n\n## 3. Población objetivo\n\n`asalariados_formales`, `informales`, `jovenes` y `empleadores_mipymes`. La reglamentación limita las modalidades a los trabajadores regidos por la Ley de Contrato de Trabajo (art. 1, Decreto 2725/91).\n\n## 4. Contexto político y económico\n\nPrimer gobierno de Carlos Menem, después de la hiperinflación de 1989. El proyecto de ley de empleo fue presentado por el poder ejecutivo a fines de 1989 (el cual fue aprobado recién en noviembre de 1991). Tras la Ley de Convertibilidad de abril de 1991, no se ocultaba el hecho de que la misma tenía como condición de sostenibilidad la flexibilidad hacia la baja de las condiciones de trabajo. Ante esta primera expresión de una nueva política laboral la CGT se dividió.\n\n**Declarado vs. efectivo.** Debido a trabas burocráticas y a la necesidad del consenso sindical para la ejecución de los cambios, la reforma de 1991 no tuvo demasiada incidencia. La flexibilización se profundizó con las leyes de 1995.\n\n## 5. ¿Revierte una reforma previa?\n\nNo hay una contrarreforma identificable de la norma en su conjunto. Sin embargo, el tope del artículo 245 \"se reinstaló\" según la prensa especializada, lo que indica que reintroduce un límite que había existido antes. *No verifiqué* qué norma lo había eliminado. Sugiero `revierte_reforma_previa` = no, con una nota sobre el tope.\n\n## 6. Fecha de entrada en vigor y aplicación escalonada\n\n- Sanción: 13-11-1991. Promulgación parcial: diciembre 5 de 1991. Esto confirma que el \"5-11-91\" del metadato es un error.\n- Vigencia: el Decreto 2726/91 se refiere a trabajadores cuya situación legal de desempleo comience a partir del día 26 de diciembre de 1991, es decir desde la vigencia de la Ley 24.013. Propongo **1991-12-26**. Esa fecha coincide con la regla supletoria del Código Civil sobre vigencia tras la publicación (17-12-1991), pero esa regla la aporto *sin fuente*.\n- **`vigencia_escalonada` = true**, por cuatro razones:\n  - Las contribuciones al Fondo serán exigibles a partir de los sueldos devengados desde el primer día del mes siguiente al de vigencia.\n  - Las modalidades promovidas dependían de su habilitación en convenios colectivos.\n  - El seguro de desempleo permanente se aplicó después de la prestación transitoria.\n  - Los decretos reglamentarios 2725/91 y 2726/91 son del 26-12-1991, se publicaron el 02-01-1992 y la fecha de entrada en vigencia de este último es el 02/01/1992.\n\n## 7. Estado de vigencia posterior\n\n**Propuesta: `modificada_o_derogada_despues`.**\n\n- **Ley 25.013 (1998):** derogó las modalidades promovidas y sus reglas. Así consta, por ejemplo, para el contrato de práctica laboral: derogado por Ley 25.013, art. 21 (B.O.: 24/9/98). Vigencia: a partir del 3/10/98. Los contratos en curso continuarán hasta su finalización, no pudiendo ser renovados ni prorrogados.\n- **Ley 27.742 (Ley Bases, 2024):** el texto oficial actualizado registra los artículos 8 a 17 como derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Con eso desaparecieron las sanciones por empleo no registrado, un componente central de la ley.\n  - **Discrepancia entre fuentes:** parte de la prensa atribuye esa eliminación a la reforma de 2026 (la reforma elimina las multas establecidas en la Ley 24.013). En cambio, un cuadro técnico sostiene que la Ley 27.802 no deroga las multas de los artículos 8°, 9° y 10. El texto oficial respalda la derogación de 2024.\n- **Ley 27.802 (2026):** la ley Nº 27.802, publicada en el Boletín Oficial el 6 de marzo de 2026, volvió a modificar la Ley 24.013 y el régimen indemnizatorio. *No verifiqué el texto oficial.*\n- **Fallo judicial (Vizzoti, CSJN):** la Corte resolvió que la base salarial no puede verse reducida más allá de cierto límite por el tope, y que la limitación se aplica sólo hasta el 33% de la mejor remuneración mensual normal y habitual computable. Este fallo recorta parcialmente el tope del artículo 153, aunque el tope sigue vigente. No anula el núcleo de la ley, así que propongo registrarlo en `notas` sin cambiar la categoría.\n  - La fuente del texto del fallo es un estudio jurídico. La fecha de la sentencia (2004) la aporto *sin fuente*.\n\n## Normas relacionadas y pendientes\n\n- **Decretos 2565/91, 2725/91 y 2726/91.** El 2726/91 reglamenta la prestación transitoria por desempleo y no figuraba en el informe previo.\n- **Decretos 1334/91 y 2284/91.** Siguen sin verificar en texto oficial.\n- **Otros puntos sin verificar:** las observaciones del veto parcial (qué artículos se vetaron) y cuánto se usaron efectivamente las modalidades promovidas.",
+  "fuentes": [
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/412/norma.htm",
+      "titulo": "LEY Nº 24.013 - INFOLEG",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24013-412/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 24013 - LEY DE EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/5000-9999/7968/texact.htm",
+      "titulo": "EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://www.barraqueros.org.ar/assets/i_ckfinder/userfiles/files/ley_nacional_de_empleo_24013.pdf",
+      "titulo": "LEY BASICA Ley Nacional de Empleo 24.013 Fecha de Norma: 05/12/1991",
+      "citada": true
+    },
+    {
+      "url": "https://apunty.com/doc/ley-24-013-ley-nacional-de-empleo-pdf-derecho-del",
+      "titulo": "Resumen",
+      "citada": true
+    },
+    {
+      "url": "https://bibliotecalegal1.blogspot.com/2020/08/ley-24013.html",
+      "titulo": "LEY 24.013 - BIBLIOTECA",
+      "citada": true
+    },
+    {
+      "url": "https://webapps.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=26593",
+      "titulo": "NATLEX - Argentina - Ley núm. 24013 - Ley Nacional de Empleo.",
+      "citada": true
+    },
+    {
+      "url": "https://archivo.consejo.org.ar/Bib_elect/septiembre08_CT/documentos/L24013.htm",
+      "titulo": "Ley 24.013",
+      "citada": true
+    },
+    {
+      "url": "https://upcndigital.org/~legislacion/Ley%20Contrato%20de%20Trabajo/1991-Ley%2024013_textact.pdf",
+      "titulo": "Ley Nº 24.013 (texto actualizado)",
+      "citada": true
+    },
+    {
+      "url": "https://www.cronista.com/impresa-general/el-tope-indemnizatorio-y-los-cambios-de-criterios/?outputType=amp-type",
+      "titulo": "El tope indemnizatorio y los cambios de criterios. - El Cronista",
+      "citada": true
+    },
+    {
+      "url": "https://perezmarzo.com.ar/juris-tope-indem",
+      "titulo": "Jurisprudencia - Inconstitucionalidad de tope indemnizatorio",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN24013.pdf",
+      "titulo": "EMPLEO Ley Nº 24.013 Ambito de aplicación, objetivos y ...",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/412/texact.htm",
+      "titulo": "Ley Nº 24013 - INFOLEG",
+      "citada": true
+    },
+    {
+      "url": "https://www.consejosalta.org.ar/wp-content/uploads/INFO.-GRAL.-REFORMA-LABORAL.pdf",
+      "titulo": "Reforma Laboral (Ley 27.802): cuadro comparativo resumido,",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/politica/2026/03/06/reforma-laboral-que-dice-la-reglamentacion-de-la-ley-y-cuales-son-los-principales-cambios-para-el-trabajador/",
+      "titulo": "Reforma laboral: qué dice la reglamentación de la ley y cuáles son los principales cambios para el trabajador - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://www.riadis.org/wp-content/uploads/2020/10/Ley-24013.pdf",
+      "titulo": "EMPLEO Ley Nº 24.013 Ambito de aplicación, objetivos y ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24013-412/actualizacion",
+      "titulo": "Ley 24.013 (Fondo Nacional de Empleo)",
+      "citada": true
+    },
+    {
+      "url": "https://sedici.unlp.edu.ar/bitstream/handle/10915/112360/Documento_completo.10560.pdf-PDFA.pdf?sequence=1",
+      "titulo": "1",
+      "citada": true
+    },
+    {
+      "url": "https://www.unse.edu.ar/trabajoysociedad/34%20COSCIA%20VANESA%20Reformas%20laborales%20de%20los%2090%20en%20Argentina.pdf",
+      "titulo": "Reformas laborales de los '90 en Argentina",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-412/actualizacion",
+      "titulo": "TEXTO ACTUALIZADO - Ley 24013 - LEY DE EMPLEO",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.arca.gob.ar/dcp/DEC_C_002726_1991_12_26",
+      "titulo": "decreto reglamentario de la ley de empleo",
+      "citada": true
+    },
+    {
+      "url": "https://apunty.com/doc/ds-argentina-ley24013-leydelempleo-pdf-derecho-del",
+      "titulo": "Apunte: ley 24.013",
+      "citada": false
+    },
+    {
+      "url": "https://urbeetius.org/wp-content/uploads/2025/03/Articulo-Estabilidad-Impropia-y-art-245-LCT-Nicolas-Roberti-Kamuh.pdf",
+      "titulo": "El sistema de estabilidad relativa impropia y el cálculo indemnizatorio.",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-400069",
+      "titulo": "RESUMEN - Disposición 153 / 2024 - CONVENCIONES COLECTIVAS DE TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://pasbba.com.ar/el-nuevo-art-245-bis-de-la-lct-y-la-reedicion-de-viejos-errores-del-pasado/",
+      "titulo": "El nuevo art. 245 bis de la LCT y la reedición de viejos errores del pasado.",
+      "citada": false
+    },
+    {
+      "url": "https://web.cpcecba.org.ar/reforma-laboral-principales-cambios-en-la-ley-de-contrato-de-trabajo-lct/",
+      "titulo": "Reforma laboral: principales cambios en la Ley de Contrato de Trabajo (LCT)",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambito.com/opiniones/sin-multas-laborales-la-reforma-el-costo-del-incumplimiento-no-el-del-empleo-n6332350",
+      "titulo": "Sin multas laborales: la reforma bajó el costo del incumplimiento, no el del empleo",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/comentario-a-las-modificaciones-sobre-la-registracion-laboral-del-anteproyecto-de-reforma-registracion-multas-regularizacion-del-empleo-no-registrado/20690",
+      "titulo": "Comentario a las modificaciones sobre la registración laboral del anteproyecto de reforma. Registración- Multas- Regularización del empleo no registrado.",
+      "citada": false
+    },
+    {
+      "url": "https://www.estudio-ofarrell.com/reforma-laboral-introducida-por-ley-bases-n-27-742/",
+      "titulo": "Reforma laboral introducida por Ley Bases N° 27.742",
+      "citada": false
+    },
+    {
+      "url": "https://www.perfil.com/noticias/economia/reforma-laboral-2026-cuando-empieza-a-regir-y-como-afectara-la-vida-de-los-trabajadores-a35.phtml",
+      "titulo": "Reforma laboral 2026: cuándo entra en vigencia y cómo afectará la vida de los trabajadores",
+      "citada": false
+    },
+    {
+      "url": "https://www.diariojudicial.com/news-98463-las-multas-laborales-dividen-aguas",
+      "titulo": "Las multas laborales dividen aguas",
+      "citada": false
+    },
+    {
+      "url": "https://pasbba.com.ar/reforma-laboral-ley-de-bases/",
+      "titulo": "Reforma Laboral Ley de Bases.",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/la-aplicacion-temporal-de-la-derogacion-de-las-sanciones-de-las-leyes-24013-25323-y-25345-una-vision-componedora/35363",
+      "titulo": "La aplicación temporal de la derogación de las sanciones de las leyes 24.013, 25.323 y 25.345: una visión componedora",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/reforma-laboral-introducida-por-ley-bases-n-27742/35098",
+      "titulo": "Reforma laboral introducida por Ley Bases N° 27.742",
+      "citada": false
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/CA38C22EFD0238E50525832F00772F08/$FILE/Ley_24.013.pdf",
+      "titulo": "1. Inicio 2. Normativa 3. Ley 24013/1991 4. Texto actualizado Ley 24013",
+      "citada": false
+    },
+    {
+      "url": "https://trabajo.misiones.gob.ar/wp-content/uploads/2020/03/Ley-de-empleo.pdf",
+      "titulo": "Ley Nº 24.013 Ambito de aplicación, objetivos y competencias. Regularización",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/10000-14999/14113/norma.htm",
+      "titulo": "InfoLEG - Ministerio de Justicia y Derechos Humanos - Argentina",
+      "citada": false
+    },
+    {
+      "url": "https://ar.vlex.com/vid/ley-24013-25624393",
+      "titulo": "Ley 24013 - Ley de empleo - vLex Argentina",
+      "citada": false
+    },
+    {
+      "url": "https://intersticios.es/article/download/8893/6257/30624",
+      "titulo": "MER GOBIERNO DE CARLOS MENEM (1989-1995",
+      "citada": false
+    },
+    {
+      "url": "https://aset.org.ar/congresos-anteriores/8/pdf/07209.pdf",
+      "titulo": "8° Congreso Nacional de Estudios del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.laizquierdadiario.com/Menem-lo-hizo-asi-ataco-derechos-y-conquistas-obreras",
+      "titulo": "Política. Menem lo hizo: así atacó derechos y conquistas obreras",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3994770.pdf",
+      "titulo": "EL ROL DEL PLAN DE CONVERTIBILIDAD ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.laizquierdadiario.com/La-reforma-laboral-de-Carlos-Menem",
+      "titulo": "Pasado presente. La reforma laboral de Carlos Menem",
+      "citada": false
+    },
+    {
+      "url": "https://agora.edu.es/descarga/articulo/2565775.pdf",
+      "titulo": "El Plan de Convertibilidad y el sindicalismo durante la primera ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.laizquierdadiario.com/Menem-y-los-90-ocho-claves-de-la-herencia-neoliberal-peronista",
+      "titulo": "ECONOMIA. Menem y los 90: ocho claves de la herencia neoliberal peronista",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/DN2726-1991.pdf",
+      "titulo": "EMPLEO Decreto 2726/91 Reglamentación de la Ley N° 24.013. Bs. As., 26/12/91",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-2726-1991-12367/texto",
+      "titulo": "TEXTO ORIGINAL - Decreto Reglamentario 2726 / 1991 - EMPLEO",
+      "citada": false
+    },
+    {
+      "url": "https://docs.argentina.justia.com/federales/decretos/decreto-n-2726-1991-jan-2-1992.pdf",
+      "titulo": "Decreto Nº 2726/1991 DECRETO REGLAMENTARIO DE LA LEY DE EMPLEO",
+      "citada": false
+    }
+  ]
+}

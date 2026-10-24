@@ -1,0 +1,116 @@
+{
+  "id": "MEX_2019",
+  "iso": "MEX",
+  "pais": "México",
+  "anio": 2019,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1347,
+  "incompleto": false,
+  "norma_propuesta": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del INFONAVIT y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva (DOF 01-05-2019)",
+  "otras": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social, en materia de las personas trabajadoras del hogar (DOF 02-07-2019); Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional (DOF 01-05-2019)",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de México en 2019 es el **Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del INFONAVIT y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva**. Se publicó en el Diario Oficial de la Federación (DOF) el 1 de mayo de 2019.\n\n**Qué es.** Este decreto aplica en la ley la reforma constitucional a los artículos 107 y 123 de 2017. Con él se cumplió el artículo Segundo Transitorio de esa reforma constitucional, para dar paso a un nuevo sistema de impartición de justicia laboral. Sus dos ejes son:\n- **Sindicatos y negociación colectiva:** garantiza la libre afiliación, la autonomía de los sindicatos y prohíbe toda injerencia en su vida interna. También busca negociar colectivamente de forma auténtica mediante el voto personal, libre y secreto.\n- **Justicia laboral:** las Juntas de Conciliación y Arbitraje desaparecen y las sustituyen Tribunales Laborales del Poder Judicial, en el ámbito federal y local. Además se crea una etapa obligatoria de conciliación antes del juicio.\n\n**Por qué la elijo.**\n- Figura en el registro oficial de reformas a la LFT de la Cámara de Diputados como reforma 30, DOF 01-05-2019.\n- La propia Secretaría del Trabajo la describe como \"una reforma amplia, histórica y profunda\".\n- Es la de mayor alcance sobre el mercado laboral en ese año.\n\n**Fecha de vigencia (para `notas`).** Según su primer artículo transitorio, entró en vigor el 2 de mayo de 2019, al día siguiente de su publicación. Esta fecha procede de una fuente secundaria y conviene contrastarla con el DOF. Su aplicación fue escalonada: tiene un régimen transitorio con plazos específicos para implementarla, y esos plazos se modificaron después por decreto.\n\n**Otras candidatas del mismo año.**\n1. **Decreto sobre personas trabajadoras del hogar (DOF 2 de julio de 2019).** Reforma la Ley Federal del Trabajo y la Ley del Seguro Social en materia de las personas trabajadoras del hogar. Es importante, pero se limita a un sector, así que la clasifico como norma relacionada. Además, su parte de seguridad social se aplazó: la incorporación al régimen obligatorio quedó sujeta a las adecuaciones legales y a la conclusión de un Programa Piloto.\n2. **Decreto que reforma la Ley Federal de los Trabajadores al Servicio del Estado.** Está publicado en el DOF el 1 de mayo de 2019 y lleva la lógica de libertad sindical al apartado B, es decir, al sector público.\n\nNo consulté NATLEX/OIT. Aun así, la confianza es alta porque la norma principal aparece en fuentes oficiales (DOF, Cámara de Diputados, STPS).\n\nNORMA: Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del INFONAVIT y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva (DOF 01-05-2019)\nOTRAS: Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social, en materia de las personas trabajadoras del hogar (DOF 02-07-2019); Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional (DOF 01-05-2019)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/HACIA_UN_NUEVO_MODELO_LABORAL.pdf",
+      "titulo": "HACIA UN NUEVO MODELO LABORAL 2019 REFORMA A LA LEY FEDERAL DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/sedia/biblio/prog_leg/Prog_leg_LXIV/025_DOF_01may19.pdf",
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-trimestrales/recuadros/%7B2A7BA161-E586-0233-6992-7800EEF8C010%7D.pdf",
+      "titulo": "Consideraciones sobre la Reforma Laboral de 2019 1",
+      "citada": true
+    },
+    {
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/02/asun_4305383_20220215_1644962008.pdf",
+      "titulo": "iniciativa que reforma el artículo quinto transitorio del decreto ...",
+      "citada": true
+    },
+    {
+      "url": "https://palaciosalba.wordpress.com/2019/06/10/reforma-a-la-lft-en-materia-de-justicia-laboral-libertad-sindical-y-negociacion-colectiva/",
+      "titulo": "Reforma a la LFT en materia de justicia laboral, libertad sindical y negociación colectiva.",
+      "citada": true
+    },
+    {
+      "url": "https://dof.gob.mx/nota_detalle.php?codigo=5565089&fecha=05%2F07%2F2019",
+      "titulo": "Lineamientos para la operación del Consejo ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+      "titulo": "Ley Federal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://dof.gob.mx/nota_detalle.php?codigo=5564651&fecha=02%2F07%2F2019",
+      "titulo": "DOF - Diario Oficial de la Federación",
+      "citada": true
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref30_01may19.pdf",
+      "titulo": "Reforma 30: Ley Federal del Trabajo. DOF 01-05-2019",
+      "citada": false
+    },
+    {
+      "url": "https://www.k-g.com.mx/reforma-a-la-ley-federal-del-trabajo/",
+      "titulo": "Reforma a la Ley Federal del Trabajo - KAVANAGH",
+      "citada": false
+    },
+    {
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo9059.html",
+      "titulo": "Ley Federal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-sexto/capitulo-xiii/",
+      "titulo": "Artículos 331 al 343 [Personas Trabajadoras del Hogar] ‹ Ley Federal del Trabajo (LFT)",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref32_02jul19.pdf",
+      "titulo": "Reforma 32: Ley Federal del Trabajo. DOF 02-07-2019",
+      "citada": false
+    },
+    {
+      "url": "https://sidof.segob.gob.mx/notas/5564651",
+      "titulo": "Diario Oficial de la Federación || Bienvenido al Sistema de Información del Diario Oficial de la Federación",
+      "citada": false
+    },
+    {
+      "url": "https://lefisco.com/dof/ley-seguro-social-trabajadoras-del-hogar/",
+      "titulo": "Reforma a la Ley Federal del Trabajo y a la Ley del Seguro Social en materia de trabajadoras del hogar - LEFISCO Leyes Correlacionadas",
+      "citada": false
+    },
+    {
+      "url": "https://politica.expansion.mx/mexico/2019/07/02/imss-para-trabajadoras-del-hogar-derechos",
+      "titulo": "Publican leyes en favor de trabajadoras del hogar, ¿de qué van y qué sigue?",
+      "citada": false
+    },
+    {
+      "url": "https://promesas-sin-cumplir.gire.org.mx/01-situacion-juridica-del-trabajo-del-hogar-remunerado-en-mexico/",
+      "titulo": "1. Situación jurídica del trabajo del hogar remunerado en México - Promesas sin cumplir",
+      "citada": false
+    },
+    {
+      "url": "https://www.vonwobeser.com/images/PDF_news/2019/Reforma-trabajadores-del-hogar_jul.pdf",
+      "titulo": "Reforma trabajadores del hogar",
+      "citada": false
+    },
+    {
+      "url": "https://extbox.ibero.mx/portaldocentes/url/20_1_33_19986_R.pdf",
+      "titulo": "REFORMA LEY SEGURO SOCIAL - PERSONAS TRABAJADORAS DEL HOGAR - DOF",
+      "citada": false
+    },
+    {
+      "url": "https://contadormx.com/derechos-y-prestaciones-de-las-personas-trabajadoras-del-hogar-lft-e-imss/",
+      "titulo": "Derechos y prestaciones de las Personas Trabajadoras del Hogar (LFT e IMSS) - ContadorMx",
+      "citada": false
+    }
+  ]
+}

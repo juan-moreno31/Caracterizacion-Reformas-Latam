@@ -1,0 +1,138 @@
+{
+  "id": "PER_1991",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0476,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Decreto Legislativo N.º 728 (Ley de Fomento del Empleo), 1991",
+    "tipo_instrumento": "decreto_legislativo",
+    "normas_relacionadas": [
+      "Decreto Legislativo N.º 650",
+      "Decreto Legislativo N.º 677",
+      "Decreto Legislativo N.º 688",
+      "Decreto Legislativo N.º 689",
+      "Decreto Legislativo N.º 713",
+      "Decreto Legislativo N.º 765",
+      "Ley 25327 (ley habilitante de facultades delegadas)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "1991-12-12",
+    "vigencia_escalonada": false,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Promover el acceso masivo al trabajo y crear nuevas oportunidades de empleo mediante la flexibilización de las modalidades de contratación laboral y la adecuación de la normatividad de la pequeña empresa, la microempresa y el trabajo autónomo, respetando las normas constitucionales de estabilidad laboral y tutelando al trabajador como parte débil de la relación.",
+    "descripcion_intenciones": "La reforma busca flexibilizar el régimen de estabilidad laboral absoluta instaurado por la Ley 24514, aunque el rango constitucional de la estabilidad en la Constitución de 1979 solo permitió eliminarla parcialmente. Su eje central es la ampliación y simplificación de los contratos temporales sujetos a modalidad, a lo que suma la habilitación de la intermediación laboral mediante empresas de servicios y cooperativas. En materia de despido, abre la posibilidad de sustituir la reposición por indemnización y excluye de la reposición a ciertos grupos, aunque crea la figura del despido nulo con reposición obligatoria. Además, regula la formación laboral juvenil y las prácticas preprofesionales como relaciones no laborales. La literatura económica sostiene que la intención real era más radical que la declarada: abolir la estabilidad laboral.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Facilita un amplio conjunto de contratos sujetos a modalidad (temporales, accidentales y de obra o servicio), deroga el D.L. 18138 y simplifica los trámites administrativos. Lo matizan las reglas de desnaturalización y la igualdad de beneficios con los trabajadores por tiempo indeterminado."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Permite que el juez sustituya la reposición por indemnización, excluye de la reposición al personal de dirección, a los trabajadores de confianza y a los de empresas pequeñas, e incorpora el cese colectivo por causas objetivas. Como contrapeso, crea el despido nulo con reposición obligatoria."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Regula y habilita a las empresas de servicios temporales y complementarios y a las cooperativas de trabajadores suministradoras de servicios. También exige que estas entidades regularicen su situación jurídica."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "La formación laboral juvenil y las prácticas preprofesionales no originan vínculo laboral, y la subvención no está sujeta a aportaciones. Se otorgan garantías de subvención, seguro y una opción preferencial de admisión."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Incluye capítulos sobre programas especiales de empleo, reconversión productiva del sector informal urbano, empleo autónomo y trabajo a domicilio. Su contenido sustantivo no fue verificado."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Capacitación laboral y productividad: según NATLEX, la norma dedica un título a esta materia. Su contenido no fue verificado."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "jovenes",
+      "empleadores_mipymes",
+      "informales"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La norma se expidió durante el primer gobierno de Alberto Fujimori, en pleno ajuste estabilizador, liberalización económica y reforma del Estado, bajo la Constitución de 1979 y antes del autogolpe de abril de 1992. El Ejecutivo la dictó con facultades delegadas por la Ley 25327, que contó con amplio consenso parlamentario. La Comisión de la Verdad sostiene que la emisión casi simultánea de decretos en noviembre de 1991 buscó desbordar y desprestigiar al Congreso. La reforma revierte parcialmente la estabilidad laboral absoluta que la Ley 24514 había establecido en 1986 durante el gobierno de García, y deroga el D.L. 18138 sobre contratación a plazo.",
+    "notas": "Se publicó en El Peruano el 1991-11-12 y entró en vigor el 1991-12-12 según NATLEX, porque la Ley 25327 dispuso la vigencia de los decretos legislativos treinta días después de su publicación. La reforma creó un régimen dual: según la Segunda Disposición Transitoria y Final, quienes tenían contrato vigente al 8 de noviembre de 1991 siguieron regidos por la Ley 24514 en materia de faltas graves, reposición y tarifa indemnizatoria. Por eso, el tratamiento en despido afecta solo a las contrataciones posteriores a esa fecha de corte. Se otorgó además un plazo de adecuación a las empresas de servicios temporales y complementarios. No se marca vigencia escalonada porque no hubo entrada diferida de partes clave. En cuanto a modificaciones posteriores, el D.L. 765 modificó un artículo en noviembre de 1991 (no verificado). La Ley 26513 de 1995 profundizó la reforma: eliminó la reposición ante el despido arbitrario y derogó la Ley 24514, con lo que terminó el régimen dual; el TUO se aprobó por D.S. 05-95-TR. El D.L. 855 de 1997 dividió la norma en la Ley de Formación y Promoción Laboral y la Ley de Productividad y Competitividad Laboral (D.S. 003-97-TR). La sentencia del Tribunal Constitucional Exp. 1124-2001-AA/TC de 2002 (caso Telefónica) declaró inaplicable el segundo párrafo del artículo 34 del TUO. Ese fallo recae sobre una regla introducida en 1995, amplía la protección y tiene efectos inter partes, por lo que no altera la categoría de vigencia. No se encontraron fallos contra el texto original de 1991. No se verificó el contenido de los títulos sobre remuneración, período de prueba, capacitación, programas especiales y sector informal. No se codifica mujeres por falta de instrumentos específicos verificados, y la población informales se incluye con confianza menor. Los derechos colectivos corresponden al D.L. 25593 de 1992."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.oas.org/juridico/pdfs/mesicic4_per_dl728.pdf",
+      "titulo": "DECRETO LEGISLATIVO Nº 728 CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/VI-Congreso-Nacional-full-91-143.pdf",
+      "titulo": "91 ESTADO ACTUAL DE LA ESTABILIDAD LABORAL CARLOS BLANCAS BUSTAMANTE",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pj.gob.pe/revista/index.php/ropj/article/download/382/626",
+      "titulo": "https://revistas.pj.gob.pe/revista/index.php/ropj/article ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.ipe.org.pe/wp-content/uploads/2018/01/1999-La-Flexibilizacion-del-Mercado-Laboral.pdf",
+      "titulo": "La Flexibilización del Mercado Laboral Jaime Saavedra",
+      "citada": true
+    },
+    {
+      "url": "https://www.grade.org.pe/wp-content/uploads/ddt28.pdf",
+      "titulo": "(PDF) Estabilidad laboral e indemnización: efectos de los ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=25534",
+      "titulo": "NATLEX - Peru - Decreto legislativo núm. 728, por el que dictan ley de fomento del empleo.",
+      "citada": true
+    },
+    {
+      "url": "https://www.senasa.gob.pe/senasa/wp-content/uploads/2017/09/DECRETO-LEG-N%C3%82%C2%BA-728.pdf",
+      "titulo": "1 Dictan Ley de Fomento del Empleo DECRETO LEGISLATIVO Nº 728 (*)",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/5085279.pdf",
+      "titulo": "187 El despido en la reforma de la ley de Fomento del Empleo",
+      "citada": true
+    },
+    {
+      "url": "https://www.deperu.com/legislacion/ley-25327-pdf.html",
+      "titulo": "Ley 25327 - PDF",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Homenaje-bodas-de-plata-full-133-152.pdf",
+      "titulo": "133 LA FLEXIBILIDAD REVISITADA: A 25 años de las reformas laborales sobre",
+      "citada": true
+    },
+    {
+      "url": "http://www.derechos.org/nizkor/peru/libros/cv/iii/23.html",
+      "titulo": "Informe Comisión Verdad Perú: Tomo III LA DÉCADA DE LOS NOVENTA Y LOS DOS GOBIERNOS DE ALBERTO FUJIMORI",
+      "citada": true
+    },
+    {
+      "url": "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00728.pdf",
+      "titulo": "DECRETO LEGISLATIVO Nº 728 CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://www.tc.gob.pe/jurisprudencia/2002/01124-2001-AA.html",
+      "titulo": "1124-2001-AA",
+      "citada": true
+    }
+  ]
+}

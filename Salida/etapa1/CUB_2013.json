@@ -1,0 +1,239 @@
+{
+  "id": "CUB_2013",
+  "iso": "CUB",
+  "pais": "Cuba",
+  "anio": 2013,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3844,
+  "incompleto": false,
+  "norma": "Ley No. 116 de 2013, \"Código de Trabajo\"",
+  "texto": "# Informe de investigación: Cuba (CUB) 2013, Ley No. 116, \"Código de Trabajo\"\n\n**Hallazgo principal:** la Ley 116 ya fue derogada. La Ley 189 la sustituyó: se publicó el 18 de septiembre de 2026 y entró en vigor el 25 de septiembre de 2026. Por tanto, `estado_vigencia` debe ser **modificada_o_derogada_despues**.\n\n## 1. Objetivo declarado\n\nEl preámbulo vincula la norma a los Lineamientos del VI Congreso del Partido. Ese modelo, además de la empresa estatal como forma principal, reconoce y promueve otras formas de gestión no estatal y que tiene como fundamento esencial, elevar la eficiencia del trabajo, lo que exige un sistema normativo legal atemperado a las relaciones de producción que surgen de ese cambio. El Código se presenta como una norma que consolida y perfecciona las regulaciones que garantizan la protección de los derechos y el cumplimiento de los deberes en la relación laboral. Proclama además el derecho al empleo tanto en el sector estatal como no estatal; sin discriminación por el color de la piel, género, creencias religiosas, orientación sexual, origen territorial, discapacidad.\n\nEn resumen, el objetivo declarado combina dos cosas: adaptar el derecho laboral a una economía con un sector no estatal en expansión y elevar la eficiencia, sin abandonar el discurso protector.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**Advertencia general:** no encontré una fuente que compare artículo por artículo con la Ley 49 de 1984. Lo que sigue describe lo que la Ley 116 establece. Afirmar que algo es \"nuevo\" respecto del código anterior queda **sin fuente**, salvo que se indique otra cosa.\n\n- **formalizacion_y_mipymes (reorganiza, con protección baja).** Es el núcleo de la reforma. En el sector no estatal las relaciones de trabajo entre trabajadores y personas naturales autorizadas a actuar como empleadores se formalizan mediante un contrato de trabajo o documento equivalente, pero en estas relaciones rigen las disposiciones establecidas en esta Ley para el contrato de trabajo por tiempo determinado o para la ejecución de un trabajo u obra. Es decir, el asalariado privado entra en el Código, pero con un régimen temporal. Las cooperativas y formas asociativas se consideran entidades con respecto a sus trabajadores asalariados. El propio Ministerio de Trabajo reconoció en 2026 que, con la Ley 116, los trabajadores del sector no estatal contaban con derechos mínimos establecidos en otras normas.\n\n- **contratacion_temporal (reorganiza).** La ley regula los contratos por tiempo indeterminado y por tiempo determinado u obra. Los segundos se admiten para labores eventuales, sustituciones, período de prueba y otros que lo requieran, una causal abierta. En cuanto al período de prueba, durante el mismo cualquiera de las partes puede dar por terminada la relación de trabajo, y el empleador puede eximirlo. Si vence sin oposición, se formaliza la relación de trabajo por tiempo indeterminado. También existe un contrato indeterminado para labores discontinuas o cíclicas. Un dato apunta a que la Ley 116 no prohibía el uso de contratos temporales para labores permanentes: la Ley 189 lo prohíbe y lo presenta como novedad con el propósito de garantizar una mayor estabilidad en el empleo.\n\n- **despido_e_indemnizacion (reduce).** El Código incorpora la figura de los trabajadores \"disponibles\" en el sector estatal. El principio de idoneidad demostrada rige el proceso de determinación de los trabajadores que permanecen en la entidad y de los disponibles. El empleador debe informar previamente a la organización sindical a su nivel y a los trabajadores, sobre la aplicación del proceso de disponibilidad, pero la ley exige información, no acuerdo. También regula a los trabajadores \"interruptos\" por paralización transitoria. No pude verificar si la disponibilidad ya existía en resoluciones anteriores (sin fuente).\n\n- **jornada_y_horas_extra (reorganiza).** Las horas extras requieren del acuerdo previo del empleador y de la organización sindical correspondiente, y el trabajador no está obligado a hacerlas salvo en casos de interés social. Se permiten contratos a tiempo parcial con remuneración proporcional al tiempo de trabajo y la realización de labores adicionales mediante otro contrato.\n\n- **salario_y_negociacion_salarial (reorganiza).** El salario mínimo lo aprueba el Consejo de Ministros, oído el parecer de las organizaciones sindicales correspondientes. La ley admite componentes de la remuneración condicionados al incremento de la eficiencia, coherente con el objetivo de eficiencia.\n\n- **derechos_colectivos_sindicales (reorganiza; sin ampliación de autonomía).** Los trabajadores pueden asociarse de conformidad con los principios unitarios fundacionales, lo que consagra el modelo de sindicato único. Los dirigentes sindicales tienen garantías frente a traslados, sanciones o despidos por su función. El convenio colectivo es obligatorio también para los no afiliados y tiene que ser discutido y aprobado en asamblea de trabajadores. No encontré en las fuentes consultadas una regulación del derecho de huelga. La prensa crítica de 2026 subraya que tampoco la Ley 189 lo reconoce.\n\n- **justicia_laboral_e_inspeccion (reorganiza).** Crea una vía dual. En el sector estatal se reclama ante el Sistema de Justicia Laboral. Quienes trabajan para personas naturales presentan sus reclamaciones en materia laboral directamente ante los tribunales municipales populares. La inspección corresponde al Ministerio de Trabajo y Seguridad Social mediante la Oficina Nacional de Inspección del Trabajo. Según el Ministerio en 2025, el acceso judicial era limitado: \"El código actual solo permite acudir a la justicia cuando se despide al trabajador; aquí se incluye cualquier medida disciplinaria\".\n\n- **empleo_juvenil_y_aprendizaje (aumenta).** El empleador puede contratar excepcionalmente a jóvenes por debajo de la edad general de admisión con el consentimiento de los padres o tutores. La ley exige examen médico y capacitación bajo tutoría, y prohíbe trabajos con riesgos físicos y psicológicos, nocturnos o con sustancias peligrosas.\n\n- **genero_y_conciliacion (aumenta o mantiene).** Entre los principios figuran los derechos de la trabajadora para proteger su maternidad y facilitar su atención médica, el descanso pre y postnatal y el cuidado de los hijos menores. A esto se suma la cláusula antidiscriminatoria, que incluye la orientación sexual. No pude verificar si alguno de estos elementos amplía la Ley 49.\n\n- **seguridad_social_y_pensiones (aumenta, de forma tentativa).** Los trabajadores no subordinados a un empleador tienen los derechos y obligaciones de la seguridad social, lo que cubre a los cuentapropistas.\n\n## 3. Población objetivo\n\n`asalariados_formales` (sector estatal, incluidos los afectados por la disponibilidad), `empleadores_mipymes` (personas naturales empleadoras, cooperativas y formas asociativas), `jovenes` y `mujeres`. Si la base clasifica a los empleados estatales como sector público, también aplicaría `sector_publico`. Los trabajadores de entidades de inversión extranjera quedan bajo el Sistema de Justicia Laboral.\n\n## 4. Contexto político y económico\n\nLas fuentes consultadas solo confirman el marco formal: los Lineamientos del VI Congreso, ratificados por la Asamblea Nacional, y la \"actualización del modelo económico\". **Sin fuente:** el programa de reducción de plantillas estatales iniciado hacia 2010, la ampliación del trabajo por cuenta propia y las consultas previas a la aprobación del Código. Estos elementos son plausibles, pero no los verifiqué.\n\n## 5. ¿Revierte una reforma previa?\n\nNo hay evidencia de que lo haga. La Ley 116 sustituye a la Ley 49 de 1984 como código general, pero ninguna fuente la describe como contrarreforma. Propuesta: `revierte_reforma_previa` = false.\n\n## 6. Entrada en vigor\n\nLa ley se aprobó el 2013-12-20 y, según NATLEX (informe previo), entró en vigor el **2014-06-18**, junto con su Reglamento, el Decreto 326. Esto debe anotarse en `notas`, porque el año de la base no coincide con el de vigencia. El proyecto parlamentario de 2026 confirma que la Ley 116 estuvo vigente desde junio de 2014. No encontré partes clave con aplicación diferida: `vigencia_escalonada` = false. Persiste el error de fecha en la portada de la versión oficial actualizada (2013 en lugar de 2014), ya señalado en el informe previo.\n\n## 7. Estado de vigencia posterior\n\n**Modificaciones parciales.** La versión oficial está actualizada: 20 de febrero de 2020, pero no identifiqué qué normas la modificaron. El preámbulo de la Ley 189 menciona además cambios derivados de la Ley 141 \"Código de Procesos\", de 28 de octubre de 2021, relacionados con el acceso de los trabajadores a la vía judicial.\n\n**Derogación.** El proyecto de nuevo Código **ya fue aprobado**. La Asamblea Nacional aprobó la Ley 189 el 30 de julio de 2026, y sustituye a la norma que regía la isla desde 2014. Se publicó en la Gaceta No. 78 Ordinaria de 2026 (2026-09-18).\n\n**Fecha de vigencia de la Ley 189: hay fuentes en conflicto.** Algunas notas de prensa (CiberCuba, Cubafull) dicen que entraría en vigor tras un plazo largo. Ese plazo corresponde en realidad al período de adaptación de los empleadores. La transcripción del texto oficial dispone que la ley entra en vigor en un plazo de siete días posteriores a su publicación. Los medios oficiales coinciden y fijan la fecha en el 25 de septiembre de 2026.\n\nEsa transcripción procede de un sitio espejo (cibercuba.com), no del portal de la Gaceta. Conviene contrastarla con el PDF oficial. Para la base, la Ley 116 rigió entre junio de 2014 y septiembre de 2026.\n\n**Fallos judiciales.** No identifiqué ninguno que anulara o suspendiera partes de la Ley 116. Tampoco pude verificar con fuentes si existe en Cuba una vía de control constitucional que pudiera haberlo hecho (sin fuente).\n\n## Pendiente de verificar\n\n- Comparación artículo por artículo con la Ley 49 de 1984. Sin ella, la dirección del cambio en cada dimensión es una interpretación del texto vigente, no una variación verificada.\n- Qué normas produjeron la versión actualizada a 2020.\n- Si la disponibilidad ya existía en normas anteriores.\n- El contexto macroeconómico y de política de empleo.\n- Valoraciones de la OIT sobre la Ley 116 (no encontré EPLex ni informes de país en esta búsqueda).\n\n**Propuesta tentativa para la etapa de codificación:**\n- `orientacion_general`: mixta. La norma extiende formalmente el Código al sector no estatal, pero con estándares mínimos y temporales, y consolida la disponibilidad en el sector estatal, junto con garantías para jóvenes y mujeres.\n- `tipo_instrumento`: codigo.\n- `confianza_identificacion`: alta.",
+  "fuentes": [
+    {
+      "url": "https://www.gacetaoficial.gob.cu/es/ley-no-116-codigo-de-trabajo",
+      "titulo": "Ley No. 116 “Código de Trabajo”",
+      "citada": true
+    },
+    {
+      "url": "https://www.minjus.gob.cu/sites/default/files/archivos/publicacion/2019-11/ley_116_codigo_de_trabajo.pdf",
+      "titulo": "Ley No. 116, “Código de Trabajo”",
+      "citada": true
+    },
+    {
+      "url": "https://www.3ce.cu/sites/default/files/2023-01/ley-116-codigo-del-trabajo.pdf",
+      "titulo": "Ley No. 116, Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.parlamentocubano.gob.cu/sites/default/files/documento/2026-06/proyecto-ley-codigo-del-trabajo_vf-en-a3.pdf",
+      "titulo": "PROYECTO LEY DEL CÓDIGO DE TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.cubafull.com/noticia/ley-189-codigo-trabajo-cuba",
+      "titulo": "Ley 189 Cuba: qué cambia en el Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.tvyumuri.cu/cuba/codigo/",
+      "titulo": "Publicado el nuevo Código de Trabajo - TV Yumurí",
+      "citada": true
+    },
+    {
+      "url": "https://www.valuarte.cu/wp-content/uploads/2024/05/DL-116-2020-Codigo-de-Trabajo.pdf",
+      "titulo": "[Escriba texto] ACTUALIZADO: 20 de febrero de 2020",
+      "citada": true
+    },
+    {
+      "url": "https://cubajobs.net/blog/nuevo-codigo-trabajo-cuba-2026/",
+      "titulo": "Nuevo Código de Trabajo en Cuba 2026: cambios clave",
+      "citada": true
+    },
+    {
+      "url": "https://www.cibercuba.com/s/gacetaoficial/ley-189-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Ley 189 - Código de Trabajo - Asamblea Nacional del Poder Popular de la Repóblica de Cuba",
+      "citada": true
+    },
+    {
+      "url": "http://www.cubadebate.cu/noticias/2026/09/18/publicado-el-nuevo-codigo-de-trabajo-estas-son-sus-principales-novedades-pdf/",
+      "titulo": "Publicado el nuevo Código de Trabajo: estas son sus principales novedades (+ PDF) - Cubadebate",
+      "citada": true
+    },
+    {
+      "url": "https://www.mtss.gob.cu/noticias/actualizacion-del-codigo-de-trabajo-en-cuba-que-novedades-trae-el-anteproyecto",
+      "titulo": "Actualización del Código de Trabajo en Cuba: ¿Qué novedades trae el anteproyecto?",
+      "citada": true
+    },
+    {
+      "url": "https://finiquitojusto.com/derechos-laborales/periodo-prueba-cuba/",
+      "titulo": "Período de Prueba en Cuba 2026: Duración y Derechos",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajadores.cu/20180503/ley-no-116-codigo-de-trabajo/",
+      "titulo": "Ley No. 116 Código del Trabajo de la República de Cuba",
+      "citada": false
+    },
+    {
+      "url": "https://www.minjus.gob.cu/sites/default/files/archivos/publicacion/2025-09/CODIGO%20FINAL%2031-7-2025_4.pdf",
+      "titulo": "| Anteproyecto de ley Código de Trabajo 1",
+      "citada": false
+    },
+    {
+      "url": "https://finiquitojusto.com/derechos-del-trabajador/derechos-laborales-en-cuba/",
+      "titulo": "Derechos Laborales Cuba 2026: Guía Código y Salario MTSS",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecolex.org/es/details/legislation/ley-no-116-codigo-de-trabajo-lex-faoc134815/",
+      "titulo": "Ley Nº 116 - Código de Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.escambray.cu/wp-content/uploads/2025/09/CODIGO-FINAL-31-7-2025_4.pdf",
+      "titulo": "| Anteproyecto de ley Código de Trabajo 1",
+      "citada": false
+    },
+    {
+      "url": "https://www.presidencia.gob.cu/es/noticias/nuevo-codigo-de-trabajo-una-herramienta-fundamental-para-la-implementacion-de-las-trasformaciones-socioeconomicas/",
+      "titulo": "Nuevo Código de Trabajo: una herramienta fundamental para la implementación de las trasformaciones socioeconómicas",
+      "citada": false
+    },
+    {
+      "url": "https://www.ics.gob.cu/en/nuevo-codigo-del-trabajo-una-ley-para-todos-y-todas/",
+      "titulo": "Nuevo Código del Trabajo: un instrumento de justicia social para todos y todas",
+      "citada": false
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2026/09/20/cuba-aprueban-nuevo-codigo-de-trabajo-amplia-derechos-laborales",
+      "titulo": "Cuba. Aprueban nuevo Código de Trabajo; amplía derechos laborales - Resumen Latinoamericano",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/america/agencias/2026/07/30/la-asamblea-nacional-cubana-avala-nuevo-codigo-del-trabajo/",
+      "titulo": "La Asamblea Nacional cubana avala nuevo Código del Trabajo - Infobae",
+      "citada": false
+    },
+    {
+      "url": "http://www.cubadebate.cu/noticias/2026/07/30/nuevo-codigo-de-trabajo-una-norma-adaptada-a-las-transformaciones-economicas-y-sociales-del-pais/",
+      "titulo": "Nuevo Código de Trabajo: Una norma adaptada a las transformaciones económicas y sociales del país - Cubadebate",
+      "citada": false
+    },
+    {
+      "url": "https://www.granma.cu/cuba/2026-07-30/un-codigo-de-trabajo-ajustado-a-los-nuevos-tiempos-y-a-las-transformaciones-del-pais-30-07-2026-16-07-52",
+      "titulo": "Un Código de Trabajo ajustado a los nuevos tiempos y a las transformaciones del país › Cuba › Granma - Órgano oficial del PCC",
+      "citada": false
+    },
+    {
+      "url": "https://en.cibercuba.com/noticias/2026-08-22-u1-e43231-s27061-nid338456-asamblea-nacional-aprueba-nuevo-codigo-trabajo-cuba",
+      "titulo": "New Labor Code in Cuba: The regime modernizes the law without recognizing fundamental rights",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.ucm.es/index.php/POSO/article/download/65308/4564456555199/4564456601875",
+      "titulo": "El impacto de la huelga en los procesos de politización ...",
+      "citada": false
+    },
+    {
+      "url": "https://revistatrabajo.uchile.cl/index.php/RDTSS/article/download/38448/41701/",
+      "titulo": "LA HUELGA PACÍFICA EN LA NEGOCIACIÓN COLECTIVA Y ...",
+      "citada": false
+    },
+    {
+      "url": "https://ituc-csi.org/spip.php?cc=BDI&lang=es&page=legal_info",
+      "titulo": "Confederación Sindical Internacional - Reforzar el Poder de los Trabajadores",
+      "citada": false
+    },
+    {
+      "url": "https://islssl.org/wp-content/uploads/2013/12/Tema2-Ecuador-DrCarlosSalmonAlvear.pdf",
+      "titulo": "1 INFORME NACIONAL DE ECUADOR TEMA 2: LA REPRESENTACIÓN COLECTIVA DE LOS",
+      "citada": false
+    },
+    {
+      "url": "https://www.df.cl/df-constitucional/libertad-sindical-y-huelga-los-derechos-que-consagra-de-forma-explicita",
+      "titulo": "Libertad sindical y huelga: los derechos que consagra de forma explícita la nueva Constitución",
+      "citada": false
+    },
+    {
+      "url": "https://trabajoyempresa.tirant.com/index.php/tye/es/article/download/47/49/265",
+      "titulo": "Tirant",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-51362020000100104",
+      "titulo": "Reformas legislativas en materia laboral colectivas en México",
+      "citada": false
+    },
+    {
+      "url": "https://www.elsevier.es/es-revista-revista-administracion-sanitaria-siglo-xxi-261-articulo-huelga-servicios-esenciales-X113729661087858X",
+      "titulo": "Huelga y servicios esenciales",
+      "citada": false
+    },
+    {
+      "url": "https://www.mtss.gob.cu/descargas/orientacion-para-el-empleo-a-los-jovenes",
+      "titulo": "Ley No. 116, Código de Trabajo - MTSS",
+      "citada": false
+    },
+    {
+      "url": "https://www.directoriocubano.info/acontecer/nuevo-codigo-trabajo-cuba-cambios-plazos/",
+      "titulo": "Nuevo Código de Trabajo en Cuba: contratos, teletrabajo y plazos",
+      "citada": false
+    },
+    {
+      "url": "https://www.fgr.gob.cu/noticias/publican-en-la-gaceta-oficial-el-nuevo-codigo-de-trabajo-y-sus-normas-complementarias-pdf",
+      "titulo": "Publican en la Gaceta Oficial el nuevo Código de Trabajo y sus normas complementarias (+ PDF)",
+      "citada": false
+    },
+    {
+      "url": "https://www.juventudrebelde.cu/cuba/2026-09-19/entrara-en-vigor-ley-189-codigo-de-trabajo-que-actualiza-marco-juridico-laboral",
+      "titulo": "Entrará en vigor Ley 189 Código de Trabajo que actualiza marco jurídico laboral - Juventud Rebelde - Diario de la juventud cubana",
+      "citada": false
+    },
+    {
+      "url": "https://cuba.vlex.com/vid/ley-no-189-2026-1134305811",
+      "titulo": "Ley No. 189/2026.- Código de Trabajo - vLex Cuba",
+      "citada": false
+    },
+    {
+      "url": "http://agendaeconomica.cubadebate.cu/diez-cosas-que-debes-conocer-sobre-el-nuevo-codigo-de-trabajo/",
+      "titulo": "Diez cosas que debes conocer sobre el nuevo Código de Trabajo - Agenda Económica",
+      "citada": false
+    },
+    {
+      "url": "https://www.acn.cu/cuba/publican-ley-189-codigo-de-trabajo-que-actualiza-marco-juridico-laboral",
+      "titulo": "Publican Ley 189 Código de Trabajo que actualiza marco jurídico laboral (+Fotos)",
+      "citada": false
+    },
+    {
+      "url": "https://www.radiorebelde.cu/publican-ley-189-codigo-de-trabajo-que-actualiza-marco-juridico-laboral-19092026/",
+      "titulo": "Publican Ley 189 Código de Trabajo que actualiza marco jurídico laboral -",
+      "citada": false
+    },
+    {
+      "url": "https://www.acn.cu/cuba/codigo-del-trabajo-herramienta-para-proteger-los-derechos-laborales",
+      "titulo": "Código del Trabajo: Herramienta para proteger los derechos laborales",
+      "citada": false
+    },
+    {
+      "url": "https://www.asere.com/nuevo-codigo-de-trabajo-en-cuba-cambia-las-reglas-para-empleados-y-mipymes/",
+      "titulo": "Nuevo Código de Trabajo en Cuba cambia las reglas para empleados y mipymes",
+      "citada": false
+    },
+    {
+      "url": "https://www.periodicocubano.com/cuba-estrena-nuevo-codigo-de-trabajo-estos-son-los-cambios-que-afectaran-a-trabajadores-y-empleadores/",
+      "titulo": "Cuba estrena nuevo Código de Trabajo: estos son los cambios que afectarán a trabajadores y empleadores",
+      "citada": false
+    },
+    {
+      "url": "https://www.mtss.gob.cu/descargas/preguntas-y-respuestas",
+      "titulo": "preguntas y respuestas relacionadas con el - MTSS",
+      "citada": false
+    },
+    {
+      "url": "https://www.directoriocubano.info/cuba/pluriempleo-salario-minimo-cuba-codigo-trabajo/",
+      "titulo": "Más de un trabajo y salario mínimo: las nuevas reglas que pueden mover el bolsillo de los cubanos",
+      "citada": false
+    }
+  ]
+}

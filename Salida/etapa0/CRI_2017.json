@@ -1,0 +1,146 @@
+{
+  "id": "CRI_2017",
+  "iso": "CRI",
+  "pais": "Costa Rica",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1619,
+  "incompleto": false,
+  "norma_propuesta": "Ley N.º 9343, Reforma Procesal Laboral (del 25 de enero de 2016; vigente desde julio de 2017)",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "**Identificación: Costa Rica (CRI), 2017**\n\nLa reforma principal es la **Ley N.º 9343, Reforma Procesal Laboral**. La Asamblea Legislativa la emitió y figura en el sistema oficial de normativa (SINALEVI-PGR) como Ley 9343 del 25/01/2016, Reforma Procesal Laboral, Ente emisor: Asamblea Legislativa, Fecha de vigencia desde: 26/07/2017. NATLEX (OIT) también la registra, con fecha de entrada en vigor 2017-07-25. Fue aprobada en segundo debate el 9 de diciembre de 2015, tras negociarse la eliminación de los artículos referentes a la huelga en los servicios esenciales. Además, entraría en vigor 18 meses después de publicada en La Gaceta.\n\nNo se limita a lo procesal. La reforma tiene tres ejes principales: la parte laboral individual, la parte laboral colectiva y la parte procesal laboral. Entre otros cambios, establece por escrito la prohibición de discriminar en el trabajo, regula de nuevo la huelga y crea juicios orales y defensa pública laboral. La prensa de referencia la describió como la reforma que reescribe el Código de Trabajo tras casi veinte años de discusiones.\n\n**Por qué corresponde a 2017:** la ley se aprobó en 2015 y se promulgó en enero de 2016, pero su vacatio legis hizo que solo se aplicara a partir de julio de 2017. Por eso es casi seguro que el país-año CRI-2017 de la base se refiere a su entrada en vigor y no a una norma expedida ese año. Esto debe registrarse en `notas` (año de la base distinto del año de expedición).\n\n**Datos que no coinciden entre fuentes:**\n- **Fecha de vigencia:** NATLEX y otras fuentes indican el 25 de julio de 2017; SINALEVI indica el 26 de julio de 2017.\n- **Fecha de la ley:** el título de NATLEX dice \"14 de diciembre de 2015\", pero el mismo registro da como fecha de adopción el 25 de enero de 2016, igual que SINALEVI.\n\nRecomiendo usar como referencia la ficha oficial de SINALEVI.\n\n**Otras normas:** no encontré otra ley laboral de mayor alcance expedida en 2017. En La Gaceta de 2017 aparece un proyecto sobre discriminación por maternidad (Expediente 18.797), pero no confirmé que se haya convertido en ley ese año, así que no lo incluyo.\n\nNORMA: Ley N.º 9343, Reforma Procesal Laboral (del 25 de enero de 2016; vigente desde julio de 2017)\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://webapps.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=101727",
+      "titulo": "NATLEX - Costa Rica - Ley núm. 9343, de 14 de diciembre de 2015, de Reforma Procesal Laboral, que modifica la Ley núm. 2, Código de Trabajo, de 27 de agosto de 1943",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/855/85548895004/html/",
+      "titulo": "El proceso de reforma al Código Procesal Laboral: legislación laboral, actores sociales y lenguajes de valoración. Tres elementos clave de la política socio-laboral en Costa Rica, 1998-2016",
+      "citada": true
+    },
+    {
+      "url": "https://www.blita.com/es/noticias/reforma-procesal-laboral-en-costa-rica",
+      "titulo": "La Reforma Procesal Laboral en Costa Rica garantizará seguridad jurídica y justicia laboral a trabajadores",
+      "citada": true
+    },
+    {
+      "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=80985&strTipM=TC",
+      "titulo": "Reforma Procesal Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.elfinancierocr.com/economia-y-politica/costa-rica-implementa-su-mayor-reforma-laboral-en-70-anos/AVDFYV2K6ZHQLBMMDMDGP2VBUE/story/",
+      "titulo": "Costa Rica implementa su mayor reforma laboral en 70 años",
+      "citada": true
+    },
+    {
+      "url": "https://www.icafe.cr/wp-content/uploads/circulares_sector/circulares_2017/2017-08-29%20%5BCircular%202594,%20Sobre%20la%20Reforma%20Procesal%20Laboral%5D.pdf",
+      "titulo": "INSITUTO DEL CAFE DE COSTA RICA CIRCULAR #2594 HEREDIA, COSTA RICA",
+      "citada": false
+    },
+    {
+      "url": "https://sidoc.inamu.go.cr/cgi-bin/koha/opac-detail.pl?biblionumber=706929&shelfbrowse_itemnumber=726319",
+      "titulo": "Details for: Código de trabajo: actualizado con Reforma procesal laboral del año 2016 › Centro de Documentación Luisa González Gutiérrez catalog",
+      "citada": false
+    },
+    {
+      "url": "https://www.world-psi.org/es/costa-rica-entra-en-vigencia-la-ley-de-reforma-procesal-laboral",
+      "titulo": "Costa Rica: Entra en vigencia la Ley de Reforma Procesal Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://publicservices.international/resources/news/costa-rica-entra-en-vigencia-la-ley-de-reforma-procesal-laboral?id=7760&lang=es",
+      "titulo": "Costa Rica: Entra en vigencia la Ley de Reforma Procesal Laboral - PSI - The global union federation of workers in public services",
+      "citada": false
+    },
+    {
+      "url": "https://procesal-laboral.go.cr/",
+      "titulo": "Reforma Procesal Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.mtss.go.cr/elministerio/despacho/rpl/Ley%209343%20Reforma%20Procesal%20Laboral.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA PLENARIO",
+      "citada": false
+    },
+    {
+      "url": "https://bufetedecostarica.com/codigo-de-trabajo-de-costa-rica/",
+      "titulo": "Código de Trabajo de Costa Rica (Ley N° 2)",
+      "citada": false
+    },
+    {
+      "url": "https://proyectos.conare.ac.cr/asamblea/19316.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA PROYECTO DE LEY",
+      "citada": false
+    },
+    {
+      "url": "https://www.asamblea.go.cr/sd/SiteAssets/Lists/Consultas%20Biblioteca/EditForm/Dictalen%20unanime%20afirmativo.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA",
+      "citada": false
+    },
+    {
+      "url": "https://www.ucr.ac.cr/noticias/2021/04/30/estos-son-los-incumplimientos-a-los-derechos-laborales-en-la-costa-rica-bicentenaria.html",
+      "titulo": "Estos son los incumplimientos a los derechos laborales en la Costa Rica bicentenaria",
+      "citada": false
+    },
+    {
+      "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=43957&nValor3=86104",
+      "titulo": "Ley de Protección al Trabajador - San José",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/2022_exp21149_cri.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA REDACCIÓN FINAL",
+      "citada": false
+    },
+    {
+      "url": "https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2021/03/Sust_21182_11_12_2019-11_38_40-a.m..pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA",
+      "citada": false
+    },
+    {
+      "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+      "titulo": "Código de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.imprentanacional.go.cr/pub/2017/09/11/COMP_11_09_2017.html",
+      "titulo": "LA GACETA N° 172 DEL 11 DE SETIEMBRE DEL 2017",
+      "citada": false
+    },
+    {
+      "url": "https://www.nacion.com/opinion/foros/una-nueva-legislacion-a-partir-de-hoy/5FZFCCJNJBHQVDPXXY3AA4OJ2E/story/",
+      "titulo": "Una nueva legislación a partir de hoy",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/es/media/419091/download",
+      "titulo": "LA REFORMA PROCESAL LABORAL DE COSTA RICA",
+      "citada": false
+    },
+    {
+      "url": "https://www.imprentanacional.go.cr/pub/2017/09/26/ALCA230_26_09_2017.pdf",
+      "titulo": "Año CXXXIX San José, Costa Rica, martes 26 de setiembre del 2017 185 páginas",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/44102/C%C3%93DIGO%20DE%20TRABAJO%20COSTA%20RICA.pdf",
+      "titulo": "Ley N° 02 - Código de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://proyectos.conare.ac.cr/asamblea/19819.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA PROYECTO DE LEY",
+      "citada": false
+    },
+    {
+      "url": "https://anep.cr/codigo-de-trabajo/",
+      "titulo": "Código de Trabajo",
+      "citada": false
+    }
+  ]
+}

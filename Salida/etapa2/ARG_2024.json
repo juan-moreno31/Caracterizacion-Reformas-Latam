@@ -1,0 +1,172 @@
+{
+  "id": "ARG_2024",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2024,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0544,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 27.742 (Ley de Bases y Puntos de Partida para la Libertad de los Argentinos), componente laboral: Títulos IV (Promoción del empleo registrado) y V (Modernización laboral)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto 847/2024 (reglamentación de los Títulos IV y V)",
+      "Decreto 695/2024 (reglamentación del empleo público)",
+      "Decreto 592/2024",
+      "DNU 70/2023",
+      "RG ARCA 5599/2024 (padrón de colaboradores)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2024-07-09",
+    "vigencia_escalonada": true,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Promover el empleo registrado y modernizar las relaciones laborales. Según los considerandos del Decreto 847/2024, busca reducir la incertidumbre y los costos asociados al despido, dar mayor estabilidad a las relaciones laborales y fomentar la competitividad empresarial. No se consultó el mensaje de elevación del proyecto.",
+    "descripcion_intenciones": "La reforma busca abaratar y dar previsibilidad a la contratación y al despido mediante la ampliación del período de prueba y la posibilidad de sustituir la indemnización por un fondo de cese pactado en convenio colectivo. Combina un régimen de regularización del empleo no registrado con condonación de deudas de seguridad social y la derogación de las indemnizaciones tarifadas por falta de registro. Acota la responsabilidad en la tercerización, restringe el ámbito de la Ley de Contrato de Trabajo y crea la figura del trabajador independiente con colaboradores. Incorpora como causal de despido la participación activa en bloqueos o tomas y un régimen de despido discriminatorio que agrava la indemnización pero impide la reinstalación.",
+    "dimensiones": [
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Amplía el período de prueba (extinción sin causa ni indemnización), habilita sustituir la indemnización del artículo 245 de la LCT por un fondo de cese vía convenio colectivo y crea el artículo 245 bis, que agrava la indemnización por despido discriminatorio pero excluye la reinstalación y carga la prueba en quien invoca la causal."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Crea un régimen de regularización del empleo no registrado con condonación de deudas de seguridad social, a la vez que deroga las indemnizaciones de la Ley 24.013 y la Ley 25.323; la jurisprudencia mantiene la vía civil por daños."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "El nuevo artículo 29 de la LCT considera empleador directo a quien registra la relación y limita la solidaridad de la empresa usuaria al período de efectiva prestación."
+      },
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Tipifica como grave injuria y causal objetiva de despido la participación activa en bloqueos o tomas de establecimiento, con intimación previa salvo daños a personas o cosas."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Permite a la persona gestante reducir la licencia previa al parto y acumularla al período posterior, sin cambiar la duración total."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Ámbito de aplicación: excluye de la LCT las contrataciones de obra, servicios y agencia reguladas por el Código Civil y Comercial, modifica la presunción del artículo 23 y crea la figura de colaboradores independientes sin relación de dependencia."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "informales",
+      "empleadores_mipymes",
+      "mujeres",
+      "sector_publico"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Aprobada durante el gobierno de Javier Milei, en minoría legislativa: en el Senado el desempate lo definió la vicepresidenta y la Cámara de Diputados aprobó los cambios el 27 de junio de 2024. El capítulo laboral se negoció con bloques dialoguistas, excluyendo lo relativo a obras sociales, cuotas solidarias y sindicatos. Retoma parte del capítulo laboral del DNU 70/2023, frenado judicialmente. Modifica la Ley de Contrato de Trabajo (Ley 20.744) y deroga artículos de la Ley Nacional de Empleo (Ley 24.013) y la Ley 25.323, normas protectoras de larga data. El contexto macroeconómico queda sin fuente.",
+    "notas": "No se codifica como contrarreforma: no revierte una reforma reciente de signo opuesto, aunque deroga normas protectoras antiguas; que el período de prueba revierta un régimen previo concreto es inferencia sin fuente. Vigencia escalonada: reglamentación por Decreto 847/2024 (publicado 2024-09-26); el nuevo período de prueba rige solo para relaciones iniciadas tras la vigencia; el padrón de colaboradores se creó con la RG ARCA 5599/2024 (2024-11-08); el fondo de cese se instrumentó recién en 2025 (Res. SSN 347/2025 y Comunicación BCRA A 8288), por lo que en 2024 fue tratamiento potencial. Estado: la Ley 27.802 de Modernización Laboral (BO 2026-03-06) reescribe la LCT, vuelve a regular período de prueba y fondo de cese y profundiza la reforma; no se verificó artículo por artículo qué disposiciones fueron sustituidas, y una fuente secundaria sugiere que las multas de la Ley 24.013 podrían no estar derogadas bajo la Ley 27.802 (por verificar). Fallos: rechazos de inconstitucionalidad de la derogación de multas en primera instancia; fallos sobre aplicación temporal (p. ej., la Corte Suprema de Santa Fe anuló el 2026-08-18 una sentencia que aplicó la ley retroactivamente), considerados menores; una declaración de inconstitucionalidad del artículo 245 bis en un caso concreto, de alcance no verificado. El Decreto 592/2024 no se caracteriza en el informe. El capítulo de empleo público (régimen de disponibilidad, Decreto 695/2024) se caracterizó solo parcialmente. La seguridad social aparece solo como efecto secundario (condonación y cotización de colaboradores). No se consultaron NATLEX/EPLex; parte del contenido proviene de compilaciones jurídicas, contrastadas con Boletín Oficial, InfoLeg y AFIP para los artículos principales."
+  },
+  "fuentes": [
+    {
+      "url": "https://sadl.com.ar/ley-27-742-bo-8-7-2024-ley-bases-modernizacion-laboral/",
+      "titulo": "LEY de BASES 27.742 (BO 8/7/2024) y DECRETO 847/24 (BO 26/9/2024): REGLAMENTACION DE TITULO IV PROMOCION del EMPLEO y TITULO V MODERNIZACION LABORAL. DECRETO 695/24 (BO 5/8/2024): REGLAMENTACION DEL EMPLEO PUBLICO. Textos completos de las normas",
+      "citada": true
+    },
+    {
+      "url": "https://www.congresosartra.com/files/CAPATTO.LEY27.742NIOPORTUNANICONVENIENT.pdf",
+      "titulo": "1 LEY N° 27.742: NI OPORTUNA NI CONVENIENTE1 Emanuel Capatto2 Abstract:",
+      "citada": true
+    },
+    {
+      "url": "https://abogados.com.ar/reforma-laboral-introducida-por-ley-bases-n-27742/35098",
+      "titulo": "Reforma laboral introducida por Ley Bases N° 27.742",
+      "citada": true
+    },
+    {
+      "url": "https://www.aacs.org.ar/doc/circulares/administrativas/23045adjunto.pdf",
+      "titulo": "Ley Nº 27742 Capítulo II Modificaciones a la Ley de Contrato de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.ceco.org.ar/sites/default/files/archivos/Ley-27742-Ley-Bases-Reforma-Laboral-08-07-2024.pdf",
+      "titulo": "Ley 27742 - Reforma Laboral (Ley Bases) - CECO",
+      "citada": true
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/2026/10/13/fallos-se-anula-la-sentencia-de-camara-que-habia-aplicado-retroactivamente-la-ley-27-742-ley-de-bases-para-rechazar-indemnizaciones-laborales/",
+      "titulo": "#Fallos Se anula la sentencia de Cámara que había aplicado retroactivamente la Ley 27.742 -Ley de Bases- para rechazar indemnizaciones laborales",
+      "citada": true
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/2025/11/11/fallos-ley-bases-y-danos-es-aplicable-la-ley-27-742-al-vinculo-laboral-que-se-extinguio-luego-de-su-entrada-en-vigencia-y-se-indemnizan-los-danos-y-perjuicios-ya-que-el-dano-ocasionado-por-la-irreg/",
+      "titulo": "#Fallos Ley Bases y daños: Es aplicable la Ley 27.742 al vínculo laboral que se extinguió luego de su entrada en vigencia, y se indemnizan los daños y perjuicios ya que el daño ocasionado por la irregularidad registral es evidente",
+      "citada": true
+    },
+    {
+      "url": "https://estudioformaro.com.ar/wp-content/uploads/2025/11/Espillaga-Ailen-Celeste-vs.-San-Marcos-E.-S.A.-y-otros-s.-Despido-Rubinzal.pdf",
+      "titulo": "Espillaga, Ailen Celeste vs. San Marcos E. S.A. y otros s. Despido",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-847-2024-404509/texto",
+      "titulo": "TEXTO ORIGINAL - Decreto Reglamentario 847/2024 - PODER EJECUTIVO",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-847-2024-404509/normas-modifican",
+      "titulo": "La norma DECRETO REGLAMENTARIO 847 / 2024 es modificada por las siguientes",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/DEC_C_000847_2024_09_25",
+      "titulo": "Biblioteca Electrónica",
+      "citada": true
+    },
+    {
+      "url": "https://jorgevega.com.ar/laboral/2489-decreto-847-2024.html",
+      "titulo": "DECRETO 847/2024 - SE REGLAMENTA LA REFORMA LABORAL Y EL RÉGIMEN DE PROMOCIÓN DEL EMPLEO REGISTRADO",
+      "citada": true
+    },
+    {
+      "url": "https://www.cpacf.org.ar/public/uploads/files/com/01102417_Reglamentacio%CC%81n%20titulosIVyVLey27742.pdf",
+      "titulo": "decreto n° 847/2024: reglamentación del título iv –promoción",
+      "citada": true
+    },
+    {
+      "url": "https://pasbba.com.ar/el-nuevo-art-245-bis-de-la-lct-y-la-reedicion-de-viejos-errores-del-pasado/",
+      "titulo": "El nuevo art. 245 bis de la LCT y la reedición de viejos errores del pasado.",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-27802-423680/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 27802 - LEY DE MODERNIZACION LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://jorgevega.com.ar/laboral/2572-ley-de-modernizacion-laboral-texto-definitivo-aprobado-27-02-2026.html",
+      "titulo": "LEY DE MODERNIZACIÓN LABORAL N° 27.802 - B.O. 06/03/2026",
+      "citada": true
+    },
+    {
+      "url": "https://www.consejosalta.org.ar/wp-content/uploads/INFO.-GRAL.-REFORMA-LABORAL.pdf",
+      "titulo": "Reforma Laboral (Ley 27.802): cuadro comparativo resumido,",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_027802_2026_02_27",
+      "titulo": "Ley N° 27802",
+      "citada": true
+    },
+    {
+      "url": "https://chequeado.com/el-explicador/que-dice-la-ley-bases-sobre-la-reforma-laboral/",
+      "titulo": "¿Qué dice la Ley Bases sobre la reforma laboral? - Chequeado",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/politica/2024/06/13/el-gobierno-cedio-en-articulos-clave-y-el-senado-aprobo-la-ley-bases-que-ahora-vuelve-a-diputados/",
+      "titulo": "El Gobierno cedió en artículos clave y el Senado aprobó la Ley Bases, que ahora vuelve a Diputados - Infobae",
+      "citada": true
+    }
+  ]
+}

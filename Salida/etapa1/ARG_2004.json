@@ -1,0 +1,309 @@
+{
+  "id": "ARG_2004",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2004,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3778,
+  "incompleto": false,
+  "norma": "Ley 25.877 de 2004",
+  "texto": "# Informe de investigación: ARG 2004, Ley 25.877 de Ordenamiento del Régimen Laboral\n\n**Síntesis:** La Ley 25.877 es una contrarreforma protectora y deroga la Ley 25.250. Endurece el período de prueba y restituye la ultraactividad y la articulación centralizada de los convenios. Además, crea el balance social y refuerza la inspección. Tiene un único componente que reduce costos laborales, focalizado en pequeñas empresas y temporal. Ningún tribunal anuló la propia Ley 25.877. Los fallos posteriores recayeron sobre las normas que la modificaron (DNU 70/2023, DNU 340/2025 y Ley 27.802).\n\n## 1. Objetivo declarado\n\nNo se consultó la exposición de motivos del Poder Ejecutivo (pendiente). La fuente más cercana es un informe del Ministerio de Trabajo de la Provincia de Buenos Aires, de junio de 2004. Es una lectura oficial, aunque no la del Ejecutivo que presentó el proyecto. Según ese informe, la ley buscaba propiciar aquellas soluciones que favorezcan la generación de empleo decente, estimular la negociación colectiva, la preeminencia de las normas más favorables al trabajador y la composición de conflictos por acuerdos de partes. También buscaba asegurar el respeto a la Constitución y a los convenios de la OIT ratificados por el país. En el debate del Senado, Cristina Fernández de Kirchner presentó la postura del Gobierno: la derogación era \"una deuda pendiente que las instituciones tenían con la sociedad\".\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**contratacion_temporal / despido_e_indemnizacion (período de prueba) — aumenta.** El artículo 2º sustituye el artículo 92 bis de la Ley de Contrato de Trabajo. Mantiene que durante el período de prueba cualquiera de las partes podrá extinguir la relación durante ese lapso sin expresión de causa, sin derecho a indemnización con motivo de la extinción, pero con obligación de preavisar. A la vez, impone límites nuevos:\n- Un empleador no puede contratar a un mismo trabajador, más de una vez, utilizando el período de prueba.\n- El uso abusivo se sanciona, y en especial la conducta del empleador que contratare sucesivamente a distintos trabajadores para un mismo puesto de trabajo de naturaleza permanente.\n- Si el trabajador no está registrado, se entenderá de pleno derecho que ha renunciado a dicho período.\n- Se reconocen los derechos sindicales, la obligación de aportes a la seguridad social, la cobertura por accidentes y enfermedades, y el cómputo como antigüedad (derechos sindicales; aportes y contribuciones; prestaciones por accidente o enfermedad del trabajo; cómputo como tiempo de servicio).\n\nLa duración del período se acorta respecto de la Ley 25.250, que lo había extendido. Sin fuente verificada: si se eliminó la posibilidad de ampliarlo por convenio colectivo.\n\n**despido_e_indemnizacion (preaviso e indemnización) — aumenta en preaviso; reorganiza en indemnización.** El artículo 3º extiende la obligación de preavisar del empleador también al período de prueba. El artículo 4º dispone que los plazos correrán a partir del día siguiente al de la notificación del preaviso. El pago de los días que faltan hasta fin de mes (integración del mes de despido) no procederá cuando la extinción se produzca durante el período de prueba. El artículo 5º reescribe el artículo 245 de esa ley: mantiene el tope de la base de cálculo, referido al promedio del convenio aplicable, y fija un piso mínimo de indemnización (en ningún caso podrá ser inferior al mínimo que fija la norma). **No verificado:** si ese piso sube o baja respecto del texto anterior. Por eso clasifico este componente como \"reorganiza\".\n\n**formalizacion_y_mipymes — reorganiza.** El artículo 6º otorga una reducción de contribuciones a la seguridad social, de duración limitada, a pequeñas empresas que aumenten en términos netos su nómina. Solo cubre las incorporaciones hasta el 31 de diciembre de 2004. En el Senado se agregó la obligación del Ejecutivo de informar al Congreso sobre cuáles serían los fundamentos para prorrogar o no la vigencia de la rebaja de las cargas patronales. Este incentivo focalizado reemplaza la reducción general de contribuciones de la Ley 25.250. Es el único componente que abarata la contratación para el empleador.\n\n**derechos_colectivos_sindicales / salario_y_negociacion_salarial — aumenta.**\n- *Ultraactividad:* el convenio rige hasta que una nueva convención la sustituya (ultraactividad), salvo que las partes acordaran lo contrario. Con esto se revierte la caída de la ultraactividad legal dispuesta por la Ley 25.250.\n- *Articulación de convenios:* los convenios de ámbito mayor pueden fijar cómo se articulan con los de ámbito menor y qué materias les remiten. Los de ámbito menor solo pueden tratar materias delegadas, materias no tratadas por el mayor, la organización de la empresa o condiciones más favorables al trabajador. Se establece además un orden de prelación de normas. El informe bonaerense justifica esta elección con la idea de que los sistemas más centralizados y coordinados aparecen asociados con menor desempleo e igualdad en los ingresos.\n- *Procedimiento:* según el mismo informe, para homologar un convenio solo se exige control de legalidad. El convenio de empresa no requiere homologación salvo pedido de parte. En la empresa, la representación de los trabajadores debe integrarse con los delegados de personal.\n\n**derechos_colectivos_sindicales (conflictos colectivos / servicios esenciales) — reorganiza.** La ley contiene un capítulo sobre conflictos colectivos en su artículo 24, que regula la huelga en servicios esenciales. No obtuve el texto original de 2004, así que su contenido concreto queda **sin fuente**. Este artículo es el que más se modificó después (ver sección 7).\n\n**otro (balance social) — aumenta (información para la negociación).** Las empresas grandes deben elaborar cada año un balance social sobre condiciones de trabajo, costo laboral y prestaciones. El documento será girado por la empresa al sindicato con personería gremial, y se deposita una copia confidencial en el Ministerio.\n\n**justicia_laboral_e_inspeccion — aumenta.** El Ministerio de Trabajo debe destinar lo recaudado por multas al fortalecimiento del servicio de la inspección del trabajo. También fiscaliza en todo el país el pago de aportes y contribuciones, sin perjuicio de las facultades de la AFIP. Sin fuente verificada: el detalle del sistema integral de inspección y del capítulo de simplificación registral.\n\n**tercerizacion_subcontratacion (cooperativas de trabajo) — probablemente aumenta, sin fuente.** La ley incluye un capítulo sobre cooperativas de trabajo. No verifiqué su texto. Hasta que se verifique, la restricción al uso de cooperativas como intermediarias de mano de obra debe tratarse como no confirmada.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: período de prueba, preaviso e indemnización.\n- `empleadores_mipymes`: incentivo del artículo 6º.\n- `general`: régimen de negociación colectiva, que abarca a todos los trabajadores bajo convenio.\n\nNo se identificaron componentes específicos para mujeres, jóvenes, informales ni sector público.\n\n## 4. Contexto político y económico\n\nLa ley se dictó en el primer año de la presidencia de Néstor Kirchner, con Carlos Tomada como ministro de Trabajo. Venía después de la crisis de 2001–2002. La política laboral inicial buscaba amortiguar las consecuencias de la crítica coyuntura económica posterior a la devaluación.\n\nLa Ley 25.250 estaba deslegitimada por el escándalo de sobornos en el Senado (\"Ley Banelco\"), que llevó a la renuncia del vicepresidente Carlos Álvarez y a la ruptura de la Alianza. Según la prensa de referencia, el Congreso intentó subsanar el escándalo que rondó la sanción de la ley de flexibilización laboral cuatro años antes. El Senado la aprobó por amplia mayoría y con mínimas correcciones que no modifican la norma remitida por el Gobierno. Una fuente secundaria (Wikipedia en inglés) indica que esta vez la ley tuvo el acuerdo de las principales centrales sindicales: the law passage had the consent of the main unions of the country.\n\n## 5. ¿Revierte una reforma previa?\n\n**Sí.** Derógase la Ley Nº 25.250 y sus normas reglamentarias. Revierte de forma sustantiva los cuatro ejes de esa ley: la extensión del período de prueba, la reducción general de contribuciones, la caída de la ultraactividad y la prioridad del convenio de ámbito menor. Corresponde marcar `revierte_reforma_previa`.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- Sancionada el 02-03-2004, promulgada el 18-03-2004 y publicada en el Boletín Oficial el 19-03-2004.\n- **No verifiqué** que la ley tenga una cláusula propia de entrada en vigor. Si no la tiene, se aplicaría la regla supletoria del Código Civil de entonces; esto es inferencia **sin fuente**. Propongo registrar `fecha_entrada_vigencia` como \"2004-03\" con nota.\n- **Vigencia escalonada: probable, parcialmente verificada.** El incentivo del artículo 6º dependía de una reglamentación para fijar el umbral de facturación y tenía un plazo de cierre en 2004. El artículo 24 también remitía a una reglamentación posterior, que no verifiqué. Recuerdo que esa reglamentación sería de 2006 (Decreto 272/2006), pero es **sin fuente**. Tampoco se buscaron los decretos reglamentarios de 2004.\n\n## 7. Estado de vigencia posterior\n\n**Categoría propuesta: `modificada_o_derogada_despues`.** No encontré fallos que anularan la propia Ley 25.877. Los litigios recayeron sobre las normas que la modificaron, y varios suspendieron esas modificaciones, es decir, protegieron el texto de 2004. Eso no cambia la categoría y debe ir en `notas`.\n\n- **Ley 26.476 (2008):** afecta el capítulo de promoción del empleo (según el informe de identificación previo; no reverificado).\n- **DNU 70/2023:** modificó el artículo 24. La Cámara Nacional de Apelaciones del Trabajo lo suspendió cautelarmente y luego declarando la invalidez constitucional del Título IV (artículos 53 a 97) del DNU 70/2023. A octubre de 2026 el caso está pendiente en la Corte Suprema, que quedó en condiciones de dictar sentencia.\n- **DNU 340/2025:** volvió a modificar el artículo 24 y amplió los servicios esenciales. Una jueza laboral suspendió la vigencia de esos artículos hasta que se dicte sentencia definitiva.\n- **Ley 27.802 de Modernización Laboral (BO 06-03-2026):** su artículo 101 sustituye el artículo 24 e incorpora apartados nuevos sobre servicios mínimos. También modifica la ultraactividad (artículo 131) y da prioridad al convenio de ámbito menor (artículos 135 y 136) en la Ley 14.250, cuyo texto había ordenado la Ley 25.877. En esos ejes es una contrarreforma de la Ley 25.877. El recorrido judicial fue:\n  - El Juzgado Nacional del Trabajo N° 63 suspendió cautelarmente gran parte de la ley, incluidos esos artículos.\n  - Después, el Juzgado Contencioso Administrativo Federal N° 12 dejó sin efecto la cautelar que había frenado 81 artículos de la Ley 27.802 de Modernización Laboral y restituyó la plena vigencia de la norma.\n  - Hubo además cautelares sectoriales: el sindicato de comercio sobre los artículos 131 y 133, y la Asociación del Personal Aeronáutico.\n  - **No verificado:** el estado actual de esas cautelares sectoriales ni de las apelaciones.\n\n**Implicación para la base:** el tratamiento de 2004 fue real y estuvo vigente unas dos décadas. Sus componentes colectivos centrales quedaron reemplazados en 2026, con litigio abierto.\n\n## Pendiente de verificar\n\n1. La exposición de motivos del Poder Ejecutivo.\n2. El texto original del artículo 24 (servicios esenciales), del capítulo de cooperativas y del de simplificación registral.\n3. Cómo cambia el piso indemnizatorio del artículo 245 respecto del texto anterior.\n4. Si la ley tiene una cláusula expresa de vigencia, y cuáles fueron los decretos reglamentarios de 2004 y 2006.\n5. El alcance exacto de la Ley 26.476 sobre el artículo 6º y el estado judicial actual de la Ley 27.802.\n\nAdvertencia sobre fuentes: algunos textos de la ley se tomaron de reproducciones no oficiales; son coherentes con Infoleg y NATLEX. Lo referido a la ultraactividad se apoya en una fuente oficial provincial y en un despacho de abogados, este último de menor jerarquía.",
+  "fuentes": [
+    {
+      "url": "https://www.trabajo.gba.gov.ar/delegaciones/biblioteca_deles/LN25877.pdf",
+      "titulo": "REGIMEN LABORAL Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-93595/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25877 - REGIMEN LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.uart.org.ar/ley-25-877/",
+      "titulo": "Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://federacionuniversitaria.blogspot.com/2008/04/leyes-25877-rgimen-laboral.html",
+      "titulo": "FUP: LEYES: 25877 Régimen Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://trivia.consejo.org.ar/ficha/521489-ley_25.877._regimen_laboral",
+      "titulo": "Ley 25.877. Régimen Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://archivo.consejo.org.ar/Bib_elect/julio08_CT/documentos/L25877.htm",
+      "titulo": "Ley 25.877",
+      "citada": true
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/documentos/legislacion/leyes/ley25877.pdf",
+      "titulo": "La Plata, Junio de 2004.- LEY DE ORDENAMIENTO LABORAL (Ley 25.877) INFORME",
+      "citada": true
+    },
+    {
+      "url": "https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2024/PDF2024/TP2024/0743-D-2024.pdf",
+      "titulo": "Servicios Esenciales. Modificaciones a la Ley 25.877. PROYECTO DE LEY",
+      "citada": true
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Presidencia_de_N%C3%A9stor_Kirchner",
+      "titulo": "Presidencia de Néstor Kirchner",
+      "citada": true
+    },
+    {
+      "url": "https://www.pagina12.com.ar/diario/elpais/1-31895-2004-02-25.html",
+      "titulo": "Página/12 :: El país :: La Banelco, más cerca del archivo",
+      "citada": true
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2000_congressional_bribery_scandal_in_Argentina",
+      "titulo": "2000 congressional bribery scandal in Argentina",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/judiciales/2026/10/04/la-corte-ya-puede-resolver-un-planteo-de-la-cgt-contra-el-dnu-702023-y-podria-fijar-un-criterio-sobre-la-necesidad-y-urgencia/",
+      "titulo": "La Corte ya puede resolver un planteo de la CGT contra el DNU 70/2023 y podría fijar un criterio sobre la “necesidad y urgencia” - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://revistaquorum.com.ar/2025/06/09/la-camara-del-trabajo-pone-un-limite-al-dnu-que-afecta-el-derecho-de-huelga/",
+      "titulo": "La Cámara del Trabajo pone un límite al DNU que afecta el derecho de huelga",
+      "citada": true
+    },
+    {
+      "url": "https://www.apfdigital.com.ar/amp/noticias/2026/05/08/455016-dejan-sin-efecto-la-cautelar-de-la-cgt-contra-la-reforma-laboral-y-recupera-plena-vigencia",
+      "titulo": "Dejan sin efecto la cautelar de la CGT contra la Reforma Laboral y recupera plena vigencia",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/66678/ARG66678.pdf",
+      "titulo": "REGIMEN LABORAL Ley 25.877",
+      "citada": false
+    },
+    {
+      "url": "https://www.unterseccionalroca.org.ar/imagenes/documentos/leg/LEYESYRESOLUCIONESTEXTOSCOMPLETOS/Ley25877deOrdenamientoLaboral.htm",
+      "titulo": "Ley 25.877 de Ordenamiento Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.refworld.org/themes/custom/unhcr_rw/pdf-js/viewer.html?file=https%3A%2F%2Fwww.refworld.org%2Fsites%2Fdefault%2Ffiles%2F2025-05%2F15124.pdf",
+      "titulo": "Argentina: Ley 25877 de 2004 - Regimen Laboral - 15124.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecofield.net/Legales/Trabajo/ley25877.html",
+      "titulo": "ECOFIELD - Trabajo -",
+      "citada": false
+    },
+    {
+      "url": "https://ccncc.mites.gob.es/content/dam/mites-ccncc/que-es-la-ccncc/funciones/foros-de-debate/Ponencia_CCNCC_JM_Goerlich_Ultraactividad__convenios_colectivos.pdf",
+      "titulo": "“LA ULTRAACTIVIDAD DE LOS CONVENIOS COLECTIVOS” (Ponencia)",
+      "citada": false
+    },
+    {
+      "url": "https://estudiofk.com.ar/2025/el-fin-de-la-vigencia-de-los-convenios-colectivos-y-el-instituto-de-la-ultra-actividad/",
+      "titulo": "Abogados Laboralistas » ¿CAEN LOS CONVENIOS COLECTIVOS CON LA REFORMA LABORAL? - Abogados Laboralistas",
+      "citada": false
+    },
+    {
+      "url": "https://uvadoc.uva.es/bitstream/handle/10324/36092/TFG-O-1627.pdf",
+      "titulo": "La ultraactividad de los convenios colectivos y sus efectos ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2025-00000003024",
+      "titulo": "BOE.es - De nuevo sobre la concurrencia de convenios colectivos en situación de prórroga o ultraactividad.",
+      "citada": false
+    },
+    {
+      "url": "https://www.ugt.cat/wp-content/uploads/2022/06/Informe-314-Cuestiones-Juridicas-Ultraactividad-Convenios.pdf",
+      "titulo": "1 INFORME 314 CUESTIONES JURÍDICAS SOBRE LA ULTRAACTIVIDAD DE LOS",
+      "citada": false
+    },
+    {
+      "url": "https://www.aedtss.com/ultraactividad-de-los-convenios-colectivos-2/",
+      "titulo": "ULTRAACTIVIDAD DE LOS CONVENIOS COLECTIVOS - Asociación Española de Derecho del Trabajo y de la Seguridad Social - Declarada de utilidad pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/364789979_La_ultraactividad_de_los_convenios_colectivos",
+      "titulo": "(PDF) La ultraactividad de los convenios colectivos",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.es/vid/aplicacion-ultraactividad-convenios-colectivos-682301285",
+      "titulo": "La aplicación de la ultraactividad a los convenios colectivos anteriores a la reforma. Una aparente contradicción entre principio de jerarquía normativa y derecho a la negociación colectiva - vLex España",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.es/vid/ultra-actividad-contractualizacion-proteccion-682064997",
+      "titulo": "Ultra-actividad y contractualización de la protección de las condiciones de trabajo: una perspectiva comparada - vLex España",
+      "citada": false
+    },
+    {
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306",
+      "titulo": "BOLETIN OFICIAL REPUBLICA ARGENTINA - LEY DE MODERNIZACIÓN LABORAL - Ley 27802",
+      "citada": false
+    },
+    {
+      "url": "https://barradigloria.com/ley-de-modernizacion-laboral-27-802/",
+      "titulo": "Ley 27.802 de Modernización Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-27802-423680/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 27802 - LEY DE MODERNIZACION LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.asistentelaboralargentino.com/leyes/ley-27802-modernizacion-laboral.html",
+      "titulo": "Ley de Modernización Laboral — Ley 27.802, texto actualizado",
+      "citada": false
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/wp-content/uploads/2026/03/ANX_Guia-practica-y-sistematica-de-la-reforma-laboral.pdf",
+      "titulo": "Guía práctica y sistemática de la reforma laboral Ley 27.802",
+      "citada": false
+    },
+    {
+      "url": "https://jorgevega.com.ar/laboral/2572-ley-de-modernizacion-laboral-texto-definitivo-aprobado-27-02-2026.html",
+      "titulo": "LEY DE MODERNIZACIÓN LABORAL N° 27.802 - B.O. 06/03/2026",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_027802_2026_02_27",
+      "titulo": "Ley N° 27802",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/index.php/ley-de-modernizacion-laboral-ley-27802/38785",
+      "titulo": "Ley de Modernización Laboral (Ley 27.802)",
+      "citada": false
+    },
+    {
+      "url": "https://ligadelconsorcista.org/ley-de-modernizacion-laboral-27802",
+      "titulo": "LEY DE MODERNIZACIÓN LABORAL 27802",
+      "citada": false
+    },
+    {
+      "url": "https://www.todo-argentina.net/historia/democracia/kirchner/politica_laboral.html",
+      "titulo": "Nestor Kirchner - Politica Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.radionacional.com.ar/la-ley-banelco/",
+      "titulo": "La «Ley Banelco»",
+      "citada": false
+    },
+    {
+      "url": "https://www.wikiwand.com/es/Esc%C3%A1ndalo_de_coimas_en_el_Senado",
+      "titulo": "Escándalo de coimas en el Senado - Wikiwand / articles",
+      "citada": false
+    },
+    {
+      "url": "http://www.infojusnoticias.gov.ar/opinion/plan-canje-lo-que-hubo-antes-de-la-ley-banelco-74.html",
+      "titulo": "Plan Canje: lo que hubo antes de la Ley Banelco",
+      "citada": false
+    },
+    {
+      "url": "https://noticiasargentinas.com/economia/ley-banelco---que-fue-y-por-que-fue-tan-criticada-_a65a8b7928091c3b3a0e545ae",
+      "titulo": "Ley Banelco: ¿qué fue y por qué fue tan criticada? - Agencia Noticias Argentinas",
+      "citada": false
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2025/11/04/argentina-sturzenegger-y-esa-mania-de-atacar-al-trabajador",
+      "titulo": "Argentina. Sturzenegger y esa manía de atacar al trabajador - Resumen Latinoamericano",
+      "citada": false
+    },
+    {
+      "url": "https://www.testimoniosba.com/2026/02/12/la-ley-banelco/",
+      "titulo": "La Ley Banelco - TestimoniosBA",
+      "citada": false
+    },
+    {
+      "url": "https://www.palabrasdelderecho.com.ar/articulo/4785/La-Camara-Nacional-del-Trabajo-declaro-la-inconstitucionalidad-del-tramo-laboral-del-mega-DNU",
+      "titulo": "La Cámara Nacional del Trabajo declaró la inconstitucionalidad del tramo laboral del mega DNU",
+      "citada": false
+    },
+    {
+      "url": "https://pescare.com.ar/la-justicia-declara-inconstitucional-el-capitulo-laboral-del-dnu-70-2023/",
+      "titulo": "La Justicia declara inconstitucional el capítulo laboral del DNU 70/2023",
+      "citada": false
+    },
+    {
+      "url": "https://federacionaceitera.com.ar/2024/01/04/medida-cautelar-contra-la-reforma-laboral-del-dnu-70-2023/",
+      "titulo": "Medida cautelar contra la reforma laboral del DNU 70/2023",
+      "citada": false
+    },
+    {
+      "url": "https://www.tiempoar.com.ar/ta_article/antihuelga-gobierno-copio-fragmento-del-dnu-frenado-por-la-justicia/",
+      "titulo": "Antihuelga: el gobierno copió el fragmento del DNU 70/23 frenado por la Justicia",
+      "citada": false
+    },
+    {
+      "url": "https://www.palabrasdelderecho.com.ar/articulo/4767/Elevaron-a-la-Corte-Suprema-la-causa-que-suspendio-los-cambios-laborales-de-mega-DNU",
+      "titulo": "Elevaron a la Corte Suprema la causa que suspendió los cambios laborales de mega DNU",
+      "citada": false
+    },
+    {
+      "url": "https://www.palabrasdelderecho.com.ar/articulo/5657/Mega-DNU-otro-fallo-declaro-la-inconstitucionalidad-del-capitulo-laboral",
+      "titulo": "Mega DNU: otro fallo declaró la inconstitucionalidad del capítulo laboral",
+      "citada": false
+    },
+    {
+      "url": "https://ctaa.org.ar/la-camara-nacional-de-apelaciones-del-trabajo-dicto-una-medida-cautelar-y-suspendio-los-efectos-de-la-reforma-laboral-incluida-en-el-dnu-70-23/",
+      "titulo": "Informe del IEF sobre la suspensión de los efectos de de las normas de trabajo del DNU de la Cámara Nacional de Apelaciones del Trabajo - CTA",
+      "citada": false
+    },
+    {
+      "url": "https://www.palabrasdelderecho.com.ar/articulo/6647/A-pedido-de-la-CGT,-la-Justicia-suspendio-mas-de-80-articulos-de-la-reforma-laboral-",
+      "titulo": "A pedido de la CGT, la Justicia suspendió más de 80 artículos de la reforma laboral",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/la-cgt-obtuvo-una-medida-cautelar-contra-la-ley-27802-de-modernizacion-laboral-el-resultado-predicho-y-sus-consecuencias-para-la-practica/38834",
+      "titulo": "La CGT obtuvo una medida cautelar contra la Ley 27.802 de Modernización Laboral: el resultado predicho y sus consecuencias para la práctica",
+      "citada": false
+    },
+    {
+      "url": "https://blog.aconpy.com/2026/03/31/medida-cautelar-contra-la-ley-27-802-de-modernizacion-laboral-y-respuesta-del-ministerio-de-capital-humano/",
+      "titulo": "Medida cautelar contra la Ley 27.802 de Modernización Laboral y respuesta del Ministerio de Capital Humano",
+      "citada": false
+    },
+    {
+      "url": "https://www.ignacioonline.com.ar/reforma-laboral-la-justicia-laboral-suspendio-82-articulos-la-ley-27-802/",
+      "titulo": "Reforma Laboral: la justicia laboral suspendió 82 artículos la Ley 27.802 - Ignacio online",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/politica/2026/03/30/tras-una-presentacion-de-la-cgt-la-justicia-suspendio-la-aplicacion-de-varios-articulos-de-la-reforma-laboral/",
+      "titulo": "Tras una presentación de la CGT, la Justicia suspendió la aplicación de 83 artículos de la reforma laboral - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/judiciales/2026/04/10/la-justicia-suspendio-40-articulos-de-la-reforma-laboral-tras-un-planteo-de-la-asociacion-del-personal-aeronautico/",
+      "titulo": "La justicia suspendió 40 artículos de la reforma laboral tras un planteo de la Asociación del Personal Aeronáutico - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://estudiovilaplana.com.ar/2026/03/30/juez-suspende-reforma-laboral/",
+      "titulo": "Fallo CGT: Juez suspende Ley 27.802 de reforma laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.diariodemocracia.com/nacionales/336203-reforma-laboral-la-justicia-suspendio-mas-articulo/",
+      "titulo": "Reforma laboral: la Justicia suspendió más artículos tras una presentación de la CGT",
+      "citada": false
+    },
+    {
+      "url": "https://labisagranoticias.com/reforma-laboral-la-justicia-fallo-a-favor-de-la-cgt-y-suspendio-la-aplicacion-de-mas-de-80-articulos-de-la-ley/",
+      "titulo": "Reforma laboral: La Justicia falló a favor de la CGT y suspendió la aplicación de más de 80 artículos de la ley - La Bisagra Noticias",
+      "citada": false
+    }
+  ]
+}

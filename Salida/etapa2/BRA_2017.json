@@ -1,0 +1,179 @@
+{
+  "id": "BRA_2017",
+  "iso": "BRA",
+  "pais": "Brasil",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0467,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Lei nº 13.467, de 13 de julho de 2017 (Reforma Trabalhista)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Lei nº 13.429, de 31 de março de 2017",
+      "Medida Provisória nº 808, de 14 de novembro de 2017",
+      "Lei nº 13.419, de 13 de março de 2017"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2017-11-11",
+    "vigencia_escalonada": false,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Modernizar la CLT, otorgar seguridad jurídica a lo pactado en la negociación colectiva, generar empleos formales y dinamizar la economía, además de regular en la CLT nuevas modalidades de contratación derivadas de las innovaciones tecnológicas, como el trabajo intermitente y el teletrabajo.",
+    "descripcion_intenciones": "La reforma busca desplazar el eje de la regulación laboral desde la ley hacia la negociación colectiva e individual, consagrando la prevalencia de lo negociado sobre lo legislado y poniendo fin a la ultraactividad de las cláusulas colectivas. Debilita el financiamiento sindical al volver facultativa la contribución sindical y reduce la intervención sindical en rescisiones y despidos masivos. Flexibiliza la jornada, crea el trabajo intermitente y regula el teletrabajo, y amplía la tercerización a la actividad-fin. En el plano procesal, introduce mecanismos que encarecen o desincentivan la litigación laboral. El Ministerio Público del Trabajo cuestionó que la reforma redujera la inseguridad jurídica o creara empleo.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Prevalencia de lo negociado sobre lo legislado sin necesidad de contrapartidas, fin de la ultraactividad y contribución sindical facultativa condicionada a autorización expresa del trabajador."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "El convenio puede pactar el plan de cargos y salarios aunque difiera de la CLT (fuente secundaria)."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Excluye las horas in itinere del cómputo de la jornada, permite el banco de horas por acuerdo individual, formaliza el régimen de turnos especiales y vuelve negociable el intervalo intrajornada."
+      },
+      {
+        "dimension": "nuevas_formas_de_trabajo",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Crea el trabajo intermitente y un capítulo de teletrabajo excluido del control de jornada, con costos de equipos definidos por contrato. El intermitente podría también codificarse como contratación atípica o temporal."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Reforma la Lei 6.019/1974 para permitir la tercerización de la actividad-fin, complementando la Lei 13.429/2017."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Crea la extinción por mutuo acuerdo con verbas reducidas, elimina la homologación sindical obligatoria de rescisiones y la concordancia sindical en despidos masivos (esto último según fuente secundaria)."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Introduce honorarios de sucumbencia, responsabilidad del beneficiario de justicia gratuita por honorarios, tarificación del daño extrapatrimonial y homologación de acuerdos extrajudiciales. Parte de estas reglas fue anulada o reinterpretada por el STF."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Permitió el trabajo de gestantes y lactantes en ambientes insalubres salvo certificado médico; disposición anulada por el STF en la ADI 5938."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "empleadores_mipymes",
+      "mujeres",
+      "informales"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Propuesta por el gobierno de Michel Temer mediante el PL 6.787/2016 en un contexto de crisis económica y política, presentada como respuesta a la crisis y al desempleo. Se aprobó poco después de la Lei 13.429/2017 sobre tercerización. Modifica la CLT, la Lei 6.019/1974 y las Leis 8.036/1990 (FGTS) y 8.212/1991, y deroga por vía legislativa jurisprudencia del TST (Súmula 277 sobre ultraactividad y Súmula 331 sobre actividad-medio). El impeachment de Dilma Rousseff y la recesión previa se mencionan sin fuente verificada en esta etapa.",
+    "notas": "Texto consolidado del Planalto y NATLEX/EPLex no consultados; la fecha de vigencia 2017-11-11 proviene del informe de identificación. Estado de vigencia: la Lei 14.442/2022 reinstauró en sentido protector el control de jornada del teletrabajo. El STF validó el núcleo (contribución sindical facultativa, ADI 5794; negociado sobre legislado, Tema 1046; fin de la ultraactividad, ADPF 323; trabajo intermitente, ADI 5826, 5829 y 6154) e interpretó las tarifas del daño moral como orientativas (ADI 6050, 6069 y 6082). Anuló la regla sobre gestantes y lactantes (ADI 5938, 2019) y el pago de honorarios por beneficiarios de justicia gratuita (ADI 5766, 2021). Esta última es un caso límite, pues recorta un instrumento del objetivo de reducir la litigiosidad, pero se mantuvo la categoría modificada_o_derogada_despues al haberse validado el núcleo. La MP 808/2017 modificó temporalmente varios artículos entre noviembre de 2017 y abril de 2018 y caducó. Revierte reforma previa: se codificó false; solo en lo relativo a gestantes se habría revertido una regla atribuida a la Lei 13.287/2016 (sin confirmar), punto luego anulado. No se codificaron seguridad_social_y_pensiones ni formalizacion_y_mipymes por no haberse verificado el contenido de los cambios al FGTS, a la Lei 8.212/1991 ni a las multas por falta de registro. Los informales figuran como población objetivo declarada, no como efecto verificado. El contenido de la Lei 13.419/2017 (propinas) no fue verificado. Quedan pendientes otras impugnaciones (turnos especiales, depósito recursal, homologación extrajudicial) y la relación entre la tesis del STF de 2022 sobre despido masivo y el art. 477-A."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/as-principais-alteracoes-com-o-advento-da-lei-n-13467-2017-reforma-trabalhista/489115348",
+      "titulo": "As principais alterações com o advento da Lei nº 13.467/2017 (Reforma Trabalhista)",
+      "citada": true
+    },
+    {
+      "url": "https://www.revistaft.com/ft/article/view/1033",
+      "titulo": "Reforma trabalhista: principais mudanças, quadro comparativo e críticas.",
+      "citada": true
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/a-reforma-trabalhista-lei-13467-2017-e-seus-efeitos-consolidados/4971815862",
+      "titulo": "A Reforma Trabalhista (Lei 13.467/2017) e Seus Efeitos Consolidados",
+      "citada": true
+    },
+    {
+      "url": "https://vagasebeneficios.com/reforma-trabalhista/",
+      "titulo": "Reforma Trabalhista 2026: o guia completo das mudanças na CLT desde a Lei 13.467/2017 - Vagas e Benefícios",
+      "citada": true
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/publicacoes/detalhe/trabalhista/modernizacao-e-desburocratizacao-trabalhista/5-anos-da-modernizacao-trabalhista-lei-1346717-principais-decisoes-do-stf-sobre-temas-da-reforma/",
+      "titulo": "5 anos da Modernização Trabalhista (Lei 13.467/17): principais decisões do STF sobre temas da reforma - Conexão Trabalho - Uma nova Relação Trabalhista",
+      "citada": true
+    },
+    {
+      "url": "https://www.conteudojuridico.com.br/consulta/Artigos/51771/reforma-trabalhista-mudancas-importantes-da-lei-13-467-2017",
+      "titulo": "Conteúdo Jurídico",
+      "citada": true
+    },
+    {
+      "url": "https://ambitojuridico.com.br/cadernos/direito-do-trabalho/a-reforma-trabalhista-com-o-advento-da-lei-13-467-de-2017/",
+      "titulo": "A Reforma Trabalhista Com o Advento da Lei 13.467 de 2017",
+      "citada": true
+    },
+    {
+      "url": "https://www.projuris.com.br/blog/adi-5766/",
+      "titulo": "ADI 5766: impactos para a advocacia trabalhista",
+      "citada": true
+    },
+    {
+      "url": "https://netcpa.com.br/colunas/noticia-suprema-tera-que-analisar-tres-pontos-importantes-da-reforma-trabalhista/24332",
+      "titulo": "Suprema terá que analisar três pontos importantes da ...",
+      "citada": true
+    },
+    {
+      "url": "https://conexaotrabalho.portaldaindustria.com.br/media/publication/files/Modernizacao%20Trabalhista%20-%20Observatorio%20do%20STF.pdf",
+      "titulo": "MODERNIZAÇÃO TRABALHISTA: OBSERVATÓRIO DO STF",
+      "citada": true
+    },
+    {
+      "url": "https://www.jusbrasil.com.br/artigos/acao-direta-de-inconstitucionalidade-adin-5938/715308547",
+      "titulo": "Ação Direta de Inconstitucionalidade (ADIN 5938)",
+      "citada": true
+    },
+    {
+      "url": "https://diariofiscal.com.br/20mnAomgH5lkQbjZXOOkKIw1r77E9jRjJvJyI13/ctrabase/module_2_85.html",
+      "titulo": "Reforma trabalhista",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1544961&amp=&filename=SBT+1+PL678716+%3D%3E+PL+6787%2F2016",
+      "titulo": "COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER AO PROJETO",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.ufpb.br/jspui/bitstream/123456789/11457/1/RMJP22112017.pdf",
+      "titulo": "UNIVERSIDADE FEDERAL DA PARAÍBA CENTRO DE CIÊNCIAS JURÍDICAS",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.leg.br/noticias/509072-procurador-contesta-argumentos-para-reforma-trabalhista-industria-defende-modernizacao",
+      "titulo": "Procurador contesta argumentos para reforma trabalhista; indústria defende modernização - Portal da Câmara dos Deputados",
+      "citada": true
+    },
+    {
+      "url": "https://www.camara.leg.br/noticias/505870-proposta-estabelece-prevalencia-de-acordo-coletivo-sobre-legislacao-trabalhista/",
+      "titulo": "Proposta estabelece prevalência de acordo coletivo sobre legislação trabalhista - Notícias - Portal da Câmara dos Deputados",
+      "citada": true
+    },
+    {
+      "url": "https://www.jorgesoutomaior.com/blog/pl-678716-sobre-um-parecer-de-leigos-para-ignorantes-ou-de-ignorantes-para-leigos",
+      "titulo": "PL 6787/16: sobre um Parecer de leigos para ignorantes; ou de ignorantes para leigos - Jorge Luiz Souto Maior",
+      "citada": true
+    },
+    {
+      "url": "https://portal.trt3.jus.br/internet/jurisprudencia/boletim-de-precedentes-trt-mg/download/36___Boletim_de_Precedentes_Junho_2022.pdf",
+      "titulo": "1046 STF REPERCUSSÃO GERAL ADI, ADC e ADPF",
+      "citada": true
+    },
+    {
+      "url": "https://www.robortella.com.br/tese-firmada-para-o-tema-1046-de-repercussao-geral-celeumas-e-aspectos-praticos-na-aplicacao/",
+      "titulo": "Tese firmada para o tema 1046 de repercussão geral",
+      "citada": true
+    },
+    {
+      "url": "https://fetranscarga.org.br/2022/09/06/lei-14-442-2022-e-as-alteracoes-no-auxilio-alimentacao-e-no-teletrabalho/",
+      "titulo": "Lei 14.442/2022 e as alterações no Auxílio-Alimentação e no Teletrabalho",
+      "citada": true
+    }
+  ]
+}

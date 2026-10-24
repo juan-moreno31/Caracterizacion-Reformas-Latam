@@ -1,0 +1,146 @@
+{
+  "id": "COL_2025",
+  "iso": "COL",
+  "pais": "Colombia",
+  "anio": 2025,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.2383,
+  "incompleto": false,
+  "norma_propuesta": "Ley 2466 de 2025",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "Para COL 2025, la reforma principal es la **Ley 2466 de 2025**. Su título oficial es \"por medio de la cual se modifica parcialmente normas laborales y se adopta una Reforma Laboral para el trabajo decente y digno en Colombia\". El Gestor Normativo de Función Pública indica fecha de expedición el 25 de junio de 2025 y entrada en vigencia ese mismo día. Se publicó en el Diario Oficial 53.160 del 25 de junio de 2025.\n\n**Por qué es la que corresponde:** El artículo de objeto dice que la ley busca adoptar una reforma laboral mediante la modificación del Código Sustantivo del Trabajo, la Ley 50 de 1990, Ley 789 de 2002 y otras normas laborales. Esto la convierte en la norma de mayor alcance sobre el mercado laboral ese año. Además, modifica parcialmente la Ley 789 de 2002, que es el caso de calibración. Si revierte o no esa reforma, en todo o en parte, se analizará en etapas posteriores. Según una fuente gremial-profesional, el objetivo declarado del Gobierno era promover la formalización, reducir la precariedad y garantizar condiciones laborales más equitativas para los trabajadores.\n\n**Otras candidatas y por qué las descarto:**\n- **Decreto 0639 de 2025:** convocaba una consulta popular sobre la reforma laboral, pero no tiene contenido laboral sustantivo. El Consejo de Estado suspendió provisionalmente los efectos del Decreto 0639 del 15 de mayo de 2025, expedido por el presidente Gustavo Petro para convocar a una consulta popular nacional sobre derechos laborales y sociales. Por eso no lo cuento en OTRAS como norma laboral.\n- **Circulares del Ministerio del Trabajo:** el régimen legal de Bogotá remite a las Circulares 120 y 093 de 2025, Ministerio del Trabajo. Circular 121 de 2025. Son instrucciones administrativas que aplican la ley, no reformas propiamente dichas.\n\n**Para la etapa de vigencia:** la ley no ha sido anulada. La Corte Constitucional declaró inexequibles las expresiones \"que no esté relacionado o influya en su ejercicio laboral\" contenidas en el apartado primero y el apartado final del numeral 10 del artículo 17 (Sentencia C-081 de 2026). Con eso, la categoría más probable es `anulada_o_suspendida_parcial`, aunque la parte anulada es menor. Algunas disposiciones tienen fechas de aplicación escalonadas. Por ejemplo, el cambio de la jornada nocturna entró a regir el 25 de diciembre de 2025.\n\n**Límite de la búsqueda:** no consulté NATLEX/EPLex de la OIT. La confianza alta se basa en el texto oficial publicado por Función Pública, la Alcaldía de Bogotá y la Cancillería.\n\nNORMA: Ley 2466 de 2025\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://vlex.com.co/vid/ley-2466-2025-medio-1085038217",
+      "titulo": "Ley 2466 de 2025, por medio de la cual se modifica parcialmente normas laborales y se adopta una Reforma Laboral para el trabajo decente y digno en Colombia - vLex Colombia",
+      "citada": true
+    },
+    {
+      "url": "https://incp.org.co/publicaciones/infoincp-publicaciones/2025/06/se-aprobo-la-reforma-laboral-conozca-la-ley-2466-de-2025-el-25-de-junio/",
+      "titulo": "Se aprobó la reforma laboral: conozca la Ley 2466 de 2025",
+      "citada": true
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260676",
+      "titulo": "Ley 2466 de 2025 - Gestor Normativo - Función Pública",
+      "citada": true
+    },
+    {
+      "url": "https://safetya.co/normatividad/reformal-laboral-ley-2466-de-2025/",
+      "titulo": "Reforma Laboral en Colombia (Ley 2466 de 2025)",
+      "citada": true
+    },
+    {
+      "url": "https://www.giraldovelascoabogados.com/noticias/reforma-laboral-ley-2466-2025",
+      "titulo": "Reforma Laboral en Colombia: Ley 2466 de 2025",
+      "citada": true
+    },
+    {
+      "url": "https://www.bogotajuridica.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=181933",
+      "titulo": "Ley 2466 de 2025 Congreso de la República de Colombia",
+      "citada": true
+    },
+    {
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/c-081_2026.html",
+      "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [C-081_2026]",
+      "citada": true
+    },
+    {
+      "url": "https://www.rtvcnoticias.com/justicia/consejo-de-estado-suspende-decreto-de-la-consulta-popular",
+      "titulo": "Consejo de Estado suspende decreto de la Consulta Popular",
+      "citada": true
+    },
+    {
+      "url": "https://www.deel.com/es/blog/reforma-laboral-colombia-ley-2466/",
+      "titulo": "Reforma laboral en Colombia: Ley 2466 de 2025",
+      "citada": false
+    },
+    {
+      "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=181933",
+      "titulo": "Ley 2466 de 2025 Congreso de la República de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.andi.com.co/Uploads/ANDI-CESLA.%20El%20ABC%20de%20la%20reforma%20laboral.%20Ley%202466%20de%202025.pdf",
+      "titulo": "REFORMA LABORAL (Ley 2466 de 2025, D.O. 53.160) ABC DE LA",
+      "citada": false
+    },
+    {
+      "url": "https://dmgabogados.com.co/reforma-laboral-2025-pdf/",
+      "titulo": "Reforma Laboral Ley 2466 de 2025 PDF Descargar",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2026/C-081-26.htm",
+      "titulo": "Corteconstitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/ley_2466_2025.htm",
+      "titulo": "Compilación jurídica de la Cancillería de Colombia - Ley 2466 de 2025",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.uninunez.edu.co/entities/publication/9a3b3b07-6e76-4e57-b4e6-957e1cf77128/full",
+      "titulo": "Principales cambios normativos introducidos por la ley 2466 de 2025 en comparación con el código sustantivo del trabajo en Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://acmineria.com.co/wp-content/uploads/2025/06/LEY-2466-DE-2025.pdf",
+      "titulo": "2456 25»11SNBj^5 LEY No. “FOR MEDIO DEL CUAL SE MODIFICA PARC1ALMENTE",
+      "citada": false
+    },
+    {
+      "url": "https://asesoriasjuridicas.com.co/reforma-laboral-2026-colombia-cambios-vigentes/",
+      "titulo": "Ley 2466 de 2025 (reforma laboral): guía vigente 2026",
+      "citada": false
+    },
+    {
+      "url": "https://spanish.news.cn/20250619/ab418d1de9f64be0b41f75e555b268c9/c.html",
+      "titulo": "Consejo de Estado de Colombia suspende decreto de presidente Petro sobre consulta popular",
+      "citada": false
+    },
+    {
+      "url": "https://es-us.noticias.yahoo.com/consejo-estado-colombia-suspende-provisionalmente-232047872.html",
+      "titulo": "El Consejo de Estado de Colombia suspende provisionalmente decreto de Petro sobre consulta popular para sus reformas sociales - Yahoo Noticias",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambitojuridico.com/noticias/derecho-publico/extra-consejo-de-estado-suspendio-decreto-de-petro-que-convoca-consulta",
+      "titulo": "EXTRA: Consejo de Estado suspendió decreto de Petro que convoca a consulta popular",
+      "citada": false
+    },
+    {
+      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20250619-colombia-consejo-de-estado-suspende-el-decreto-de-petro-que-convocaba-a-la-consulta-popular",
+      "titulo": "Colombia: Consejo de Estado suspende el decreto de Petro que convocaba a la consulta popular",
+      "citada": false
+    },
+    {
+      "url": "https://www.eldiario.com.co/actualidad/consejo-de-estado-suspende-decreto-de-petro-sobre-consulta-popular-por-reforma-laboral/",
+      "titulo": "Consejo de Estado suspende decreto de Petro sobre consulta popular por reforma laboral - El Diario",
+      "citada": false
+    },
+    {
+      "url": "https://latinus.us/latam/2025/6/18/colombia-suspende-decreto-de-gustavo-petro-que-ordenaba-consulta-popular-sobre-reforma-laboral-144739.html",
+      "titulo": "Colombia suspende decreto de Gustavo Petro que ordenaba consulta popular sobre reforma laboral",
+      "citada": false
+    },
+    {
+      "url": "https://revistaelmundocambio.com/consejo-de-estado-suspende-provisionalmente-la-consulta-popular-promovida-por-el-gobierno/",
+      "titulo": "Consejo de Estado suspende provisionalmente la consulta popular promovida por el Gobierno - REVISTA EL MUNDO CAMBIO",
+      "citada": false
+    },
+    {
+      "url": "https://www.tercerainformacion.es/articulo/internacional/19/06/2025/colombia-consejo-de-estado-suspende-decreto-de-consulta-popular-sobre-reforma-laboral/",
+      "titulo": "Colombia: Consejo de Estado suspende decreto de consulta popular sobre reforma laboral - Tercera Información - Tercera Información",
+      "citada": false
+    },
+    {
+      "url": "https://diariolalibertad.com/2025/06/19/consejo-de-estado-suspendio-decreto-de-consulta-popular-impulsado-por-el-presidente-petro/",
+      "titulo": "Consejo de Estado suspendió decreto de consulta popular impulsado por el presidente Petro - Diario La Libertad.",
+      "citada": false
+    }
+  ]
+}

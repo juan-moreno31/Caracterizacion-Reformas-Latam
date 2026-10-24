@@ -1,0 +1,179 @@
+{
+  "id": "NIC_2012",
+  "iso": "NIC",
+  "pais": "Nicaragua",
+  "anio": 2012,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3914,
+  "incompleto": false,
+  "norma": "Ley No. 815, Código Procesal del Trabajo y de la Seguridad Social de Nicaragua (2012)",
+  "texto": "# Informe de investigación: NIC 2012, Ley No. 815, Código Procesal del Trabajo y de la Seguridad Social\n\nEn síntesis, es una reforma procesal de orientación protectora. Rige desde finales de mayo de 2013, y algunas de sus partes se implantan de forma gradual. No encontré fallos de inconstitucionalidad ni reformas posteriores, pero tampoco pude descartarlos.\n\n## 1. Objetivo declarado\n\nSegún la OIT, la ley busca contribuir a garantizar la efectiva aplicación de la legislación laboral y de las normas internacionales de trabajo, como parte de la creación de condiciones de trabajo decentes. NATLEX añade dos fines: la drástica reducción de la mora judicial en los procesos laborales y una mayor tutela de los derechos laborales y la creación de una cultura de cumplimiento. La OIT la describe como un instrumento que simplifica, moderniza y profesionaliza el servicio público de administración de justicia laboral, y que lo hace sin afectar el derecho de defensa y el debido proceso de empleadores y trabajadores.\n\n*No verificado:* no consulté la exposición de motivos. Lo declarado proviene de la OIT, de NATLEX y del Poder Judicial, no del proponente.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**justicia_laboral_e_inspeccion (aumenta).** Es el núcleo de la reforma.\n- **Proceso oral.** El proceso pasa a ser oral, concentrado, público, con inmediación y celeridad.\n- **Acceso a la justicia.** En los procesos del trabajo y de la seguridad social no se precisa la intervención de abogado o abogada. Además, quien no pueda presentar la demanda por escrito podrá manifestarlo verbalmente ante el secretario judicial designado.\n- **Conciliación administrativa.** Es obligatoria y previa al juicio para los casos de menor cuantía. Los acuerdos firmados ante el Ministerio del Trabajo adquieren fuerza ejecutiva.\n- **Prioridad de la vía laboral sobre la penal.** Para ciertos delitos del Código Penal será necesaria la existencia de sentencia laboral firme que determine o pueda dar lugar al supuesto penal. Una fuente secundaria (un despacho de abogados) interpreta que esto busca impedir que se use la vía penal para presionar a trabajadores que reclaman sus prestaciones.\n\n**despido_e_indemnizacion (aumenta).**\n- **Carga de la prueba.** En el despido constituirá carga probatoria del demandado los hechos imputados como causa del mismo en la carta de despido, no pudiendo invocarse posteriormente otros hechos.\n- **Autorización previa.** Para el despido con causa justa se exige de previo solicitar la autorización a la Inspectoría Departamental del Trabajo.\n- **Despido verbal.** El despido verbal se presume injustificado.\n- **Despidos discriminatorios o que lesionan derechos fundamentales.** El juez ordena el reintegro obligatorio en el mismo puesto y condiciones de trabajo con el pago de los salarios dejados de percibir, y en ese caso no operará la opción de pago de doble indemnización a que se refiere el artículo 46 del Código del Trabajo. El incumplimiento se sanciona con apremios pecuniarios diarios.\n\n*No verificado:* no confirmé si la autorización previa es una regla nueva o si ya estaba en el Código del Trabajo (Ley 185). Fuentes de despachos sugieren que ya existía en el artículo 48 del Código del Trabajo; en ese caso, la Ley 815 solo la reforzaría en lo procesal.\n\n**derechos_colectivos_sindicales (aumenta).**\n- **Quién puede pedir tutela.** Cualquier trabajador o sindicato que considere lesionados los derechos de libertad sindical o cualquier otro derecho fundamental podrá pedir su tutela, incluso si ya hay en curso una solicitud administrativa de despido.\n- **Prioridad y carga de la prueba.** Estos procesos tienen carácter urgente a todos los efectos, siendo preferente. Una vez acreditados indicios, corresponderá al demandado la carga de probar la ausencia de discriminación.\n- **Ejecución provisional.** Las sentencias de tutela serán ejecutables provisionalmente no obstante el recurso de apelación.\n- **Conflictos colectivos.** Se crea un cauce propio para los conflictos colectivos de carácter jurídico, al que tienen acceso los sindicatos.\n\n**tercerizacion_subcontratacion (reorganiza; es un caso ambiguo).**\n- **Qué dice la norma.** El artículo 81 permite que el trabajador pida la comparecencia de la empresa principal usuaria de ese servicio a fin de determinar en la sentencia la existencia de responsabilidad subsidiaria.\n- **Por qué es ambiguo.** El dictamen original permitía demandar conjuntamente tanto a la empresa principal como al sujeto intermediario, y en el pleno una diputada criticó el cambio como una concesión a los empleadores. La doctrina señala que el artículo 81 limita la responsabilidad de la empresa principal a subsidiaria, mientras la Ley General de Higiene y Seguridad del Trabajo (2007) en su art. 34 y el Código del Trabajo (1996) en su art. 180 prevén responsabilidad solidaria.\n- **Codificación propuesta.** \"Reorganiza\". Facilita el acceso procesal a la empresa principal, pero podría reducir la protección frente al régimen sustantivo de responsabilidad solidaria. Conviene anotarlo en `notas`.\n\n**seguridad_social_y_pensiones (aumenta).**\n- **Competencia.** Los juzgados conocen de las pretensiones de seguridad social tanto en relación a prestaciones como a la afiliación, inscripción, recaudación y cotización.\n- **Prestaciones durante la apelación.** Las condenas a pagar prestaciones periódicas se ejecutan provisionalmente aunque se apelen, sin que exista obligación de devolución en caso que la sentencia fuere ulteriormente revocada.\n\n**genero_y_conciliacion (aumenta, con peso menor).** La competencia incluye expresamente la protección de los derechos laborales de las mujeres trabajadoras, y el procedimiento de tutela cubre la no discriminación.\n\n## 3. Población objetivo\n\n- **asalariados_formales:** son el grueso de los litigantes.\n- **sector_publico:** la competencia alcanza a los servidores de la administración pública, y la ley regula la ejecución de sentencias contra el Estado.\n- **mujeres:** tienen mención expresa.\n- **jovenes:** solo de forma marginal; la ley reconoce capacidad procesal a las personas trabajadoras adolescentes, que actúan por medio de su representante.\n\nSugiero no codificar `jovenes` como población principal.\n\n## 4. Contexto político y económico\n\n- **Origen de la iniciativa.** Según el Poder Judicial, el Código fue aprobado por iniciativa de la Corte Suprema de Justicia.\n- **Consenso.** La OIT afirma que el texto se logró consensuar entre todos los sectores involucrados en la administración de justicia laboral, incluyendo las organizaciones sindicales y de empleadores, y que contó con su apoyo técnico.\n- **Sanción.** La ley fue sancionada por el presidente Daniel Ortega el 23 de noviembre de 2012.\n- **Debate parlamentario.** Hubo tensión sobre la tercerización. Una diputada atribuyó al COSEP (la principal organización empresarial) el bloqueo de una ley específica sobre tercerización.\n\n*Sin fuente:* no busqué el contexto macroeconómico de 2012. No lo completo.\n\n## 5. ¿Revierte una reforma previa?\n\nNo. Sustituye el procedimiento escrito del Libro Segundo de la Ley 185 (Código del Trabajo). Las causas iniciadas bajo ese procedimiento concluirán su sustanciación bajo esos términos. NATLEX la registra como texto que modifica el Decreto 974 (Ley de Seguridad Social) y la Ley 185.\n\n*Discrepancia:* el informe previo mencionaba la Ley 755, pero el registro de NATLEX que consulté no la incluye.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Plazo legal.** El artículo 163 fija la entrada en vigor tras un plazo diferido contado desde la publicación, que fue el 29 de noviembre de 2012.\n- **Fecha.** Una columna de La Prensa indica que la ley entró en vigencia el 29 de mayo de este año (2013), y el Poder Judicial la sitúa a finales de mayo de 2013. NATLEX, en cambio, registra Date of entry into force 2013-04-29, lo que no cuadra con el plazo legal y parece un error. Propongo `fecha_entrada_vigencia` = **2013-05-29**, con confianza media.\n- **Implantación gradual (`vigencia_escalonada` = true):**\n  - La conciliación administrativa obligatoria solo se exige en las ciudades que son cabeceras departamentales de la república o ciudades o localidades en las que el Ministerio de Trabajo tenga representación, mientras se crea un sistema nacional.\n  - Mientras no haya juzgados especializados en todo el país, es competente el juez laboral más próximo, y la Corte Suprema debe crear juzgados en cada cabecera departamental dentro de un plazo diferido.\n- **Nota de año:** la base registra 2012 (año de aprobación y publicación), pero la ley solo se aplica desde 2013.\n\n## 7. Estado de vigencia posterior\n\n- **Vigencia.** vLex la etiqueta como \"Vigente\". El Poder Judicial informa sobre su aplicación efectiva en los años siguientes, con procesos más céleres.\n- **Impugnación.** Solo encontré la columna de La Prensa (2013), que pedía un recurso de inconstitucionalidad, y una tesis universitaria de 2013 que analiza la posible inconstitucionalidad de la declaración de parte como medio de prueba. **No hallé constancia de que se presentara un recurso ni de ningún fallo de la Corte Suprema.** Si lo hubiera, y afectara solo a la declaración de parte, sería un aspecto menor que iría en `notas` y no cambiaría la categoría.\n- **Reformas posteriores.** No verifiqué si hubo reformas o si el texto se consolidó en el Digesto Jurídico.\n- **Propuesta:** `estado_vigencia` = **vigente**.\n\n## Propuesta de codificación preliminar\n\n| Campo | Valor |\n|---|---|\n| `orientacion_general` | protectora (por vía procesal) |\n| `tipo_instrumento` | `codigo` (formalmente aprobado como ley; aclararlo en `notas`) |\n| `dimensiones` | justicia_laboral_e_inspeccion (aumenta); despido_e_indemnizacion (aumenta); derechos_colectivos_sindicales (aumenta); seguridad_social_y_pensiones (aumenta); tercerizacion_subcontratacion (reorganiza); genero_y_conciliacion (aumenta) |\n| `poblacion_objetivo` | asalariados_formales, sector_publico, mujeres |\n| `revierte_reforma_previa` | no |\n| `fecha_entrada_vigencia` | 2013-05-29 |\n| `vigencia_escalonada` | true |\n| `estado_vigencia` | vigente |\n| `confianza_identificacion` | alta |\n\n## Pendientes de verificar\n\n1. La exposición de motivos de la ley.\n2. Si la autorización previa para despedir es nueva o ya existía en el Código del Trabajo.\n3. Si se presentó algún recurso de inconstitucionalidad y cómo se resolvió.\n4. Si hubo reformas posteriores o integración en el Digesto Jurídico.\n5. La discrepancia sobre la Ley 755.\n6. El contexto económico de 2012.",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=91965",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 815 de Código Procesal del Trabajo y de la Seguridad Social.",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/SILEG/Iniciativas.nsf/ea79fa9f52c97aeb06256700005032db/90ad465bfdd0206506257896005ede24/$FILE/Ley%20No.%20815%20codigo%20procesal%20laboral.pdf",
+      "titulo": "1/48 El Presidente de la República de Nicaragua A sus habitantes, Sabed: Que,",
+      "citada": true
+    },
+    {
+      "url": "https://cam.gob.ni/wp-content/uploads/2023/12/9.-LEY-815-CODIGO-PROCESAL-DEL-TRABAJO-Y-DE-LA-SEGURUDAD-SOCIAL-DE-NICARAGUA.pdf",
+      "titulo": "LA GACETA - DIARIO OFICIAL 9696 29-11-12 229 ASAMBLEA NACIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://www.leybook.com/doc/1371",
+      "titulo": "Leybook - CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA",
+      "citada": true
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/2012/10/30/815",
+      "titulo": "Ley 815/2012, de 30 de octubre, del Código Procesal del Trabajo y de la Seguridad Social de Nicaragua - Diccionario panshipánico del español jurídico - RAE",
+      "citada": true
+    },
+    {
+      "url": "https://www.laprensani.com/2013/06/14/opinion/150760-codigo-procesal-del-trabajo",
+      "titulo": "Código Procesal del Trabajo - La Prensa",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/news/nicaragua-aprueba-trascendental-codigo-procesal-del-trabajo",
+      "titulo": "Nicaragua aprueba trascendental Código Procesal del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/6950445.pdf",
+      "titulo": "Revista de Derecho No. 25, Jul-Dic. 2018. ISSN 1993-4505 / eISSN 2409-1685 75",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/Diariodebate.nsf/1e91f0054ac77a85062572e50067fde4/a0879942113c14c306257b2f00550837",
+      "titulo": "CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA.",
+      "citada": true
+    },
+    {
+      "url": "https://www.poderjudicial.gob.ni/prensa/notas_prensa_detalle.asp?id_noticia=10949",
+      "titulo": "SITIO WEB OFICIAL DEL PODER JUDICIAL DE LA REPUBLICA DE NICARAGUA: Directorio de Abogados y Notarios, Nuevo codigo procesal civil de nicaragua, Codigo de Etica, Pruebas de ADN, Pruebas de paternidad, Medicina Legal",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/SILEG/Iniciativas.nsf/NewGaceta.xsp?databaseName=CN%3Dlotusleg1/O%3DAsamblea+Nacional!!SILEG%5CGacetas.nsf&documentId=5E6B6E9F984B649506257AC90064BFF0&action=openDocument",
+      "titulo": "Código Procesal del Trabajo y de la Seguridad Social de ...",
+      "citada": false
+    },
+    {
+      "url": "https://ni.vlex.com/vid/codigo-procesal-trabajo-seguridad-649658997",
+      "titulo": "CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA - vLex Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://www.gchnicaragua.com/el-juicio-oral-laboral-en-nicaragua/",
+      "titulo": "El Juicio Oral Laboral en Nicaragua - GCH LAW FIRM, S.A.",
+      "citada": false
+    },
+    {
+      "url": "https://nicaragua.justia.com/nacionales/codigos/codigo-procesal-del-trabajo-y-de-la-seguridad-social-de-nicaragua-nov-29-2012/gdoc/",
+      "titulo": "Justia Nicaragua :: Nacionales > Códigos > Código Procesal Del Trabajo Y De La Seguridad Social De Nicaragua :: Ley de Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.cnu.edu.ni/Record/RepoUNANM475",
+      "titulo": "Description: Análisis de los principios procesales del trabajo establecidos en el Código Procesal del Trabajo y la Seguridad Social de Nicaragua Ley 815",
+      "citada": false
+    },
+    {
+      "url": "http://www2.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=91965",
+      "titulo": "Nicaragua - Ley núm. 815 de Código Procesal del Trabajo y de la Seguridad Social.",
+      "citada": false
+    },
+    {
+      "url": "https://nicaragua.justia.com/nacionales/leyes/codigo-procesal-del-trabajo-y-de-la-seguridad-social-de-nicaragua-1-nov-29-2012/gdoc/",
+      "titulo": "Justia Nicaragua :: Nacionales > Leyes > Código Procesal Del Trabajo Y De La Seguridad Social De Nicaragua 1 :: Ley de Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://ni.vlex.com/tags/despido-injustificado-1803334",
+      "titulo": "despido injustificado",
+      "citada": false
+    },
+    {
+      "url": "https://www.gchnicaragua.com/despidos-disciplinarios-y-procedimiento-de-cancelacion-de-contrato",
+      "titulo": "Despidos Disciplinarios y Procedimiento de Cancelación de Contrato - GCH LAW FIRM, S.A.",
+      "citada": false
+    },
+    {
+      "url": "https://www.poderjudicial.gob.ni/prensa/notas_prensa_detalle.asp?id_noticia=9687",
+      "titulo": "SITIO WEB OFICIAL DEL PODER JUDICIAL DE LA REPUBLICA DE NICARAGUA: Directorio de Abogados y Notarios, Nuevo codigo procesal civil de nicaragua, Codigo de Etica, Pruebas de ADN, Pruebas de paternidad, Medicina Legal",
+      "citada": false
+    },
+    {
+      "url": "https://www.gchnicaragua.com/errores-comunes-al-despedir-a-un-trabajador-en-nicaragua",
+      "titulo": "Errores comunes al despedir a un trabajador en Nicaragua - GCH LAW FIRM, S.A.",
+      "citada": false
+    },
+    {
+      "url": "https://www.vostv.com.ni/actualidad/26104-como-puedo-finalizar-un-contrato-de-trabajo-y-que/",
+      "titulo": "¿Qué puede hacer el trabajador que ha sido afectado ante un despido sin causa justa? - Vos TV",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.unan.edu.ni/id/eprint/475/",
+      "titulo": "Análisis de los principios procesales del trabajo establecidos en el Código Procesal del Trabajo y la Seguridad Social de Nicaragua Ley 815 - Repositorio Institucional UNAN-Managua",
+      "citada": false
+    },
+    {
+      "url": "https://ni.vlex.com/vid/codigo-procesal-trabajo-seguridad-645252037",
+      "titulo": "CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA - vLex Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://www.laprensani.com/tag/codigo-procesal-laboral",
+      "titulo": "Código Procesal Laboral - La Prensa",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=dc919710-6ff7-4086-ba83-7dea4bf420d3",
+      "titulo": "La subcontratación laboral en Nicaragua - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/350981978_La_Subcontratacion_laboral_alcances_y_trascendencia_legal_en_Nicaragua",
+      "titulo": "(PDF) La Subcontratación laboral, alcances y trascendencia legal en Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.unan.edu.ni/id/eprint/467/",
+      "titulo": "La tercerización laboral y su regulación en Nicaragua hasta el año 2013 - Repositorio Institucional UNAN-Managua",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.unan.edu.ni/id/eprint/477/",
+      "titulo": "Análisis jurídico de la regulación del empleo tercerizado o subcontratado a la Luz de los Derechos Fundamentales de los Trabajadores - Repositorio Institucional UNAN-Managua",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=2d255a13-1ef6-4ecc-8c1d-64e86b5dc483",
+      "titulo": "Outsourcing en Nicaragua - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://ni.vlex.com/vid/responsabilidad-empresas-contratos-tercerizados-707202241",
+      "titulo": "La responsabilidad de las empresas en los contratos tercerizados de construcción - vLex Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "https://repositoriosiidca.csuca.org/Record/RepoUNANM475",
+      "titulo": "Description: Análisis de los principios procesales del trabajo establecidos en el Código Procesal del Trabajo y la Seguridad Social de Nicaragua Ley 815",
+      "citada": false
+    },
+    {
+      "url": "https://e-revistas.uc3m.es/index.php/CDT/article/download/8457/6547/",
+      "titulo": "Cuadernos de Derecho Transnacional (Marzo 2024), Vol. 16, Nº 1, pp. 930-953",
+      "citada": false
+    }
+  ]
+}

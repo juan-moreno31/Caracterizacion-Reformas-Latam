@@ -1,0 +1,259 @@
+{
+  "id": "PER_1991",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 1991,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3979,
+  "incompleto": false,
+  "norma": "Decreto Legislativo N.º 728 (Ley de Fomento del Empleo), 1991",
+  "texto": "# Informe de investigación: Perú, 1991. Decreto Legislativo N.º 728, Ley de Fomento del Empleo\n\n## 1. Objetivo declarado\n\nLa ley habilitante (Ley 25327) delegó facultades para promover el acceso masivo al trabajo de conformidad con los Artículos 42 y 43 de la Constitución, crear nuevas oportunidades de empleo y flexibilizar las modalidades de contratación laboral. La exposición de motivos del DL 728 pone dos condiciones. Debían usarse dos mecanismos: la flexibilización de la contratación laboral y la adecuación de la normatividad de la pequeña empresa, de la micro empresa y del trabajo autónomo. Además, la única limitante que se establece en la Ley de delegación de facultades es que el Ejecutivo en todo caso deberá respetar las normas constitucionales de estabilidad laboral.\n\nEl discurso oficial presentaba la reforma como una corrección moderada. Hablaba de la necesaria flexibilización del rígido sistema de estabilidad absoluta instaurado por la Ley 24514, mientras quedaba tutelado siempre el trabajador como la parte débil de la relación laboral.\n\n**Declarado vs. efectivo.** La literatura económica atribuye a la reforma un propósito más radical que el declarado. Según Saavedra, la intención de los creadores del Decreto Ley 728 (Ley de Fomento del Empleo) fue la de abolir la estabilidad laboral. Sin embargo, como la estabilidad tenía rango constitucional en 1979, solo pudo eliminarse parcialmente.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**contratacion_temporal (reduce).** Es el eje central de la norma. Esta ley facilitó la utilización de un amplio conjunto de modalidades contractuales temporales y simplificó los procedimientos administrativos asociados. Además derogó la norma previa sobre contratación a plazo (el D.L. 18138) y agrupó los contratos en tres categorías: temporales, accidentales y de obra o servicio (derogando el D.L. Nº 18138 y regulando los llamados \"contratos sujetos a modalidad\"). La norma deja la puerta abierta a otras formas: cualquier otra clase de servicio sujeto a modalidad no contemplado específicamente en el presente Título podrá contratarse, siempre que su objeto sea de naturaleza temporal.\n\nHay contrapesos que matizan la reducción de protección. El texto incluye un capítulo sobre desnaturalización de los contratos. También dispone que los contratados temporalmente reciban los mismos beneficios que los trabajadores por tiempo indeterminado, con estabilidad laboral durante el tiempo que dure el contrato, una vez superado el periodo de prueba.\n\n**despido_e_indemnizacion (reduce).** Bajo la Ley 24514, el trabajador despedido sin causa elegía entre reposición e indemnización. El DL 728 mantiene la reposición como regla formal, pero permite que el juez la sustituya. El texto dice que el juez podrá ordenar en la sentencia el pago de la indemnización en vez de la reposición cuando éste resultare inconveniente dadas las circunstancias. La doctrina subraya que la LFE abrió, por vez primera desde la década de los setenta, la posibilidad de sustituir la tutela restitutoria por la tutela resarcitoria.\n\nCiertos grupos quedan solo con derecho a indemnización y sin reposición: el personal de dirección, los trabajadores de confianza y los de empresas pequeñas por debajo de un umbral de plantilla (art. 84). A esto se suma el cese colectivo por causas objetivas: el cese colectivo por causa objetiva, en los casos y forma permitidos por la presente Ley pasa a ser una causa de extinción.\n\nHay un elemento que aumenta la protección: se crea el despido nulo, cuya consecuencia es la reposición obligatoria. Según el texto, en estos casos si el despido es declarado nulo el trabajador será repuesto en su empleo. En el balance, la dirección dominante de esta dimensión es *reduce*. Los cambios en el período de prueba también están en el Título II, pero no verifiqué en qué dirección van.\n\n**tercerizacion_subcontratacion (reduce).** El título VI se refiere a las empresas de servicios temporales y a las empresas de servicios complementarios. El texto también autoriza cooperativas de trabajadores suministradoras de servicios complementarios a los procesos de producción que se lleven a cabo en empresas usuarias. Al mismo tiempo, exige que estas empresas regularicen su situación jurídica, bajo pena de no poder seguir funcionando. Ese componente es de ordenamiento, pero la dirección principal es habilitar la intermediación.\n\n**empleo_juvenil_y_aprendizaje (reduce).** La norma regula la formación laboral juvenil y las prácticas preprofesionales, y precisa que estos convenios no originan vínculo laboral. La subvención que se paga al no tener carácter remunerativo, no está sujeta a retención a cargo del beneficiario, ni a pago alguno de cargo de la empresa, por concepto de aportaciones o contribuciones a la seguridad social y otros fondos. Para el beneficiario hay garantías: subvención, seguro y una opción preferencial de admisión en las empresas en que hayan realizado su capacitación. La lógica es parecida a la del caso colombiano de referencia: la relación formativa deja de ser laboral.\n\n**formalizacion_y_mipymes (reorganiza; contenido no verificado en detalle).** El índice del texto oficial incluye capítulos sobre Programas Especiales de Empleo, Programas de Reconversión Productiva para las Empresas del Sector Informal Urbano, Promoción del Empleo Autónomo, Trabajo a Domicilio y Medidas para la Generación Masiva del Empleo. No revisé el contenido sustantivo de estos capítulos.\n\n**otro: capacitación y productividad (reorganiza; sin verificar).** Según NATLEX, uno de los títulos trata la capacitación laboral y la productividad. No verifiqué su contenido.\n\n**No identificadas:** jornada, derechos colectivos (corresponden al DL 25593 de 1992), género y salario. Sobre remuneración, NATLEX la menciona entre las materias reguladas, pero no verifiqué ningún cambio sustantivo.\n\n## 3. Población objetivo\n\nEl ámbito de aplicación abarca \"todas las empresas y trabajadores sujetos al régimen laboral de la actividad privada\", por lo que el sector público queda excluido.\n\nCódigos sugeridos:\n- `asalariados_formales`\n- `jovenes`\n- `empleadores_mipymes` (por la exclusión de reposición en empresas pequeñas)\n- `informales`, con confianza menor (por los programas para el sector informal urbano)\n\nLa propia ley habilitante mencionaba entre sus prioridades a jóvenes desempleados, mujeres con responsabilidades familiares. No verifiqué que la norma tenga instrumentos específicos para mujeres, así que no recomiendo codificar `mujeres`.\n\n## 4. Contexto político y económico\n\nPrimer gobierno de Fujimori, en pleno ajuste estabilizador. Durante el resto de 1990 y buena parte de 1991, las principales medidas del nuevo gobierno se concentraron en el plano económico: continuar con el ajuste para lograr la estabilización económica, iniciar la liberalización de la economía y la reforma estructural del aparato estatal. La delegación de facultades contó con un amplio consenso parlamentario. La Comisión de la Verdad, sin embargo, sostiene que la emisión casi simultánea de decretos en noviembre de 1991 estuvo fina y premeditadamente montado con el propósito de desbordar y desprestigiar al Congreso mientras se resolvían los últimos detalles para el golpe. El DL 728 es anterior al autogolpe de abril de 1992 y se dictó bajo la Constitución de 1979. Por eso el código correcto es `decreto_legislativo` y no `decreto_ley`.\n\n## 5. ¿Revierte una reforma previa?\n\n**Sí, en parte.** Revierte la estabilidad absoluta de la Ley 24514 de 1986. Según la doctrina, el gobierno de García restituyó la estabilidad laboral absoluta con la promulgación de la Ley n.° 24514, vigente a partir de 1986. El DL 728 no derogó esa ley: la dejó vigente para quienes ya estaban contratados. La Ley 24514 fue derogada recién en 1995.\n\n## 6. Entrada en vigor y aplicación diferida\n\n- **Publicación y vigencia:** se publicó en El Peruano el 1991-11-12 y entró en vigor el **1991-12-12** según NATLEX. La demora se debe a que la Ley 25327 dispuso que los decretos legislativos entrarán en vigencia treinta días después de su publicación.\n- **Régimen dual:** el rasgo temporal más importante para el análisis econométrico es que la reforma solo se aplicó plenamente a los nuevos contratados. Así, la Ley de Fomento del Empleo creó un sistema dual. Quienes tenían contrato vigente al 8 de noviembre de 1991 siguieron rigiéndose por la Ley 24514 en materia de faltas graves, reposición y tarifa indemnizatoria, según su Segunda Disposición Transitoria y Final.\n- **Recomendación:** `vigencia_escalonada = false`, porque no hay entrada diferida de partes clave. En `notas` conviene registrar que el tratamiento en materia de despido afecta solo a las contrataciones posteriores a la fecha de corte. También debe anotarse el plazo de adecuación que se dio a las empresas de servicios temporales y complementarios.\n\n## 7. Estado de vigencia posterior\n\n1. **DL 765 (noviembre de 1991):** modificación inmediata de un artículo, según el informe previo. No la verifiqué aquí.\n2. **Ley 26513 (julio de 1995):** es la modificación sustantiva y profundiza la reforma en lugar de revertirla. El TÚOLFE consuma la tendencia desprotectora, esbozada en la LFE, y elimina como medida reparadora del despido «arbitrario» la reposición. También deroga la LET (Ley 24514), con lo que se elimina el régimen dual. Se aprobó el TUO por el D.S. 05-95-TR.\n3. **DL 855 (1997):** dividió la norma en la Ley de Formación y Promoción Laboral y la Ley de Productividad y Competitividad Laboral (D.S. 003-97-TR).\n4. **Tribunal Constitucional, Exp. 1124-2001-AA/TC (2002, caso Telefónica):** declaró inaplicable el artículo 34º, segundo párrafo, del Texto Único Ordenado del Decreto Legislativo N.° 728, Ley de Productividad y Competitividad Laboral. Ese artículo fijaba la indemnización como única reparación. Esa regla proviene de la Ley 26513 y no del texto original de 1991, que admitía la reposición. Por eso el fallo no recorta la reforma de 1991, sino una profundización posterior. Además, amplía la protección y su efecto formal es *inter partes*. Según el codebook, va en `notas`.\n\n**Código recomendado:** `modificada_o_derogada_despues`. Comparto la lectura de que el DL 728 sigue siendo la denominación formal del régimen privado. Pero su texto original fue sustituido en lo central en 1995 y 1997.\n\n## Codificación sugerida\n\n| Campo | Valor |\n|---|---|\n| tipo_instrumento | `decreto_legislativo` |\n| orientacion_general | `flexibilizadora` |\n| confianza_identificacion | `alta` (NATLEX y texto oficial) |\n| revierte_reforma_previa | sí, parcialmente (Ley 24514 de 1986) |\n| fecha_entrada_vigencia | 1991-12-12 |\n| vigencia_escalonada | false (régimen dual en `notas`) |\n| estado_vigencia | `modificada_o_derogada_despues` |\n\n## No verificado\n\n- El contenido sustantivo de los títulos sobre remuneración, período de prueba, capacitación y productividad, y programas especiales de empleo y sector informal.\n- El texto del DL 765.\n- La existencia de fallos judiciales contra el texto original de 1991. No encontré ninguno; el Tribunal de Garantías Constitucionales dejó de funcionar en 1992, pero tampoco eso lo verifiqué.\n\nAdvertencia sobre las fuentes: algunas versiones en línea, como la de vLex, muestran el texto ya modificado por la Ley 26513. Para la etapa 2, las citas deben tomarse del texto original publicado en el portal del Congreso o en el sitio de la OEA.",
+  "fuentes": [
+    {
+      "url": "https://www.oas.org/juridico/pdfs/mesicic4_per_dl728.pdf",
+      "titulo": "DECRETO LEGISLATIVO Nº 728 CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/VI-Congreso-Nacional-full-91-143.pdf",
+      "titulo": "91 ESTADO ACTUAL DE LA ESTABILIDAD LABORAL CARLOS BLANCAS BUSTAMANTE",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.pj.gob.pe/revista/index.php/ropj/article/download/382/626",
+      "titulo": "https://revistas.pj.gob.pe/revista/index.php/ropj/article ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.ipe.org.pe/wp-content/uploads/2018/01/1999-La-Flexibilizacion-del-Mercado-Laboral.pdf",
+      "titulo": "La Flexibilización del Mercado Laboral Jaime Saavedra",
+      "citada": true
+    },
+    {
+      "url": "https://www.grade.org.pe/wp-content/uploads/ddt28.pdf",
+      "titulo": "(PDF) Estabilidad laboral e indemnización: efectos de los ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=25534",
+      "titulo": "NATLEX - Peru - Decreto legislativo núm. 728, por el que dictan ley de fomento del empleo.",
+      "citada": true
+    },
+    {
+      "url": "https://www.senasa.gob.pe/senasa/wp-content/uploads/2017/09/DECRETO-LEG-N%C3%82%C2%BA-728.pdf",
+      "titulo": "1 Dictan Ley de Fomento del Empleo DECRETO LEGISLATIVO Nº 728 (*)",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/5085279.pdf",
+      "titulo": "187 El despido en la reforma de la ley de Fomento del Empleo",
+      "citada": true
+    },
+    {
+      "url": "https://www.deperu.com/legislacion/ley-25327-pdf.html",
+      "titulo": "Ley 25327 - PDF",
+      "citada": true
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Homenaje-bodas-de-plata-full-133-152.pdf",
+      "titulo": "133 LA FLEXIBILIDAD REVISITADA: A 25 años de las reformas laborales sobre",
+      "citada": true
+    },
+    {
+      "url": "http://www.derechos.org/nizkor/peru/libros/cv/iii/23.html",
+      "titulo": "Informe Comisión Verdad Perú: Tomo III LA DÉCADA DE LOS NOVENTA Y LOS DOS GOBIERNOS DE ALBERTO FUJIMORI",
+      "citada": true
+    },
+    {
+      "url": "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00728.pdf",
+      "titulo": "DECRETO LEGISLATIVO Nº 728 CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://www.tc.gob.pe/jurisprudencia/2002/01124-2001-AA.html",
+      "titulo": "1124-2001-AA",
+      "citada": true
+    },
+    {
+      "url": "https://diariooficial.elperuano.pe/Normas/obtenerDocumento?idNorma=35",
+      "titulo": "1 NORMAS LEGALES ACTUALIZADAS NORMAS LEGALES ACTUALIZADAS",
+      "citada": false
+    },
+    {
+      "url": "https://www.perupetro.com.pe/wps/wcm/connect/corporativo/dd8991a1-d03c-44d9-b8a1-d0f4ba41175d/DS+N%C2%BA+003-97-TR.pdf?MOD=AJPERES",
+      "titulo": "Texto Unico Ordenado del D. Leg. N° 728, Ley de ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.spdtss.org.pe/wp-content/uploads/2021/10/Homenaje-bodas-de-plata-full-153-169.pdf",
+      "titulo": "153 ESTABILIDAD LABORAL: 43 AÑOS DESPUÉS ALFONSO DE LOS HEROS(1)",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/15519/15968/",
+      "titulo": "La estabilidad laboral de salida en las modificaciones a la Ley de Fomento del",
+      "citada": false
+    },
+    {
+      "url": "https://www.deperu.com/legislacion/ley-24514-pdf.html",
+      "titulo": "Ley 24514 - PDF",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/decreto-legislativo-n-728-937989068",
+      "titulo": "Decreto Legislativo Nº 728. Dictan Ley de Fomento del Empleo - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2024/09/DESARROLLO-DE-BALOTARIO-DE-PREGUNTAS-TRABAJADORES-728-CGR-AUTOR-JOSE-MARIA-PACORI-CARI.pdf",
+      "titulo": "GUÍA DE PREGUNTAS PARA LA PROTECCIÓN DE LOS TRABAJADORES 728 DE",
+      "citada": false
+    },
+    {
+      "url": "https://www.grade.org.pe/wp-content/uploads/GRADEdi92.pdf",
+      "titulo": "Los efectos desprotectores de la protección del empleo",
+      "citada": false
+    },
+    {
+      "url": "https://tesis.pucp.edu.pe/server/api/core/bitstreams/1e930de8-9d81-492f-b639-071926bb2f21/content",
+      "titulo": "Pucp",
+      "citada": false
+    },
+    {
+      "url": "https://www.amp.pe/normasjurDS_N_005_95_TR.htm",
+      "titulo": "TUO de la Ley de Fomento del Empleo",
+      "citada": false
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/document/file/861865/Decreto_Legislativo_728.pdf?v=1592495415",
+      "titulo": "DECRETO LEGISLATIVO Nº 728 CONSIDERANDO:",
+      "citada": false
+    },
+    {
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2020/07/Reglamento-del-TUO-de-la-Ley-de-fomento-del-empleo-LP.pdf",
+      "titulo": "reglamento del texto único ordenado de la ley de fomento ...",
+      "citada": false
+    },
+    {
+      "url": "https://lpderecho.pe/reglamento-tuo-decreto-legislativo-728-ley-fomento-empleo-decreto-supremo-001-96-tr/",
+      "titulo": "Reglamento del TUO de la Ley de Fomento del Empleo (DS 001-96-TR) [actualizado 2026]",
+      "citada": false
+    },
+    {
+      "url": "https://cdn.www.gob.pe/uploads/medium/archive/000/011/066/ley_fomento_empleo.pdf",
+      "titulo": "DICTAN LEY DE FOMENTO DEL EMPLEO DECRETO LEGISLATIVO Nº 728 (*) CONSIDERANDO:",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/decreto-supremo-n-001-575977882",
+      "titulo": "Decreto Supremo Nº 001-96-TR. Aprueban Reglamento de Ley de Fomento al Empleo - vLex Perú",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=40977",
+      "titulo": "NATLEX - Peru - Ley núm. 26513 por la que modifican la ley de fomento del empleo.",
+      "citada": false
+    },
+    {
+      "url": "https://www.leyes.congreso.gob.pe/documentos/leyes/26513.pdf",
+      "titulo": "Modifican la Ley de Fomento del Empleo Ley N° 26513",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-modifican-fomento-empleo-29903630",
+      "titulo": "Ley Nº 26513: Modifican la Ley de Fomento del Empleo - vLex Perú - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/12198/12763",
+      "titulo": "La protección contra el despido arbitrariode los ...",
+      "citada": false
+    },
+    {
+      "url": "https://gestion.pe/blog/pensando-laboralmente/2018/09/el-retorno-a-la-estabilidad-laboral-relativa-para-los-trabajadores-de-confianza-mixta-notas-a-una-reciente-decision-de-la-corte-suprema.html",
+      "titulo": "El retorno a la estabilidad laboral relativa para los trabajadores de confianza mixta. Notas a una reciente decisión de la Corte Suprema",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8758",
+      "titulo": "BOE-A-1995-8758 Real Decreto Legislativo 2/1995, de 7 de abril, por el que se aprueba el texto refundido de la Ley de Procedimiento Laboral.",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/peru/2026/07/29/vacaciones-cts-gratificaciones-y-despidos-gobierno-de-keiko-fujimori-busca-flexibilizar-los-beneficios-laborales-mediante-decretos/",
+      "titulo": "Vacaciones, CTS, gratificaciones y despidos: gobierno de Keiko Fujimori busca flexibilizar los beneficios laborales mediante decretos - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Gobierno_de_Alberto_Fujimori",
+      "titulo": "Gobierno de Alberto Fujimori",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/peru/2026/07/30/para-que-pide-facultades-legislativas-el-gobierno-de-keiko-fujimori-estas-son-las-reformas-que-propone/",
+      "titulo": "¿Para qué pide facultades legislativas el gobierno de Keiko Fujimori? Estas son las reformas que propone - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://ilo.org/dyn/natlex/natlex4.detail?p_isn=22708&p_lang=es",
+      "titulo": "NATLEX - Peru - Ley núm. 25327 por la que se delegan en el Poder Ejecutivo facultades legislativas.",
+      "citada": false
+    },
+    {
+      "url": "https://peru21.pe/politica/keiko-fujimori-pide-facultades-para-legislar-en-estas-materias/",
+      "titulo": "Keiko Fujimori pide facultades para legislar EN ESTAS MATERIAS",
+      "citada": false
+    },
+    {
+      "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-el-borrador-del-pedido-de-facultades-desde-los-penales-en-manos-de-privados-a-la-reduccion-de-los-feriados-no-laborables-noticia/",
+      "titulo": "Keiko Fujimori y las claves del borrador del pedido de facultades: desde los penales en manos de privados a la reducción de “los feriados no laborables”",
+      "citada": false
+    },
+    {
+      "url": "https://www.tc.gob.pe/jurisprudencia/2002/01124-2001-AA%20Resolucion.pdf",
+      "titulo": ",'.. , \\ ---....\" TRIBUNAL CONSTITUCIONAL FOJAS l1bl EXP. N.O 1124-2001-AA/TC",
+      "citada": false
+    },
+    {
+      "url": "https://compendium.itcilo.org/es/compendium-decisions/tribunal-constitucional-sindicato-unitario-de-trabajadores-de-telefonica-del-peru-s-a-y-fetratel-11-de-julio-de-2002-expediente-num-1124-2001-aa-tc/at_download/attachedfile",
+      "titulo": "EXP. N.° 1124-2001-AA/TC LIMA",
+      "citada": false
+    },
+    {
+      "url": "https://lpderecho.pe/contenido-esencial-derecho-trabajo-derecho-reposicion-despido-incausado-expediente-1124-2001-aa-tc/",
+      "titulo": "Contenido esencial del derecho al trabajo. Derecho a la reposición por despido incausado [STC 1124-2001-AA]",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.pucp.edu.pe/index.php/iusetveritas/article/download/16213/16630/",
+      "titulo": "El derecho al trabajo y el despido arbitrario",
+      "citada": false
+    },
+    {
+      "url": "https://magazinjurisprudencial.com/wp-content/uploads/2020/09/01124-2001-AA-ori-convertido-ori-1.pdf",
+      "titulo": "1 TRIBUNAL CONSTITUCIONAL EXP. N.° 1124-2001-AA/TC LIMA SINDICATO UNITARIO DE",
+      "citada": false
+    },
+    {
+      "url": "https://compendium.itcilo.org/en/compendium-decisions/constitutional-court-the-united-workers-union-of-telefonica-del-peru-sa-and-fetratel-11-july-2002-file-no.-1124-2001-aa-tc",
+      "titulo": "Constitutional Court, The United Workers Union of Telefónica del Peru SA and Fetratel, 11 July 2002, File No. 1124-2001-AA/TC — Compendium of Court Decisions",
+      "citada": false
+    },
+    {
+      "url": "https://tc.gob.pe/jurisprudencia/2002/01124-2001-AA.pdf",
+      "titulo": "FOJAS TRIBUNAL CONSTITUCIONAL JI EXP. N.O 1124-2001 -AA/TC LIMA",
+      "citada": false
+    },
+    {
+      "url": "https://latincounsel.com/?Noticias=Efectos_del_Caso_Telefinica",
+      "titulo": "Latin Counsel",
+      "citada": false
+    },
+    {
+      "url": "https://tc.gob.pe/jurisprudencia/2019/03001-2016-AA.pdf",
+      "titulo": "TRIBUNAL CONSTITUCIONAL 10 1111111 EXP. N ° 03001-2016-PA/TC PUNO",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "PRY_1993",
+  "iso": "PRY",
+  "pais": "Paraguay",
+  "anio": 1993,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0474,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 213/93, que establece el Código del Trabajo (Gaceta Oficial, 29 de octubre de 1993, núm. 105 bis)",
+    "tipo_instrumento": "codigo",
+    "normas_relacionadas": [],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "1993-10-29",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Sin verificar: no se localizó la exposición de motivos de la Ley 213/93. El objeto formal del texto es establecer normas para regular las relaciones entre trabajadores y empleadores concernientes a la prestación subordinada y retribuida de la actividad laboral.",
+    "descripcion_intenciones": "El nuevo Código del Trabajo sustituye el Código de 1961 y adecúa el marco laboral a la Constitución de 1992 en la transición posterior a Stroessner. Su componente más innovador es el reconocimiento amplio de la libertad sindical, incluida la sindicación en el sector público, la estabilidad sindical con control judicial previo y el derecho de huelga. Refuerza la excepcionalidad de los contratos a plazo, regula el aprendizaje como contrato laboral y consagra la igualdad salarial y la protección de la maternidad. Conserva la estabilidad por antigüedad heredada de 1961 e incorpora contrapesos como la prohibición de actividad político-partidaria sindical y el despido por huelga ilegal.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reconoce la constitución de sindicatos sin autorización previa, extiende la sindicación al sector público, crea la estabilidad sindical con justa causa admitida por juez y reconoce la huelga. Incluye contrapesos: prohíbe la actividad político-partidaria sindical y permite despedir por huelga ilegal o por negarse a prestar servicios esenciales."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Mantiene la estabilidad por antigüedad, con despido solo tras comprobarse judicialmente la causal; es más continuidad que innovación respecto de 1961 (comparación sin verificar)."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Los contratos a plazo fijo u obra determinada son excepcionales y solo proceden por la naturaleza accidental o temporal del servicio; sin contrato escrito se presume la relación laboral alegada."
+      },
+      {
+        "dimension": "tercerizacion_subcontratacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Considera empleadores, y no intermediarios, a quienes ejecutan trabajos en beneficio ajeno asumiendo los riesgos; confianza baja, pues no se confirmó si la redacción es de 1993 o de la Ley 496/95."
+      },
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Regula el aprendizaje como contrato especial y laboral, le aplica normas de jornada, horas extra, descansos y vacaciones, e impone a ciertas empresas la obligación de admitir aprendices."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Consagra la igualdad de derechos laborales entre mujeres y varones y la protección de la maternidad, con prohibición de trabajos riesgosos para embarazadas, licencia de maternidad y salas de lactancia."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Reconoce igual salario por trabajo de igual naturaleza sin discriminación y dedica un título propio a la negociación colectiva; el régimen de salario mínimo quedó sin verificar."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "general",
+      "sector_publico",
+      "mujeres",
+      "jovenes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Sancionado bajo el presidente Andrés Rodríguez y promulgado por Juan Carlos Wasmosy, en la transición democrática posterior a Stroessner; la sanción invoca el artículo 161 de la Constitución de 1967 en concordancia con la Constitución de 1992, lo que sugiere un trámite iniciado antes de esta. Reemplaza íntegramente el Código del Trabajo de 1961, aprobado en un clima represivo, y subsana varias observaciones de la OIT sobre la normativa de la dictadura. La literatura señala desde el inicio una brecha de aplicación, con violaciones frecuentes de la libertad sindical y la negociación colectiva. Sin fuentes sobre el contexto macroeconómico ni sobre la postura empresarial.",
+    "notas": "Se codifica como 'codigo' por tratarse de un código completo y solo se caracteriza su componente laboral. Fecha de vigencia presunta: coincide con la publicación en la Gaceta Oficial del 29 de octubre de 1993; no se localizó cláusula de vigencia ni disposiciones transitorias, y no hay evidencia de aplicación escalonada. Sin fuente sobre el motivo del desfase entre sanción y promulgación. Modificaciones posteriores: Ley N° 496/95, que recorta la protección sindical (deroga artículos, limita el número total de dirigentes con estabilidad y elimina el depósito judicial mensual del salario del dirigente suspendido) y a la vez extiende al funcionariado público las normas de sindicación y huelga; además, Ley N° 1416/99 (contenido sin verificar) y Ley N° 6470/2019. No se halló ningún fallo que anule partes del Código; la inconstitucionalidad mencionada en las fuentes recae sobre el Decreto N° 16769, no sobre la Ley 213/93. En 2024 se anunció una propuesta gubernamental de supresión de la estabilidad laboral, sin verificar su aprobación. revierte_reforma_previa = false: sustituye el marco autoritario de 1961, pero no revierte una reforma flexibilizadora concreta y conserva la estabilidad. Sin verificar: exposición de motivos, comparaciones con el Código de 1961, contenido de los Libros Cuarto (seguridad social) y Quinto (sanciones y cumplimiento), por lo que no se codifican esas dimensiones ni la de jornada, y la redacción original del artículo sobre intermediarios. Varias fuentes en línea son textos consolidados con la Ley 496/95; se priorizaron las versiones de OIT/CEPAL y del Congreso peruano con el texto original."
+  },
+  "fuentes": [
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1993_ley213_pry.pdf",
+      "titulo": "1 PARAGUAY Ley núm. 213, que establece el Código del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/BD0D4AD2171853F105257E200076C9A0/$FILE/LEY_213_codigo_de_trabajo_paraguay.pdf",
+      "titulo": "LEY N° 213 QUE ESTABLECE EL CODIGO DEL TRABAJO ...",
+      "citada": true
+    },
+    {
+      "url": "https://portal.ips.gov.py/sistemas/ipsportal/archivos/archivos/1641907590.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://upe.edu.py/docs/marco_legal/Ley-del-Trabajo-en-el-Sector-Privado.pdf",
+      "titulo": "LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://portalguarani.com/detalles_museos_otras_obras.php?PqwoiflUYTeslk=MTc5Nw%3D%3D",
+      "titulo": "Portal Guaraní - CÓDIGO DEL TRABAJO DEL PARAGUAY LEY 213/93 - MEVES - EDUCAR EN DEMOCRACIA, MANUAL DE ACTIVIDADES - MUSEO VIRTUAL DE LA MEMORIA Y VERDAD SOBRE EL STRONISMO",
+      "citada": true
+    },
+    {
+      "url": "https://www.dnit.gov.py/en/web/portal-institucional/w/n-ley-n-213-93",
+      "titulo": "Ley N° 213-93 - Portal Institucional - Dirección Nacional de Ingresos Tributarios - GGII",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/baa39c78-83c4-11e8-ba40-52f3cc265641/text",
+      "titulo": "BL:Ley 213/93 - Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.morinigoyasociados.com.py/todas_disposiciones/1993/leyes/ley_213_93.htm",
+      "titulo": "Ley N   213/93",
+      "citada": true
+    },
+    {
+      "url": "https://germinal.pyglobal.com/pdf/documento_trabajo_23.pdf",
+      "titulo": "GERMINAL DOCUMENTOS DE TRABAJO PUBLICACIÓN PERIÓDICA DE ANÁLISIS Y ESTUDIOS",
+      "citada": true
+    },
+    {
+      "url": "https://www.academia.edu/29008495/LEY_N_213_93_QUE_ESTABLECE_EL_C%C3%93DIGO_DEL_TRABAJO_EL_CONGRESO_DE_LA_NACI%C3%93N_PARAGUAYA_SANCIONA_CON_FUERZA_DE_LEY_LIBRO_PRIMERO_DISPOSICIONES_GENERALES_Y_CONTRATO_INDIVIDUAL_DE_TRABAJO_TITULO_PRIMERO_DISPOSICIONES_GENERALES_CAPITULO_I",
+      "titulo": "(PDF) LEY N° 213/93 QUE ESTABLECE EL CÓDIGO DEL TRABAJO EL CONGRESO DE LA NACIÓN PARAGUAYA SANCIONA CON FUERZA DE LEY: LIBRO PRIMERO DISPOSICIONES GENERALES Y CONTRATO INDIVIDUAL DE TRABAJO TITULO PRIMERO DISPOSICIONES GENERALES CAPITULO I",
+      "citada": true
+    },
+    {
+      "url": "https://ddhh2020.codehupy.org.py/derechos-laborales/",
+      "titulo": "Hacia la fulminación de los derechos laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.pj.gov.py/biblioteca/detalle/11-codigo-del-trabajo",
+      "titulo": "CODIGO DEL TRABAJO. - Poder Judicial",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/1994_ley496_pry.pdf",
+      "titulo": "PODER LEGISLATIVO LEY N° 496",
+      "citada": true
+    },
+    {
+      "url": "https://www.embajadadelparaguay.es/wp-content/uploads/2013/06/Codigo-Laboral-Paraguayo-Ley-213-93.pdf",
+      "titulo": "1 PARAGUAY Ley núm. 213, que establece el Código del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.clacso.edu.ar/Paraguay/ceepg/20170404043218/pdf_494.pdf",
+      "titulo": "La libertad sindical en el Paraguay, según resultados de las ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/media/404156/download",
+      "titulo": "El desarrollo de la institucionalidad del trabajo, empleo y ...",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/baa39c78-83c4-11e8-ba40-52f3cc265641",
+      "titulo": "BL:Ley 213/93 - Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.bacn.gov.py/leyes-paraguayas/2514/ley-n-496-modifica-amplia-y-deroga-articulos-de-la-ley-21393-codigo-del-trabajo",
+      "titulo": "Ley Nº 496 / MODIFICA, AMPLIA Y DEROGA ARTICULOS DE LA LEY 213/93, CODIGO DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://elsurti.com/laprecisa/chequeo/2024/09/17/estabilidad-laboral-un-derecho-adquirido-que-no-puede-retroceder/",
+      "titulo": "Estabilidad laboral: un derecho adquirido que no puede retroceder",
+      "citada": true
+    },
+    {
+      "url": "https://baselegal.com.py/docs/9784fb23-c049-11e9-8e7a-525400c761ca/text",
+      "titulo": "BL:Ley 496/1995 - modifica Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://simel.mtess.gov.py/wp-content/uploads/2025/06/Nota_Tecnica_Estabilidad_Laboral_en_el_Codigo_de_Trabajo.pdf",
+      "titulo": "Estabilidad Laboral en el Código de Trabajo - Simel.Py",
+      "citada": true
+    },
+    {
+      "url": "https://www.law.cornell.edu/gender-justice/resource/c%C3%B3digo_laboral_(ley_213_de_octubre_19_1993)",
+      "titulo": "Ley No. 213 (1993) que establece el Código del Trabajo",
+      "citada": true
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "BOL_2010",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2010,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0502,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 065 de Pensiones, de 10 de diciembre de 2010",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Decreto Supremo N° 0495, de 1 de mayo de 2010",
+      "Decreto Supremo N° 0521, de 26 de mayo de 2010",
+      "Decreto Supremo N° 0522, de 26 de mayo de 2010",
+      "Decreto Supremo N° 0778, de 26 de enero de 2011 (reglamento de la Ley 065)",
+      "Decreto Supremo N° 0822, de 16 de marzo de 2011 (reglamento de prestaciones de la Ley 065)",
+      "Decreto Supremo N° 4585 (fecha límite del traspaso de los fondos a la Gestora)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2010-12-10",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Establecer la administración del Sistema Integral de Pensiones y las prestaciones y beneficios que otorga a los bolivianos y las bolivianas, en sujeción a la Constitución Política del Estado, bajo los principios de universalidad y solidaridad; el gobierno la presentó como la primera ley consensuada con los trabajadores.",
+    "descripcion_intenciones": "La ley reemplaza el sistema de capitalización individual administrado por AFP privadas por un Sistema Integral de Pensiones con regímenes contributivo, semicontributivo y no contributivo, cuya administración pasa a una Gestora Pública bajo tuición del Ministerio de Economía y Finanzas Públicas. Conserva las cuentas individuales, pero añade un Fondo Solidario financiado por asegurados, empleadores, el sector minero y personas de mayores ingresos, incluido un nuevo Aporte Patronal Solidario. Busca ampliar el acceso a la jubilación, reduciendo la edad de retiro y flexibilizando el requisito de ahorro acumulado, y extender la cobertura a independientes y consultores. Incorpora beneficios por hijo nacido vivo para las aseguradas, condiciones especiales para mineros y refuerza el cobro de aportes en mora.",
+    "dimensiones": [
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Crea el Sistema Integral de Pensiones con un pilar solidario, traslada la administración de los fondos a la Gestora Pública y facilita el acceso a la jubilación. Añade un nuevo aporte patronal solidario que encarece la contratación formal pero financia la protección."
+      },
+      {
+        "dimension": "genero_y_conciliacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "La asegurada puede reducir la edad de acceso a la Prestación Solidaria de Vejez o sumar períodos de aporte por cada hijo nacido vivo, aplicándose la opción más favorable."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Incorpora a trabajadores independientes y obliga a cotizar a los consultores; no se verificó si la afiliación de independientes se volvió obligatoria en general. No contiene medidas específicas para mipymes."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece cobro administrativo, coactivo ante jueces de Trabajo y Seguridad Social y penal de los aportes en mora, con responsabilidad personal de representantes legales. Exige certificado de no adeudo para contratar con el Estado."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Condiciones especiales de jubilación para mineros de interior mina por tratarse de labor insalubre, con un aporte minero adicional a cargo de los empleadores del sector."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "informales",
+      "mujeres",
+      "general"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "La ley se dictó durante el primer gobierno de Evo Morales, bajo la Constitución de 2009, cuyo artículo 45 asigna al Estado la dirección y administración de la seguridad social con control y participación social. Abroga la Ley N° 1732 de 1996, que había implantado un sistema de capitalización individual administrado por AFP privadas; la prensa la describe como una nacionalización de la administración del sistema. Integra la Renta Dignidad, creada por la Ley 3791 de 2007, como régimen no contributivo. Sin fuente sobre el ciclo económico de 2010 ni sobre el detalle de la negociación con la COB.",
+    "notas": "Confianza: el informe propone 'media' por herencia del informe previo, pero se codifica 'alta' porque el texto de la ley figura en fuentes oficiales (Banco Central de Bolivia, Gaceta Oficial, APS). Fecha de vigencia tomada de prensa; no se verificó la cláusula de vigencia en la Gaceta. Vigencia escalonada: las prestaciones y aportes solidarios se aplicaron desde 2011, con las AFP asumiendo transitoriamente las obligaciones (D.S. 0778 de 2011); la Gestora fue creada en 2015, inició operaciones con nuevos aportantes el 2022-09-09 y asumió la totalidad de los fondos el 2023-05-15, en parte por un laudo arbitral promovido por una AFP; ambos componentes podrían requerir fechas de tratamiento distintas. Reversión parcial: elimina la gestión privada y añade un pilar solidario, pero conserva las cuentas individuales. Modificaciones posteriores: Ley 430 (2013) y Ley 985 (2017) sobre límites solidarios, Ley 1267 (2019) sobre fiscalización de la APS, Ley 1582 (2024) que eleva límites solidarios y aportes, D.S. 5280 (2024) que ajusta aportes solidarios en el reglamento, y Ley 1613 (2025) sobre actualización de prestaciones; profundizan la lógica protectora. No se identificaron fallos constitucionales que anulen partes de la ley, aunque no se confirmó de forma exhaustiva. Pendiente: exposición de motivos, acuerdo con la COB y fuentes OIT, CEPAL o BID."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.bcb.gob.bo/webdocs/MesaDePartes/files/Ley-065-Pensiones.pdf",
+      "titulo": "Ley-065-Pensiones.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.bcb.gob.bo/webdocs/normativa/2010%20-%20LEY%200065%20-%20Pensiones.pdf",
+      "titulo": "LEY Nº 065 LEY DE 10 DE DICIEMBRE DE 2010 EVO MORALES AYMA",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N65.html",
+      "titulo": "Bolivia: Ley de Pensiones, 10 de diciembre de 2010",
+      "citada": true
+    },
+    {
+      "url": "https://www.gestora.bo/archivos/ver?id=2987",
+      "titulo": "Gestora Pública de la Seguridad Social de Largo Plazo",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/2647/ley-de-pensiones-065",
+      "titulo": "Ley de Pensiones (065) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.aps.gob.bo/files/webdocs/DJ/normativa/pensiones/PRINCIPALES/Ley_065.pdf",
+      "titulo": "0 LEY DE PENSIONES Nº 065 (Texto actualizado a noviembre de 2019) LEY N° 065",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N778.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 778, 26 de enero de 2011",
+      "citada": true
+    },
+    {
+      "url": "https://www.economiayfinanzas.gob.bo/sites/default/files/2022-11/202108_Bolet%C3%ADn_Econ%C3%B3mico_SIP.pdf",
+      "titulo": "VICEMINISTERIO DE PENSIONES Y SERVICIOS FINANCIEROS Año 7 - Nº 12 - 2021",
+      "citada": true
+    },
+    {
+      "url": "https://www.bcb.gob.bo/eeb/sites/default/files/archivos2/D1T2P1%20Montenegro%20&%20Quispe.pdf",
+      "titulo": "EFECTOS MACREOCONÓMICOS DE LA NUEVA LEY DE PENSIONES EN BOLIVIA 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N5280.xhtml",
+      "titulo": "Bolivia: Decreto Supremo Nº 5280, 20 de noviembre de 2024",
+      "citada": true
+    },
+    {
+      "url": "https://correodelsur.com/economia/20230512/las-afps-dejan-de-operar-y-la-gestora-publica-asume-el-control-total-del-sistema-de-pensiones.html",
+      "titulo": "Las AFPs dejan de operar y la Gestora Pública asume el control total del Sistema de Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://eldeber.com.bo/economia/las-afp-dejaran-de-operar-el-15-de-mayo-y-el-estado-controlara-recursos-de-aportantes-al-sistema-de-_319879/",
+      "titulo": "Las AFP dejarán de operar el 15 de mayo y el Estado controlará recursos de aportantes al sistema de pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://www.vision360.bo/noticias/2024/05/10/4156-en-el-primer-ano-la-gestora-logro-4_11por_ciento-de-rentabilidad-de-los-fondos",
+      "titulo": "En el primer año, la Gestora logró 4,11% de rentabilidad de los fondos",
+      "citada": true
+    },
+    {
+      "url": "https://fundacion-milenio.org/coy-488-el-rechazo-a-la-gestora-publica-conflicto-de-interes-y-riesgo-de-una-deriva-caotica/",
+      "titulo": "Coy 488 - El rechazo a la Gestora Pública: conflicto de interés y riesgo de una deriva caótica - Economía de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.economiayfinanzas.gob.bo/node/8936",
+      "titulo": "El contenido del proyecto de Ley de Incremento a los Límites Solidarios NO propone jubilación obligatoria a los 65 años",
+      "citada": true
+    },
+    {
+      "url": "https://www.opinion.com.bo/articulo/informe-especial/ley-065-reduce-edad-incorpora-trabajadores-independientes/20130518211200665696.html",
+      "titulo": "Ley 065 reduce edad e incorpora a los trabajadores independientes",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-RE-DSN822.html",
+      "titulo": "Bolivia: Reglamento de desarrollo parcial a la Ley Nº 065 en materia de prestaciones de vejez, prestaciones solidarias de vejez, prestaciones por riesgos, pensiones por muerte derivadas de éstas y otros beneficios, 16 de marzo de 2011",
+      "citada": true
+    },
+    {
+      "url": "https://www.economiayfinanzas.gob.bo/node/11448",
+      "titulo": "Luis Arce promulga la ley que incrementa los límites solidarios y mejora la Pensión Solidaria de Vejez en beneficio de los trabajadores",
+      "citada": true
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/138860",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.aps.gob.bo/index.php/pensiones/normativa",
+      "titulo": "Normativa - APS",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N822.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 822, 16 de marzo de 2011",
+      "citada": true
+    },
+    {
+      "url": "https://gestora.bo/archivos/bajar?id=3874",
+      "titulo": "Texto Ordenado Texto actualizado (Vigente) Texto modificado (No Vigente)",
+      "citada": true
+    }
+  ]
+}

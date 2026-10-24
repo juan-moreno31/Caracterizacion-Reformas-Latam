@@ -1,0 +1,146 @@
+{
+  "id": "HTI_2022",
+  "iso": "HTI",
+  "pais": "Haití",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1465,
+  "incompleto": false,
+  "norma_propuesta": "Arrêté du 21 février 2022 fixant le salaire minimum (Le Moniteur, Numéro spécial n° 5, 21 février 2022)",
+  "otras": "ninguna",
+  "confianza": "media",
+  "texto": "Para Haití en 2022, la norma principal es el **Arrêté du 21 février 2022 fixant le salaire minimum**, el decreto del Ejecutivo que fija el salario mínimo. Lo dictó el Consejo de Ministros, que se reunió el 20 de febrero de 2022 en un contexto de reivindicaciones y manifestaciones callejeras de los obreros del sector de la subcontratación. Se publicó en el diario oficial: Journal officiel Le Moniteur, Numéro spécial n° 5, 21 February 2022 (Articles 1–7). Su objetivo era revisar al alza los salarios mínimos de los distintos segmentos de actividad, incluidos el trabajo doméstico y la industria de ensamblaje para exportación. El Gobierno decidió ajustes al alza de los salarios propuestos por el Consejo Superior de Salarios (CSS).\n\n**Por qué es esta norma:**\n- No encontré otra norma laboral haitiana de 2022 de mayor alcance.\n- El Arrêté es, según una fuente sobre la historia del salario mínimo, la última en fecha tras unos tres años sin ajustes.\n- Se basa en la ley del 10 de septiembre de 2009, publicada en Le Moniteur del 6 de octubre de 2009. Esa ley da al CSS la facultad de fijar el salario mínimo y prohíbe revisarlo a la baja.\n\n**Por qué la confianza es media y no alta:**\n- **Naturaleza de la norma:** es un ajuste periódico del salario mínimo previsto en una ley existente, no un cambio estructural del Código del Trabajo. Conviene decidir si la base acepta este tipo de ajuste como \"reforma\".\n- **Fuentes:** solo encontré el texto oficial a través de terceros (un PDF de origen gubernamental alojado en fscluster.org y la referencia de WageIndicator). No lo confirmé en NATLEX.\n- **Contexto (sin fuente):** en 2022 Haití no tenía un Parlamento en funciones, lo que explicaría que no haya leyes laborales ese año.\n\n**Candidata descartada:** el decreto que deroga la Ley del 17 de agosto de 2017 sobre la organización del trabajo en tres turnos de ocho horas. Se publicó en Le Moniteur el 13 de junio de 2023, así que corresponde a HTI 2023, no a 2022.\n\nNORMA: Arrêté du 21 février 2022 fixant le salaire minimum (Le Moniteur, Numéro spécial n° 5, 21 février 2022)\nOTRAS: ninguna\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://wageindicator.org/fr-ht/travail-en-haiti/salaire-minimum/",
+      "titulo": "Salaire Minimum en Haïti",
+      "citada": true
+    },
+    {
+      "url": "https://devhaitimagazine.com/haiti-revise-le-salaire-minimum-pour-les-differents-segments-dactivites/",
+      "titulo": "Haïti révise le salaire minimum pour les différents segments d’activités - DevHaiti Magazine",
+      "citada": true
+    },
+    {
+      "url": "https://www.haitilibre.com/article-36009-haiti-flash-salaires-minimum-le-gouvernement-reajuste-a-la-hausse-version-finale-officiel.html",
+      "titulo": "Haïti - FLASH : Salaires minimum le Gouvernement réajuste à la hausse, version finale (Officiel) - HaitiLibre.com : Toutes les nouvelles d’Haiti 7/7",
+      "citada": true
+    },
+    {
+      "url": "https://haitiprogres.com/news/2022/04/13/que-dit-la-loi-du-salaire-minimum/",
+      "titulo": "Que dit la Loi ? Du salaire minimum - Latest News, Breaking News, National News, World News, Haiti News - Journal Haiti Progres",
+      "citada": true
+    },
+    {
+      "url": "https://hditcabinetvolmar.com/fr/petite-histoire-du-salaire-minimum-de-1930-a-2022/",
+      "titulo": "PETITE HISTOIRE DU SALAIRE MINIMUM DE 1934 A 2022",
+      "citada": true
+    },
+    {
+      "url": "https://www.juno7.ht/le-gouvernement-prend-un-decret-rapportant-la-loi-3-8/",
+      "titulo": "Le gouvernement prend un décret rapportant la loi 3/8 - Juno7",
+      "citada": true
+    },
+    {
+      "url": "https://fscluster.org/haiti/document/le-moniteur-arrete-fixant-le-salaire",
+      "titulo": "Le moniteur, Arrêté fixant le salaire minimum, février 2022",
+      "citada": false
+    },
+    {
+      "url": "https://vantbefinfo.com/haiti-economie-le-gouvernement-ajuste-le-salaire-minimum-propose-par-le-conseil-superieur-des-salaires/",
+      "titulo": "Haïti/Economie: Le gouvernement ajuste le salaire minimum proposé par le Conseil Supérieur des Salaires",
+      "citada": false
+    },
+    {
+      "url": "https://metropole.ht/le-gouvernement-annonce-la-publication-dun-arrete-ce-lundi-fixant-le-salaire-minimum/",
+      "titulo": "Le Gouvernement annonce la publication d’un arrêté ce lundi fixant le salaire minimum - METROPOLE",
+      "citada": false
+    },
+    {
+      "url": "https://www.haitilibre.com/article-17541-haiti-flash-tous-les-details-sur-le-nouveau-salaire-minimum.html",
+      "titulo": "Haïti - FLASH : Tous les détails sur le nouveau salaire minimum - HaitiLibre.com : Toutes les nouvelles d’Haiti 7/7",
+      "citada": false
+    },
+    {
+      "url": "https://www.haitilibre.com/article-44846-haiti-flash-nouvelle-grille-du-salaire-minimum-proposee-par-le-css.html",
+      "titulo": "Haïti - FLASH : Nouvelle grille du salaire minimum proposée par le CSS - HaitiLibre.com : Toutes les nouvelles d’Haiti 7/7",
+      "citada": false
+    },
+    {
+      "url": "https://hditcabinetvolmar.com/fr/code-du-travail-mis-a-jour/",
+      "titulo": "Code Du Travail Mis à Jour",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/90394/FRA-90394.pdf",
+      "titulo": "-i- CODE DU TRAVAIL (PARTIE LOIS DU PAYS)",
+      "citada": false
+    },
+    {
+      "url": "https://hditcabinetvolmar.com/ressources/code-du-travail/",
+      "titulo": "Code du travail mis à jour — HDIT Cabinet Volmar",
+      "citada": false
+    },
+    {
+      "url": "https://cfihaiti.com/le-droit-du-travail-haitien/",
+      "titulo": "Le Droit du Travail Haïtien : Un Guide pour les Employeurs",
+      "citada": false
+    },
+    {
+      "url": "https://mspp.gouv.ht/site/downloads/loi_sur_la_fonction_publique.pdf",
+      "titulo": "Législation et Réglementation DECRET PORTANT REVISION DU STATUT GENERAL DE LA",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/135/HTI-135.pdf",
+      "titulo": "! ! Code du travail Décret du 24 février 1984 et Loi du jeudi 5 juin 2003",
+      "citada": false
+    },
+    {
+      "url": "https://pdf4pro.com/amp/view/code-du-travail-haiti-justice-52d0ae.html",
+      "titulo": "Code du travail - Haiti Justice / code-du-travail-haiti-justice.pdf / PDF4PRO",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=135",
+      "titulo": "NATLEX - Haiti - Décret du 24 février 1984 portant code du travail actualisé.",
+      "citada": false
+    },
+    {
+      "url": "https://www.hcwpolicylab.org/wp-content/uploads/2023/11/1961_Haiti_Code-du-travail-actualise-rev.-1984-French-version.pdf",
+      "titulo": "1: WEBTEXT/135/64790/F61HTI01.htm Décret du 24 février ...",
+      "citada": false
+    },
+    {
+      "url": "https://www2019.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=86493&p_country=HTI&p_count=60&p_classification=22&p_classcount=7",
+      "titulo": "Haïti - Décret du 17 mai 2005 portant révision du statut général de la fonction publique.",
+      "citada": false
+    },
+    {
+      "url": "http://search.ilo.org/dyn/natlex/natlex4.listResults?p_lang=fr&p_classification=07&p_month=202206",
+      "titulo": "Results list of Browse by country - NATLEX",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=40347",
+      "titulo": "NATLEX - Haiti - Décret dotant le Conseil national de la coopération d'une nouvelle structure.",
+      "citada": false
+    },
+    {
+      "url": "https://www.oas.org/juridico/PDFs/mesicic4_hti_dec05_pub.pdf",
+      "titulo": "Les dispositions du présent Décret fixent les principes ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.refworld.org/legal/legislation/natlegbod/1984/73117",
+      "titulo": "Haiti: Code du travail du 1961",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/114058/TGO-114058.pdf",
+      "titulo": "14 G! Mars 2022 DECRE\"r'\" ea..o21IPRdu,2W_2 portant_bullOns.",
+      "citada": false
+    }
+  ]
+}

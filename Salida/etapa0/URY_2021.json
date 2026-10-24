@@ -1,0 +1,156 @@
+{
+  "id": "URY_2021",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2021,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1927,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 19.973 de 13 de agosto de 2021 (promoción del empleo)",
+  "otras": "Ley N° 19.978 de 20 de agosto de 2021 (teletrabajo); Decreto N° 308/021 (reglamentario de la Ley 19.973)",
+  "confianza": "alta",
+  "texto": "Elijo la **Ley N° 19.973** como reforma laboral principal de Uruguay en 2021. Hay una segunda candidata fuerte, la ley de teletrabajo.\n\n**Qué es.** Es la ley de promoción del empleo, Ley N° 19.973 de fecha 13/08/2021. Según el sitio del Ministerio de Trabajo y Seguridad Social, su finalidad es el desarrollo de políticas activas de empleo dirigidas a favorecer el acceso a una actividad laboral remunerada, ya sea por cuenta propia o ajena de jóvenes, trabajadores de mayor edad y personas con discapacidad. Las herramientas centrales son subsidios destinados al pago de contribuciones especiales de seguridad social para las empresas que contraten a estas personas. También crea modalidades de contrato propias, que deben ser autorizados por el Ministerio de Trabajo y Seguridad Social. Además, deroga la ley 19.133 de 20/9/2013 y otras disposiciones que se opongan. Por eso reemplaza el régimen anterior de empleo juvenil y no se limita a complementarlo. El Poder Ejecutivo la reglamentó con el Decreto N° 308/021.\n\n**Por qué la elijo frente a la otra candidata.** La alternativa es la Ley N° 19.978 de teletrabajo, promulgada el 20/08/2021 y publicada el 30/08/2021, que está registrada en NATLEX de la OIT. Esa ley establece sus principios rectores, las modalidades y condiciones del contrato, la duración de la jornada laboral y el derecho a la desconexión. Sin embargo, solo regula una forma particular de trabajar, y su texto aclara que modificará única y exclusivamente la modalidad en que se efectúa el trabajo, sin afectar los derechos individuales y colectivos. La Ley 19.973, en cambio, rediseña toda la política de incentivos para contratar y deroga una ley anterior. Por eso tiene mayor alcance sobre el mercado de trabajo. Es una decisión de criterio, así que la Ley 19.978 podría codificarse aparte como tratamiento de \"nuevas formas de trabajo\".\n\n**Otras normas encontradas.**\n- **Prórrogas del subsidio por desempleo parcial:** en 2021 hubo varias resoluciones del Ministerio, como la Resolución 208 MTSS del 31/8/2021 Extensión de régimen especial de subsidio por desempleo. Son medidas transitorias por la pandemia y no las considero reforma.\n- **Ley 19.947 de 21 de abril de 2021:** aparece citada como normativa laboral asociada, pero no pude confirmar su contenido. Por eso no la incluyo en OTRAS.\n- **Ley de Urgente Consideración (Ley 19.889), de 2020 (sin fuente; no lo verifiqué):** contiene componentes laborales importantes, pero corresponde al año 2020 y no al país-año 2021.\n\n**Confianza alta.** La Ley 19.973 figura en fuentes oficiales para 2021: el portal IMPO, el sitio del Ministerio de Trabajo y el Banco de Previsión Social.\n\nNORMA: Ley N° 19.973 de 13 de agosto de 2021 (promoción del empleo)\nOTRAS: Ley N° 19.978 de 20 de agosto de 2021 (teletrabajo); Decreto N° 308/021 (reglamentario de la Ley 19.973)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/19973-2021",
+      "titulo": "Ley N° 19973",
+      "citada": true
+    },
+    {
+      "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/institucional/normativa/ley-n-19973-fecha-13082021-promocion-empleo",
+      "titulo": "Ley N° 19.973 de fecha 13/08/2021 Promoción de empleo",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/decretos/308-2021",
+      "titulo": "Decreto N° 308/021",
+      "citada": true
+    },
+    {
+      "url": "https://www.bps.gub.uy/18423/",
+      "titulo": "Promoción del empleo y formación de trabajadores - Ley ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/19978-2021",
+      "titulo": "Ley N° 19978",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=113178&p_country=URY&p_count=618",
+      "titulo": "NATLEX - Uruguay - Ley núm. 19978, de 20 de agosto de 2021, que establece normas para la promoción y regulación del Teletrabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://www.bps.gub.uy/17267/mtss.html",
+      "titulo": "MTSS - BPS",
+      "citada": true
+    },
+    {
+      "url": "https://lawxperts.com.uy/2023/03/15/ley-de-promocion-del-empleo-19-973/",
+      "titulo": "Ley de promoción del empleo 19.973 - LawXperts",
+      "citada": false
+    },
+    {
+      "url": "https://www.pkf.uy/noticias-y-publicaciones/noticias/beneficios-y-requisitos-de-la-nueva-ley-de-promoci%C3%B3n-del-empleo-n-19973/",
+      "titulo": "Beneficios y requisitos de la nueva “Ley de Promoción del Empleo No 19.973”",
+      "citada": false
+    },
+    {
+      "url": "https://uy.ecovis.com/medidas-de-promocion-de-empleo/",
+      "titulo": "Medidas de promoción de empleo - ECOVIS Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://www.ferrere.com/en/news/ley-n0-19-973-ley-de-promocion-de-empleo-para-jovenes-mayores-de-45-y-personas-con-discapacidad/",
+      "titulo": "News",
+      "citada": false
+    },
+    {
+      "url": "https://uy.vlex.com/vid/decreto-no-308-021-876045926",
+      "titulo": "Decreto No. 308/021.- Reglaméntase la Ley 19.973 de 13 de agosto de 2021, relativa al desarrollo de políticas activas de empleo - vLex Uruguay - vLex",
+      "citada": false
+    },
+    {
+      "url": "https://www.bps.gub.uy/18872/83-politicas-activas-de-empleo-ley-n-19973-poblacion-mayor-de-45-anos-lic-teresa-alvarez.html",
+      "titulo": "POLÍTICAS ACTIVAS DE EMPLEO ABORDAJE DE LA LEY N°19.973",
+      "citada": false
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/decretos/86-2022",
+      "titulo": "Decreto N° 86/022",
+      "citada": false
+    },
+    {
+      "url": "https://www.impo.com.uy/teletrabajo/",
+      "titulo": "Teletrabajo",
+      "citada": false
+    },
+    {
+      "url": "http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2301-06652023000101101",
+      "titulo": "La regulación del teletrabajo (ley n° 19978, de 20 de agosto de 2021 y dec. n° 86/022, de 17 de marzo de 2022)",
+      "citada": false
+    },
+    {
+      "url": "https://www.gub.uy/presidencia/institucional/normativa/ley-n-19978-fecha-20082021-se-establecen-normas-para-promocion-regulacion",
+      "titulo": "Ley N° 19.978 de fecha 20/08/2021 Se establecen normas para la promoción y regulación del teletrabajo",
+      "citada": false
+    },
+    {
+      "url": "https://roboticadelacosta.uy/ley-para-el-teletrabajo-en-uruguay/",
+      "titulo": "Ley para el teletrabajo en Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://bergsteinlaw.com/ley-no-19-978-teletrabajo/",
+      "titulo": "Ley No. 19.978",
+      "citada": false
+    },
+    {
+      "url": "https://ingold-jourdan.com.uy/teletrabajo-breve-resena-de-la-legislacion-aplicable-en-uruguay/",
+      "titulo": "Teletrabajo: breve reseña de la legislación aplicable en Uruguay",
+      "citada": false
+    },
+    {
+      "url": "https://www.pdelc.com.uy/en/news/labor/ley-de-teletrabajo/",
+      "titulo": "Ley de Teletrabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/institucional/preguntas-frecuentes/materia-laboral",
+      "titulo": "En materia laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.castellan.com.uy/es/novedades/actualizacion-normativa-en-materia-laboral-y-de-seguridad-social/",
+      "titulo": "Actualización normativa en materia laboral y de seguridad social",
+      "citada": false
+    },
+    {
+      "url": "https://www.guyer.com.uy/posts-&-news/novedades-beneficios-y-obligaciones-en-materia-laboral-a-tener-en-cuenta-para-el-2021",
+      "titulo": "Novedades, beneficios y obligaciones en materia laboral a tener en cuenta para el 2021",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S0797-55382023000100087",
+      "titulo": "Relaciones laborales en Uruguay Cambios, continuidades y desafíos para el futuro del trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.bizlatinhub.com/employment-law-uruguay/",
+      "titulo": "Uruguay Employment Law: Contracts, Benefits & Termination Rules (2025 Guide)",
+      "citada": false
+    },
+    {
+      "url": "https://www.pitcnt.uy/trabajadores/derechos-y-deberes",
+      "titulo": "Derechos y deberes",
+      "citada": false
+    },
+    {
+      "url": "https://www.pdelc.com.uy/en/news/labor/documentacion-laboral-ante-el-mtss-y-salario-minimo-intangible/",
+      "titulo": "Documentación laboral ante el MTSS y salario mínimo intangible",
+      "citada": false
+    }
+  ]
+}

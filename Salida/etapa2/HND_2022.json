@@ -1,0 +1,146 @@
+{
+  "id": "HND_2022",
+  "iso": "HND",
+  "pais": "Honduras",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0525,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Decreto Legislativo No. 38-2022, que deroga la Ley de Empleo por Hora (Decreto 354-2013)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Sentencia de la Sala de lo Constitucional de la CSJ que declara inconstitucional el Decreto Legislativo 56-2015, Ley Marco del Sistema de Protección Social (publicada en La Gaceta el 2022-10-27)",
+      "Acuerdo STSS-002-2022"
+    ],
+    "confianza_identificacion": "media",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "desconocida",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Según la comisión dictaminadora, el Congreso y la STSS, eliminar un régimen que atentaba contra los derechos laborales reconocidos en el Código de Trabajo, la Constitución y los tratados internacionales, y frenar su uso empresarial para abaratar costos, sustituir personal y despedir injustificadamente. Se añadió el argumento formal de que la ley de 2013 se aprobó fuera del periodo de sesiones y era inconstitucional.",
+    "descripcion_intenciones": "La norma deroga el régimen especial de empleo por hora creado por el Decreto 354-2013 y reconduce a esos trabajadores al derecho laboral general (Código del Trabajo, Constitución e instrumentos internacionales). Prohíbe invocar la derogación como causal de despido y, según el dictamen, hace al patrono que transgreda derechos, incluido el despido, responsable civil, administrativa y penalmente. El paso al régimen general implica el reconocimiento de la antigüedad, base de prestaciones como el preaviso y el auxilio de cesantía. No prohíbe el trabajo por horas, que seguía regulado por normativa previa, ni crea un régimen de transición ni una regulación sustitutiva del trabajo a tiempo parcial.",
+    "dimensiones": [
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Elimina la modalidad especial de contratos por horas, por tiempo limitado o para obras determinadas, y somete ese trabajo al marco laboral general. El trabajo por horas no quedó prohibido."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Prohíbe usar la derogación como causal de despido y, según el dictamen, establece responsabilidad civil, administrativa y penal del patrono. Reconoce la antigüedad que el régimen anterior no computaba para prestaciones."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Según La Prensa, el dictamen encarga a la STSS vigilar y garantizar la estabilidad laboral. Respaldo débil: no se verificó que el mandato figure en el texto publicado."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Desaparece el esquema especial de jornada por horas y vuelve a aplicarse la regulación general. Codificación tentativa."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "jovenes"
+    ],
+    "revierte_reforma_previa": true,
+    "contexto": "Deroga la Ley de Empleo por Hora (Decreto 354-2013, citado en algunas notas como 354-2014), vigente desde el 31 de marzo de 2014 y heredera del Programa Nacional de Empleo por Horas creado tras el golpe de Estado de 2009. La derogación fue promesa de campaña de Xiomara Castro y del partido Libre, y se presentó como cumplimiento del Acuerdo Bicentenario. Se aprobó con votos de Libre, el PSH y parte del Partido Liberal, sin el apoyo del Partido Nacional. El sector empresarial advirtió que aumentaría la informalidad y propuso reformar la ley en lugar de derogarla. Las centrales obreras habían denunciado ante la OIT que la ley de 2013 violaba convenios fundamentales. La coyuntura estaba marcada por el desempleo derivado de la pandemia de COVID-19 y de los huracanes Eta y Iota de 2020.",
+    "notas": "Tipo de instrumento: en Honduras, el 'Decreto Legislativo' es expedido por el Congreso Nacional, por lo que se codifica como 'ley'. Identificación con confianza media: no se consultó el texto oficial en La Gaceta ni la ficha NATLEX; el contenido proviene de prensa y de resúmenes gremiales (COHEP, Cámara de Comercio de Tegucigalpa). Fecha de vigencia: no verificada, por eso se registra como desconocida. Las fuentes discrepan sobre la publicación en La Gaceta (ejemplar fechado el 2022-04-28 según la Cámara de Comercio; circulación el 2022-04-29 según La Tribuna y Proceso Digital). También discrepan sobre el art. 4: la mayoría de las fuentes indica una vacatio legis, lo que situaría la vigencia hacia 2022-06 (fecha inferida), mientras que otras indican vigencia desde la publicación. En cualquier caso, la entrada en vigor ocurre en 2022, el mismo año de la base, y vigencia_escalonada es false porque toda la norma se aplazaría por igual. Estado de vigencia: no se encontraron fallos que anulen o suspendan el decreto. El cuestionamiento constitucional citado en el blog de la UNAH no parece referirse a esta norma y no se le atribuye. En marzo de 2026, la Ley de Empleo a Tiempo Parcial (Decreto 45-2026, citado también como 40-2026, publicado en La Gaceta el 28 o el 30 de marzo de 2026) reintrodujo un régimen especial de empleo parcial o por hora, aunque con protecciones que no tenía el régimen de 2013. No se verificó si deroga expresamente el Decreto 38-2022, pero revierte en parte la política sustantiva. La ventana de tratamiento iría aproximadamente de mediados de 2022 a marzo de 2026. Dimensión seguridad_social_y_pensiones no codificada: la norma no contiene disposiciones propias sobre seguridad social y cualquier efecto sería indirecto (sin fuente). La población 'jovenes' es tentativa, porque el decreto no la menciona expresamente. Los empleadores y mipymes son actores afectados, no destinatarios. Las normas relacionadas se incluyen según la etapa de identificación; el informe no las analiza."
+  },
+  "fuentes": [
+    {
+      "url": "https://blogs.unah.edu.hn/presencia-universitaria/regulacion-del-empleo-por-hora-en-honduras-historia-legislativa-derogacion-y-nuevos-intentos-de-regulacion",
+      "titulo": "Regulación del empleo por hora en Honduras: historia legislativa, derogación y nuevos intentos de regulación - Blogs UNAH",
+      "citada": true
+    },
+    {
+      "url": "https://latinalliance.co/en/2022/05/13/derogacion-ley-de-empleo-por-hora-honduras/",
+      "titulo": "Derogación Ley de Empleo por Hora - Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://www.dev.latribuna.hn/2022/04/30/publicado-en-la-gaceta-decreto-que-derogo-ley-de-empleo-por-hora/",
+      "titulo": "Publicado en La Gaceta decreto que derogó Ley de Empleo por Hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/congreso-aprueba-derogacion-ley-de-empleo-por-hora-honduras-AF7896552",
+      "titulo": "Congreso deroga la Ley de Empleo por Hora en Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://proceso.hn/publicado-en-la-gaceta-decreto-que-derogo-ley-de-empleo-por-hora/",
+      "titulo": "Publicado en La Gaceta decreto que derogó Ley de Empleo por Hora - Proceso Digital",
+      "citada": true
+    },
+    {
+      "url": "https://www.tercerainformacion.es/articulo/internacional/29/04/2022/honduras-deroga-ley-de-empleo-por-hora/",
+      "titulo": "Honduras deroga Ley de Empleo por Hora - Tercera Información",
+      "citada": true
+    },
+    {
+      "url": "https://www.laprensa.hn/honduras/congreso-nacional-aprueba-la-derogacion-de-la-ley-de-empleo-por-hora-HM7860944",
+      "titulo": "Congreso Nacional aprueba la derogación de la Ley de Empleo por Hora",
+      "citada": true
+    },
+    {
+      "url": "https://contracorriente.red/2022/02/19/derogar-la-ley-de-empleo-por-hora-el-dilema-entre-las-violaciones-laborales-y-la-perdida-de-empleos/",
+      "titulo": "Derogar la Ley de empleo por hora: el dilema entre las violaciones laborales y la pérdida de empleos - Contra Corriente",
+      "citada": true
+    },
+    {
+      "url": "https://contracorriente.red/2022/05/16/los-claroscuros-de-la-derogacion-de-la-ley-de-empleo-por-hora/",
+      "titulo": "Los claroscuros de la derogación de la Ley de Empleo por Hora - Contra Corriente",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/2022/04/27/derogacion-de-la-ley-de-empleo-por-hora-en-honduras-pasa-su-primer-debate/",
+      "titulo": "Derogación de la Ley de Empleo por Hora en Honduras pasa su primer debate",
+      "citada": true
+    },
+    {
+      "url": "https://oncenoticias.hn/nacionales/no-estamos-en-contra-del-empleo-sino-de-la-precarizacion-centrales-obreras-rechazan-ley-de-empleo-por-hora/",
+      "titulo": "Centrales obreras rechazan ley de empleo por hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.ccit.hn/single-post/derogaci%C3%B3n-de-la-ley-de-empleo-por-hora",
+      "titulo": "Derogación de la Ley de Empleo por hora",
+      "citada": true
+    },
+    {
+      "url": "https://www.latribuna.hn/2026/03/26/conozca-la-ley-de-empleo-parcial-aprobada-por-el-cn/",
+      "titulo": "Conozca la Ley de Empleo Parcial aprobada por el CN",
+      "citada": true
+    },
+    {
+      "url": "https://www.ey.com/es_ce/technical/tax/tax-alerts/honduras-decreto-45-2026-ley-de-empleo-a-tiempo-parcial",
+      "titulo": "Honduras",
+      "citada": true
+    },
+    {
+      "url": "https://www.elheraldo.hn/honduras/ley-empleo-hora-tiempo-parcial-honduras-preguntas-respuestas-IG29940448",
+      "titulo": "Todo lo que debe saber sobre la nueva Ley de Empleo a Tiempo Parcial (por hora)",
+      "citada": true
+    },
+    {
+      "url": "https://proceso.hn/aprobada-ley-de-empleo-parcial-con-el-rechazo-de-bancada-de-libre/",
+      "titulo": "Aprobada Ley de Empleo Parcial con el rechazo de bancada de Libre - Proceso Digital",
+      "citada": true
+    },
+    {
+      "url": "https://www.hondudiario.com/2026/03/30/publicada-en-la-gaceta-la-ley-de-empleo-a-tiempo-parcial/",
+      "titulo": "Publicada en La Gaceta la Ley de Empleo a Tiempo Parcial - Hondudiario",
+      "citada": true
+    },
+    {
+      "url": "https://www.tsc.gob.hn/biblioteca/index.php/leyes/1525-ley-de-empleo-a-tiempo-parcial",
+      "titulo": "Ley de Empleo a Tiempo Parcial",
+      "citada": true
+    }
+  ]
+}

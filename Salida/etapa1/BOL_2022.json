@@ -1,0 +1,229 @@
+{
+  "id": "BOL_2022",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2022,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.4055,
+  "incompleto": false,
+  "norma": "Ley N° 1468 de 30 de septiembre de 2022 (publicada en Gaceta Oficial el 3 de octubre de 2022), Procedimiento Especial para la Restitución de Derechos Laborales",
+  "texto": "# BOL 2022: Ley N° 1468, Procedimiento Especial para la Restitución de Derechos Laborales (informe de la etapa 1)\n\n## 1. Objetivo declarado\n\nLa ley dice que su objetivo es resguardar el derecho al trabajo, a la estabilidad laboral en caso de despido injustificado, la inamovilidad laboral, la falta de pago de remuneración o salario, y el cumplimiento del fuero sindical, mediante un procedimiento especial de restitución.\n\nEl discurso político puso el acento en la lentitud del sistema anterior. Según el presidente de la comisión de Constitución de Diputados, los trabajadores despedidos sin justificación debían recorrer una \"vía crucis\" en el campo administrativo, jurisdiccional, constitucional y penal para recuperar su fuente laboral. La ministra de Trabajo dijo que la ley no solo recuperará los derechos vulnerados de los trabajadores, sino, además, protegerá de aquí en adelante a las y los trabajadores que sean despedidos sin causa legal. También hubo un objetivo coyuntural: fueron los fabriles y mineros quienes pidieron al presidente Luis Arce la conformación de una comisión corta para dar solución a la situación de los trabajadores despedidos durante el gobierno de Jeanine Añez.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**despido_e_indemnizacion (aumenta).**\n- **Definición de despido sin causa.** La ley define como despido sin causa justificada el despido unilateral y arbitrario dispuesto por el empleador, que no se adecúa a las causas legales establecidas en el Artículo 16 de la Ley General del Trabajo o el Artículo 9 del Decreto Supremo Nº 244. También incluye el despido por inasistencia cuando no se dio al trabajador la oportunidad previa de justificarla.\n- **Alcance de la reincorporación.** Si el despido fue injustificado, la resolución ordena la reincorporación inmediata de la trabajadora o el trabajador en las mismas condiciones anteriores al momento del despido sin causa justificada que comprende el pago de salarios devengados, además de la restitución de la seguridad social y otros derechos afectados.\n- **Carga de la prueba.** El empleador en audiencia deberá probar la inexistencia de vulneración a los derechos laborales, y el inspector debe aplicar estrictamente la inversión de la prueba a favor del trabajador.\n- **Inasistencia del empleador.** Si el empleador no comparece o no acredita a su representante, esto constituirá presunción de la vulneración del o los derechos laborales denunciados.\n- **Límite a la reincorporación.** Quien haya hecho efectivo el cobro de beneficios sociales, no podrá solicitar su reincorporación en la vía administrativa. El cobro se acredita con el Formulario de Finiquito refrendado por el Ministerio.\n- **Lo que no cuenta como pago.** El empleador no puede dar por pagados los beneficios mediante la presentación por parte del empleador de una demanda de consignación de pago de beneficios sociales ante la judicatura laboral, el depósito de fondos en custodia ni el abono en la cuenta del trabajador sin su autorización. Esto cierra vías que el empleador podía usar para dar el despido por consumado.\n\n**justicia_laboral_e_inspeccion (aumenta).** Es el núcleo de la reforma.\n- **Fuerza de las resoluciones.** Las resoluciones del Ministerio son de inmediato y obligatorio cumplimiento por la persona obligada, no requiriendo de declaración o pronunciamiento confirmatorio o ratificatorio para su validez y eficacia.\n- **Recurso único.** Se suprimen los recursos de revocatoria y jerárquico y queda uno solo: la única instancia de revisión, es el recurso de revisión que va a ser resuelto por la ministra de Trabajo. Su interposición no implica la suspensión de su ejecución.\n- **Ejecución judicial.** Si el empleador incumple, el juez de trabajo puede ordenar retención de fondos hasta el monto de la liquidación efectuada por el Ministerio de Trabajo, Empleo y Previsión Social, anotación preventiva, embargo y posterior remate de bienes. El obligado solo puede oponer excepciones tasadas, y la apelación será concedida únicamente en efecto devolutivo, por lo que no se suspenderá su ejecución.\n- **Contrapesos.** La resolución podrá ser impugnada en la vía judicial conforme al procedimiento laboral común. Además, la vía administrativa tiene un plazo de caducidad y, vencido este, el trabajador solo podrá acudir ante la judicatura laboral. Es un elemento que acota la protección, aunque es secundario.\n\n**derechos_colectivos_sindicales (aumenta).**\n- Se crea una Resolución de Cumplimiento del Fuero Sindical con la misma fuerza ejecutiva que las demás.\n- El sindicato gana un papel procesal: la denuncia puede presentarse por intermedio de un representante de la organización sindical a la que estuviese afiliada la trabajadora o el trabajador, y los trabajadores de una misma empresa pueden denunciar de forma conjunta.\n\n**salario_y_negociacion_salarial (aumenta).** No toca la fijación de salarios. Crea un instrumento para hacer cumplir su pago: la Resolución de Cumplimiento de Pago de Remuneración o Salario, también ejecutable.\n\n**genero_y_conciliacion (aumenta; componente secundario).** La resolución de reincorporación incluye el pago de subsidios por maternidad en caso de corresponder. El protocolo de 2024 refuerza la tutela de la inamovilidad de mujeres en estado de embarazo y progenitores. La ley no crea derechos sustantivos nuevos en este terreno; hace exigibles los que ya existían.\n\n**seguridad_social_y_pensiones (aumenta; accesorio).** Se limita a ordenar la restitución de los derechos de seguridad social como parte de la reincorporación. Recomiendo no tratarla como dimensión autónoma.\n\n**Orientación sugerida: protectora.** No identifiqué elementos flexibilizadores de peso comparable.\n\n## 3. Población objetivo\n\nLa ley se aplica a todas las trabajadoras y los trabajadores comprendidos en el ámbito de la Ley General del Trabajo. Esto corresponde a `asalariados_formales`. El presidente del Senado habló de trabajadores del sector público o privado, pero el texto se refiere a la Ley General del Trabajo, que en principio excluye a los servidores públicos. No incluiría `sector_publico` sin una verificación adicional.\n\nLa población de interés político fueron los trabajadores fabriles y mineros. `mujeres` podría añadirse como población secundaria.\n\n## 4. Contexto político y económico\n\n- **Origen.** La ley nace de una negociación entre el gobierno y los sindicatos. Fue instruida por el Presidente del Estado Luis Arce y elaborada por el Ministerio de Trabajo, Empleo y Previsión Social, en consenso con la Central Obrera Boliviana (COB). Según la ministra, la COB lo pidió en su pliego petitorio anual y se formó una comisión con los ministerios de Trabajo, Justicia y Minería.\n- **Trámite legislativo.** Diputados la aprobó el 7 de julio de 2022 y el Senado la sancionó a fines de agosto. En Diputados se modificó un parágrafo del artículo 13 y se excluyó la disposición final segunda, en consenso con la oposición.\n- **Posible observación del Ejecutivo (sin verificar).** La prensa menciona que se promulgó salvando las observaciones del Órgano Ejecutivo. El texto publicado indica que la Asamblea la dio en sesión el 23 de septiembre de 2022, posterior a la sanción de agosto. Esto sugiere una observación y una nueva sanción, pero no pude confirmarlo.\n- **Oposición empresarial.** Los industriales anunciaron acciones legales en contra de la Ley 1468 de restitución de derechos laborales, por considerarlo inconstitucional y violatorio de la seguridad jurídica. La literatura jurídica sostiene que genera una distorsión jurídica al intervenir en procesos que están regulados.\n- **Contexto económico: no verificado.** No consulté fuentes sobre la coyuntura macroeconómica de 2022. Hay que completarlo con CEPAL u OIT.\n\n## 5. ¿Revierte una reforma previa?\n\nNo en sentido estricto. La ley abroga el Decreto Supremo Nº 0495, de 1 de mayo de 2010 y deroga partes del DS 28699 de 2006. Esas normas ya tenían orientación protectora, así que la ley sustituye y endurece un procedimiento del mismo sentido; no revierte una flexibilización.\n\nUna salvedad sin fuente: el DS 28699 sí había revertido en su momento la libre contratación del DS 21060 de 1985. La Ley 1468 profundiza esa línea. Sugiero `revierte_reforma_previa` = false, con una nota.\n\n## 6. Entrada en vigor\n\n- **Lo que dice la ley.** Su Disposición Transitoria Primera fija la vigencia a un plazo contado a partir de su publicación. La publicación en la Gaceta fue el 3 de octubre de 2022.\n- **Las fuentes no coinciden en la fecha:**\n  - La ministra anunció la vigencia plena el 30 de octubre.\n  - Despachos privados dicen 31 de octubre.\n  - Una sentencia constitucional de 2023 (SCP 0092/2023-S4), calculando desde la promulgación, dice el 1 de noviembre de 2022.\n  - La SCP 0418/2026-S1 afirma que la ley entró en vigencia el 3 de noviembre de 2022, el mismo día en que entró en vigor plenamente junto con el Protocolo aprobado por la RM 1377/2022 de 1 de noviembre.\n  - Calculando por mi cuenta desde la publicación sale el 2 de noviembre de 2022 (sin fuente).\n- **Recomendación.** Usar `2022-11` y explicar la discrepancia en `notas`.\n- **Vigencia escalonada: false.** No hay partes clave diferidas. Sí hubo una condición operativa: la ley mandó al Ministerio emitir el Protocolo de Actuación y el formulario de denuncias, y eso se hizo con la RM 1377/2022.\n- **Régimen transitorio.** Los trámites iniciados bajo el DS 28699 y el DS 0495 debían adecuarse al nuevo procedimiento. Aun así, el Tribunal Constitucional resolvió que la ley no puede ser aplicada de manera retroactiva a las Conminatorias de Reincorporación laboral emitidas por las Jefaturas Departamentales del Trabajo con anterioridad a la vigencia.\n\n## 7. Estado de vigencia posterior\n\n- **Sigue vigente.** Infoleyes la registra como Vigente, y se aplica: en 2024 el Ministerio informó de reincorporaciones con salarios adeudados pagados.\n- **Desarrollo reglamentario, sin modificar la ley:**\n  - La RM 635/24 de 2 de junio de 2024 aprobó el nuevo \"Protocolo de Actuación para la Aplicación de la Ley No. 1468\".\n  - El Tribunal Supremo de Justicia emitió un protocolo propio (21/2024) para uniformar la ejecución judicial.\n- **Fallos judiciales.** El Tribunal Constitucional aplica la ley en amparos (SCP 0092/2023-S4, SCP 0418/2026-S1). No encontré ninguna sentencia que la declare inconstitucional total o parcialmente, ni confirmé que los empresarios presentaran efectivamente la acción anunciada.\n- **Sugerencia:** `estado_vigencia` = `vigente`, con confianza media en esta variable por lo que no pude verificar.\n\n## Lo que no pude verificar\n\n- Si existe una acción de inconstitucionalidad presentada contra la ley y en qué quedó.\n- El contenido de la observación del Ejecutivo y la fecha exacta de la nueva sanción.\n- La fecha precisa de entrada en vigor.\n- Si cubre a trabajadores del sector público.\n- El contexto macroeconómico.\n- Si existe una exposición de motivos formal, porque no la consulté.\n\n**Datos para la ficha:** `tipo_instrumento` = `ley`; `confianza_identificacion` = `alta` (figura en la Gaceta Oficial y en NATLEX).",
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N1468.html",
+      "titulo": "Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/116606/L%201468%20BOL.pdf",
+      "titulo": "Contenido Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-1468-911855192",
+      "titulo": "Ley 1468 - vLex Bolivia - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://emba.com.bo/procedimiento-especial-para-la-restitucion-de-derechos-laborales/",
+      "titulo": "PROCEDIMIENTO ESPECIAL PARA LA RESTITUCIÓN DE DERECHOS LABORALES",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/7909/procedimiento-especial-para-la-restitucio-",
+      "titulo": "Procedimiento especial para la restitución de derechos laborales (1468) - Infoleyes Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://soloderecho.com.bo/de-la-aplicacion-de-la-ley-1468-de-30-de-septiembre-de-2022/",
+      "titulo": "De la aplicación de la Ley 1468 de 30 de septiembre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://www.opinion.com.bo/opinion/author/restitucion-derechos-laborales/20221007204752882955.html",
+      "titulo": "Restitución de derechos laborales",
+      "citada": true
+    },
+    {
+      "url": "https://revista.uasb.edu.bo/ciencias-juridicas/article/download/13/3/632",
+      "titulo": "Universidad Andina Simón Bolívar (Sede Central) 67 LIBERTAD DE EMPRESA Y SU",
+      "citada": true
+    },
+    {
+      "url": "https://emba.com.bo/protocolo-de-la-ley-para-la-restitucion-de-derechos-laborales/",
+      "titulo": "Protocolo de La Ley para la Restitución de Derechos Laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.mintrabajo.gob.bo/?p=13207",
+      "titulo": "Reincorporan a trabajadora a su fuente laboral mediante la Ley 1468 - Ministerio de Trabajo, Empleo y Previsión Social",
+      "citada": true
+    },
+    {
+      "url": "https://jurisprudenciaconstitucional.com/resolucion/239355-sentencia-constitucional-plurinacional-0418-2026-s1",
+      "titulo": "Sentencia Constitucional Plurinacional 0418/2026-S1",
+      "citada": true
+    },
+    {
+      "url": "https://eju.tv/2022/10/industriales-advierten-acciones-contra-la-ley-1468-de-restitucion-de-derechos-laborales-por-considerarla-inconstitucional/",
+      "titulo": "Industriales advierten acciones contra la Ley 1468 de restitución de derechos laborales por considerarla inconstitucional",
+      "citada": true
+    },
+    {
+      "url": "https://diputados.gob.bo/noticias/diputados-aprueban-norma-que-simplifica-procedimiento-para-restitucion-de-derechos-laborales/",
+      "titulo": "Diputados aprueban norma que simplifica procedimiento para restitución de derechos laborales - Cámara de Diputados",
+      "citada": true
+    },
+    {
+      "url": "https://abi.bo/index.php/noticias/gobierno/37-notas/noticias/sociedad/28215-ley-para-la-restitucion-de-derechos-laborales-entrara-en-vigencia-el-30-de-octubre",
+      "titulo": "ABI - Ley para la Restitución de Derechos Laborales entrará en vigencia el 30 de octubre",
+      "citada": true
+    },
+    {
+      "url": "https://web.senado.gob.bo/prensa/noticias/senado-sanciona-normativa-de-procedimiento-especial-para-la-restituci%C3%B3n-de-derechos",
+      "titulo": "Senado sanciona normativa de procedimiento especial para la restitución de Derechos Laborales",
+      "citada": true
+    },
+    {
+      "url": "https://www.derechoteca.com/legal-tech-bolivia-bo-d-lex-norma/ley-no-1468-del-03-de-octubre-de-2022",
+      "titulo": "Bolivia: Ley No 1468 del 03 De Octubre De 2022",
+      "citada": false
+    },
+    {
+      "url": "http://gacetaoficialdebolivia.gob.bo/normas/buscar/1468",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.urenda.bo/blog/laboral-blog/procedimiento-especial-para-la-restitucion-de-derecho-laborales-ley-n-1468",
+      "titulo": "Procedimiento Especial Para La Restitución De Derecho Laborales (Ley N° 1468) - Urenda Abogados",
+      "citada": false
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/listadonor/16",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N27.html",
+      "titulo": "Bolivia: Ley del Tribunal Constitucional Plurinacional, 6 de julio de 2010",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/sentencia-n-0245-2015-707564649",
+      "titulo": "Sentencia Nº 0245/2015-CA de Tribunal Constitucional, 17-06-2015 - vLex Bolivia",
+      "citada": false
+    },
+    {
+      "url": "http://www.normativa.cepb.org.bo/Normas/VerNorma/3661",
+      "titulo": "DECRETO SUPREMO N? 3453",
+      "citada": false
+    },
+    {
+      "url": "https://jurisprudencia.tcpbolivia.bo/Fichas/Ficha/17830",
+      "titulo": "Tribunal Constitucional Plurinacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.procuraduria.gob.bo/ckfinder/userfiles/files/PGE-WEB/_Opinion/ant/SCP00012024.pdf",
+      "titulo": "1 SENTENCIA CONSTITUCIONAL PLURINACIONAL 0001/2024 Sucre, 17 de enero de 2024",
+      "citada": false
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43212",
+      "titulo": "Ley 1468 de 2011 - Gestor Normativo - Función Pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.prensalibre.com/economia/prohibicion-de-importar-bienes-con-trabajo-forzoso-entra-en-vigencia-mintrab-tiene-90-dias-para-publicar-listado-de-empresas-extranjeras/",
+      "titulo": "Prohibición de importar bienes con trabajo forzoso entra en vigencia; Mintrab tiene 90 días para publicar listado de empresas extranjeras",
+      "citada": false
+    },
+    {
+      "url": "https://www.ferrere.com/es/novedades/ley-no-1468/",
+      "titulo": "Novedades",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-95516.html",
+      "titulo": "Código del Trabajo - DT - Normativa 3.0",
+      "citada": false
+    },
+    {
+      "url": "https://gestornormativo.creg.gov.co/gestor/entorno/docs/codigo_sustantivo_trabajo.htm",
+      "titulo": "Alejandría - CÓDIGO SUSTANTIVO DEL TRABAJO",
+      "citada": false
+    },
+    {
+      "url": "https://medicinalaboraldevenezuela.com.ve/archivo/regla_ley_org_tra.pdf",
+      "titulo": "Reglamento de la Ley Orgánica del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://diariooficial.elperuano.pe/Normas/obtenerDocumento?idNorma=35",
+      "titulo": "1 NORMAS LEGALES ACTUALIZADAS NORMAS LEGALES ACTUALIZADAS",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/7909/procedimiento-especial-para-la-restitucio-n-de-derechos-laborales-1468",
+      "titulo": "Procedimiento especial para la restitución de derechos laborales (1468) - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.contadoresbolivia.org.bo/images/boletines/THE_POST_Boletin_Laboral_Ano_20_No._286_28-12-2022.pdf",
+      "titulo": "nuevos cuidados en audiencia de reincorporación",
+      "citada": false
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/buscar/LEY%201468",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://jurisprudenciaconstitucional.com/resolucion/123010-sentencia-constitucional-plurinacional-0092-2023-s4",
+      "titulo": "Sentencia Constitucional Plurinacional 0092/2023-S4",
+      "citada": false
+    },
+    {
+      "url": "https://www.rigobertoparedes.com/es/protocolo-de-actuacion-para-la-restitucion-de-derechos-laborales-ley-1468-y-resolucion-ministerial-1377/",
+      "titulo": "PROTOCOLO DE ACTUACIÓN PARA LA RESTITUCIÓN DE DERECHOS LABORALES: LEY 1468 Y RESOLUCIÓN MINISTERIAL 1377",
+      "citada": false
+    },
+    {
+      "url": "https://emba.com.bo/protocolo-de-actuacion-para-la-aplicacion-de-la-ley-no-1468-de-restitucion-de-derechos-laborales/",
+      "titulo": "PROTOCOLO DE ACTUACIÓN PARA LA APLICACIÓN DE LA LEY No. 1468 DE RESTITUCIÓN DE DERECHOS LABORALES",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/articulo/103688",
+      "titulo": "ARTÍCULO 32, Protocolo de actuación para la aplicación de la Ley 1468 de 30/09/2022 - Ley de procedimiento para la restitución de derechos laborales (PROTOCOLO L-1468) - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2022/t-356-22.htm",
+      "titulo": "T-356/22 - Corte Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://abi.bo/index.php/sociedad2/26202-legislativo-aprueba-normativa-para-la-restitucion-de-derechos-laborales",
+      "titulo": "ABI - Legislativo aprueba normativa para la restitución de derechos laborales",
+      "citada": false
+    },
+    {
+      "url": "https://www.mintrabajo.gob.bo/?p=8173",
+      "titulo": "El Proyecto de Ley de Restitución de Derechos Laborales acorta el proceso de reincorporación de trabajadores despedidos - Ministerio de Trabajo, Empleo y Previsión Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/noticias/an-aprueba-en-primera-discusion-ley-de-trabajadores-a-domicilio",
+      "titulo": "AN aprueba en primera discusión Ley de Trabajadores a Domicilio",
+      "citada": false
+    },
+    {
+      "url": "https://www.congreso.es/public_oficiales/L14/CONG/BOCG/B/BOCG-14-B-247-1.PDF",
+      "titulo": "CONGRESO DE LOS DIPUTADOS XIV LEGISLATURA Serie B: PROPOSICIONES DE LEY",
+      "citada": false
+    }
+  ]
+}

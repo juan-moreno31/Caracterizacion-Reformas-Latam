@@ -1,0 +1,289 @@
+{
+  "id": "MEX_2019",
+  "iso": "MEX",
+  "pais": "México",
+  "anio": 2019,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3633,
+  "incompleto": false,
+  "norma": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del INFONAVIT y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva (DOF 01-05-2019)",
+  "texto": "# Informe de investigación: México 2019. Decreto en materia de justicia laboral, libertad sindical y negociación colectiva (DOF 01-05-2019)\n\n**En síntesis:** el decreto queda confirmado en fuente oficial. Mi codificación tentativa es **protectora**: su efecto más fuerte está en los derechos colectivos y su cambio institucional más grande está en la justicia laboral. Entró en vigor el día siguiente a su publicación. Sus componentes centrales se aplicaron por etapas hasta 2022 (justicia) y 2023 (legitimación de contratos). No encontré ningún fallo que anulara una parte sustantiva.\n\n## 1. Objetivo declarado\n\nLa Secretaría del Trabajo y Previsión Social (STPS) la presenta como una reforma amplia, histórica y profunda con dos objetivos principales:\n- **Democracia sindical.** Según la STPS, se garantiza el derecho de libre afiliación, la autonomía de los sindicatos y la prohibición de todo acto de injerencia en su vida interna, y se establecen procedimientos democráticos para garantizar la representatividad sindical y la negociación colectiva auténtica.\n- **Justicia expedita.** Se crea una etapa de conciliación obligatoria y se establecen juicios laborales más ágiles, en presencia de un juez, privilegiando los principios procesales de oralidad, inmediación, continuidad, concentración y publicidad.\n\nComo marco normativo, la STPS invoca los Convenios 87 y 98 de la OIT y el Capítulo 23 (Laboral) y Anexo 23-A (Representación de los Trabajadores en la Negociación Colectiva en México) del T-MEC. No consulté la exposición de motivos de la iniciativa: lo declarado aquí sale de los materiales de difusión de la STPS.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**`derechos_colectivos_sindicales` — aumenta.** Es el núcleo de la reforma. El texto oficial dispone que los miembros de los sindicatos cuentan con los derechos de libre afiliación y de participación al interior de éstas; nadie puede ser obligado a formar o no parte de un sindicato. Además:\n- Los sindicatos no estarán sujetos a disolución, suspensión o cancelación por vía administrativa.\n- Se prohíbe la cláusula de exclusión por separación en los contratos colectivos (la que establece que aquellos trabajadores que dejen de pertenecer al sindicato por renuncia o expulsión del mismo, puedan ser separados de su empleo sin responsabilidad para el patrón).\n- Se crea la Constancia de Representatividad, que el sindicato debe acompañar al emplazamiento a huelga cuando busca la firma de un contrato colectivo. En las consultas, el voto personal, libre y secreto de los trabajadores se ejercerá en forma individual y directa.\n- Se ordena legitimar los contratos colectivos existentes. Según la STPS, el objetivo es evitar la simulación en la negociación colectiva.\n\n**`salario_y_negociacion_salarial` — aumenta.** El contenido de los contratos colectivos y de sus revisiones debe ser aprobado por los trabajadores mediante consulta, y verificarlo es tarea del nuevo Centro Federal (verificar que el contenido de los contratos colectivos o convenios de revisión que se registren sean aprobados por las y los trabajadores mediante consulta). Si un contrato no se legitima, éste se dará por terminado pero los trabajadores conservan los derechos y prestaciones adquiridas.\n\n**`justicia_laboral_e_inspeccion` — reorganiza (con sesgo a aumentar).** Se eliminan las Juntas de Conciliación y Arbitraje y se crean los Tribunales Laborales, dependientes del Poder Judicial; y los centros de conciliación federal y locales. Se privilegia la conciliación obligatoria previa a juicio. Hay excepciones a la conciliación prejudicial, entre ellas la discriminación por embarazo, sexo, orientación sexual, religión, origen étnico o condición social y el acoso u hostigamiento sexual. La inspección federal pasa a auxiliar al Centro Federal y al Tribunal en materia de libertad sindical y representatividad.\n\nLas afirmaciones sobre la carga de la prueba a cargo del patrón y sobre la defensoría pública laboral solo aparecen en un blog comercial. Las marco como **no verificadas en fuente de calidad**.\n\n**`genero_y_conciliacion` — aumenta.** Se añade la obligación patronal de implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual, así como erradicar el trabajo forzoso e infantil. También se incorporan definiciones legales de hostigamiento y acoso sexual.\n\n**`otro` (trabajo del hogar) — aumenta, con efecto diferido.** La adición de la fracción IV al artículo 337 entrará en vigor de conformidad con lo que establece el artículo Vigésimo Quinto Transitorio de dicho Decreto. No verifiqué el contenido exacto de esa fracción.\n\n**`seguridad_social_y_pensiones` — no codificar todavía.** El decreto modifica la Ley del Seguro Social y la Ley del INFONAVIT, pero no localicé el contenido de esos cambios. Solo hay un indicio en el artículo 5 de la LFT: se declara nula la condición de registrar a un trabajador con un salario menor al que realmente recibe. Fracción adicionada DOF 01-05-2019.\n\n**Dimensiones no afectadas (por lo verificado):** no encontré cambios en contratación temporal, tercerización, jornada ni despido e indemnización. Sobre despido, solo hay ajustes procesales: el \"Tribunal\" sustituye a la \"Junta\". Recomiendo excluir estas dimensiones.\n\n## 3. Población objetivo\n\n- `asalariados_formales`, en especial los trabajadores cubiertos o potencialmente cubiertos por contratos colectivos.\n- `general`, porque la justicia laboral cambia para todo trabajador del apartado A.\n- `mujeres`, por el protocolo de género y las excepciones a la conciliación.\n- `sector_publico` no se aplica a esta norma, sino al decreto relacionado sobre la Ley Federal de los Trabajadores al Servicio del Estado. Su dictamen buscó armonizar la libre sindicalización del apartado B con la del apartado A y con el Convenio 98.\n\n## 4. Contexto político y económico\n\n- **Origen normativo.** El decreto aplica la reforma constitucional de febrero de 2017. Una iniciativa legislativa posterior lo describe como la culminación de un proceso histórico de transformación del mundo laboral en México.\n- **Compromisos internacionales.** El Convenio 98 fue ratificado por el Senado de la República el 20 de septiembre de 2018. La iniciativa se presentó en diciembre de 2018 por el grupo parlamentario mayoritario. Un análisis académico señala que la reforma surge vinculada a las exigencias derivadas del cumplimiento del Anexo 23-A del capítulo laboral del TMEC.\n- **Gobierno.** Era el primer año del gobierno de López Obrador, con mayoría de su coalición en el Congreso (dato de contexto general).\n- **Contexto económico:** sin fuente.\n- **Declarado vs. efectivo.** La implementación enfrentó retrasos debido principalmente a problemas presupuestarios y los desafíos de coordinación entre los niveles estatal y federal.\n\n## 5. ¿Revierte una reforma previa?\n\nNo es una contrarreforma en sentido estricto, porque no restablece normas anteriores. Su eje desmonta un modelo institucional de larga data (las Juntas y los llamados \"contratos de protección\"). No encontré que revierta los elementos flexibilizadores de la reforma a la LFT de 2012 (sin fuente). Propongo `revierte_reforma_previa = false`, con nota.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Vigencia general.** El primer transitorio dispone que el presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, es decir, **2019-05-02**. Lo confirmo con la transcripción de transitorios y la nota de vigencia de la LFT compilada por la Cámara. No vi el PDF del DOF directamente.\n- **Aplicación escalonada (`vigencia_escalonada = true`).**\n  - Justicia laboral: entró por etapas. La primera entró en vigor el 18 de noviembre de 2020 y la última comenzó el 3 de octubre de 2022.\n  - Registro: el Centro Federal asumiría sus funciones de registro según las posibilidades presupuestarias (Tercero Transitorio).\n  - Legitimación: el plazo para legitimar los contratos existentes venció el 1 de mayo de 2023. Los contratos no legitimados se dan por terminados a partir del dos de mayo de dos mil veintitrés.\n  - Trabajo del hogar: la fracción del artículo 337 tiene vigencia diferida.\n- **Nota para la base:** el tratamiento \"real\" en justicia laboral varía por entidad federativa entre 2020 y 2022. Esto importa para los diseños econométricos.\n\n## 7. Estado de vigencia posterior\n\n- **Modificación de transitorios.** Un decreto del DOF del 18-05-2022 reformó el artículo Quinto Transitorio y amplió el plazo de las entidades federativas, señalando como nuevo plazo el 03 de octubre de 2022. Solo cambia plazos, no el contenido.\n- **Fallos judiciales.** La SCJN emitió tesis de jurisprudencia que avalan la constitucionalidad de diversos artículos de la reforma laboral de 2019: los referidos a cuotas sindicales, transparencia sindical y voto libre y secreto. Los sindicatos los habían impugnado vía amparo por afectar su autonomía. **No hallé ninguna anulación sustantiva.**\n- **Acción de inconstitucionalidad 68/2019 (CNDH).** Trata de reinstalación y beneficiarios, con referencia a Nayarit. No pude confirmar si impugna este decreto o una ley estatal, así que no la imputo.\n- **Codificación propuesta:** `vigente`. La única modificación posterior verificada afecta transitorios procedimentales. Si la base trata cualquier reforma posterior como \"modificada\", la alternativa es `modificada_o_derogada_despues`.\n- **Pendiente de verificar:** reformas posteriores a la LFT que alteren artículos de este decreto, y el posible efecto de la reforma judicial de 2024 sobre los tribunales laborales. No los busqué.\n\n## Propuesta de codificación\n\n| Campo | Valor |\n|---|---|\n| `orientacion_general` | protectora |\n| `tipo_instrumento` | ley (decreto legislativo del Congreso de la Unión; en el codebook corresponde a `ley`) |\n| `confianza_identificacion` | alta |\n| `fecha_entrada_vigencia` | 2019-05-02 |\n| `vigencia_escalonada` | true |\n| `estado_vigencia` | vigente |\n| `revierte_reforma_previa` | false |\n\n**Pendiente de verificar:**\n- Los cambios a la Ley del Seguro Social, la Ley del INFONAVIT y la Ley Federal de la Defensoría Pública.\n- La carga de la prueba.\n- El contenido del artículo 337, fracción IV.\n- La exposición de motivos original.\n- Que NATLEX/OIT registren la norma.",
+  "fuentes": [
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref30_01may19.pdf",
+      "titulo": "Reforma 30: Ley Federal del Trabajo. DOF 01-05-2019",
+      "citada": true
+    },
+    {
+      "url": "https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/transitorios/",
+      "titulo": "Transitorios ‹ Ley Federal del Trabajo (LFT)",
+      "citada": true
+    },
+    {
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/02/asun_4305383_20220215_1644962008.pdf",
+      "titulo": "iniciativa que reforma el artículo quinto transitorio del decreto ...",
+      "citada": true
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/HACIA_UN_NUEVO_MODELO_LABORAL.pdf",
+      "titulo": "HACIA UN NUEVO MODELO LABORAL 2019 REFORMA A LA LEY FEDERAL DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.veracruz.gob.mx/desarrollosocial/wp-content/uploads/sites/8/2019/05/Ley-Federal-del-Trabajo.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": true
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/nuevo_modelo_laboral",
+      "titulo": "Nuevo Modelo Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Reforma_laboral_de_2019_de_M%C3%A9xico",
+      "titulo": "Reforma laboral de 2019 de México",
+      "citada": true
+    },
+    {
+      "url": "https://www.ansleyconsultores.com/assets/documentos/TEMEC-AVANCES.pdf",
+      "titulo": "El T-MEC y los avances en la legitimación de los Contratos ...",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/7450113.pdf",
+      "titulo": "Metamorfosis del Mundo del Trabajo. Caso México",
+      "citada": true
+    },
+    {
+      "url": "https://www.jornada.com.mx/notas/2021/03/30/sociedad/avala-corte-constitucionalidad-de-varios-articulos-de-reforma-laboral/",
+      "titulo": "La Jornada - Avala Corte constitucionalidad de varios artículos de reforma laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.dof.gob.mx/2023/CFCRL/acuerdo-terminacion-CCT.pdf",
+      "titulo": "acuerdo por el que se dan a conocer los contratos ...",
+      "citada": true
+    },
+    {
+      "url": "https://reformalaboral.stps.gob.mx/sitio/rl/doc/legitimacion-de-contratos-colectivos.pdf",
+      "titulo": "Legitimación y revisión de contratos colectivos de trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://transparencia.info.jalisco.gob.mx/sites/default/files/Ley%20Federal%20del%20Trabajo.pdf%2004-06-2019_0.pdf",
+      "titulo": "LEY FEDERAL DEL TRABAJO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN",
+      "citada": true
+    },
+    {
+      "url": "https://www.bloomberglinea.com/2022/10/03/mexico-pone-a-prueba-nuevo-modelo-de-justicia-laboral-con-etapa-mas-compleja-de-la-reforma/",
+      "titulo": "México pone a prueba nuevo modelo de justicia laboral con etapa más compleja de la reforma",
+      "citada": true
+    },
+    {
+      "url": "https://www.mggl.com.mx/eng/reforma-laboral-en-materia-deimparticion-de-justicia/",
+      "titulo": "REFORMA LABORAL EN MATERIA DE IMPARTICIÓN DE JUSTICIA: IMPLEMENTACIÓN ÚLTIMA ETAPA.￼ - MGGL",
+      "citada": true
+    },
+    {
+      "url": "https://dof.gob.mx/index_111.php?year=2019&month=05&day=01",
+      "titulo": "DOF - Diario Oficial de la Federación",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+      "titulo": "Ley Federal del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.diariooficial.gob.mx/nota_detalle.php?codigo=5652490&fecha=18%2F05%2F2022",
+      "titulo": "DOF - Diario Oficial de la Federación",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/sedia/biblio/prog_leg/Prog_leg_LXIV/025_DOF_01may19.pdf",
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.adn40.mx/politica/2019-05-01-11-38/publican-la-ley-federal-del-trabajo-en-el-dof/",
+      "titulo": "Publican la Ley Federal del Trabajo en el DOF",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/8654371.pdf",
+      "titulo": "libertad sindical en méxico. aplicación de los convenios 87 ...",
+      "citada": false
+    },
+    {
+      "url": "https://portalhcd.diputados.gob.mx/PortalWeb/Micrositios/d67dd8d4-9f19-4bbc-bdb7-1f8849f3ccec.pdf",
+      "titulo": "el t-mec y los compromisos laborales en méxico",
+      "citada": false
+    },
+    {
+      "url": "https://coparmex.org.mx/reforma-laboral-para-la-competitividad/",
+      "titulo": "Reforma Laboral para la Competitividad",
+      "citada": false
+    },
+    {
+      "url": "https://www.reformalaboralmexico.com/wp-content/uploads/2019/04/Presentaci%C3%B3n-TMEC.pdf",
+      "titulo": "Reforma Laboral Compatibilidad del predictamen con el Tratado",
+      "citada": false
+    },
+    {
+      "url": "https://colungaabogados.com.mx/reforma-a-la-ley-federal-del-trabajo-2019/",
+      "titulo": "REFORMA A LA LEY FEDERAL DEL TRABAJO 2019",
+      "citada": false
+    },
+    {
+      "url": "https://www.rendiciondecuentas.org.mx/la-forma-y-el-fondo-de-la-reforma-laboral/",
+      "titulo": "La Forma y el Fondo de la Reforma Laboral - Rendición de Cuentas",
+      "citada": false
+    },
+    {
+      "url": "https://www.ambito.com/politica/la-justicia-ratifico-la-vigencia-la-reforma-laboral-n6275543",
+      "titulo": "La Justicia ratificó la vigencia de la reforma laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.cndh.org.mx/documento/accion-de-inconstitucionalidad-682019",
+      "titulo": "Acción de inconstitucionalidad 68/2019",
+      "citada": false
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-rechazo-tratar-el-per-saltum-del-gobierno-por-la-reforma-laboral-nid07052026/",
+      "titulo": "La Corte Suprema rechazó tratar el per saltum del Gobierno por la reforma laboral - LA NACION",
+      "citada": false
+    },
+    {
+      "url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5566183&fecha=19/07/2019",
+      "titulo": "dictada por el Tribunal Pleno de la Suprema Corte ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.lacapital.com.ar/politica/reforma-laboral-la-corte-suprema-rechazo-tratar-el-per-saltum-del-gobierno-n10258172.html",
+      "titulo": "Reforma laboral: la Corte Suprema rechazó tratar el per saltum del gobierno",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronista.com/economia-politica/la-corte-suprema-fallo-y-no-hay-vuelta-atras-asi-se-pronuncio-sobre-la-validez-de-la-reforma-laboral/",
+      "titulo": "La Corte Suprema falló y no hay vuelta atrás: así se pronunció sobre la validez de la Reforma Laboral - El Cronista",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2019/C-535-19.htm",
+      "titulo": "C-535-19 Corte Constitucional de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronista.com/economia-politica/freno-judicial-a-la-reforma-laboral-suspenden-mas-de-70-articulos-clave/",
+      "titulo": "Freno judicial a la reforma laboral: suspenden más de 70 artículos clave - El Cronista",
+      "citada": false
+    },
+    {
+      "url": "https://enlineanoticias.com.ar/tapa/juicios-laboreles-rechanzan-un-planteo-de-inconstitucionalidad-de-la-nueva-ley-y-ordenan-recalcular-una-indemnizacion/",
+      "titulo": "Juicios laboreles: Rechanzan un planteo de inconstitucionalidad de la nueva ley y ordenan recalcular una indemnización - En Linea Noticias",
+      "citada": false
+    },
+    {
+      "url": "https://mvsnoticias.com/nacional/2023/5/2/concluye-plazo-para-legitimacion-de-contratos-colectivos-de-trabajo-17-mil-cumplieron-587204.html",
+      "titulo": "Concluye plazo para legitimación de Contratos Colectivos de Trabajo; 17 mil cumplieron",
+      "citada": false
+    },
+    {
+      "url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5687288&amp=&fecha=02%2F05%2F2023",
+      "titulo": "DOF - Diario Oficial de la Federación",
+      "citada": false
+    },
+    {
+      "url": "https://fortunaypoder.com/economia/gobierno-publica-lista-de-contratos-colectivos-de-trabajo-legitimados-y-los-que-estan-pendientes",
+      "titulo": "Gobierno publica lista de contratos colectivos de trabajo legitimados y los que están pendientes",
+      "citada": false
+    },
+    {
+      "url": "https://incomex.org.mx/index.php/2023/05/03/se-dan-a-conocer-los-cct-legitimados/",
+      "titulo": "Se dan a conocer los CCT legitimados - INCOMEX",
+      "citada": false
+    },
+    {
+      "url": "https://www.santamarinasteta.mx/en/publicaciones-y-eventos/updates/contratos-colectivos-en-mexico-plazo-de-legitimacion-terminado/",
+      "titulo": "Collective bargaining agreements in Mexico: the legitimation period has ended - Santamarina + Steta",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.juridicas.unam.mx/index.php/derecho-social/article/download/20296/20435/41661",
+      "titulo": "El acoso laboral. Concepto y acciones procesales en el ...",
+      "citada": false
+    },
+    {
+      "url": "https://jurify.mx/protocolo-violencia-acoso-sexual-laboral-132-xxxi/",
+      "titulo": "Protocolo contra el acoso sexual laboral: art. 132 XXXI LFT",
+      "citada": false
+    },
+    {
+      "url": "https://blog.estela.com/reforma-laboral-2019-cambios-relevantes",
+      "titulo": "Reforma Laboral 2019 - Cambios relevantes",
+      "citada": false
+    },
+    {
+      "url": "https://loftonsc.com/juridico-laboral/prevenir-acoso-obligacion-patronal/",
+      "titulo": "Protocolo para prevenir el acoso: nueva obligación patronal - Lofton Servicios Integrales",
+      "citada": false
+    },
+    {
+      "url": "https://rmsindicalistas.mx/2022/05/poder-judicial-blinda-procedimientos-en-casos-de-demandas-por-acoso-laboral/",
+      "titulo": "Poder Judicial blinda procedimientos en casos de demandas por acoso laboral - Red de Mujeres Sindicalistas",
+      "citada": false
+    },
+    {
+      "url": "https://loftonsc.com/blog/protocolo-acoso-laboral-mexico",
+      "titulo": "Blog",
+      "citada": false
+    },
+    {
+      "url": "https://rmsindicalistas.mx/2023/03/acoso-y-hostigamiento-sexual-en-el-trabajo/",
+      "titulo": "Acoso y hostigamiento sexual en el trabajo - Red de Mujeres Sindicalistas",
+      "citada": false
+    },
+    {
+      "url": "https://mexico.justia.com/derecho-laboral/violencia-laboral-hostigamiento-laboral-y-acoso-sexual-laboral/",
+      "titulo": "Violencia Laboral, Hostigamiento Laboral y Acoso Sexual Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/america/mexico/2022/10/04/nuevo-sistema-de-justicia-se-presento-la-tercera-etapa-de-la-reforma-laboral/",
+      "titulo": "“Nuevo sistema de justicia”: se presentó la tercera etapa de la Reforma Laboral - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.unotv.com/nacional/reforma-laboral-2022-que-estados-se-suman-a-la-implementacion-de-tercera-etapa-y-en-que-consiste/",
+      "titulo": "Arranca tercera etapa de implementación de Reforma Laboral; se suman estos estados - UnoTV",
+      "citada": false
+    },
+    {
+      "url": "https://idconline.mx/laboral/2022/09/20/declaran-inicio-de-la-reforma-laboral",
+      "titulo": "¡Declaran inicio de la reforma laboral!",
+      "citada": false
+    },
+    {
+      "url": "https://cobertura360.mx/2022/10/04/politica/con-1-5-millones-litigios-laborales-pendientes-arranca-tercera-etapa-reforma-laboral",
+      "titulo": "Con 1.5 millones de litigios laborales pendientes, arranca tercera etapa de la reforma laboral • Cobertura 360",
+      "citada": false
+    },
+    {
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/marjur/marco/senado/Senado_declara_20sep22.pdf",
+      "titulo": "Declaratoria del inicio de funciones de la Tercera Etapa de ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.oaj.gob.mx/resources/index/infoRelevante/2022/pdf/AcuerdoGeneral0221003.pdf",
+      "titulo": "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL",
+      "citada": false
+    },
+    {
+      "url": "https://www.taxtodaymexico.com/en-funciones-tribunales-laborales-federales-de-tercera-etapa-de-reforma-a-la-justicia-laboral/",
+      "titulo": "En funciones tribunales laborales federales de tercera etapa de reforma a la justicia laboral - TaxToday México",
+      "citada": false
+    }
+  ]
+}

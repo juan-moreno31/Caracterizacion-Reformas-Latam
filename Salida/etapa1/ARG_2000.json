@@ -1,0 +1,279 @@
+{
+  "id": "ARG_2000",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.4,
+  "incompleto": false,
+  "norma": "Ley 25.250 de 2000 (Reforma Laboral)",
+  "texto": "# Informe de investigación: ARG 2000, Ley 25.250 de Reforma Laboral\n\nLa ley se clasifica como **flexibilizadora**. Su núcleo es extender el período de prueba sin indemnización, terminar con la ultraactividad legal de los convenios y dar prioridad a la negociación descentralizada. Incluye componentes protectores secundarios: inspección, balance social y simplificación registral.\n\n## 1. Objetivo declarado\n\nNo encontré la exposición de motivos ni el mensaje de elevación del Ejecutivo; queda pendiente. En la prensa, el presidente De la Rúa defendió el proyecto como \"herramienta para crear empleo\". También buscó desligar a la reforma laboral de la idea de que es una \"concesión\" al Fondo Monetario Internacional (FMI). Al abrir las sesiones del Congreso pidió al Senado tratarla con urgencia y la presentó como una medida contra la precarización, a favor de los trabajadores no registrados y de los desocupados (Cenital, prensa).\n\nLa propia ley declara fines en su título de inspección. El sistema que crea busca vigilar el cumplimiento de las normas del trabajo y de la seguridad social y eliminar el empleo no registrado.\n\n**Declarado vs. efectivo:** el discurso se centró en el empleo y la registración. Sin embargo, la doctrina coincide en que el peso real de la norma está en la flexibilización del período de prueba y en la reestructuración de la negociación colectiva.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**despido_e_indemnizacion — reduce.**\n- Sustituye el art. 92 bis de la LCT y amplía la duración del período de prueba, que además puede extenderse por convenio colectivo (texto oficial).\n- Durante ese período cualquiera de las partes puede extinguir la relación sin expresión de causa y sin obligación de preavisar. En tal caso, dicha extinción no genera derecho indemnizatorio alguno.\n- Una fuente doctrinal señala que esa es la principal diferencia que introduce esta ley respecto del régimen anterior (el previsto por la ley 25.013).\n- Hay salvaguardas: se prohíbe usar el período de prueba más de una vez con el mismo trabajador y se sanciona su uso abusivo. Si el empleador no registra el contrato, se entiende que ha renunciado a dicho período.\n- Durante la prueba deben pagarse los aportes y contribuciones. Esto elimina la exención que existía antes (Terragni, fuente doctrinal de menor jerarquía).\n\n**formalizacion_y_mipymes — reduce.** Para la pequeña empresa definida en la Ley 24.467, el período de prueba es más largo. Los convenios pueden ampliarlo para trabajadores calificados (texto oficial). La ley también habilita convenios exclusivamente destinados a regular las condiciones de trabajo y empleo en las pequeñas empresas.\n\n**otro (incentivo fiscal a la contratación por tiempo indeterminado) — aumenta, con cautela.** El art. 2 premia a el empleador que produzca un incremento neto en su nómina de trabajadores contratados por tiempo indeterminado con una exención parcial de contribuciones. La exención es mayor si se contrata a hombres mayores, a mujeres jefas de hogar o a jóvenes (texto oficial). El efecto sobre la protección es indirecto: estimula el empleo estable sin cambiar los derechos del trabajador.\n\n**derechos_colectivos_sindicales y salario_y_negociacion_salarial — reduce.**\n- *Descentralización:* un convenio colectivo de trabajo de ámbito menor prevalecerá sobre otro anterior de ámbito mayor, salvo que aquél hubiere sido concertado para articularse con este último. Además, la representación en los convenios de empresa queda a cargo del sindicato con personería gremial.\n- *Disponibilidad colectiva:* el convenio que sucede a otro puede disponer sobre los derechos reconocidos en éste.\n- *Fin de la ultraactividad legal:* si las partes no pactan otra cosa ni hay un convenio nuevo, las cláusulas pierden vigencia después de un plazo contado desde la denuncia (AFIP, reproducción del texto). Para los convenios que ya regían por ultraactividad, la ley prevé prórrogas transitorias, convocatoria a negociar y arbitraje.\n- *Mitigaciones transitorias:* los nuevos convenios de menor ámbito no pueden fijar salarios básicos inferiores a los del convenio ultraactivo mayor. Si el convenio cae, el trabajador conserva las condiciones salariales hasta que haya uno nuevo.\n- *Descuelgue:* los convenios de ámbito superior deben prever cómo excluir a las empresas en crisis (art. 27 incorporado a la Ley 14.250).\n- Una fuente crítica, de menor jerarquía, describe el conjunto como un triple dispositivo legal peyorativo, que abarcaba la disponibilidad colectiva, la derogación del principio de la norma más favorable y el fin de la ultraactividad.\n- *Contrapeso menor que aumenta la protección:* el balance social obligatorio para las grandes empresas. El documento será girado por la empresa a la representación sindical de sus trabajadores.\n- *Componente institucional:* se crean la Comisión Bicameral de Seguimiento de la Negociación Colectiva y el Servicio Federal de Mediación y Arbitraje, y se modifica la Ley 23.546.\n\n**justicia_laboral_e_inspeccion — aumenta.**\n- Crea el Sistema Integrado de Inspección del Trabajo y de la Seguridad Social. El Ministerio de Trabajo actúa como autoridad central y los inspectores pueden entrar a los lugares de trabajo sin aviso previo ni orden judicial.\n- Las infracciones que impliquen evasión tributaria o de la seguridad social deben denunciarse a la AFIP.\n- Los inspectores pueden controlar a las cooperativas de trabajo cuando sus socios se desempeñen en fraude a la ley laboral.\n- Crea una unidad para que el registro de empleadores y trabajadores se cumpla en un solo acto y a través de un único trámite.\n\n## 3. Población objetivo\n\n`asalariados_formales` (período de prueba, convenios), `empleadores_mipymes` (régimen especial de prueba y convenios para pequeñas empresas), y `jovenes` y `mujeres` (exención reforzada). El sector público queda excluido del régimen convencional: sólo están excluidos de esta ley los trabajadores del sector público nacional, provincial y municipal y ciertos docentes.\n\n## 4. Contexto político y económico\n\n- **Gobierno:** la Alianza (UCR-Frepaso), en su primer año. La reforma fue su tercera iniciativa legislativa, después de un presupuesto de ajuste y una reforma impositiva (Cenital).\n- **Oposición:** la CGT enfrentó al ministro de Trabajo Alberto Flamarique. El gobierno priorizó negociar con los gobernadores del PJ para influir sobre los senadores (La Nación). En el Senado el justicialismo tenía mayoría.\n- **Escándalo:** después se denunciaron sobornos a senadores. Por ese escándalo, el vicepresidente Carlos Álvarez renunció el 6 de octubre de 2000 (Radio Nacional, Cenital). En 2013, el Tribunal Oral Federal 3 absolvió a todos los acusados por considerar que los sobornos a senadores para aprobar en 2000 la ley de reformar laboral \"no existieron\". En diciembre de 2015, Casación confirmó las absoluciones por beneficio de la duda.\n- **Economía (sin fuente):** la recesión iniciada en 1998 y las tensiones de la convertibilidad son conocimiento propio; no las verifiqué con fuentes de jerarquía adecuada.\n\n**Aclaración de la discrepancia de fecha:** el Senado votó en abril de 2000, pero con cambios, así que el proyecto debió volver a Diputados. La sanción definitiva es la del 11 de mayo de 2000, y la promulgación se hizo por Decreto 432/2000. Las dos fechas son compatibles.\n\n## 5. ¿Revierte una reforma previa?\n\n**Sí, en parte.** La ley sustituye el artículo de la Ley 25.013 (1998) que había regulado el período de prueba. Vuelve a alargarlo, quita la indemnización que esa ley exigía cuando el período se extendía por convenio y elimina la exención de contribuciones durante la prueba (texto oficial; Terragni). Según la doctrina, el período de prueba fuera instaurado por la Ley N° 24.465 y posteriormente modificado por la Ley N° 25.013. En ese punto, la Ley 25.250 retoma la lógica de 1995. Sugiero `revierte_reforma_previa` = sí (parcial, Ley 25.013).\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Fecha exacta: no verificada.** No encontré ningún artículo que fije la vigencia. Si no lo hay, regiría la regla supletoria del Código Civil de entonces, ocho días después de la publicación del 02-06-2000 (sin fuente; inferencia). Sugiero codificar `fecha_entrada_vigencia` = \"2000-06\" o \"desconocida\" hasta revisar los arts. 33 y 34.\n- **`vigencia_escalonada` = true**, por estas razones:\n  - (a) La exención de contribuciones empieza recién al mes siguiente al fin del período de prueba y depende de criterios fijados por reglamento (Decreto 568/2000, B.O. 17-07-2000).\n  - (b) La caída de los convenios ultraactivos se difiere: el plazo corre desde que la autoridad convoca a negociar o desde que una parte denuncia el convenio, con arbitraje posterior. Los decretos que reglamentaron convenios y balance social son de diciembre de 2000 (Decretos 1171, 1172 y 1174/2000).\n  - (c) Hubo más reglamentación en 2001: Decretos 95/2001 y 96/2001, y el Decreto 147/2001, que aclara la reducción de contribuciones.\n- En la práctica, el componente colectivo central no pudo producir efectos plenos antes de 2002.\n\n## 7. Estado de vigencia posterior\n\n- **Derogación:** Derógase la Ley Nº 25.250 y sus normas reglamentarias. Así lo dispone el art. 1 de la Ley 25.877 (B.O. 19-03-2004). Esa ley rehace el período de prueba, la negociación colectiva y el balance social con otra orientación. Codificación: `modificada_o_derogada_despues`; la Ley 25.877 es la contrarreforma de 2004.\n- **Otras modificaciones:** el registro oficial menciona el Decreto 814/2001, que cambió el régimen de contribuciones desde julio de 2001. No verifiqué si afectó el incentivo del art. 2.\n- **Fallos judiciales:** no encontré declaraciones de inconstitucionalidad de la ley. La búsqueda dirigida solo trajo jurisprudencia española, así que queda sin verificar. La causa penal por sobornos no afectó la validez de la norma y va en `notas`.\n\n## Lo que no pude verificar\n\n- La exposición de motivos o el mensaje del Ejecutivo.\n- La fecha exacta de entrada en vigor.\n- Si hubo planteos de constitucionalidad sobre la ultraactividad o el período de prueba.\n- El contenido del Decreto 814/2001.\n- El contexto macroeconómico con fuentes de CEPAL, BID o el Banco Mundial.\n- La ficha de NATLEX o EPLex: no la volví a consultar y me apoyé en el informe previo.\n\nParte del análisis doctrinal viene de sitios de abogados (Terragni, estudiofk), que tienen menor jerarquía. Por eso todo lo sustantivo se contrastó con el texto oficial.",
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-63208/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25250 - TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.terragnijurista.com.ar/doctrina/refo_lab.htm",
+      "titulo": "La Reforma Laboral - Marco Antonio Terragni",
+      "citada": true
+    },
+    {
+      "url": "https://ar.vlex.com/vid/ley-25250-219708430",
+      "titulo": "Ley 25250 - vLex Argentina - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://www.ecofield.net/Legales/Trabajo/ley25250.htm",
+      "titulo": "ECOFIELD - Trabajo - Ley N° 25.250.",
+      "citada": true
+    },
+    {
+      "url": "https://estudiofk.com.ar/2025/el-fin-de-la-vigencia-de-los-convenios-colectivos-y-el-instituto-de-la-ultra-actividad/",
+      "titulo": "Abogados Laboralistas » ¿CAEN LOS CONVENIOS COLECTIVOS CON LA REFORMA LABORAL? - Abogados Laboralistas",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025877_2004_03_02",
+      "titulo": "Ley N° 25877",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/coimas-en-el-senado-tras-la-absolucion-fernando-de-la-rua-denuncio-un-complot-y-mario-pontaq-nid1650425/",
+      "titulo": "Coimas en el Senado: tras la absolución, Fernando De la Rúa denunció un \"complot\" y Mario Pontaquarto mostró su decepción - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://perezmarzo.com.ar/ley-25250",
+      "titulo": "Ley 25250 - Reforma Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-envia-al-congreso-una-reforma-laboral-resistida-por-el-pj-nid1862/",
+      "titulo": "El Gobierno envía al Congreso una reforma laboral resistida por el PJ - LA NACION",
+      "citada": true
+    },
+    {
+      "url": "https://cenital.com/el-dia-que-renuncio-chacho-alvarez/",
+      "titulo": "El día que renunció Chacho Álvarez",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025250_2000_05_11",
+      "titulo": "Ley N° 25250",
+      "citada": false
+    },
+    {
+      "url": "https://prensared.org.ar/2026/06/30/el-fin-de-la-ultraactividad/",
+      "titulo": "El fin de la ultraactividad - >>prensared>>",
+      "citada": false
+    },
+    {
+      "url": "https://chequeado.com/el-explicador/que-cambia-con-la-reforma-laboral-una-por-una-las-modificaciones-que-promueve-javier-milei/",
+      "titulo": "¿Qué cambia con la reforma laboral? Una por una, las modificaciones que aprobó el Senado - Chequeado",
+      "citada": false
+    },
+    {
+      "url": "https://www.mdzol.com/dinero/reforma-laboral-se-cae-la-ultraactividad-y-comienza-la-disputa-los-convenios-colectivos-n1536168",
+      "titulo": "Reforma laboral: se cae la ultraactividad y comienza la disputa por los convenios colectivos",
+      "citada": false
+    },
+    {
+      "url": "https://abcnoticias.mx/global/2013/12/23/absuelven-de-la-rua-en-juicio-por-sobornos-18813.html",
+      "titulo": "Absuelven a De la Rúa en juicio por sobornos",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/2016/01/04/1780671-coimas-el-senado-15-anos-despues-se-cerro-la-causa/",
+      "titulo": "Coimas en el Senado: 15 años después, se cerró la causa - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/2015/12/04/1774436-confirman-la-absolucion-de-la-rua-y-los-otros-acusados-el-caso-coimas-el-senado/",
+      "titulo": "Confirman la absolución de De la Rúa y los otros acusados en el caso de coimas en el Senado - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://www.elesquiu.com/politica/2013/12/23/presidente-resto-acusados-fueron-absueltos-132876.html",
+      "titulo": "El ex presidente De la Rúa y el resto de los acusados fueron absueltos",
+      "citada": false
+    },
+    {
+      "url": "https://www.elesquiu.com/politica/2013/12/24/absuelto-coimas-senado-132923.html",
+      "titulo": "De la Rúa fue absuelto por las coimas en el Senado",
+      "citada": false
+    },
+    {
+      "url": "https://www.agenciapacourondo.com.ar/sociedad/absolvieron-todos-los-imputados-por-las-coimas-en-el-senado",
+      "titulo": "Absolvieron a todos los imputados por las coimas en el Senado",
+      "citada": false
+    },
+    {
+      "url": "https://www.lanacion.com.ar/politica/despues-de-13-anos-la-justicia-absolvio-a-de-la-rua-en-el-escandalo-de-los-sobornos-nid1650534/",
+      "titulo": "Absuelven a De la Rúa y al resto de los acusados en el caso de los sobornos - LA NACION",
+      "citada": false
+    },
+    {
+      "url": "https://www.pagina12.com.ar/diario/elpais/1-287619-2015-12-05.html",
+      "titulo": "Página/12 :: El país :: Los sobornos en el Senado",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronista.com/impresa-general/ley-25250-de-reforma-laboral/",
+      "titulo": "Ley 25.250 de REFORMA LABORAL - El Cronista",
+      "citada": false
+    },
+    {
+      "url": "http://tododeiure.atspace.com/leyes/25250.htm",
+      "titulo": "Ley 25250 Reforma Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.rjcornaglia.com.ar/101.--la-reforma-laboral-del-ano-2000.-la-ley-25.250,.html",
+      "titulo": "101.- La reforma laboral del año 2000. La ley 25.250, - RJCornaglia",
+      "citada": false
+    },
+    {
+      "url": "https://trivia.consejo.org.ar/ficha/18698-ley_25250._reforma_laboral",
+      "titulo": "Ley 25250. Reforma Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25250-63208/normas-modifican",
+      "titulo": "La norma LEY 25250 es modificada por las siguientes",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.org.ar/img/revistas/tys/n24/html/n24a02.htm",
+      "titulo": "El proceso político de la reforma laboral ...",
+      "citada": false
+    },
+    {
+      "url": "https://uvadoc.uva.es/bitstream/handle/10324/55927/TFG-L3257.pdf?sequence=1",
+      "titulo": "Análisis de las reformas laborales en España. Avances y ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronista.com/columnistas/lo-que-dejo-la-reforma-laboral/",
+      "titulo": "Lo que dejó la reforma laboral - El Cronista",
+      "citada": false
+    },
+    {
+      "url": "https://e-revistas.uc3m.es/index.php/LABOS/en/article/download/6850/5408/",
+      "titulo": "La reforma laboral de 2022 en perspectiva económica = ...",
+      "citada": false
+    },
+    {
+      "url": "https://repositorio.cepal.org/server/api/core/bitstreams/f39932c1-d68b-4390-8bfb-58340be7bf9c/content",
+      "titulo": "SERIE REFORMAS ECONÓMICAS 32 LAS REFORMAS LABORALES Y SU",
+      "citada": false
+    },
+    {
+      "url": "https://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1514-68712015000100002",
+      "titulo": "El proceso político de la reforma laboral en la administración pública argentina (1989-1999)",
+      "citada": false
+    },
+    {
+      "url": "https://www.laizquierdadiario.com/Reforma-laboral-como-ataca-el-derecho-a-huelga-asambleas-y-organizacion-sindical",
+      "titulo": "Explainer. Reforma laboral: cómo ataca el derecho a huelga, asambleas y organización sindical",
+      "citada": false
+    },
+    {
+      "url": "https://laurbedigital.com.ar/noticias/2025/12/10/reforma-laboral-un-analisis-de-la-propuesta-que-elimina-horas-extra-y-descentraliza-la-negociacion-colectiva/",
+      "titulo": "Reforma Laboral: un análisis de la propuesta que elimina horas extra y descentraliza la negociación colectiva -",
+      "citada": false
+    },
+    {
+      "url": "https://diposit.ub.edu/dspace/bitstream/2445/176014/1/16809542-1.pdf",
+      "titulo": "TRABAJO DE FIN DE GRADO La ultraactividad de los convenios colectivos",
+      "citada": false
+    },
+    {
+      "url": "https://www.abogadossyc.com/2015/02/19/doctrina-del-tribunal-supremo-sobre-la-ultraactividad-de-los-convenios-colectivos-tras-la-ley-de-reforma-laboral-de-2012/",
+      "titulo": "Doctrina del tribunal supremo sobre la ultraactividad de los convenios colectivos tras la ley de reforma laboral de 2012 - S&C Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2021-00000001444",
+      "titulo": "BOE.es - Sobre la impugnación privada del Convenio Colectivo estatal del sector de contact center durante el periodo de ultraactividad, y la ilegalidad sobrevenida de la cláusula convencional que vincula la causa del contrato de trabajo para obra o servicio determinado al objeto de una contrata.",
+      "citada": false
+    },
+    {
+      "url": "https://noticias.juridicas.com/actualidad/jurisprudencia/6205-una-sentencia-considera-que-no-puede-extinguirse-la-ultraactividad-de-los-convenios-en-virtud-de-la-reforma-laboral-por-la-preminencia-del-pacto-colectivo/",
+      "titulo": "Una sentencia considera que no puede extinguirse la ultraactividad de los convenios en virtud de la reforma laboral, por la preminencia del pacto colectivo · Noticias Jurídicas",
+      "citada": false
+    },
+    {
+      "url": "https://www.garrigues.com/es_ES/noticia/el-tribunal-supremo-clarifica-el-regimen-juridico-de-la-ultraactividad-de-los-convenios",
+      "titulo": "El Tribunal Supremo clarifica el régimen jurídico de la ‘ultraactividad’ de los convenios colectivos",
+      "citada": false
+    },
+    {
+      "url": "https://sae.fsc.ccoo.es/69cba491b3144b9a42144f8af897a296000050.pdf",
+      "titulo": "Sentencia ultraactividad convenios colectivos",
+      "citada": false
+    },
+    {
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7245805",
+      "titulo": "El fin de la ultraactividad del convenio colectivo en la doctrina del Tribunal Supremo - Dialnet",
+      "citada": false
+    },
+    {
+      "url": "https://zaguan.unizar.es/record/58207/files/TAZ-TFG-2016-3476.pdf",
+      "titulo": "LA ULTRAACTIVIDAAD DE LOS CONVENIOS COLECTIVOS",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.cef.udima.es/index.php/rtss/article/download/2656/2274/6086",
+      "titulo": "www.ceflegal.com 101 Diálogos con la jurisprudencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.legaltoday.com/practica-juridica/derecho-social-laboral/laboral/linea-jurisprudencial-en-materia-de-ultraactividad-de-los-convenios-colectivos-2014-05-08/",
+      "titulo": "Línea Jurisprudencial en materia de ultraactividad de los Convenios Colectivos - LegalToday",
+      "citada": false
+    },
+    {
+      "url": "https://eleditorplatense.com/politica/la-renuncia-de-chacho-alvarez-y-la-maldicion-de-los-vices-n01d0e9eb-df88-45d3-8c15-d9dabd1dd84f",
+      "titulo": "La renuncia de Chacho Álvarez y la maldición de los vices",
+      "citada": false
+    },
+    {
+      "url": "https://mendozatoday.com.ar/en-foco/por-que-chacho-alvarez-renuncio-a-la-vicepresidencia-hace-26-anos/",
+      "titulo": "Por qué Chacho Álvarez renunció a la vicepresidencia hace 26 años - Diario Mendoza Today",
+      "citada": false
+    },
+    {
+      "url": "https://www.laizquierdadiario.com/A-21-anos-de-la-renuncia-de-Chacho-Alvarez-el-centroizquierdismo-y-el-ajuste-ayer-y-hoy",
+      "titulo": "Opinión. A 21 años de la renuncia de Chacho Álvarez: el centroizquierdismo y el ajuste, ayer y hoy",
+      "citada": false
+    },
+    {
+      "url": "https://www.filo.news/actualidad/El-6-de-octubre-de-2001-Chacho-Alvarez-renunciaba-a-la-vicepresidencia-20211006-0003.html",
+      "titulo": "El 6 de octubre del 2000, Chacho Álvarez renunciaba a la vicepresidencia",
+      "citada": false
+    },
+    {
+      "url": "https://nuevarioja.com.ar/politica/el-6-de-octubre-del-2000-chacho-alvarez-renunciaba-a-la-vicepresidencia.htm",
+      "titulo": "El 6 de octubre del 2000, Chacho Álvarez renunciaba a la vicepresidencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.infobae.com/sociedad/2020/10/06/coimas-en-el-senado-debacle-politica-y-una-dura-frase-final-el-dia-que-chacho-alvarez-renuncio-a-la-vicepresidencia/",
+      "titulo": "Coimas en el Senado, debacle política y una dura frase final: el día que Chacho Álvarez renunció a la vicepresidencia - Infobae",
+      "citada": false
+    },
+    {
+      "url": "https://cdn.radionacional.com.ar/el-dia-que-carlos-chacho-alvarez-renunciaba-a-la-vicepresidencia/",
+      "titulo": "El día que Carlos «Chacho» Álvarez renunciaba a la vicepresidencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.perfil.com/noticias/reperfilar/a-20-anos-de-la-renuncia-de-chacho-alvarez.phtml",
+      "titulo": "Aniversario",
+      "citada": false
+    }
+  ]
+}

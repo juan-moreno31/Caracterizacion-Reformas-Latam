@@ -1,0 +1,129 @@
+{
+  "id": "PER_2014",
+  "iso": "PER",
+  "pais": "Perú",
+  "anio": 2014,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.049,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social (régimen laboral juvenil, conocida como «Ley Pulpín»)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley 30300 (deroga la Ley 30288, 2015)",
+      "Resolución Ministerial 002-2015-TR (prepublicación del proyecto de reglamento)",
+      "Ley 30222",
+      "Decreto Supremo 006-2014-TR"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "anulada_o_suspendida_total",
+    "fecha_entrada_vigencia": "2014-12-17",
+    "vigencia_escalonada": true,
+    "orientacion_general": "flexibilizadora",
+    "objetivo_declarado": "Mejorar la empleabilidad y promover la contratación de jóvenes desocupados para que accedan al mercado laboral mediante un empleo de calidad con protección social; según el Ministerio de Economía y Finanzas, reducir el desempleo y la informalidad juveniles sin originar despidos ni desplazamiento laboral.",
+    "descripcion_intenciones": "La ley crea un régimen laboral especial, opcional y temporal para la contratación de jóvenes que ingresan por primera vez a planilla o están desocupados en empresas privadas. Su lógica efectiva es reducir el costo laboral del empleador mediante un contrato a plazo determinado sin causa empresarial y con menos beneficios que el régimen general. Incorpora contrapesos protectores: afiliación obligatoria a pensiones y salud, capacitación obligatoria, prohibición de sustituir trabajadores por jóvenes y desnaturalización del contrato si se excede el plazo. El Estado subsidia la cotización de salud en micro y pequeñas empresas como incentivo a la formalización. La norma nunca llegó a aplicarse por falta de reglamento y fue derogada por la Ley 30300.",
+    "dimensiones": [
+      {
+        "dimension": "empleo_juvenil_y_aprendizaje",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Núcleo de la reforma: régimen diferenciado con menos beneficios para jóvenes. Incluye capacitación obligatoria con crédito tributario e inscripción en la Bolsa de Trabajo de la VUPE."
+      },
+      {
+        "dimension": "contratacion_temporal",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Contrato a plazo determinado impuesto por ley sin causa empresarial, con prórrogas hasta un tope. Se desnaturaliza en indeterminado si se excede el plazo y se limita la proporción de jóvenes en la plantilla."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Según prensa y especialistas, excluía CTS, gratificaciones, utilidades y asignación familiar, con remuneración referida a la Remuneración Mínima Vital; no verificado en el texto oficial. Admite mejoras unilaterales, por costumbre, acuerdo o negociación colectiva."
+      },
+      {
+        "dimension": "jornada_y_horas_extra",
+        "efecto_en_proteccion": "reduce",
+        "comentario": "Jornada, horas extra y descansos siguen el régimen general; solo se acorta el descanso vacacional."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Establece una reparación propia por despido sin causa justa, sin comparación formal con el régimen general en las fuentes. Prohíbe cesar trabajadores para sustituirlos por jóvenes."
+      },
+      {
+        "dimension": "seguridad_social_y_pensiones",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Obliga a afiliar a los jóvenes a un régimen previsional y a la seguridad social en salud, lo que aumenta la protección frente a la informalidad. Según la prensa, excluía el seguro de vida del régimen general."
+      },
+      {
+        "dimension": "formalizacion_y_mipymes",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "El Estado asume el costo del primer año de cotización de salud de los jóvenes que ingresan a planilla en micro y pequeñas empresas. Es un incentivo de costo para el empleador."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "La sustitución de trabajadores por jóvenes del régimen se tipifica como infracción muy grave según la Ley 28806. El proyecto de reglamento preveía un registro de contratos juveniles."
+      }
+    ],
+    "poblacion_objetivo": [
+      "jovenes",
+      "informales",
+      "empleadores_mipymes"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Expedida durante el gobierno de Ollanta Humala como parte de un paquete de medidas de reactivación económica. Fue iniciativa del Ministerio de Economía y Finanzas, consensuada con el Ministerio de Trabajo y Promoción del Empleo, y se tramitó como proyecto de ley 3942/2014-PE. La desaceleración económica como contexto solo la respalda una fuente académica crítica. Contó con el apoyo de la Confiep y la Cámara de Comercio de Lima. La OIT advirtió que reducir beneficios no garantiza menor informalidad. Desde el 18 de diciembre de 2014 hubo protestas juveniles en varias regiones, que llevaron a congresistas a retirar su apoyo. La norma no modifica ni deroga reformas laborales previas; crea un régimen nuevo y remite al régimen general de la actividad privada en jornada y derechos colectivos.",
+    "notas": "Publicada en El Peruano el 2014-12-16. La fecha de vigencia formal (2014-12-17) se infiere de la regla constitucional general y no se verificó en una disposición expresa de la ley. Vigencia escalonada: la aplicación dependía de un reglamento por decreto supremo y de la adaptación de la planilla electrónica por la SUNAT. Solo se prepublicó el proyecto de reglamento (Resolución Ministerial 002-2015-TR). Se codifica como anulada_o_suspendida_total porque, según el Tribunal Constitucional, la ley nunca surtió efectos. La causa fue la falta de normas complementarias y la derogación total por la Ley 30300, aprobada el 2015-01-26 y publicada el 2015-01-28; no hubo anulación judicial. La demanda de inconstitucionalidad del Colegio de Abogados de Puno (Exp. 0002-2015-PI/TC) fue declarada improcedente por sustracción de la materia. Para la variable de tratamiento equivale a ausencia de tratamiento efectivo, aunque hubo un choque de expectativas. Las exclusiones de beneficios (CTS, gratificaciones, utilidades, asignación familiar, seguro de vida) provienen de prensa y especialistas, no del texto oficial consultado. No se consultaron NATLEX ni EPLex. La Ley 30300 (2015) se incluye en normas_relacionadas por complementar directamente la trayectoria de la reforma, aunque es de otro año. La Ley 30222 y el Decreto Supremo 006-2014-TR, ambos sobre seguridad y salud en el trabajo, son normas paralelas del mismo año."
+  },
+  "fuentes": [
+    {
+      "url": "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/CA11D1CDAEE13AEC05257EF400055CFC/$FILE/30288.pdf",
+      "titulo": "LEY Nº 30288 EL PRESIDENTE DE LA REPÚBLICA POR CUANTO:",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.com.pe/vid/ley-n-30288-ley-578578806",
+      "titulo": "Ley Nº 30288, Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social. - vLex Perú",
+      "citada": true
+    },
+    {
+      "url": "https://www.mef.gob.pe/es/noticias/3750-ley-que-promueve-el-acceso-de-jovenes-al-mercado-laboral-y-a-la-proteccion-social-ley-nd-30288",
+      "titulo": "Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social (Ley N° 30288)",
+      "citada": true
+    },
+    {
+      "url": "https://www.elperulegal.com/2014/12/ley-n-30288.html",
+      "titulo": "LEY N° 30288 DEL EMPLEO JUVENIL (Ley \"Pulpin\") - El Perú Legal",
+      "citada": true
+    },
+    {
+      "url": "https://sni.org.pe/ley-que-promueve-el-acceso-de-jovenes-al-mercado-laboral-y-a-la-proteccion-social/",
+      "titulo": "Ley que promueve el acceso de jóvenes al mercado laboral y a la protección social.",
+      "citada": true
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Ley_de_r%C3%A9gimen_laboral_juvenil_del_Per%C3%BA",
+      "titulo": "Ley de régimen laboral juvenil del Perú",
+      "citada": true
+    },
+    {
+      "url": "https://tc.gob.pe/jurisprudencia/2015/00002-2015-AI.pdf",
+      "titulo": "TRIBUNAL CONSTITUCIONAL PLENO JURISDICCIONAL Expediente 0002-2015-PUTC",
+      "citada": true
+    },
+    {
+      "url": "https://ius360.com/ley-del-regimen-laboral-juvenil-inclusion-vs-precariedad/",
+      "titulo": "LEY DEL REGIMEN LABORAL JUVENIL: Inclusión vs precariedad",
+      "citada": true
+    },
+    {
+      "url": "https://diariocorreo.pe/politica/ley-laboral-juvenil-genera-polemica-551529/",
+      "titulo": "Ley laboral juvenil genera polémica",
+      "citada": true
+    },
+    {
+      "url": "https://elcomercio.pe/economia/peru/regimen-laboral-juvenil-5-criticas-propia-ley-desmorona-181989-noticia/",
+      "titulo": "Régimen laboral juvenil: 5 críticas que la propia ley desmorona",
+      "citada": true
+    }
+  ]
+}

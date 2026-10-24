@@ -1,0 +1,116 @@
+{
+  "id": "ARG_2024",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2024,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1099,
+  "incompleto": false,
+  "norma_propuesta": "Ley 27.742",
+  "otras": "Decreto 847/2024; Decreto 695/2024; Decreto 592/2024; DNU 70/2023",
+  "confianza": "alta",
+  "texto": "Para ARG 2024 identifico como reforma principal la **Ley 27.742, \"Ley de Bases y Puntos de Partida para la Libertad de los Argentinos\"**. Su componente laboral está en dos títulos: el Título IV (Promoción del empleo registrado) y el Título V (Modernización laboral).\n\n**Qué es y por qué corresponde.** La norma se publicó en el Boletín Oficial el 8 de julio de 2024, junto con el Decreto 592/2024 que la promulgó, y entró en vigencia el 9 de julio de 2024, según su artículo 237. Una compilación que remite al aviso oficial del Boletín Oficial indica que sus principales objetivos son \"promover el empleo registrado\" y propiciar la denominada \"Modernización Laboral\". En el Título IV, los empleadores pueden regularizar las relaciones laborales vigentes iniciadas antes del 9 de julio de 2024. En el Título V, la ley cambia el período de prueba del artículo 92 bis de la Ley de Contrato de Trabajo, la tercerización, las causales de despido y el despido discriminatorio. Además, deroga las multas de la Ley Nacional de Empleo por falta de registro o registro deficiente. Es la ley de mayor alcance sobre el mercado laboral sancionada por el Congreso ese año y la única que se aplicó de forma efectiva en 2024.\n\n**Candidatas descartadas o secundarias:**\n- **DNU 70/2023.** Su capítulo laboral fue el primer intento de reforma, pero no corresponde a este país-año por dos motivos. Primero, se dictó en diciembre de 2023. Segundo, en 2024 casi no se aplicó: rigió en la práctica desde el 29/12/23 y la Cámara lo suspendió el 3 de enero de 2024, y la suspensión se mantiene mientras la Corte decide. Más tarde, la Cámara Nacional de Apelaciones del Trabajo falló en contra del capítulo laboral del DNU. Conviene registrarlo en `notas` como antecedente: la Ley 27.742 retoma parte de su agenda por la vía legislativa (esta última afirmación es una inferencia propia, sin fuente en esta etapa).\n- **Decreto 847/2024.** Se publicó el 26 de septiembre y reglamenta la reforma laboral de la Ley 27.742. Una fuente secundaria da como fecha el 25 de septiembre; habrá que verificarla en el Boletín Oficial. Es relevante para la vigencia escalonada: la regularización del registro empieza a correr desde la reglamentación y no desde la vigencia de la ley.\n- **Decreto 695/2024.** Reglamenta el componente de empleo público de la ley y se publicó en el Boletín Oficial el 5 de agosto de 2024, según la compilación consultada.\n\n**Advertencia sobre las fuentes.** El texto oficial está referenciado mediante un enlace al Boletín Oficial, pero los resúmenes de contenido vienen en buena parte de despachos y compilaciones jurídicas, que están más abajo en la jerarquía de fuentes. No llegué a verificar el registro en NATLEX. Asigno confianza alta porque la identificación de la norma y sus fechas coinciden entre todas las fuentes. Para caracterizar el contenido en etapas siguientes habría que contrastar directamente con el texto oficial.\n\nNORMA: Ley 27.742\nOTRAS: Decreto 847/2024; Decreto 695/2024; Decreto 592/2024; DNU 70/2023\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.ceco.org.ar/sites/default/files/archivos/Ley-27742-Ley-Bases-Reforma-Laboral-08-07-2024.pdf",
+      "titulo": "Ley 27742 - Reforma Laboral (Ley Bases) - CECO",
+      "citada": true
+    },
+    {
+      "url": "https://www2.deloitte.com/ar/es/pages/legales/articles/ley-bases-reforma-laboral.html",
+      "titulo": "Ley Bases - Reforma Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://abeledogottheil.com.ar/decreto-847-24-reglamentacion-de-la-ley-27-742-aspectos-laborales-fundamentales/",
+      "titulo": "Decreto 847/24",
+      "citada": true
+    },
+    {
+      "url": "https://www.deloitte.com/latam/es/services/legal/perspectives/reforma-laboral.html",
+      "titulo": "Reglamentación de la Reforma Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.faiga.com/actualizacion-al-19-01-2024-del-capitulo-laboral-del-dnu-70-23",
+      "titulo": "Actualización del Capítulo Laboral DNU 70/23",
+      "citada": true
+    },
+    {
+      "url": "https://www.perfil.com/noticias/politica/la-camara-del-trabajo-dispuso-la-invalidez-constitucional-del-capitulo-laboral-del-dnu.phtml",
+      "titulo": "La Cámara del Trabajo dispuso la \"invalidez constitucional\" del capítulo laboral del DNU",
+      "citada": true
+    },
+    {
+      "url": "https://sadl.com.ar/ley-27-742-bo-8-7-2024-ley-bases-modernizacion-laboral/",
+      "titulo": "LEY de BASES 27.742 (BO 8/7/2024) y DECRETO 847/24 (BO 26/9/2024): REGLAMENTACION DE TITULO IV PROMOCION del EMPLEO y TITULO V MODERNIZACION LABORAL. DECRETO 695/24 (BO 5/8/2024): REGLAMENTACION DEL EMPLEO PUBLICO. Textos completos de las normas",
+      "citada": false
+    },
+    {
+      "url": "https://www.deloitte.com/latam/es/services/legal/perspectives/ley-bases-reforma-laboral.html",
+      "titulo": "Ley Bases - Reforma Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://dediego.com.ar/2024/07/08/ddnews-empresas-ley-27-742-ley-de-bases-y-puntos-de-partida-para-la-libertad-de-los-argentinos/",
+      "titulo": "de Diego & Asociados. Abogados.Estudio Jurídico Líder en Asesoramiento Laboral Empresario y Atención de Conflictos Individuales y ColectivosdDNews Empresas",
+      "citada": false
+    },
+    {
+      "url": "https://lacausalaboral.ar/wp-content/uploads/2024/09/GAYDUKOV-Analisis-de-la-Ley-Bases.pdf",
+      "titulo": "ANÁLISIS DE LA LEY 27.742: LA PRECARIZACIÓN DE LA CLASE TRABAJADORA.",
+      "citada": false
+    },
+    {
+      "url": "https://lacausalaboral.ar/analisis-de-la-ley-27-742-la-precarizacion-de-la-clase-trabajadora/",
+      "titulo": "Análisis de la Ley 27.742: La precarización de la clase trabajadora - La Causa Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://pagbam.com/newsletters-en/legal-news-alert-special-edition-bases-law-and-labor-reform/",
+      "titulo": "Legal News Alert - Special Edition: Bases Law and Labor Reform",
+      "citada": false
+    },
+    {
+      "url": "https://ctaa.org.ar/la-camara-nacional-de-apelaciones-del-trabajo-dicto-una-medida-cautelar-y-suspendio-los-efectos-de-la-reforma-laboral-incluida-en-el-dnu-70-23/",
+      "titulo": "Informe del IEF sobre la suspensión de los efectos de de las normas de trabajo del DNU de la Cámara Nacional de Apelaciones del Trabajo - CTA",
+      "citada": false
+    },
+    {
+      "url": "https://federacionaceitera.com.ar/2024/01/04/medida-cautelar-contra-la-reforma-laboral-del-dnu-70-2023/",
+      "titulo": "Medida cautelar contra la reforma laboral del DNU 70/2023",
+      "citada": false
+    },
+    {
+      "url": "https://www.cispren.org.ar/la-camara-nacional-de-apelaciones-del-trabajo-suspendio-los-efectos-de-la-reforma-laboral-incluida-en-el-dnu-70-23/",
+      "titulo": "La Cámara Nacional de Apelaciones del Trabajo suspendió los efectos de la reforma laboral incluida en el DNU 70/23 » CISPREN",
+      "citada": false
+    },
+    {
+      "url": "https://www.anred.org/la-camara-nacional-del-trabajo-suspendio-el-capitulo-laboral-del-dnu/",
+      "titulo": "La Cámara Nacional del Trabajo suspendió el capítulo laboral del DNU",
+      "citada": false
+    },
+    {
+      "url": "https://www.palabrasdelderecho.com.ar/articulo/5043/Mega-DNU-la-Justicia-afirmo-que-los-cambios-laborales-estan-suspendido-para-todos-los-trabajadores-y-empleadores-del-pais",
+      "titulo": "Mega DNU: la Justicia afirmó que los cambios laborales están suspendido para todos los trabajadores y empleadores del país",
+      "citada": false
+    },
+    {
+      "url": "https://www.prensamardelplata.org.ar/la-justicia-laboral-suspendio-la-aplicacion-del-dnu-70-2023/",
+      "titulo": "LA JUSTICIA LABORAL SUSPENDIÓ LA APLICACIÓN DEL DNU 70/2023",
+      "citada": false
+    },
+    {
+      "url": "https://iefctaa.org/camara-nacional-de-apelaciones-del-trabajo-suspendio-reforma-laboral/",
+      "titulo": "Rechazo al DNU 70/23",
+      "citada": false
+    },
+    {
+      "url": "https://www.laarena.com.ar/el-pais/la-justicia-suspendio-articulos-de-dnu-2024424090",
+      "titulo": "La Justicia suspendió artículos de DNU",
+      "citada": false
+    }
+  ]
+}

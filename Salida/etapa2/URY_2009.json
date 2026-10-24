@@ -1,0 +1,140 @@
+{
+  "id": "URY_2009",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2009,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0455,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N° 18.566 de 2009 (Sistema de Negociación Colectiva)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley N° 18.508 de 2009",
+      "Ley N° 18.572 de 2009"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "desconocida",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "No se verificó la exposición de motivos original. En su defensa posterior ante la OIT, el Gobierno sostuvo que la ley privilegia la negociación bilateral sobre la tripartita y que la consulta tripartita para fijar el salario mínimo permitía atender las observaciones por incumplimiento del Convenio núm. 131. El texto reconoce el derecho de empleadores y organizaciones de trabajadores a adoptar libremente acuerdos sobre condiciones de trabajo en ejercicio de su autonomía colectiva.",
+    "descripcion_intenciones": "La ley institucionaliza un sistema de negociación colectiva para la actividad privada y las personas públicas no estatales, con deber de negociar de buena fe y creación del Consejo Superior Tripartito como órgano de coordinación de las relaciones laborales. Vuelve obligatorias las competencias de los Consejos de Salarios sobre ajuste salarial y otras condiciones de trabajo, y otorga eficacia general a sus decisiones en la rama. Impide que la negociación de nivel inferior reduzca los mínimos fijados, consagra la ultraactividad de los convenios y asigna la legitimación negociadora en empresas sin sindicato a la organización de nivel superior. Además, incorpora mecanismos de prevención y solución de conflictos colectivos, incluido un deber de paz durante la vigencia de los convenios.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece el deber de negociar de buena fe, crea el Consejo Superior Tripartito, refuerza la legitimación del sindicato de rama en empresas sin organización y consagra la ultraactividad de los convenios."
+      },
+      {
+        "dimension": "salario_y_negociacion_salarial",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Vuelve obligatorias las competencias salariales y de condiciones de trabajo de los Consejos de Salarios, otorga eficacia general a sus decisiones e impide que niveles inferiores reduzcan los mínimos. Exige el pronunciamiento del Consejo Superior Tripartito antes de fijar el salario mínimo nacional."
+      },
+      {
+        "dimension": "otro",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Prevención y solución de conflictos colectivos: atribuye al Ministerio de Trabajo y Seguridad Social funciones de mediación y conciliación. Fija un deber de paz que limita las medidas de conflicto durante la vigencia de los convenios, a cambio de canales institucionales."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Entre 1992 y 2004 no se convocó a los Consejos de Salarios y la negociación quedó restringida al nivel de empresa. El Consejo Superior de Salarios fue reinstalado en 2005 mediante el Decreto 105/005. El proyecto se remitió al Parlamento en octubre de 2007. La ley modifica y complementa la Ley 10.449 de 1943 de Consejos de Salarios. Las cámaras empresariales, con apoyo de la OIE, presentaron una queja ante la OIT por presunta violación de los Convenios 98 y 154 (caso n.º 2699). El gobierno del Frente Amplio y el contexto de crecimiento económico no se verificaron con fuente.",
+    "notas": "Promulgada el 2009-09-11 y publicada en el Diario Oficial el 2009-09-30. La fecha exacta de entrada en vigor no se verificó: se codifica como 'desconocida', aunque probablemente cae dentro de 2009 (sin fuente). NATLEX registra como fecha de adopción el 2009-09-02, que probablemente corresponde a la sanción parlamentaria (sin fuente). La ley no revierte normativamente una reforma previa, pero sí revierte la práctica de hecho de no convocar a los Consejos de Salarios y el abstencionismo legislativo. Modificaciones posteriores: la Ley 19.027 de 2012-12-18 cambió la integración del Consejo Superior Tripartito hacia la paridad entre delegaciones. La Ley 20.145 de 2023-05-17 exigió personería jurídica para el intercambio de información confidencial, eliminó la competencia del Consejo Superior Tripartito sobre niveles de negociación, atribuyó la negociación a los propios trabajadores en empresas sin sindicato y derogó la ultraactividad. Por ello, el tratamiento se atenúa desde mayo de 2023 en lo relativo a los convenios bipartitos, sin afectar las decisiones de los Consejos de Salarios. La doctrina menciona la Ley 20.127 de 2023 sobre personería, cuyo contenido no se verificó. En 2025 la Comisión de Aplicación de Normas de la OIT exhortó a modificar el régimen de los Consejos de Salarios. No se hallaron fallos de inconstitucionalidad, sin que ello pruebe su inexistencia. El contenido de la Ley 18.572 de 2009 no se describe en el informe. La Ley 18.508 regula la negociación colectiva en el sector público, excluido de esta norma."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.cuestaduarte.org.uy/sites/default/files/2023-06/Ley%2020145%20reforma%20de%20la%20ley%2018566.pdf",
+      "titulo": "NEGOCIACIÓN COLECTIVA",
+      "citada": true
+    },
+    {
+      "url": "https://docs.uruguay.justia.com/nacionales/leyes/ley-18566-sep-11-2009.pdf",
+      "titulo": "Ley Nº 18.566 SISTEMA DE NEGOCIACIÓN COLECTIVA",
+      "citada": true
+    },
+    {
+      "url": "https://www.ferrere.com/en/news/tres-cambios-clave-en-la-ley-de-negociacion-colectiva/",
+      "titulo": "News",
+      "citada": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/374038151_La_derogacion_de_la_ultraactividad_de_los_convenios_colectivos_en_el_Uruguay_un_retorno_sobre_la_teoria_de_la_incorporacion",
+      "titulo": "(PDF) La derogación de la ultraactividad de los convenios colectivos en el Uruguay: ¿un retorno sobre la teoría de la incorporación?",
+      "citada": true
+    },
+    {
+      "url": "https://www.cronista.com/uruguay/politica-uy/la-oit-exhorto-al-gobierno-a-modificar-la-ley-que-regula-la-negociacion-colectiva/",
+      "titulo": "La OIT exhortó al gobierno a modificar la ley que regula la negociación colectiva - El Cronista",
+      "citada": true
+    },
+    {
+      "url": "https://galantemartins.com/negociacion-colectiva-nueva-ley-se-adapta-a-las-reglas-de-oit/",
+      "titulo": "Negociación colectiva: nueva ley se adapta a las reglas de OIT",
+      "citada": true
+    },
+    {
+      "url": "https://www.forvismazars.com/uy/es/insights/nuestras-publicaciones/legales/ley-de-negociacion-colectiva",
+      "titulo": "Breve informe sobre la Ley nº 20.145, modificaciones a la Ley nº 18.566 de negociación colectiva - Forvis Mazars",
+      "citada": true
+    },
+    {
+      "url": "https://www.genteditalia.org/2023/05/27/la-ley-20-145-y-la-cuestion-de-la-ultractividad/",
+      "titulo": "La Ley 20.145 y la cuestión de la ultractividad - Gente d'Italia",
+      "citada": true
+    },
+    {
+      "url": "https://fcu.edu.uy/p/modificaciones-de-la-ley-de-negociacion-colectiva-de-la-actividad-privada-y-personas-publicas-no-estatales-n-18-566",
+      "titulo": "Modificaciones de la Ley de negociación colectiva de la actividad privada y personas públicas no estatales n.°18.566",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/ley-n-18566-negociacion-632166565",
+      "titulo": "Ley N° 18566, de Negociación Colectiva - vLex Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.textovigente.com/ley-18566/",
+      "titulo": "Sistema de negociación colectiva del sector privado de Uruguay actualizado 2026 · texto vigente en PDF",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/866",
+      "titulo": "Modificaciones en la integración del Consejo Superior Tripartito",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18566-2009/8",
+      "titulo": "consejo superior tripartito - ley de negociacion colectiva",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/727615757",
+      "titulo": "Sentencia Definitiva nº 666/2018 de Supreme Court of Justice (Uruguay), 23 de Mayo de 2018 - vLex Uruguay - vLex",
+      "citada": true
+    },
+    {
+      "url": "https://www.cuestaduarte.org.uy/sites/default/files/2022-07/ProcesoReformaNC_220722.pdf",
+      "titulo": "INFORME La reforma de la ley de negociación colectiva del",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/media/221376/download",
+      "titulo": "C.App-Cas 7-Uruguay-C98-Web-NORME-190610-5.docx 1",
+      "citada": true
+    },
+    {
+      "url": "https://www.pdelc.com.uy/es/novedades/laboral/oit-insta-a-modificar-los-consejos-de-salarios/",
+      "titulo": "OIT insta a modificar los Consejos de Salarios",
+      "citada": true
+    },
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/18566-2009/18",
+      "titulo": "Ley N° 18566",
+      "citada": true
+    }
+  ]
+}

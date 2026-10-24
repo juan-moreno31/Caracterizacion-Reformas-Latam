@@ -1,0 +1,151 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "norma": {
+      "type": "string"
+    },
+    "tipo_instrumento": {
+      "type": "string",
+      "enum": [
+        "ley",
+        "decreto_legislativo",
+        "decreto_ley",
+        "decreto",
+        "codigo",
+        "constitucion",
+        "reforma_constitucional",
+        "otro"
+      ]
+    },
+    "normas_relacionadas": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "confianza_identificacion": {
+      "type": "string",
+      "enum": [
+        "alta",
+        "media",
+        "baja"
+      ]
+    },
+    "estado_vigencia": {
+      "type": "string",
+      "enum": [
+        "vigente",
+        "modificada_o_derogada_despues",
+        "anulada_o_suspendida_parcial",
+        "anulada_o_suspendida_total",
+        "desconocido"
+      ]
+    },
+    "fecha_entrada_vigencia": {
+      "type": "string"
+    },
+    "vigencia_escalonada": {
+      "type": "boolean"
+    },
+    "orientacion_general": {
+      "type": "string",
+      "enum": [
+        "flexibilizadora",
+        "protectora",
+        "mixta",
+        "administrativa"
+      ]
+    },
+    "objetivo_declarado": {
+      "type": "string"
+    },
+    "descripcion_intenciones": {
+      "type": "string"
+    },
+    "dimensiones": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "dimension": {
+            "type": "string",
+            "enum": [
+              "contratacion_temporal",
+              "tercerizacion_subcontratacion",
+              "despido_e_indemnizacion",
+              "jornada_y_horas_extra",
+              "salario_y_negociacion_salarial",
+              "derechos_colectivos_sindicales",
+              "seguridad_social_y_pensiones",
+              "formalizacion_y_mipymes",
+              "genero_y_conciliacion",
+              "empleo_juvenil_y_aprendizaje",
+              "nuevas_formas_de_trabajo",
+              "justicia_laboral_e_inspeccion",
+              "otro"
+            ]
+          },
+          "efecto_en_proteccion": {
+            "type": "string",
+            "enum": [
+              "aumenta",
+              "reduce",
+              "reorganiza"
+            ]
+          },
+          "comentario": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "dimension",
+          "efecto_en_proteccion",
+          "comentario"
+        ]
+      }
+    },
+    "poblacion_objetivo": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "asalariados_formales",
+          "informales",
+          "mujeres",
+          "jovenes",
+          "empleadores_mipymes",
+          "sector_publico",
+          "general"
+        ]
+      }
+    },
+    "revierte_reforma_previa": {
+      "type": "boolean"
+    },
+    "contexto": {
+      "type": "string"
+    },
+    "notas": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "norma",
+    "tipo_instrumento",
+    "normas_relacionadas",
+    "confianza_identificacion",
+    "estado_vigencia",
+    "fecha_entrada_vigencia",
+    "vigencia_escalonada",
+    "orientacion_general",
+    "objetivo_declarado",
+    "descripcion_intenciones",
+    "dimensiones",
+    "poblacion_objetivo",
+    "revierte_reforma_previa",
+    "contexto",
+    "notas"
+  ]
+}

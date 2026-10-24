@@ -1,0 +1,289 @@
+{
+  "id": "ARG_2024",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2024,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.4175,
+  "incompleto": false,
+  "norma": "Ley 27.742",
+  "texto": "# Informe de investigación: ARG 2024, Ley 27.742 (componente laboral)\n\n## 1. Objetivo declarado\n\nLa ley ya trae un objetivo en su estructura: su componente laboral se divide en \"Promoción del empleo registrado\" (Título IV) y \"Modernización laboral\" (Título V). En los considerandos del Decreto 847/2024, el Ejecutivo explica el fondo de cese como un sistema que busca resolver el problema de alta incertidumbre y costos asociados al despido e indemnización en la REPÚBLICA ARGENTINA, así como proporcionar mayor estabilidad en las relaciones laborales. Añade que los cambios resultan necesarios para fomentar la competitividad empresarial y la estabilidad en el empleo. En el Congreso, el capítulo se enfocó en la \"generación de empleo registrado\". No consulté directamente el mensaje de elevación del proyecto.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**formalizacion_y_mipymes (reorganiza).** Hay dos movimientos de sentido contrario:\n- **Regularización.** Los empleadores podrán regularizar las relaciones laborales vigentes del sector privado no registradas o deficientemente registradas, iniciadas con anterioridad a la fecha de promulgación. La regularización trae condonación de deuda con los subsistemas de seguridad social, que comprende los destinos a los subsistemas de la Seguridad Social allí detallados, así como al Régimen Nacional de Obras Sociales y al de riesgos del trabajo. El régimen no será aplicable a las relaciones laborales comprendidas en la Ley de Régimen Especial de Contrato de Trabajo para el Personal de Casas Particulares.\n- **Fin de las indemnizaciones tarifadas por falta de registro.** El artículo 99 derogó entre otros, los arts. 7 a 17 de la Ley Nacional de Empleo, y el artículo 100 derogó la Ley 25.323. Para el trabajador esto reduce la protección. Los fallos aclaran que la ley se limitó a derogar las indemnizaciones, no así la antijuridicidad de la omisión, de modo que sigue siendo posible reclamar daños por la vía civil.\n\n**despido_e_indemnizacion (reduce).**\n- **Período de prueba.** Se amplía el período del artículo 92 bis de la LCT, y los convenios colectivos pueden extenderlo más en empresas pequeñas y medianas (fuente: texto de la ley; omito los plazos por regla). Durante ese lapso cualquiera de las partes podrá extinguir la relación laboral sin expresión de causa y sin derecho a indemnización. La ley agrega salvaguardas contra el uso abusivo: prohíbe recontratar al mismo trabajador a prueba y obliga a registrar al trabajador desde el inicio (texto de la ley).\n- **Fondo de cese.** Mediante convenio colectivo de trabajo, las partes podrán sustituir la indemnización prevista en el artículo 245 de la ley 20.744 por un fondo o sistema de cese laboral. Es facultativo y depende de que se negocie.\n- **Despido discriminatorio (nuevo artículo 245 bis).** El efecto es ambiguo. Por un lado, crea un agravamiento indemnizatorio. Por otro, pone la prueba a cargo de quien invoque la causal y establece que el despido producirá la extinción definitiva del vínculo laboral a todos los efectos, con lo que impide la reinstalación. Fuentes doctrinales lo leen como una clara respuesta a los fallos judiciales que, disponiendo reincorporaciones como consecuencia de reclamos fundados en la ley 23.592. En lo declarado, la figura entró a propuesta de los radicales como protección. En lo efectivo, acota los remedios.\n\n**tercerizacion_subcontratacion (reduce).** El nuevo artículo 29 de la LCT considera a los trabajadores empleados directos de quien registre la relación. La empresa usuaria responde solidariamente solo por las obligaciones devengadas durante el tiempo de efectiva prestación para esta última.\n\n**derechos_colectivos_sindicales (reduce).** Podrá configurar grave injuria laboral, como objetiva causal de extinción del contrato de trabajo, la participación activa en bloqueos o tomas de establecimiento. La ley también fija presunciones de injuria. Antes del despido, el empleador debe intimar al trabajador a cesar la conducta, salvo cuando haya daños a personas o cosas (CECO).\n\n**genero_y_conciliacion (reorganiza).** La persona gestante podrá optar por que se le reduzca la licencia anterior al parto y acumular el resto al período posterior. La duración total no cambia.\n\n**otro: ámbito de aplicación y \"colaboradores\" (reduce).**\n- **Nueva figura.** El artículo 97 permite que un trabajador independiente cuente con otros independientes para llevar adelante un emprendimiento productivo, en un régimen autónomo sin relación de dependencia. Estos colaboradores cotizan al Régimen Previsional, al Régimen Nacional de Obras Sociales y Sistema Nacional del Seguro de Salud y al Régimen de Riesgos del Trabajo. La reglamentación excluye el régimen cuando se presume que una relación dependiente fue sustituida por una relación entre las partes de diferente encuadre jurídico.\n- **Exclusiones de la LCT.** La ley reformó el artículo 2 de la LCT para excluir las contrataciones de obra, servicios, agencia y todas las reguladas en el Código Civil y Comercial de la Nación, y modificó la presunción del artículo 23.\n\n**seguridad_social_y_pensiones.** Es un efecto secundario: la condonación de deuda y la cotización de los colaboradores (ver arriba). No lo trato como dimensión propia.\n\n**sector_publico (fuera del núcleo).** La ley tiene un capítulo de empleo público sobre el régimen de disponibilidad, que reglamenta el Decreto 695/2024. No lo caractericé a fondo. Solo verifiqué que el personal de licencia por enfermedad, embarazo o matrimonio no podrá ser puesto en situación de disponibilidad mientras dure la licencia.\n\n**Orientación sugerida:** flexibilizadora. Hay elementos protectores, pero son menores o ambiguos.\n\n## 3. Población objetivo\n\n- `asalariados_formales`: período de prueba, despido, tercerización, maternidad.\n- `informales`: regularización y derogación de multas.\n- `empleadores_mipymes`: extensiones del período de prueba por convenio según tamaño y figura del colaborador.\n- `mujeres`: licencia de maternidad.\n- `sector_publico`: capítulo de empleo público, secundario.\n\n## 4. Contexto político y económico\n\nEra el gobierno de Javier Milei, en minoría legislativa. En el Senado la votación en general quedó igualada en 36, por lo que desempató la vicepresidenta, y el 27 de junio la Cámara de Diputados aprobó los cambios del Senado y convirtió en ley al proyecto del Ejecutivo. El capítulo laboral se negoció con bloques dialoguistas: se excluyó todo lo vinculado a las obras sociales, las cuotas solidarias y los sindicatos. El contexto macroeconómico (ajuste, inflación, recesión) queda **sin fuente**: no consulté CEPAL ni BID.\n\n## 5. ¿Revierte una reforma previa?\n\n- **No es una contrarreforma** en sentido estricto: no revierte una reforma reciente de signo opuesto.\n- **Sí deroga normas protectoras de larga data**: los artículos de la Ley 24.013 y la Ley 25.323 mencionados arriba.\n- **Retoma el DNU 70/2023.** Según un actor clave, la reforma incluye los primeros tres puntos del Decreto de Necesidad y Urgencia 70/2023, cuyo capítulo laboral fue frenado judicialmente. Esto respalda con fuente la inferencia del informe previo.\n- Que el período de prueba revierta un régimen legal anterior concreto es una inferencia **sin fuente**.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Fecha de vigencia: 2024-07-09** (art. 237).\n- **`vigencia_escalonada` = true**, por varias razones:\n  - **Reglamentación.** El Decreto 847/2024 se firmó el 25/09/2024 y se publicó el 26/09/2024 (Boletín Oficial), con lo que se resuelve la discrepancia de fecha del informe previo.\n  - **Período de prueba.** Según la reglamentación, el nuevo artículo 92 bis se aplica solo a las relaciones laborales iniciadas a partir de la fecha de entrada en vigencia de esta última ley.\n  - **Colaboradores.** El padrón se creó recién con la RG ARCA 5599/2024 (publicada el 08-11-2024).\n  - **Fondo de cese.** Su instrumentación llegó en 2025, con la Res. SSN 347/2025 (10-07-2025) y la Comunicación BCRA A 8288 (04-08-2025) (InfoLeg). En 2024 fue tratamiento potencial, no efectivo.\n  - **Derogación de multas.** La jurisprudencia discute en qué momento se aplica. La Corte Suprema de Santa Fe anuló el 18/08/2026 una sentencia de Cámara que había aplicado retroactivamente la Ley 27.742.\n\n## 7. Estado de vigencia posterior\n\n**Categoría sugerida: `modificada_o_derogada_despues`.**\n\n**Modificación legislativa.** La **Ley 27.802 de Modernización Laboral** fue sancionada el 27-02-2026 y publicada en el Boletín Oficial el 06-03-2026. Reescribe la LCT: vuelve a regular el período de prueba y el fondo de cese dentro del artículo 245, crea el Fondo de Asistencia Laboral y excluye de la LCT a los colaboradores del artículo 97 de la Ley 27.742 (texto oficial). Profundiza la Ley 27.742 en lugar de revertirla. **No verifiqué** artículo por artículo qué disposiciones de la Ley 27.742 quedaron sustituidas. Hay además una fuente secundaria contradictoria sobre las multas de la Ley 24.013: dice que la Ley 27.802 no deroga las multas de los artículos 8°, 9° y 10 de la Ley 24.013, sin aclarar si eso supone que se restablecieron. Habría que verificarlo.\n\n**Fallos judiciales.** No encontré fallos que anularan componentes centrales con alcance general, ni un pronunciamiento de la Corte Suprema nacional sobre el Título V. Lo que encontré:\n- **Rechazos de inconstitucionalidad.** Jueces de primera instancia rechazaron planteos contra la derogación de multas; por ejemplo, el Juzgado Nacional del Trabajo N.° 77 sostuvo que no se afecta el principio de progresividad.\n- **Fallos sobre aplicación temporal.** Otros fallos discuten solo si la ley se aplica retroactivamente. Son menores en el sentido del codebook y van a `notas`.\n- **Artículo 245 bis.** Un sumario menciona su declaración de inconstitucionalidad en un caso concreto, pero **no pude verificar** su alcance.\n\n## No verificado\n\n- **NATLEX/EPLex:** no los consulté.\n- **Fuentes:** buena parte del contenido viene de despachos y compilaciones jurídicas. Sí contrasté con el Boletín Oficial, InfoLeg y AFIP los artículos 92 bis, 29, 177, 242, 245 bis y 96 y el Decreto 847/2024.\n- **Mensaje de elevación** del proyecto: no lo consulté.\n- **Contexto macroeconómico:** sin fuente.\n- **Capítulo de empleo público:** solo lo caractericé parcialmente.\n- **Prórroga del Fondo de Asistencia Laboral (Ley 27.802):** las fuentes no coinciden sobre la fecha.",
+  "fuentes": [
+    {
+      "url": "https://sadl.com.ar/ley-27-742-bo-8-7-2024-ley-bases-modernizacion-laboral/",
+      "titulo": "LEY de BASES 27.742 (BO 8/7/2024) y DECRETO 847/24 (BO 26/9/2024): REGLAMENTACION DE TITULO IV PROMOCION del EMPLEO y TITULO V MODERNIZACION LABORAL. DECRETO 695/24 (BO 5/8/2024): REGLAMENTACION DEL EMPLEO PUBLICO. Textos completos de las normas",
+      "citada": true
+    },
+    {
+      "url": "https://www.congresosartra.com/files/CAPATTO.LEY27.742NIOPORTUNANICONVENIENT.pdf",
+      "titulo": "1 LEY N° 27.742: NI OPORTUNA NI CONVENIENTE1 Emanuel Capatto2 Abstract:",
+      "citada": true
+    },
+    {
+      "url": "https://abogados.com.ar/reforma-laboral-introducida-por-ley-bases-n-27742/35098",
+      "titulo": "Reforma laboral introducida por Ley Bases N° 27.742",
+      "citada": true
+    },
+    {
+      "url": "https://www.aacs.org.ar/doc/circulares/administrativas/23045adjunto.pdf",
+      "titulo": "Ley Nº 27742 Capítulo II Modificaciones a la Ley de Contrato de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.ceco.org.ar/sites/default/files/archivos/Ley-27742-Ley-Bases-Reforma-Laboral-08-07-2024.pdf",
+      "titulo": "Ley 27742 - Reforma Laboral (Ley Bases) - CECO",
+      "citada": true
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/2026/10/13/fallos-se-anula-la-sentencia-de-camara-que-habia-aplicado-retroactivamente-la-ley-27-742-ley-de-bases-para-rechazar-indemnizaciones-laborales/",
+      "titulo": "#Fallos Se anula la sentencia de Cámara que había aplicado retroactivamente la Ley 27.742 -Ley de Bases- para rechazar indemnizaciones laborales",
+      "citada": true
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/2025/11/11/fallos-ley-bases-y-danos-es-aplicable-la-ley-27-742-al-vinculo-laboral-que-se-extinguio-luego-de-su-entrada-en-vigencia-y-se-indemnizan-los-danos-y-perjuicios-ya-que-el-dano-ocasionado-por-la-irreg/",
+      "titulo": "#Fallos Ley Bases y daños: Es aplicable la Ley 27.742 al vínculo laboral que se extinguió luego de su entrada en vigencia, y se indemnizan los daños y perjuicios ya que el daño ocasionado por la irregularidad registral es evidente",
+      "citada": true
+    },
+    {
+      "url": "https://estudioformaro.com.ar/wp-content/uploads/2025/11/Espillaga-Ailen-Celeste-vs.-San-Marcos-E.-S.A.-y-otros-s.-Despido-Rubinzal.pdf",
+      "titulo": "Espillaga, Ailen Celeste vs. San Marcos E. S.A. y otros s. Despido",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-847-2024-404509/texto",
+      "titulo": "TEXTO ORIGINAL - Decreto Reglamentario 847/2024 - PODER EJECUTIVO",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-847-2024-404509/normas-modifican",
+      "titulo": "La norma DECRETO REGLAMENTARIO 847 / 2024 es modificada por las siguientes",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/DEC_C_000847_2024_09_25",
+      "titulo": "Biblioteca Electrónica",
+      "citada": true
+    },
+    {
+      "url": "https://jorgevega.com.ar/laboral/2489-decreto-847-2024.html",
+      "titulo": "DECRETO 847/2024 - SE REGLAMENTA LA REFORMA LABORAL Y EL RÉGIMEN DE PROMOCIÓN DEL EMPLEO REGISTRADO",
+      "citada": true
+    },
+    {
+      "url": "https://www.cpacf.org.ar/public/uploads/files/com/01102417_Reglamentacio%CC%81n%20titulosIVyVLey27742.pdf",
+      "titulo": "decreto n° 847/2024: reglamentación del título iv –promoción",
+      "citada": true
+    },
+    {
+      "url": "https://pasbba.com.ar/el-nuevo-art-245-bis-de-la-lct-y-la-reedicion-de-viejos-errores-del-pasado/",
+      "titulo": "El nuevo art. 245 bis de la LCT y la reedición de viejos errores del pasado.",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-27802-423680/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 27802 - LEY DE MODERNIZACION LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://jorgevega.com.ar/laboral/2572-ley-de-modernizacion-laboral-texto-definitivo-aprobado-27-02-2026.html",
+      "titulo": "LEY DE MODERNIZACIÓN LABORAL N° 27.802 - B.O. 06/03/2026",
+      "citada": true
+    },
+    {
+      "url": "https://www.consejosalta.org.ar/wp-content/uploads/INFO.-GRAL.-REFORMA-LABORAL.pdf",
+      "titulo": "Reforma Laboral (Ley 27.802): cuadro comparativo resumido,",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_027802_2026_02_27",
+      "titulo": "Ley N° 27802",
+      "citada": true
+    },
+    {
+      "url": "https://chequeado.com/el-explicador/que-dice-la-ley-bases-sobre-la-reforma-laboral/",
+      "titulo": "¿Qué dice la Ley Bases sobre la reforma laboral? - Chequeado",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/politica/2024/06/13/el-gobierno-cedio-en-articulos-clave-y-el-senado-aprobo-la-ley-bases-que-ahora-vuelve-a-diputados/",
+      "titulo": "El Gobierno cedió en artículos clave y el Senado aprobó la Ley Bases, que ahora vuelve a Diputados - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://raskovskyasociados.com.ar/ley-bases-reforma-laboral-aspectos-claves/",
+      "titulo": "Ley Bases (Ley 27.742): principales cambios laborales que deben conocer las empresas",
+      "citada": false
+    },
+    {
+      "url": "https://estudioansayasociados.com/reforma-laboral-en-la-ley-bases-27-742/",
+      "titulo": "REFORMA LABORAL EN LEY 27.742 - Estudio Ansa y Asociados",
+      "citada": false
+    },
+    {
+      "url": "https://beccarvarela.com/wp-content/uploads/2026/03/ley-de-modernizacion-laboral-esp.pdf",
+      "titulo": "Ley de Modernización Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://brons.com.ar/2024/07/10/ley-27-742/",
+      "titulo": "Ley 27.742",
+      "citada": false
+    },
+    {
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306",
+      "titulo": "BOLETIN OFICIAL REPUBLICA ARGENTINA - LEY DE MODERNIZACIÓN LABORAL - Ley 27802",
+      "citada": false
+    },
+    {
+      "url": "https://relatsargentina.com/documentos/Actualidad/Spaventa.DNU.pdf",
+      "titulo": "SOBRE LA INCONSTITUCIONALIDAD, INVALIDEZ O ...",
+      "citada": false
+    },
+    {
+      "url": "https://ligadelconsorcista.org/jurisprudencia-laboral-falta-de-registracion-perjuicios-codigo-civil-y-comercial",
+      "titulo": "La ley 27.742 (Bases) derogó las indemnizaciones que surgían de varias leyes, pero no descarta la existencia de eventuales daños y perjuicios que pudieran existir por inobservancia de las obligaciones laborales derogadas, los cuales deben ser reclamados y debidamente acreditados.",
+      "citada": false
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/2024/11/15/doctrina-acapite-modelo-planteo-inconstitucionalidad-e-inconvencionalidad-de-la-ley-bases-inaplicacion-temporal-reparacion-integral-para-incluir-en-demandas-laborales-elaborado-en-nov/",
+      "titulo": "#Doctrina Acápite modelo «Planteo inconstitucionalidad e inconvencionalidad de la Ley Bases",
+      "citada": false
+    },
+    {
+      "url": "https://lacausalaboral.ar/resena-de-jurisprudencia-destacada-2/",
+      "titulo": "Reseña de Jurisprudencia destacada - La Causa Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.congresosartra.com/files/FRANCULLI.LALEY27.742.ELDARWINISMOSOCIALYUNANUEVACRISISDELEGALIDAD.pdf",
+      "titulo": "LA LEY 27.742. EL DARWINISMO SOCIAL Y UNA NUEVA CRISIS DE LEGALIDAD",
+      "citada": false
+    },
+    {
+      "url": "https://lacausalaboral.ar/reforma-y-contrarreforma-laboral-en-un-ciclo-sin-fin-cloned/",
+      "titulo": "Sobre la inconstitucionalidad de la Reforma Laboral: Una respuesta inmediata - La Causa Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.justucuman.gov.ar/direccion-comunicacion/noticia/en-un-fallo-del-fuero-del-trabajo-se-decidio-no-aplicar-la-ley-de-bases-para-indemnizaciones-considerando-la-fecha-de-entrada-en-vigencia-y-las-fechas-que-signaron-la-relacion-contractual",
+      "titulo": "En un fallo del Fuero del Trabajo se decidió no aplicar la Ley de Bases para indemnizaciones considerando la fecha de entrada en vigencia y las fechas que signaron la relación contractual",
+      "citada": false
+    },
+    {
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/314634/20240926",
+      "titulo": "BOLETIN OFICIAL REPUBLICA ARGENTINA - PODER EJECUTIVO - Decreto 847/2024",
+      "citada": false
+    },
+    {
+      "url": "https://www.estudio-ofarrell.com/en/reglamentacion-de-la-reforma-laboral-aspectos-centrales-del-decreto-847-2024-reglamentario-de-la-ley-de-bases-nro-27-742/",
+      "titulo": "Regulation of the Labor Reform: Central Aspects of Decree 847/2024 Regulating Law No. 27,742.",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/400000-404999/404509/norma.htm",
+      "titulo": "Decreto 847/2024 - Jus.gob.ar - Infoleg",
+      "citada": false
+    },
+    {
+      "url": "https://www.consejosalta.org.ar/wp-content/uploads/DECRETO-847.pdf",
+      "titulo": "Dec 847/2024. Ley Bases. Blanqueo Laboral. Modernización Laboral.",
+      "citada": false
+    },
+    {
+      "url": "https://www.deloitte.com/latam/es/services/legal/perspectives/reforma-laboral.html",
+      "titulo": "Reglamentación de la Reforma Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.estudio-ofarrell.com/reforma-laboral-introducida-por-ley-bases-n-27-742/",
+      "titulo": "Reforma laboral introducida por Ley Bases N° 27.742",
+      "citada": false
+    },
+    {
+      "url": "https://revistajuridica.ct.unt.edu.ar/article/download/549/524/1583",
+      "titulo": "383 El despido discriminatorio en la Ley de Contrato de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://aldiaargentina.microjuris.com/wp-content/uploads/2024/09/Reforma-Laboral-Reglamentacion-Infografias-Estudio-Paz-Zurita-Abogados-.pdf",
+      "titulo": "DERECHO DEL TRABAJO LEY DE BASES Nº 27.742 Y SU REGLAMENTACIÓN DEC. 847/24",
+      "citada": false
+    },
+    {
+      "url": "https://lacausalaboral.ar/ley-27-742-y-derechos-fundamentales-sustentados-en-el-principio-de-libertad-sindical/",
+      "titulo": "Ley 27.742 y derechos fundamentales sustentados en el principio de Libertad Sindical - La Causa Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.deloitte.com/latam/es/services/legal/perspectives/ley-bases-reforma-laboral.html",
+      "titulo": "Ley Bases - Reforma Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://estudio-ortiz.com/uploads/docs/EDICION_ESPECIAL_LEY_LABORAL.pdf",
+      "titulo": "EDICION ESPECIAL Ley de Modernización Laboral N° 27.802",
+      "citada": false
+    },
+    {
+      "url": "https://www.asistentelaboralargentino.com/leyes/ley-27802-modernizacion-laboral.html",
+      "titulo": "Ley de Modernización Laboral — Ley 27.802, texto actualizado",
+      "citada": false
+    },
+    {
+      "url": "https://abogados.com.ar/el-fondo-de-asistencia-laboral-de-la-ley-27802/40203",
+      "titulo": "El Fondo de Asistencia Laboral de la ley 27.802",
+      "citada": false
+    },
+    {
+      "url": "https://garciaalonso.com.ar/blog/ley-27802-comentada-que-cambio/",
+      "titulo": "LEY 27802 COMENTADA: Qué cambió, qué implicancias tiene",
+      "citada": false
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/420000-424999/423680/norma.htm",
+      "titulo": "Ley de Modernización Laboral - Jus.gob.ar - Infoleg",
+      "citada": false
+    },
+    {
+      "url": "https://www.eltribuno.com/nacionales/2024-6-12-1-26-0-el-oficialismo-consiguio-quorum-para-tratar-la-ley-bases-en-el-senado-y-arranca-la-sesion",
+      "titulo": "El Senado aprobó una recortada ley Bases con el desempate de la vicepresidenta Victoria Villarruel",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Ley_de_Bases_y_Puntos_de_Partida_para_la_Libertad_de_los_Argentinos",
+      "titulo": "Ley de Bases y Puntos de Partida para la Libertad de los Argentinos",
+      "citada": false
+    },
+    {
+      "url": "https://www.cadena3.com/noticia/politica-y-economia/ajustado-triunfo-del-gobierno-desempato-villarruel-y-se-aprobo-la-ley-bases_389887",
+      "titulo": "Ajustado triunfo del Gobierno: desempató Villarruel y se aprobó la Ley Bases - Noticias - Cadena 3 Argentina",
+      "citada": false
+    },
+    {
+      "url": "https://www.lanueva.com/nota/2024-6-12-21-22-0-ley-bases-despues-de-casi-11-horas-de-sesion-se-acerca-la-votacion-y-se-preve-una-definicion-ajustada",
+      "titulo": "Con el voto desempate de Villarruel, el Gobierno logró la aprobación en general de la Ley Bases en el Senado - La Nueva",
+      "citada": false
+    },
+    {
+      "url": "https://revistaferreteros.com.ar/en/ley-bases-debate-para-su-aprobacion/",
+      "titulo": "Ley Bases: Intenso Debate Y Aprobación En El Congreso. • Revista Ferreteros",
+      "citada": false
+    },
+    {
+      "url": "https://corta.com/politica/ley-bases-adentro-aprobada-general-desempate-villarruel-n23957",
+      "titulo": "Ley Bases, adentro: aprobada en general con el desempate de Villarruel - Corta",
+      "citada": false
+    },
+    {
+      "url": "https://lajornadaweb.com.ar/ley-bases-el-senado-aprobo-el-mega-proyecto-en-general-con-el-desempate-de-villarruel/",
+      "titulo": "Ley Bases: el Senado aprobó el mega proyecto en general con el desempate de Villarruel - La Jornada Web",
+      "citada": false
+    },
+    {
+      "url": "https://diariolomas.com.ar/actualidad/con-el-desempate-de-villarruel-el-senado-aprobo-la-ley-bases/",
+      "titulo": "Con el desempate de Villarruel, el Senado aprobó la Ley Bases - Diario Lomas",
+      "citada": false
+    }
+  ]
+}

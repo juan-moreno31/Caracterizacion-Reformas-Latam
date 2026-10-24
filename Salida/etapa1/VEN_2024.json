@@ -1,0 +1,264 @@
+{
+  "id": "VEN_2024",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 2024,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3857,
+  "incompleto": false,
+  "norma": "Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista (Gaceta Oficial N.° 6.806 Extraordinario, 8 de mayo de 2024)",
+  "texto": "# Informe de investigación: VEN 2024, Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista\n\n**Nota sobre las fuentes.** El texto de la ley lo consulté en reproducciones de la Gaceta Oficial (IVECOFI, Venetributos, Pandectas Digital) y en el proyecto con su exposición de motivos. Para el contexto usé la Asamblea Nacional, Acceso a la Justicia y prensa nacional. Varias precisiones operativas solo aparecen en notas de despachos y consultoras, que son fuentes de menor jerarquía; lo señalo en cada caso. No consulté NATLEX ni EPLex.\n\n## 1. Objetivo declarado\n\nSegún el artículo 1, la ley busca establecer mecanismos transparentes y participativos orientados a la protección de las pensiones de seguridad social frente al impacto negativo causado por las medidas coercitivas unilaterales y otras medidas restrictivas o punitivas adoptadas contra el país. Entre sus finalidades están mitigar el impacto negativo de las medidas coercitivas unilaterales y otras medidas restrictivas o punitivas sobre las pensiones de seguridad social del pueblo venezolano y favorecer el establecimiento de un nivel de ingreso para los titulares de las pensiones de seguridad social que les permita vivir con dignidad. Las pensiones cubiertas son las prestaciones dinerarias de vejez, incapacidad, invalidez y sobrevivencia previstas en la ley especial que regula la seguridad social.\n\nLa exposición de motivos es más directa: con la contribución el Estado podrá percibir recursos financieros adicionales que permitirán incrementar el monto de las pensiones de seguridad social. En la promulgación, el Presidente afirmó que la ley reconstruirá el Sistema de Seguridad Social contemplado en la Constitución. También sostuvo que los empresarios debían aportar sobre la nómina real \"para que ese dinero vaya a un fondo y poder elevar las pensiones\".\n\nHay una diferencia entre el proyecto y el texto final. El artículo 1 del proyecto hablaba solo de mecanismos orientados a la protección de las pensiones; los calificativos \"transparentes y participativos\" se añadieron en la versión sancionada.\n\n## 2. Qué cambia efectivamente\n\nSegún Acceso a la Justicia, aunque el objeto declarado es amplio, en la misma solo se crea una \"contribución especial\". La ley no modifica pensiones, requisitos ni prestaciones. En la práctica es un tributo sobre la nómina.\n\n**`seguridad_social_y_pensiones` — propuesta: `reorganiza`**\n- Crea una nueva fuente de financiamiento. La ley precisa que es distinta e independiente de los aportes que corresponde a las empleadoras y empleadores que se realizan al Instituto Venezolano de los Seguros Sociales.\n- La recauda el SENIAT, no el IVSS. Una consultora afirma que la norma no crea un fondo especial y que lo recaudado ingresa al Tesoro Nacional. Esto es sin fuente oficial, aunque es coherente con el texto: no encontré ningún artículo que cree un fondo o asigne los recursos.\n- La ley tampoco obliga al Estado a aportar: solo aplica a contribuyentes del sector privado, aun cuando el Estado, a través de diversos medios es el principal empleador nacional. Tampoco, en la Ley se hace mención a algún aporte o contribución complementario que deba hacer el Estado.\n- Por qué no propongo `aumenta`: la ley no crea ningún derecho que el pensionado pueda exigir. Además, según la prensa, en los meses siguientes las pensiones se mantienen invariables; lo que subió fue el bono de guerra económica, que se paga por el Sistema Patria. Si se codifica por el objetivo declarado, sería `aumenta`; por el efecto efectivo, `reorganiza`.\n\n**`otro` (tributo sobre la nómina / costo laboral no salarial) — propuesta: `reorganiza`**\n- La base del tributo es el total de lo que se paga al trabajador por salario y por bonificaciones no salariales. Además, en ningún caso la base del cálculo de los pagos realizados a cada trabajadora o trabajador será menor al ingreso mínimo integral indexado definido por el Ejecutivo Nacional.\n- La ley no fija la tasa: la delega al Ejecutivo, que establecerá anualmente el porcentaje correspondiente de la contribución especial, dentro de los límites previstos en esta Ley, de acuerdo con el tipo o clase de actividad económica. La tasa vigente la fijó el Decreto N.° 4.952, que según una nota profesional lo hizo sin distinción de tipos ni clases de actividad económica.\n- La contribución se puede deducir como gasto del Impuesto sobre la Renta, y su control queda en manos del SENIAT con las reglas del Código Orgánico Tributario.\n- Sobre el efecto en los trabajadores, Fedecámaras advirtió que el tributo encarecería la nómina, pudiendo resultar en el congelamiento de los salarios. Es una advertencia de una de las partes, no un efecto comprobado.\n\n**`formalizacion_y_mipymes` — propuesta: `reorganiza` (por norma conexa)**\n- La ley faculta al Presidente para exonerar a determinadas categorías de sujetos pasivos especiales y sectores estratégicos para la inversión extranjera y el desarrollo nacional.\n- Esa facultad se usó en el Decreto N.° 4.952, que exoneró de forma temporal a los emprendimientos inscritos en el Registro Nacional de Emprendimientos. Esto proviene del decreto, no de la ley.\n\nNo encontré cambios en contratación, despido, jornada, derechos colectivos ni justicia laboral.\n\n**Orientación general (tentativa).** Ninguna categoría encaja bien. Por lo declarado sería `protectora`, pero no amplía derechos de los trabajadores activos ni crea prestaciones exigibles. Tampoco es `flexibilizadora`, porque sube el costo de contratar. Propongo `protectora` como orientación declarada, con una nota que la describa como un instrumento fiscal. La alternativa sería `administrativa`. Conviene decidirlo en la etapa de codificación.\n\n## 3. Población objetivo\n\n- **Beneficiarios declarados:** los pensionados. El codebook no tiene esa categoría; propongo `general`, con nota.\n- **Quiénes pagan:** las personas jurídicas, así como cualesquiera otras sociedades de personas, incluidas las irregulares o de hecho, de carácter privado, domiciliadas o no en ... el país. Quedan fuera el sector público y las personas naturales.\n- **Efecto indirecto:** recae sobre `asalariados_formales` del sector privado, porque la base es su remuneración.\n- **Exoneración:** las mipymes registradas como emprendimientos (`empleadores_mipymes`) solo por el decreto conexo.\n\n## 4. Contexto político y económico\n\n- **Tramitación exprés.** Maduro anunció el 1 de mayo de 2024 que presentaría la ley, y en cuestión de horas, el Parlamento aprobó la Ley.\n- **Ingreso por bonos.** El mismo día se anunció un aumento del \"ingreso mínimo integral\" mediante bonos.\n- **Calendario electoral.** Los anuncios llegaron a unos dos meses de las elecciones presidenciales en el país previstas para el próximo 28 de julio.\n- **Sanciones.** El discurso oficial se apoya en las sanciones de Estados Unidos, que comenzaron en agosto de 2017.\n- **Salario estancado.** El salario mínimo no se ajustaba desde marzo de 2022, y los aumentos se hacían por bonos que no genera pasivos laborales.\n- **Gremios empresariales.** Fedecámaras presentó propuestas y pidió modificar el artículo 7 antes de la segunda discusión, pero no fue admitida.\n\n## 5. ¿Revierte una reforma previa?\n\nNo. Es una contribución nueva que se suma a los aportes existentes al IVSS sin modificarlos. No encontré que derogue otras normas; no pude verificar el contenido de su disposición final.\n\n## 6. Entrada en vigor y aplicación diferida\n\n- **Fecha de vigencia:** la ley rige desde su publicación, el 8 de mayo de 2024 (`fecha_entrada_vigencia` = 2024-05-08). Una nota de despacho la fecha el 9 de mayo, lo que parece un error.\n- **Ejecución diferida:** para que la ley pudiera aplicarse hacían falta el Decreto que establezca la tarifa o alícuota impositiva y la Providencia Administrativa de efectos generales a ser dictada por la Administración Tributaria Nacional, en la cual se determinen la oportunidad, modos o medios de pago.\n  - El Decreto N.° 4.952 se publicó en la Gaceta Oficial N.° 42.880 del 16 de mayo de 2024.\n  - La Providencia SNAT/2024/000042 se publicó en la Gaceta Oficial 42.881 y entró en vigencia a partir de la fecha de su publicación en la Gaceta Oficial, el 17 de mayo de 2024.\n  - Según una nota profesional, el calendario de pagos comenzaba en los primeros días de junio.\n- **Base mínima variable:** la base mínima depende de un ingreso que el Ejecutivo define y ajusta. Acceso a la Justicia señala que esos montos se comunican por redes sociales y no en la Gaceta.\n- Propuesta: `vigencia_escalonada` = **true**, explicando en `notas` que la ley rige desde su publicación pero solo pudo cobrarse tras la tasa y la reglamentación posteriores.\n\n## 7. Estado de vigencia posterior\n\n- **Sigue aplicándose.** El SENIAT dictó el calendario de declaración y pago para 2026 (Providencia SNAT/2025/000092), publicada el 9 de diciembre de 2025, a través de la Gaceta Oficial No. 43.273.\n- **Tasa sin cambios.** Según una consultora, en marzo de 2026 la tasa seguía siendo la del Decreto N.° 4.952, aunque la base mínima subió con los anuncios del Ejecutivo sobre el ingreso mínimo integral.\n- **Tribunales.** No encontré ningún recurso de nulidad contra la ley ni fallos que la anulen o suspendan. Sí existe una sentencia de la Sala Político-Administrativa del TSJ (expediente 2025-0507, sentencia 0028) sobre una fundación. Fue un trámite procesal: el SENIAT respondió en una consulta que la ley no posee supuestos de no sujeción y exenciones, y el tribunal de instancia declaró inadmisible el recurso contra esa respuesta. No anula nada; va en `notas`.\n- **Disputas administrativas:** hay empresas inactivas impugnando multas por no declarar. Es una cuestión menor.\n- Propuesta: `estado_vigencia` = **`vigente`**.\n\n## 8. Lo que no pude verificar\n\n1. NATLEX y EPLex no fueron consultados, así que no hay fuente de la OIT.\n2. La disposición final de la ley y el texto oficial completo de los artículos 9 y 11. Las reproducciones que consulté numeran algunos encabezados de forma incoherente.\n3. A dónde van los fondos y si se pagan pensiones con ellos. La afirmación de que van al Tesoro sin fondo propio viene de una consultora; no encontré cifras oficiales de recaudación ni de uso.\n4. Si la ley se modificó o derogó después de mi fuente más reciente (aprox. abril de 2026), en particular tras los cambios políticos de 2026. No puedo descartarlo.\n5. Si el Decreto N.° 4.952 se renovó o reemplazó por otros decretos anuales de tasa, y si la exoneración de los emprendimientos se prorrogó.\n\n**Confianza en la identificación:** se mantiene en `media`. La norma está verificada en la Gaceta Oficial, pero sigue en duda que sea una reforma laboral en sentido estricto.",
+  "fuentes": [
+    {
+      "url": "https://tributos.ivecofi.net/informacion/legislacion/leyes/ley-proteccion-pensiones",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social Frente al Bloqueo Imperialista - IVECOFI",
+      "citada": true
+    },
+    {
+      "url": "https://impactovecdn.eleco.com.ar/media/2024/05/Ley-proteccion-pensiones-020524-2.pdf",
+      "titulo": "Ley de protección de las pensiones de seguridad social",
+      "citada": true
+    },
+    {
+      "url": "https://venetributos.com/leyes/ley-de-proteccion-de-las-pensiones-de-seguridad-social-frente-al-bloqueo-imperialista/",
+      "titulo": "Ley De Protección De Las Pensiones De Seguridad Social Frente Al Bloqueo Imperialista",
+      "citada": true
+    },
+    {
+      "url": "https://pandectasdigital.blogspot.com/2024/05/ley-de-proteccion-de-las-pensiones-de.html",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social Frente al Bloqueo Imperialista <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: #04ff00;\"><b><i>Vigente</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": true
+    },
+    {
+      "url": "https://naymaconsultores.com/ley-de-proteccion-de-las-pensiones-como-afecta-a-su-empresa-en-venezuela/",
+      "titulo": "Guía DPP Mayo 2026: Cómo declarar con Base USD 240.00",
+      "citada": true
+    },
+    {
+      "url": "https://www.moore-venezuela.com/noticias/mayo-2024/ley-de-proteccion-de-las-pensiones-de-seguridad-so",
+      "titulo": "NUEVA CONTRIBUCIÓN ESPECIAL PARA LA PROTECCIÓN DE LAS PENSIONES DE SEGURIDAD SOCIAL - MOORE",
+      "citada": true
+    },
+    {
+      "url": "https://www.moore-venezuela.com/wp-content/uploads/sites/15/2025/12/Conoce-mas-sobre-la-nueva-contribucion-especial-para-la-Proteccion-de-las-Pensiones-de-Seguridad-Social.pdf",
+      "titulo": "NUEVA CONTRIBUCIÓN ESPECIAL PARA LA",
+      "citada": true
+    },
+    {
+      "url": "https://www.eluniversal.com/economia/182459/seniat-establece-normas-para-pagos-de-nueva-ley-de-pensiones",
+      "titulo": "Seniat establece normas para pagos de nueva Ley de Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/ley-de-proteccion-de-las-pensiones-de-seguridad-social/",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://www.bakermckenzie.com/-/media/files/insight/publications/2026/01/venezuela-seniat-dict-calendario-de-proteccin-de-pensiones-2026.pdf?sc_lang=en&rev=d79e797123ce4dd0b76f91280562a7ed&hash=F2B4EC3E32D7409F29E3029F881DA246",
+      "titulo": "SENIAT dictó calendario de protección de pensiones 2026",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/las-fundaciones-estan-obligadas-a-pagar-la-contribucion-especial/",
+      "titulo": "Las fundaciones están obligadas a pagar la contribución especial para la protección de las pensiones │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://cnnespanol.cnn.com/2024/05/21/empresarios-venezolanos-incentivos-ley-pensiones-gobierno-maduro-orix",
+      "titulo": "Empresarios venezolanos piden incentivos para cumplir con la ley de pensiones aprobada por el Gobierno de Maduro",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/cinco-preocupaciones-nueva-ley-pensiones/",
+      "titulo": "Cinco preocupaciones sobre la nueva Ley de Pensiones │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/noticias/presidente-nicolas-maduro-promulga-ley-para-proteccion-de-las-pensiones",
+      "titulo": "Presidente Nicolás Maduro promulga Ley para Protección de las Pensiones",
+      "citada": true
+    },
+    {
+      "url": "https://runrun.es/noticias/558879/aumenta-el-monto-del-bono-de-guerra-economica-pero-las-pensiones-se-mantienen-en-bs-130/",
+      "titulo": "Aumenta el monto del \"bono de guerra económica\" pero las pensiones se mantienen en Bs. 130 - Runrun.es: En defensa de tus derechos humanos",
+      "citada": true
+    },
+    {
+      "url": "https://www.elnacional.com/2024/05/ley-de-pensiones-se-aprobo-sin-incluir-recomendaciones-de-fedecamaras/",
+      "titulo": "Ley de Pensiones se aprobó sin incluir recomendaciones de Fedecámaras - EL NACIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://interjuris.com/ley-de-proteccion-de-las-pensiones-de-seguridad-social-frente-al-bloqueo-imperialista/",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social Frente al Bloqueo Imperialista - InterJuris",
+      "citada": false
+    },
+    {
+      "url": "https://badellgrau.com/ley-de-proteccion-de-las-pensiones-de-seguridad-social-frente-al-bloqueo-imperialista/",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista",
+      "citada": false
+    },
+    {
+      "url": "https://www.dentons.com/en/insights/alerts/2024/june/5/the-law-for-the-protection-of-social-security-pensions-against-the-imperialist-blockade",
+      "titulo": "Dentons - The Law for the Protection of Social Security Pensions against the Imperialist Blockade entered into force",
+      "citada": false
+    },
+    {
+      "url": "https://badellgrau.com/ley-de-proteccion-de-las-pensiones-de-seguridad-social-frenteal-bloqueo-imperialista/",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social Frenteal Bloqueo Imperialista",
+      "citada": false
+    },
+    {
+      "url": "http://www.legis.com.ve/BancoConocimiento/N/nota_15-05-2024-01/nota_15-05-2024-01.asp?Miga=1&CodSeccion=25",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista - Legis",
+      "citada": false
+    },
+    {
+      "url": "https://gecaconsultores.com/ley-de-proteccion-de-pensiones-de-seguridad-social-frente-al-bloqueo-imperialista/",
+      "titulo": "Ley de Protección de Pensiones de Seguridad Social frente al Bloqueo Imperialista - GECA Consultores",
+      "citada": false
+    },
+    {
+      "url": "https://accesoalajusticia.org/normas-para-la-declaracion-y-pago-de-la-contribucion-especial-para-la-proteccion-de-las-pensiones-de-seguridad-social/",
+      "titulo": "Normas para la declaración y pago de la contribución especial para la Protección de las Pensiones de Seguridad Social │ Acceso a la Justicia",
+      "citada": false
+    },
+    {
+      "url": "https://galac.com/galac-blog/ley-proteccion-pensiones-lppss/",
+      "titulo": "Ley de Protección de las Pensiones LPPSS: guía completa",
+      "citada": false
+    },
+    {
+      "url": "https://gerenciaytributos.blogspot.com/2024/05/porcentaje-contribucion-proteccion-pensiones.html",
+      "titulo": "DECRETO que fija alícuota de la Contribución Especial de la Ley de Protección a las Pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://elcooperante.com/nueva-providencia-establece-normas-para-la-contribucion-especial-de-proteccion-a-las-pensiones/",
+      "titulo": "Nueva providencia establece normas para la contribución especial de protección a las pensiones",
+      "citada": false
+    },
+    {
+      "url": "https://accesoalajusticia.org/fijado-en-9-el-monto-de-la-contribucion-especial-prevista-en-la-ley-de-proteccion-de-las-pensiones-de-seguridad-social/",
+      "titulo": "Fijado en 9% el monto de la contribución especial prevista en la Ley de Protección de las Pensiones de Seguridad Social │ Acceso a la Justicia",
+      "citada": false
+    },
+    {
+      "url": "https://mujicagoldingasociados.com/decreto-no-4-952-publicado-en-gaceta-oficial-no-42-880-del-16-05-2024/",
+      "titulo": "Decreto Nº 4.952, publicado en Gaceta Oficial Nº 42.880, del 16/05/2024",
+      "citada": false
+    },
+    {
+      "url": "https://lega.law/lega-informa/calendario-spe-y-pensiones-2026/",
+      "titulo": "Calendario Sujetos Pasivos Especiales (SPE) y agentes de retención, y de pago de la Contribución Especial para la Protección de las Pensiones 2026 - LEĜA Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/eli/es/rd/2026/03/25/241",
+      "titulo": "BOE-A-2026-6977 Real Decreto 241/2026, de 25 de marzo, sobre limitación de la cuantía inicial de las pensiones públicas y revalorización de las pensiones del sistema de la Seguridad Social, de las pensiones de Clases Pasivas del Estado y de otras prestaciones sociales públicas para el ejercicio 2026.",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/boe/dias/2026/03/31/pdfs/BOE-A-2026-7296.pdf",
+      "titulo": "Disposición 7296 del BOE núm. 79 de 2026",
+      "citada": false
+    },
+    {
+      "url": "https://lega.law/lega-informa/10-datos-ley-pensiones/",
+      "titulo": "¿Qué saber sobre la Ley de Protección de las Pensiones? 10 datos - Lega Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1262821",
+      "titulo": "Revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.boe.es/boe/dias/2026/03/26/pdfs/BOE-A-2026-6977.pdf",
+      "titulo": "Disposición 6977 del BOE núm. 75 de 2026",
+      "citada": false
+    },
+    {
+      "url": "https://lega.law/perspectivas-lega/defensa-multas-lppss/",
+      "titulo": "Defensa ante multas por incumplimiento de la «Contribución Especial Prevista en la lPPSS» - LEĜA Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/marzo/329-090304-00-1790.HTM",
+      "titulo": "329-090304-00-1790.htm",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.co.cr/vid/684160049",
+      "titulo": "Sentencia nº 07656 de Sala Constitucional de la Corte Suprema de Justicia, de 23 de Mayo de 2017 - vLex Costa Rica",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/agosto/203057-686-14817-2017-17-0341.HTML",
+      "titulo": "Tsj",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.co.cr/vid/sentencia-n-2024-006250-1044743702",
+      "titulo": "Sentencia Nº 2024-006250 de Sala Constitucional, 06-03-2024 - vLex Costa Rica",
+      "citada": false
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/spa/febrero/303783-00053-14219-2019-2015-0782.html",
+      "titulo": "303783-00053-14219-2019-2015-0782.html",
+      "citada": false
+    },
+    {
+      "url": "https://efectococuyo.com/economia/exministro-de-trabajo-dice-que-bono-de-guerra-economica-sera-de-90-dolares/",
+      "titulo": "Exministro de Trabajo dice que bono de guerra económica será de 90 dólares",
+      "citada": false
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/noticias/diputado-jorge-rodriguez-ley-de-proteccion-de-pensiones-atendera-a-los-mas-golpeados-por-el-bloqueo",
+      "titulo": "Diputado Jorge Rodríguez: Ley de Protección de Pensiones atenderá a los más golpeados por el bloqueo",
+      "citada": false
+    },
+    {
+      "url": "https://meridiano.net/servicios/bono-de-guerra-economica-mayo-2024-cronograma-de-pagos-para-pensionados-y-jubilados-20245179540",
+      "titulo": "Bono de Guerra Económica mayo 2024: Cronograma de pagos para pensionados y jubilados",
+      "citada": false
+    },
+    {
+      "url": "https://larepublica.pe/amp/datos-lr/venezuela/2024/05/03/cuanto-recibiran-los-pensionados-del-ivss-en-mayo-2024-revisa-los-montos-y-cronograma-de-pagos-venezuela-lrtmv-190815",
+      "titulo": "AUMENTO IVSS y Amor Mayor: este es el NUEVO MONTO que recibirán los PENSIONADOS en mayo 2024 vía Sistema Patria",
+      "citada": false
+    },
+    {
+      "url": "https://presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=23927",
+      "titulo": "Bono de Guerra Económica",
+      "citada": false
+    },
+    {
+      "url": "https://thehornetonline.com/ley-proteccion-pensiones-venezuela-2026/",
+      "titulo": "Venezuela",
+      "citada": false
+    },
+    {
+      "url": "https://thehornetonline.com/ley-proteccion-pensiones-bloqueo-venezuela-2026/",
+      "titulo": "Venezuela Promulga Ley de Protección de Pensiones ante el Bloqueo",
+      "citada": false
+    },
+    {
+      "url": "https://www.bdo.com.ve/es-ve/publicaciones/boletines-informativos/ley-de-proteccion-de-las-pensiones-de-seguridad-social-venezuela",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://central-law.com/venezuela-ley-de-proteccion-de-las-pensiones-de-seguridad-social/",
+      "titulo": "Venezuela",
+      "citada": false
+    },
+    {
+      "url": "https://www.grantthornton.com.ve/globalassets/1.-member-firms/venezuela/2024/decreto-que-establece-como-monto-de-la-contribucion-especial-prevista-el-la-ley-de-proteccion-de-la-pensiones-el-nueve-porciento.pdf",
+      "titulo": "Nota informativa Decreto que establece la alícuota para la contribución",
+      "citada": false
+    }
+  ]
+}

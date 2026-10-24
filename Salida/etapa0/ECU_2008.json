@@ -1,0 +1,146 @@
+{
+  "id": "ECU_2008",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2008,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1666,
+  "incompleto": false,
+  "norma_propuesta": "Mandato Constituyente núm. 8 (Asamblea Constituyente, 30-IV-2008; R.O. Suplemento 330, 6-V-2008)",
+  "otras": "Mandato Constituyente núm. 2 (R.O. Suplemento 261, 28-I-2008); Mandato Constituyente núm. 4 (12-II-2008); Decreto Ejecutivo núm. 1121 (Reglamento del Mandato 8, 2008-06-03); Acuerdo Ministerial núm. 00080 (2008-07-08); Constitución de la República del Ecuador 2008",
+  "confianza": "alta",
+  "texto": "**Norma principal: Mandato Constituyente núm. 8 (2008)**\n\nLa Asamblea Constituyente de Montecristi expidió el Mandato Constituyente núm. 8. Este elimina y prohíbe la tercerización e intermediación laboral y cualquier forma de precarización de las relaciones de trabajo en las actividades a las que se dedique la empresa o empleador; establece que la relación laboral será directa y bilateral entre trabajador y empleador; y elimina y prohíbe la contratación laboral por horas. La OIT lo registra en NATLEX como adoptado el 2008-04-30, y se publicó en el Suplemento del Registro Oficial 330, 6-V-2008. Su objetivo declarado era erradicar la injusticia laboral y la aberrante discriminación social, ocasionadas por el uso y abuso de los sistemas precarios de contratación laboral.\n\nLo elijo como norma principal por tres razones:\n- Es la norma de mayor alcance sobre el mercado laboral privado en 2008.\n- Aparece en fuente oficial y en NATLEX para ese país y año.\n- Revierte de forma explícita reformas anteriores: NATLEX consigna que deroga la Ley núm. 2006-48 Reformatoria al Código del Trabajo, mediante la cual se regula la actividad de intermediación laboral y la de tercerización de servicios complementarios. También modifica la Ley para la transformación económica del Ecuador del año 2000, que había creado la contratación por horas.\n\n**Otras candidatas y por qué no las elijo**\n- **Mandatos Constituyentes núm. 2 y núm. 4.** El núm. 2 trata de remuneraciones máximas y límites a las indemnizaciones y liquidaciones de funcionarios del sector público. El núm. 4 puso límite al pago de indemnizaciones en el sector público por despido intempestivo. Los descarto porque solo afectan al sector público.\n- **Constitución de 2008.** Su vigencia abroga la Constitución Política de la República del Ecuador (R.O. 1, 11-VIII-1998). Puede tener un componente laboral relevante, pero no verifiqué su contenido laboral con fuentes, así que la incluyo solo como relacionada (sin fuente sobre su contenido).\n- **Decreto Ejecutivo núm. 1121.** Es el reglamento de aplicación del Mandato 8: Decreto núm. 1121 por el que se dicta el Reglamento para la aplicación del mandato constituyente núm. 8, del 2008-06-03.\n- **Acuerdo Ministerial núm. 00080.** Es otra norma de aplicación del Mandato 8, del 2008-07-08, sobre revisión de las cláusulas de los contratos colectivos de trabajo, vigentes en las instituciones del sector público.\n\n**Puntos a resolver en la siguiente etapa**\n- **Fechas.** NATLEX da como fecha de adopción el 30 de abril. El Reglamento indica que el mandato entró en vigor a partir del 1 de mayo del 2008. Una compilación de la norma señala que, según el Registro Oficial, la presente norma fue suscrita el 30 de marzo de 2008.\n- **Tipo de instrumento.** Es atípico: NATLEX lo clasifica como \"Constitution\", y en el codebook probablemente corresponda a `otro`.\n- **Reformas posteriores.** Una fuente registra como Última Reforma: Registro Oficial 592, 18-V-2009. Hay que revisarlo al codificar `estado_vigencia`.\n\nNORMA: Mandato Constituyente núm. 8 (Asamblea Constituyente, 30-IV-2008; R.O. Suplemento 330, 6-V-2008)\nOTRAS: Mandato Constituyente núm. 2 (R.O. Suplemento 261, 28-I-2008); Mandato Constituyente núm. 4 (12-II-2008); Decreto Ejecutivo núm. 1121 (Reglamento del Mandato 8, 2008-06-03); Acuerdo Ministerial núm. 00080 (2008-07-08); Constitución de la República del Ecuador 2008\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.defensoria.gob.ec/images/defensoria/pdfs/lotaip2014/info-legal/Mandato_constituyente_eliminacion_tercerizacion.pdf",
+      "titulo": "MANDATO CONSTITUYENTE 8 ELIMINACION Y PROHIBICION DE TERCERIZACION Norma:",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=79927",
+      "titulo": "NATLEX - Ecuador - Mandato Constituyente núm. 8.",
+      "citada": true
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZWYyYTIxZGMtYmE0Yi00MTUzLWEwZTUtYTRlYWQ0MDM5YWY5LnBkZiJ9",
+      "titulo": "Suplemento del Registro Oficial",
+      "citada": true
+    },
+    {
+      "url": "https://www.loreto.gob.ec/index.php/transparencia/transparencia-activa/01-estructura-organica-funcional/01-2-base-legal/1280-mandato-constituyente-no-8-eliminacion-y-prohibicion-de-la-tercerizacion-intermediacion-laboral-contratacion-laboral-por-horas-y-cualquier-forma-de-precarizacion-de-las-relaciones-de-trabajo-suplemento-del-registro-oficial-no-330-6-de-mayo-2008/file",
+      "titulo": "Suplemento del Registro Oficial No. 330 , 6 de Mayo 2008",
+      "citada": true
+    },
+    {
+      "url": "https://www.cartercenter.org/resources/pdfs/peace/americas/informe_final_ac_-_centro_carter_distribuido.pdf",
+      "titulo": "Informe sobre la Asamblea Constituyente de la República del Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://www.eluniverso.com/2008/05/02/0001/8/463B0E041116418DBBD9558B62760D7F.html/",
+      "titulo": "Mandato Constituyente Nº 8",
+      "citada": false
+    },
+    {
+      "url": "https://derechoecuador.com/reglamento-para-la-aplicacion-del-mandato-8/",
+      "titulo": "REGLAMENTO PARA LA APLICACION DEL MANDATO 8 - Derecho Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://dspace.uhemisferios.edu.ec/items/0872e1d7-845c-4f38-a779-b1c7c84eed29/full",
+      "titulo": "El mandato No. 8, eliminación de la tercerización, intermediación laboral y trabajo por horas: legalidad, problemas jurídicos, repercusiones y responsabilidad del estado ecuatoriano",
+      "citada": false
+    },
+    {
+      "url": "https://www.fundacionmuseosquito.gob.ec/lotaip/2019/00.archivos/lit.a2/REGLAMENTO%20AL%20MANDATO%20CONSTITUYENTE%20Nro%208.pdf",
+      "titulo": "Nº 1121 Rafael Correa Delgado PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA",
+      "citada": false
+    },
+    {
+      "url": "https://www.puenteasociados.com/mandato-constituyente-no-8-eliminacion-de-la-tercerizacion/",
+      "titulo": "Mandato Constituyente Número 8 (Eliminacion de la Tercerizacion) - Puente & Asociados",
+      "citada": false
+    },
+    {
+      "url": "https://www.eeq.com.ec/documents/d/empresa-electrica-quito/mandato-constituyente-no-8",
+      "titulo": "LEXIS S.A. MANDATO CONSTITUYENTE 8 ELIMINACIÓN Y PROHIBICIÓN DE TERCERIZACIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=79924",
+      "titulo": "NATLEX - Ecuador - Decreto núm. 1121 por el que se dicta el Reglamento para la aplicación del mandato constituyente núm. 8 que suprime la tercerización de servicios complementarios, la intermediación laboral y la contratación por horas.",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=74605",
+      "titulo": "Ecuador - Ley núm. 2006-48 Reformatoria al Código del Trabajo, mediante la cual se regula la actividad de intermediación laboral y la de tercerización de servicios complementarios.",
+      "citada": false
+    },
+    {
+      "url": "https://dspace.uhemisferios.edu.ec/items/0872e1d7-845c-4f38-a779-b1c7c84eed29",
+      "titulo": "El mandato No. 8, eliminación de la tercerización, intermediación laboral y trabajo por horas: legalidad, problemas jurídicos, repercusiones y responsabilidad del estado ecuatoriano",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.defensoria.gob.ec/handle/37000/836?mode=full",
+      "titulo": "Defensoría Pública del Ecuador - Biblioteca digital: Mandato Constituyente 8 Eliminación y Prohibición de Tercerización",
+      "citada": false
+    },
+    {
+      "url": "https://archivo.asambleanacional.gob.ec/index.php/mandatos-asamblea-constituyente-2007-2015",
+      "titulo": "MANDATOS ASAMBLEA CONSTITUYENTE 2007-2008 -",
+      "citada": false
+    },
+    {
+      "url": "https://wilfredosanguineti.wordpress.com/wp-content/uploads/2010/04/ecuador-mandato-constituyente-numero-8.pdf",
+      "titulo": "MANDATO CONSTITUYENTE NÚMERO 8 EL PLENO DE LA ASAMBLEA CONSTITUYENTE",
+      "citada": false
+    },
+    {
+      "url": "https://archivo.asambleanacional.gob.ec/index.php/informationobject/browse?names=353903&topLod=0&actorId=123595&eventTypeId=111&sort=alphabetic&sortDir=asc",
+      "titulo": "Information object browse -",
+      "citada": false
+    },
+    {
+      "url": "https://derechoecuador.com/mandato-constituyente-4/",
+      "titulo": "Mandato Constituyente 4: Normas confiscatorias de indemnizaciones. - Derecho Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecuadorlegalonline.com/biblioteca/mandato-constituyente-4-ecuador/",
+      "titulo": "Mandato Constituyente 4 de Ecuador - EcuadorLegalOnline",
+      "citada": false
+    },
+    {
+      "url": "https://www.gob.ec/sites/default/files/regulations/2021-01/documento_mandato-constituyente-2.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 261 , 28 de Enero 2008 Normativa: Vigente",
+      "citada": false
+    },
+    {
+      "url": "https://derechoecuador.com/mandato-constituyente-4-norma-confiscatoria-de-indemnizaciones/",
+      "titulo": "Mandato constituyente 4. Norma confiscatoria de indemnizaciones - Derecho Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://asambleablog.wordpress.com/category/mandato02/",
+      "titulo": "Mandato02",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.ec/vid/593979722",
+      "titulo": "Sentencia nº 0833-2013-SL de Sala de Lo Laboral de la Corte Nacional de Justicia (2012), 4 de Noviembre de 2013 - vLex Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexis.com.ec/noticias/corte-nacional-establece-precedente-sobre-el-alcance-del-articulo-8-del-mandato-constituyente-no-2",
+      "titulo": "Corte Nacional establece precedente sobre el alcance del artículo 8 del Mandato Constituyente No. 2",
+      "citada": false
+    },
+    {
+      "url": "https://www.cortenacional.gob.ec/resources/Resoluciones/Precedentes/2025/14-2025-Terminacion-de-la-relacion-laboral-y-Mandato-Constituyente-2.pdf",
+      "titulo": "RESOLUCIÓN No. 14-2025 LA CORTE NACIONAL DE JUSTICIA CONSIDERANDO:",
+      "citada": false
+    }
+  ]
+}

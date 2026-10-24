@@ -1,0 +1,132 @@
+{
+  "id": "VEN_2002",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 2002,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0385,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley Orgánica Procesal del Trabajo (Gaceta Oficial N° 37.504 del 13 de agosto de 2002)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley Orgánica del Sistema de Seguridad Social (Gaceta Oficial N° 37.600 del 30 de diciembre de 2002)",
+      "Decretos de prórroga de la inamovilidad laboral especial N° 1.833, N° 1.889 y N° 2.053 de 2002",
+      "Resoluciones de la Comisión Judicial del Tribunal Supremo de Justicia sobre la entrada en vigencia e implantación progresiva de la LOPT (2003-2004)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "modificada_o_derogada_despues",
+    "fecha_entrada_vigencia": "2003-08-13",
+    "vigencia_escalonada": true,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Cumplir el mandato de la Disposición Transitoria Cuarta de la Constitución de 1999 de crear una jurisdicción laboral autónoma y especializada que proteja al trabajador, sustituyendo el proceso escrito por uno oral, breve, inmediato, concentrado y público (exposición de motivos del proyecto presentado por el Tribunal Supremo de Justicia).",
+    "descripcion_intenciones": "La ley reorganiza la justicia laboral mediante circuitos judiciales con tribunales de sustanciación, mediación y ejecución y tribunales de juicio, e instaura un proceso oral por audiencias con mediación y conciliación obligatorias a cargo del juez. Sanciona la inasistencia de las partes con la presunción de admisión de los hechos para el demandado y el desistimiento para el demandante. Consagra reglas de prueba favorables al trabajador, como la carga del empleador sobre las causas del despido y el pago liberatorio, y la presunción de existencia de la relación laboral, junto con el principio de gratuidad. Traslada a su texto el procedimiento de estabilidad relativa de la Ley Orgánica del Trabajo sin cambios sustantivos, manteniendo la persistencia en el despido y la exención de reenganche para empleadores pequeños.",
+    "dimensiones": [
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la reforma: proceso oral por audiencias, mediación judicial obligatoria, confesión ficta del demandado inasistente y reglas de prueba favorables al trabajador. No se verificó cuáles de estas reglas son nuevas frente al régimen de 1940."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "reorganiza",
+        "comentario": "Traslada el procedimiento de estabilidad relativa desde la Ley Orgánica del Trabajo al nuevo circuito oral, con mayor celeridad pero sin cambios sustantivos; conserva la persistencia en el despido y la exención de reenganche para empleadores pequeños."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales",
+      "general"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "La ley sustituye la Ley Orgánica de Tribunales y de Procedimiento del Trabajo de 1940 (reformada en 1956 y 1959) y deroga normas procesales de la Ley Orgánica del Trabajo (artículos 116 al 124) y artículos del Reglamento de la Ley Orgánica del Trabajo, sin invertir la dirección del régimen. El proyecto fue presentado por el Tribunal Supremo de Justicia en 2001 y aprobado con el voto del MVR y el MAS. Se sancionó en un año de crisis política y económica aguda: el golpe de Estado de abril de 2002, el paro petrolero iniciado en diciembre de 2002 y una recesión profunda; en paralelo regían decretos de inamovilidad laboral especial.",
+    "notas": "Año de la base (2002) corresponde a la publicación (2002-08-13); solo los artículos 49, 178 y 179 rigieron desde la publicación (contenido no verificado) y el resto del articulado entró en vigor el 2003-08-13, según resolvió la Comisión Judicial del TSJ. Además hubo diferimiento territorial: una resolución del 11 de agosto de 2003 difirió la entrada en vigencia en numerosas circunscripciones judiciales, con implantación progresiva por resoluciones que se extendieron al menos hasta diciembre de 2004; se aplicó un régimen transitorio a los juicios en curso. En 2012 el Decreto-Ley de la LOTTT derogó los artículos 187 al 192 (procedimiento de estabilidad), eliminando la persistencia en el despido y la exención para empleadores pequeños; el núcleo procesal sigue vigente. Fallos menores: la Sala Constitucional desaplicó (2009) y anuló (sentencia 1264 de 2013) el artículo 177 sobre sujeción a la doctrina de casación, y en 2008 flexibilizó la confesión ficta del artículo 131; resultado no verificado de una demanda de nulidad contra los artículos 42, 48, 151, 170, 178 y 185. Orientación codificada como protectora con confianza moderada: si las reglas de prueba y la gratuidad fueran heredadas del régimen anterior, la reforma sería predominantemente administrativa. Pendiente: exposición de motivos del texto sancionado, ficha NATLEX, evaluaciones de organismos multilaterales (no se encontraron)."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.mpppst.gob.ve/mpppstweb/wp-content/uploads/2014/03/LEY_ORGANICA_PROCESAL_DEL_TRABAJO.pdf",
+      "titulo": "LEY ORGÁNICA PROCESAL DEL TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://archivo.provea.org/wp-content/uploads/ley_OPT1.pdf",
+      "titulo": "LEY ORGÁNICA PROCESAL DEL TRABAJO Labor legislativa:",
+      "citada": true
+    },
+    {
+      "url": "https://venezuela.justia.com/federales/leyes-organicas/ley-organica-procesal-del-trabajo/gdoc/",
+      "titulo": "Justia Venezuela :: Federales > Leyes Orgánicas > Ley Orgánica Procesal del Trabajo :: Ley de Venezuela",
+      "citada": true
+    },
+    {
+      "url": "https://docs.venezuela.justia.com/estatales/distrito-capital/leyes/ley-organica-procesal-del-trabajo.pdf",
+      "titulo": "Ley Orgánica Procesal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://pandectasdigital.blogspot.com/2016/06/ley-organica-procesal-del-trabajo.html",
+      "titulo": "Ley Orgánica Procesal del Trabajo <span face=\"\"b612\" , sans-serif\"><span style=\"color: black; font-weight: normal;\"><i>[</i></span><span style=\"color: yellow;\"><b><i>Vigente Parcialmente</i></b></span><span style=\"color: black; font-weight: normal;\"><i>]</i></span></span>",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/informacion/miscelaneas/proyecto_de_ley_2.htm",
+      "titulo": "Proyecto de Ley Orgánica Procesal del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/legislacion/ley_organica_procesal_trabajo.htm",
+      "titulo": "LA ASAMBLEA NACIONAL",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scs/octubre/169946-1456-151014-2014-13-216.HTML",
+      "titulo": "169946-1456-151014-2014-13-216.html",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scon/Mayo/823-160508-08-0200.htm",
+      "titulo": "823-160508-08-0200.htm",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/1275/127546588002/html/",
+      "titulo": "La estabilidad laboral: aspectos y procedimientos en la LOTTT",
+      "citada": true
+    },
+    {
+      "url": "https://saber.ucv.ve/bitstream/10872/4471/1/T026800007788-0-ricardovargas_finalpublicacion-000.pdf",
+      "titulo": "análisis del procedimiento de estabilidad laboral previsto ...",
+      "citada": true
+    },
+    {
+      "url": "https://pubhtml5.com/owle/yggw/basic/201-232",
+      "titulo": "Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras - LOTTT - Del poder popular-Del trabajo artículo-Inspectora del trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/informacion/resoluciones/cj/resolucioncj_01.htm",
+      "titulo": "TRIBUNALES LABORALES",
+      "citada": true
+    },
+    {
+      "url": "https://historico.tsj.gob.ve/decisiones/scs/marzo/161-090304-03824.HTM",
+      "titulo": "161-090304-03824.htm",
+      "citada": true
+    },
+    {
+      "url": "https://referencia-laboral.webnode.com.ve/ley-del-trabajo/ley-organica-procesal-del-trabajo/",
+      "titulo": "Ley Orgánica Procesal del Trabajo :: Referencia Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Venezuela_de_2002",
+      "titulo": "Golpe de Estado en Venezuela de 2002",
+      "citada": true
+    },
+    {
+      "url": "https://yaeshoravenezuela.com/paro-petrolero-2002-2003-venezuela",
+      "titulo": "El Paro Petrolero de 2002-2003: La Huelga que Paralizó Venezuela",
+      "citada": true
+    }
+  ]
+}

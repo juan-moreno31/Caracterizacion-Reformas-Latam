@@ -1,0 +1,161 @@
+{
+  "id": "NIC_2012",
+  "iso": "NIC",
+  "pais": "Nicaragua",
+  "anio": 2012,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1698,
+  "incompleto": false,
+  "norma_propuesta": "Ley No. 815, Código Procesal del Trabajo y de la Seguridad Social de Nicaragua (2012)",
+  "otras": "Aprobación legislativa del Convenio núm. 189 de la OIT sobre trabajo decente para las trabajadoras y trabajadores domésticos (17 de octubre de 2012; identificador del decreto no verificado)",
+  "confianza": "alta",
+  "texto": "En Nicaragua, la reforma laboral principal de 2012 es la **Ley No. 815, Código Procesal del Trabajo y de la Seguridad Social**. Fue aprobada por la Asamblea Nacional el 31 de octubre de 2012 y publicada en La Gaceta No. 229, con fecha del 11/29/2012.\n\n**Qué es.** La ley cambia la forma en que se tramitan los juicios laborales. Según NATLEX (OIT), la ley adopta el sistema de juicios orales en sustitución del escrito, simplificando así el proceso y concentra los trámites judiciales en torno a una audiencia única. También instaura un procedimiento especial, basado en los principios de preferencia y sumariedad, para la tutela de los derechos fundamentales en el trabajo. La OIT añade que crea un procedimiento de conciliación administrativa obligatoria, previa al trámite judicial, para los casos de menor cuantía. Además, la propia Asamblea destaca que permite a los trabajadores subcontratos o tercerizados pedir que comparezca la empresa principal, para que la sentencia determine si esta tiene responsabilidad subsidiaria.\n\n**Por qué es la que corresponde.** Aparece en NATLEX para 2012. Allí figura como texto que modifica la Ley 185 (Código del Trabajo) y la Ley 755, que creó el Tribunal Nacional Laboral de Apelaciones. La OIT la calificó como la modificación más importante de la legislación laboral de Centroamérica de los últimos años. En las fuentes revisadas no encontré otra reforma laboral de alcance comparable en 2012.\n\n**Otras candidatas.** La única norma adicional que encontré es la aprobación legislativa del Convenio núm. 189 de la OIT sobre trabajo doméstico: la Asamblea Nacional aprobó el 17 de octubre de 2012. Es solo la aprobación de un tratado, no una reforma del derecho interno, y no verifiqué el número del decreto que lo aprobó. Por eso la registro como relacionada y no como principal.\n\n**Para las etapas siguientes:**\n- **Fecha de aprobación.** Las fuentes no coinciden. La Asamblea, vLex y la OIT dan el 31 de octubre. La RAE da el 30 de octubre. NATLEX registra el 23 de noviembre como fecha de adopción, probablemente la sanción presidencial.\n- **Entrada en vigor.** No la verifiqué, y la ley incluye disposiciones transitorias que podrían diferir su aplicación. Si la vigencia efectiva cae en 2013, habrá que anotarlo en `notas`.\n- **Impugnación judicial.** Un artículo de opinión de La Prensa (2013) mencionaba la posibilidad de un recurso de inconstitucionalidad. No confirmé si llegó a presentarse; conviene revisarlo para `estado_vigencia`.\n\nNORMA: Ley No. 815, Código Procesal del Trabajo y de la Seguridad Social de Nicaragua (2012)\nOTRAS: Aprobación legislativa del Convenio núm. 189 de la OIT sobre trabajo decente para las trabajadoras y trabajadores domésticos (17 de octubre de 2012; identificador del decreto no verificado)\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=91965",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 815 de Código Procesal del Trabajo y de la Seguridad Social.",
+      "citada": true
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/SILEG/Gacetas.nsf/5eea6480fc3d3d90062576e300504635/5e6b6e9f984b649506257ac90064bff0",
+      "titulo": "Ley No. 815",
+      "citada": true
+    },
+    {
+      "url": "https://www.laprensani.com/2013/06/14/opinion/150760-codigo-procesal-del-trabajo",
+      "titulo": "Código Procesal del Trabajo - La Prensa",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/news/nicaragua-aprueba-trascendental-codigo-procesal-del-trabajo",
+      "titulo": "Nicaragua aprueba trascendental Código Procesal del Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://noticias.asamblea.gob.ni/aprobacion-de-codigos-resalta-en-produccion-legislativa-2012-2016/",
+      "titulo": "Aprobación de Códigos en producción legislativa 2012-2016",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/resource/noticias/asamblea-nacional-de-nicaragua-aprueba-convenio-189",
+      "titulo": "Asamblea Nacional de Nicaragua aprueba Convenio 189",
+      "citada": true
+    },
+    {
+      "url": "https://dpej.rae.es/eli/ni/l/2012/10/30/815",
+      "titulo": "Ley 815/2012, de 30 de octubre, del Código Procesal del Trabajo y de la Seguridad Social de Nicaragua - Diccionario panshipánico del español jurídico - RAE",
+      "citada": false
+    },
+    {
+      "url": "https://ni.vlex.com/vid/codigo-procesal-trabajo-seguridad-649658997",
+      "titulo": "CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA - vLex Nicaragua",
+      "citada": false
+    },
+    {
+      "url": "http://www2.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=91965",
+      "titulo": "Nicaragua - Ley núm. 815 de Código Procesal del Trabajo y de la Seguridad Social.",
+      "citada": false
+    },
+    {
+      "url": "https://laboralistassinfronteras.org/images/bajarPDF%20nicaragua/legislacion/C%C3%B3digo%20Procesal%20del%20Trabajo%20(Nic)%20Ley%20815.pdf",
+      "titulo": "Colección Digital “La Gaceta” Digesto Jurídico Nicaragüense LA GACETA",
+      "citada": false
+    },
+    {
+      "url": "https://www.leybook.com/doc/1371",
+      "titulo": "Leybook - CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL DE NICARAGUA",
+      "citada": false
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/SILEG/Iniciativas.nsf/NewGaceta.xsp?databaseName=CN%3Dlotusleg1/O%3DAsamblea+Nacional!!SILEG%5CGacetas.nsf&documentId=5E6B6E9F984B649506257AC90064BFF0&action=openDocument",
+      "titulo": "Código Procesal del Trabajo y de la Seguridad Social de ...",
+      "citada": false
+    },
+    {
+      "url": "http://digesto.asamblea.gob.ni/consultas/util/pdf.php?type=rdd&rdd=%2Fw5Zmb5veFE%3D",
+      "titulo": "LA GACETA DIARIO OFICIAL Teléfonos: 2228-3791 / 2222-7344 Tiraje:650 Ejemplares",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=45784",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 185 por la que se dicta el Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=91966",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 755 de reforma y adiciones a la Ley núm. 260, ley orgánica del poder judicial y creadora del Tribunal Nacional Laboral de Apelaciones.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=5163",
+      "titulo": "NATLEX - Nicaragua - Decreto 1135: ley que faculta al Ministerio del Trabajo para emitir normativas laborales.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=82377",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 666 de Reformas y Adiciones al Código del Trabajo.",
+      "citada": false
+    },
+    {
+      "url": "https://www2019.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=6253",
+      "titulo": "Nicaragua - Edición del Código del Trabajo contentiva de todas sus reformas hasta 1986.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=77130",
+      "titulo": "NATLEX - Nicaragua - Ley núm. 618 General de Higiene y Seguridad del Trabajo de 19 de abril de 2007.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=5159",
+      "titulo": "NATLEX - Nicaragua - Decreto núm. 974: ley de seguridad social.",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/112358/L%201027.pdf",
+      "titulo": "Normas Jurídicas de Nicaragua Materia: Laboral Rango: Leyes Abrir Gaceta -",
+      "citada": false
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/normaweb.nsf/b92aaea87dac762406257265005d21f7/07c6f8bf13894a66062572d10057bf0c",
+      "titulo": "Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "http://legislacion.asamblea.gob.ni/normaweb.nsf/3133c0d121ea3897062568a1005e0f89/512f6f6b02ae4244062572d4005d83e0?OpenDocument=",
+      "titulo": "Ley de Reforma al Código del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.el19digital.com/articulos/ver/titulo:146836-asamblea-nacional-aprueba-nuevo-calculo-de-indemnizacion-laboral-para-el-sector-publico",
+      "titulo": "Asamblea Nacional aprueba nuevo cálculo de indemnización laboral para el sector público",
+      "citada": false
+    },
+    {
+      "url": "https://noticias.asamblea.gob.ni/leyes-constitucionales-aprobadas-en-quinquenio-2012-2016/",
+      "titulo": "Reforma a la Constitución sobresale en leyes aprobadas en quinquenio 2012-2016",
+      "citada": false
+    },
+    {
+      "url": "https://noticias.asamblea.gob.ni/codigo-procesal-del-trabajo-aprobado-en-lo-general/",
+      "titulo": "CÓDIGO PROCESAL DEL TRABAJO APROBADO EN LO GENERAL",
+      "citada": false
+    },
+    {
+      "url": "https://faolex.fao.org/docs/pdf/nic201140.pdf",
+      "titulo": "Digesto Jurídico Nicaragüense de la Materia Laboral",
+      "citada": false
+    },
+    {
+      "url": "http://www.mitrab.gob.ni/documentos/publicaciones/cod_trab_rubr.pdf",
+      "titulo": "ley núm. 185, código del trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.leybook.com/doc/888",
+      "titulo": "Leybook - LEY DE REFORMA AL TÍTULO VI, LIBRO PRIMERO DEL CÓDIGO DEL TRABAJO DE LA REPÚBLICA DE NICARAGUA",
+      "citada": false
+    }
+  ]
+}

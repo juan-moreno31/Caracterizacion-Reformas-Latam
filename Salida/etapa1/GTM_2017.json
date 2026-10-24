@@ -1,0 +1,264 @@
+{
+  "id": "GTM_2017",
+  "iso": "GTM",
+  "pais": "Guatemala",
+  "anio": 2017,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3531,
+  "incompleto": false,
+  "norma": "Decreto 7-2017 del Congreso de la República (Reformas al Decreto 1441, Código de Trabajo)",
+  "texto": "# Informe de investigación: Guatemala, 2017. Decreto 7-2017 del Congreso de la República\n\n## 1. Objetivo declarado\n\nLos considerandos del decreto parten de los Convenios 81 y 129 de la OIT. Según el texto, esos convenios exigen que la legislación nacional asegure su cumplimiento, y uno de los medios es contar con una eficiente Inspección de Trabajo que goce de la facultad de asesoramiento a sujetos de las relaciones laborales, así como la capacidad de establecer sanciones. El objetivo central es establecer un sistema de aplicación de sanciones a cargo de la Inspección General de Trabajo, que contribuya a generar una cultura de cumplimiento. A eso suma dos principios: que la inspección se apoye en criterios unificados y equitativos de aplicación de sanciones, evitando la discrecionalidad, y que actúe con ética, transparencia y probidad.\n\nLa iniciativa fue remitida al Congreso en noviembre de 2016 con el título Reformas al Código de Trabajo que confieren facultades sancionadoras a la Inspección General de Trabajo (Registro 5198). El Ministerio de Trabajo, en un informe a la ONU, presentó así su motivo: la imposición de la sanción administrativa a todas aquellas personas que se consideren infractoras (es) de la ley laboral, sea patronos (as), trabajadores (as) y organizaciones sindicales, además de buscar mecanismos para restituir los derechos vulnerados.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**`justicia_laboral_e_inspeccion`: aumenta.** Es el núcleo de la reforma.\n- **Facultad sancionatoria.** El artículo 271 reformado faculta al Delegado Departamental de la Inspección General de Trabajo para determinar la sanción administrativa aplicable tomando en cuenta las circunstancias económicas y los medios de subsistencia del sancionado. El delegado debe ser abogado colegiado activo. El artículo 272 dispone que el Delegado Departamental de la Inspección General de Trabajo impondrá las sanciones por faltas de trabajo y previsión social, graduadas según el tipo de falta.\n- **Nuevo procedimiento.** El procedimiento sancionatorio administrativo tiene por objeto la imposición de la sanción y la corrección del incumplimiento de obligaciones. Además, la Inspección podrá exigir el cumplimiento de obligaciones o derechos laborales entre las partes cuyo conocimiento y determinación no sea competencia exclusiva de los tribunales.\n- **Recursos.** Contra la resolución procede un recurso de revocatoria. Los juzgados de trabajo conocen de los procesos contencioso-administrativos contra las sanciones, previo agotamiento del recurso de revocatoria ante la autoridad administrativa competente.\n- **Acción directa del Ministerio.** El artículo 415 otorga al Ministerio, a través de la Inspección, acción directa para promover y resolver acciones por las faltas cometidas contra las leyes de trabajo y previsión social.\n- **Incentivos de cumplimiento.** Se crea un registro de sancionados, de acceso regulado por la Ley de Acceso a la Información Pública. El importe de las multas pasa a ser fondos privativos de la Inspección General de Trabajo. Las empresas con sanciones pendientes no pueden obtener ni mantener beneficios fiscales o arancelarios, ni contratar con el Estado. La multa se reduce si el infractor demuestra haber corregido la falta.\n- **Matiz declarado vs. efectivo.** La iniciativa original atribuía la facultad al Delegado Departamental o Municipal. El texto aprobado la limita al nivel departamental y añade el requisito de colegiación.\n\n**`otro` (seguridad y salud ocupacional): aumenta.** Los inspectores pueden ordenar la paralización o prohibición inmediata de trabajos o tareas por inobservancia de la normativa sobre prevención de riesgos laborales, de concurrir riesgo grave o inminente. También pueden exigir modificaciones en las instalaciones o en los métodos de trabajo.\n\n**`derechos_colectivos_sindicales`: reorganiza (tentativo).** Las sanciones no se dirigen solo a empleadores. Constituye infracción la obstrucción a la labor de inspección por parte del empleador o sus representantes, de los trabajadores o de las organizaciones sindicales o sus representantes. Si la sancionada es una organización sindical, la multa se le impone solidariamente con sus representantes. En sentido contrario, durante la inspección los trabajadores pueden hacerse representar por dirigentes sindicales. Es un efecto secundario sin dirección clara, y la Etapa 2 podría descartarlo.\n\nNo identifiqué cambios sustantivos en contratación, despido, jornada ni salarios. La reforma refuerza el cumplimiento de las normas existentes (por ejemplo, sanciona el impago de salarios), pero no modifica su contenido.\n\n**Orientación sugerida: `protectora`.** El sesgo pro-cumplimiento es claro. La categoría `administrativa` sería una alternativa defendible, porque los cambios son procesales e institucionales. Esto queda para discusión en la Etapa 2.\n\n## 3. Población objetivo\n\n`asalariados_formales` como población principal, porque la inspección actúa sobre centros de trabajo y relaciones laborales identificables. También aplica a empleadores en general, sin distinción por tamaño. No encontré disposiciones específicas para mipymes, mujeres, jóvenes ni para el sector público.\n\n## 4. Contexto político y económico\n\n**Queja ante la OIT.** El decreto se aprobó en pleno procedimiento por la queja presentada en 2012 contra Guatemala bajo el artículo 26 de la Constitución de la OIT, por incumplimiento del Convenio 87. El punto 5 de la Hoja de ruta pedía proponer enmiendas al Código del Trabajo y a las demás leyes pertinentes que incorporen las enmiendas propuestas desde larga data por los órganos de control de la OIT. En marzo de 2017 el Consejo de Administración reiteró su esperanza de que se le informara, antes de noviembre de 2017, de la promulgación de legislación conforme al Convenio 87. Ante ese órgano, el Gobierno destacó los proyectos dirigidos a devolver la capacidad sancionatoria a la Inspección.\n\n**Cierre de la queja.** Según prensa nacional, el Consejo de Administración cerró la queja en noviembre de 2018, es decir, después del decreto, e instó a adoptar las reformas legislativas que se ajustan plenamente al punto 5 de la Hoja de Ruta. No encontré en documentos de la OIT una valoración directa del Decreto 7-2017. Esto significa que el decreto no se consideró suficiente para cumplir ese punto, que se refería sobre todo a la libertad sindical.\n\n**Presión comercial.** Según Prensa Libre, el poder sancionatorio era una recomendación que la Organización Internacional del Trabajo (OIT) y la Oficina del Representante Comercial de Estados Unidos (USTR, en inglés) habían manifestado en reiteradas ocasiones. El arbitraje laboral bajo el CAFTA-DR no lo verifiqué (sin fuente).\n\n**Contexto económico:** no investigado.\n\n## 5. ¿Revierte una reforma previa?\n\n**No, en sentido estricto.** El decreto restablece una facultad que la Corte de Constitucionalidad había anulado. Un documento de la OIT señala que en Guatemala los inspectores no podían sancionar directamente a causa de una decisión de la Corte Constitucional de 2004. Una tesis de la USAC identifica esa decisión como la sentencia del 3 de agosto de 2004, expedientes 898-2001 y 1014-2001. La prensa describe el decreto como la devolución de la capacidad sancionatoria a la IGT.\n\nNo verifiqué qué norma fue anulada en 2004; creo que fue una reforma de 2001, pero es sin fuente. Sugiero `revierte_reforma_previa` = no, y explicar en `notas` que restablece una facultad anulada judicialmente.\n\n## 6. Fecha de entrada en vigor\n\n**Resuelvo el conflicto a favor del 2017-06-06.** No pude leer directamente el artículo final del decreto en el PDF oficial, pero tres fuentes concuerdan:\n- **Acuerdo Ministerial 285-2017** (fuente oficial, consultada vía vLex): afirma que desde el seis de junio; de dos mil diecisiete, está vigente el Decreto numero 7-2017.\n- **Lexology**, al describir el decreto, indica una vigencia diferida respecto de la publicación.\n- **Prensa Libre**, el 5 de junio de 2017, anunció que a partir de mañana los delegados de la Inspectoría General de Trabajo (IGT) tendrán de nuevo la facultad para emitir sanciones.\n\nEl informe del Ministerio a la ONU, que habla de una vigencia inmediata, parece confundir publicación con vigencia.\n\n- **Escalonamiento:** `vigencia_escalonada` = false. No encontré partes con vigencia propia. El Acuerdo Ministerial 285-2017, que contiene el instructivo de imposición de sanciones y se publicó en enero de 2018, es una norma de aplicación, no de vigencia diferida.\n- **Año de la base:** coincide con el de expedición y vigencia.\n\n## 7. Estado de vigencia posterior\n\n- **Cuestionamientos:** hay críticas académicas. Una tesis de la USAC sostiene que sancionar corresponde a la Corte Suprema de Justicia, y específicamente a los Tribunales de Trabajo y Previsión Social por mandato constitucional.\n- **Fallos:** busqué en la Corte de Constitucionalidad y **no encontré** ninguna acción de inconstitucionalidad ni fallo contra el Decreto 7-2017. Eso no prueba que no exista, porque la búsqueda fue limitada.\n- **Aplicación:** hay indicios de que el decreto se aplicó: el instructivo ministerial y la Circular 45-2017 de la Inspección General, mencionada en el informe a la ONU.\n- **Modificaciones o derogación:** no identifiqué normas posteriores que lo modifiquen o deroguen.\n- **Sugerencia:** `estado_vigencia` = `vigente`, con confianza media. Debe revisarse el repositorio de la Corte de Constitucionalidad desde 2017 en adelante.\n\n## Lo que no pude verificar\n\n- El texto literal del artículo de vigencia del decreto.\n- La existencia o ausencia de acciones ante la Corte de Constitucionalidad contra el decreto.\n- La norma anulada en 2004.\n- Cualquier valoración del decreto por la Comisión de Expertos de la OIT.\n- El vínculo con el arbitraje del CAFTA-DR.\n- El contexto económico.\n- El contenido completo del Acuerdo Ministerial 285-2017.\n\n**Normas relacionadas:** el Acuerdo Ministerial 285-2017, publicado el 2018-01-18.",
+  "fuentes": [
+    {
+      "url": "http://www.repositorio.usac.edu.gt/10304/1/Tesis%20Juan%20Miguel%20Rodas%20Pineda.pdf",
+      "titulo": "UNIVERSIDAD DE SAN CARLOS DE GUATEMALA CENTRO UNIVERSITARIO DE SUROCCIDENTE",
+      "citada": true
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2017/07-2017.pdf",
+      "titulo": "decreto número 7-2017",
+      "citada": true
+    },
+    {
+      "url": "https://leyesdeguatemala.wordpress.com/wp-content/uploads/2017/07/decreto-7-2017-guatemala.pdf",
+      "titulo": "decreto-7-2017-guatemala.pdf",
+      "citada": true
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/Registro5198.pdf",
+      "titulo": "CONGRESO DE LA REPUBLICA GUATEMALA, C. A. DIRECCIÓN LEGISLATIVA",
+      "citada": true
+    },
+    {
+      "url": "http://www.defensoriadeltrabajador.com/2017/08/decreto-7-2017-reformas-al-codigo-de.html",
+      "titulo": "Decreto 7-2017 Reformas al Código de Trabajo de Guatemala ~ Asesoría Laboral en Guatemala - Capacitación Laboral - Abogado Laboralista",
+      "citada": true
+    },
+    {
+      "url": "https://gt.vlex.com/vid/acuerdo-ministerial-no-285-701186845",
+      "titulo": "Acuerdo Ministerial No. 285-2017.- El instructivo para la imposición de sanciones administrativas por medio de la Inspección General de Trabajo por la Comisión de Faltas de Trabajo y Previsión Social - vLex Guatemala - vLex",
+      "citada": true
+    },
+    {
+      "url": "http://bvs.gt/eblueinfo/ML/ML_027.pdf",
+      "titulo": "1 EL CONGRESO DE LA REPÚBLICA DE GUATEMALA CONSIDERANDO:",
+      "citada": true
+    },
+    {
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadFile?gId=35889",
+      "titulo": "información del ministerio de trabajo y previsión social del ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/media/207316/download",
+      "titulo": "Consejo de Administración",
+      "citada": true
+    },
+    {
+      "url": "https://radiotgw.gob.gt/el-consejo-de-administracion-de-la-organizacion-internacional-del-trabajo-oit-cierra-queja-contra-guatemala/",
+      "titulo": "El Consejo de Administración de la Organización Internacional del Trabajo (OIT) cierra queja contra Guatemala",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/media/192356/download",
+      "titulo": "Queja relativa al incumplimiento por Guatemala del ...",
+      "citada": true
+    },
+    {
+      "url": "https://leyes.infile.com/index.php?id=182&id_publicacion=75879",
+      "titulo": "Leyes de Guatemala",
+      "citada": true
+    },
+    {
+      "url": "https://www.prensalibre.com/economia/inspectores-de-trabajo-podran-emitir-sanciones/",
+      "titulo": "¡Cuídese de las inspecciones laborales!",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/es/media/453161/download",
+      "titulo": "Sanciones de la Inspección del Trabajo: Legislación y ...",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexology.com/library/detail.aspx?g=563c4ac1-1681-43fa-a11e-8d4989e4d5c4",
+      "titulo": "Reformas al Código de Trabajo en Guatemala - Lexology",
+      "citada": false
+    },
+    {
+      "url": "https://www.expertostributarios.com/reformas-al-codigo-trabajo/",
+      "titulo": "Reformas al Código de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.liberalgt.com/oit-cierra-queja-contra-el-estado-de-guatemala/",
+      "titulo": "OIT cierra queja contra el Estado de Guatemala",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/resource/record-decisions/gb/355/decision-concerning-complaint-alleging-non-observance-guatemala-conventions",
+      "titulo": "Decision concerning the complaint alleging non-observance by Guatemala of Conventions Nos 87 and 98",
+      "citada": false
+    },
+    {
+      "url": "https://conadi.gob.gt/web/wp-content/uploads/2023/12/CODIGO-DE-TRABAJO.pdf",
+      "titulo": "Conadi",
+      "citada": false
+    },
+    {
+      "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/esfuerzos-por-cumplir-convenio-87-de-la-oit/",
+      "titulo": "Esfuerzos por cumplir Convenio 87 de la OIT",
+      "citada": false
+    },
+    {
+      "url": "https://www.icnl.org/wp-content/uploads/codtrabajo.pdf",
+      "titulo": "Código de Trabajo - ICNL",
+      "citada": false
+    },
+    {
+      "url": "https://republica.com/internacional/2018-3-15-22-50-34-oit-reconoce-avances-de-guatemala-con-relacion-a-derechos-y-libertad-sindicales",
+      "titulo": "OIT reconoce avances de Guatemala con relación a derechos y libertad sindicales",
+      "citada": false
+    },
+    {
+      "url": "https://normograma.sena.edu.co/compilacion/docs/c-007_2017.htm",
+      "titulo": "Compilación Servicio Nacional de Aprendizaje - SENA - Sentencia de Control de Constitucionalidad C-7 de 2017",
+      "citada": false
+    },
+    {
+      "url": "https://actualidadjuridica.doe.cl/tribunal-constitucional-estimo-que-el-articulo-506-del-codigo-del-trabajo-establece-parametros-para-que-la-inspeccion-del-trabajo-pueda-imponer-sanciones-a-las-empresas/",
+      "titulo": "Tribunal Constitucional estimó que el artículo 506 del Código del Trabajo establece parámetros para que la Inspección del Trabajo pueda imponer sanciones a las empresas - DOE",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2022/01/31/normas-que-le-reconoce-potestad-sancionatoria-a-la-inspeccion-del-trabajo-en-accidentes-laborales-se-impugnan-en-sede-de-inaplicabilidad-ante-el-tribunal-constitucional/",
+      "titulo": "Normas que le reconoce potestad sancionatoria a la Inspección del Trabajo en accidentes laborales, se impugnan en sede de inaplicabilidad ante el Tribunal Constitucional.",
+      "citada": false
+    },
+    {
+      "url": "https://actualicese.com/archivo/sentencia-c-005-de-18-01-2017/",
+      "titulo": "Sentencia C-005 de 18-01-2017 - Archivo actualicese",
+      "citada": false
+    },
+    {
+      "url": "https://www.dmsjuridica.com/JURISPRUDENCIA/CORTE_CONSTITUCIONAL/docs/2013/C-741-13.html",
+      "titulo": "Corte Constitucional - Sentencia 741-13",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2023/10/18/norma-que-permite-a-la-inspeccion-del-trabajo-sancionar-las-infracciones-con-pena-de-multa-de-acuerdo-al-tamano-de-la-empresa-no-produce-resultados-contrarios-a-la-constitucion/",
+      "titulo": "Norma que permite a la Inspección del Trabajo sancionar las infracciones con pena de multa de acuerdo al tamaño de la empresa, no produce resultados contrarios a la Constitución.",
+      "citada": false
+    },
+    {
+      "url": "https://jurinfo.jep.gov.co/normograma/compilacion/jsacaepjdlannormasselecc_l_l7d2jurispcc_ays_corte_constitucional_control_constitucionalidad.html",
+      "titulo": "Jurinfo - Corte Constitucional - Control de Constitucionalidad",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2019/09/25/corte-de-santiago-rechazo-nulidad-laboral-y-confirma-sentencia-que-no-hizo-lugar-a-reclamo-deducido-contra-la-inspeccion-del-trabajo-basado-en-infracciones-al-debido-proceso/",
+      "titulo": "Corte de Santiago rechazó nulidad laboral y confirma sentencia que no hizo lugar a reclamo deducido contra la Inspección del Trabajo basado en infracciones al debido proceso. - Diario Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=82335",
+      "titulo": "Sentencia 02724 de 2017 Consejo de Estado - Gestor Normativo - Función Pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2016_100/Sentencia_2015-07466STC.pdf",
+      "titulo": "El Pleno del Tribunal Constitucional, compuesto por don Francisco Pérez de los",
+      "citada": false
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2017/13-2017.pdf",
+      "titulo": "Decreto 13-2017",
+      "citada": false
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2017/05-2017.pdf",
+      "titulo": "05-2017.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://www.grepalma.org/wp-content/uploads/2018/07/CodigoTributario.pdf",
+      "titulo": "DECRETO NUMERO 6-91 EL CONGRESO DE LA REPUBLICA DE GUATEMALA, CONSIDERANDO:",
+      "citada": false
+    },
+    {
+      "url": "https://www.ine.gob.gt/ine/wp-content/uploads/2017/10/ReformasLeyContrataciones.pdf",
+      "titulo": "4 Guatemala, JUEVES 27 de octubre 2016 DIARIO de CENTRO AMÉRICA NÚMER",
+      "citada": false
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/67e56-10-2022.pdf",
+      "titulo": "!. t ' l 1 . • 1. 2 Guatemala, JUEVES 3 de marzo 2022 DIARIO de CENTRO AMÉRICA",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/116619/D%209%202023%20GUA.pdf",
+      "titulo": "----------------------Fundadoen1880---------------------- Diario de Centro ~ .",
+      "citada": false
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/1539280140_19-2018.pdf",
+      "titulo": "2 Guatemala, MIÉRCOLES 10 de octubre 2018 DIARIO de'CENTRO AMÉRICA NÚMER076",
+      "citada": false
+    },
+    {
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/09/cuanto-costara-la-gasolina-y-el-diesel-en-guatemala-con-la-nueva-ley/",
+      "titulo": "Gasolinas y diésel: estos serán los nuevos precios tope para los guatemaltecos",
+      "citada": false
+    },
+    {
+      "url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/e2117-08-2023.pdf",
+      "titulo": "----------------------Fundadoen1880---------------------- \" Diario de Centro",
+      "citada": false
+    },
+    {
+      "url": "https://cc.gob.gt/wp-content/uploads/2023/08/SUMARIO-123.pdf",
+      "titulo": "Corte de Constitucionalidad 2017 Unidad de Gaceta y Jurisprudencia",
+      "citada": false
+    },
+    {
+      "url": "https://cc.gob.gt/wp-content/uploads/2023/08/SUMARIO-125.pdf",
+      "titulo": "Corte de Constitucionalidad 17 Unidad de Gaceta y Jurisprudencia",
+      "citada": false
+    },
+    {
+      "url": "https://legis.gt/wp-content/uploads/2017/07/CC-2105-2016.pdf",
+      "titulo": "Página 1 de 15 Expediente 2105-2016 CORTE DE CONSTITUCIONALIDAD",
+      "citada": false
+    },
+    {
+      "url": "https://jurisprudencia.cc.gob.gt/Sentencias/850297.3670-2022.pdf",
+      "titulo": "Expediente 3670-2022 Página 1 de 20 CORTE DE CONSTITUCIONALIDAD",
+      "citada": false
+    },
+    {
+      "url": "https://iuristec.com.gt/images/3/3e/20170908-0000-4785-2017.pdf",
+      "titulo": "Expediente 4785-2017 Página 1 de 554 CORTE DE CONSTITUCIONALIDAD",
+      "citada": false
+    },
+    {
+      "url": "https://vestex.com.gt/wp-content/uploads/2024/09/Sentencia-CC-Ley-Promocion-Turismo-Interno.pdf",
+      "titulo": "Expediente 5536-2018 Página 1 CORTE DE CONSTITUCIONALIDAD",
+      "citada": false
+    },
+    {
+      "url": "https://cc.gob.gt/wp-content/uploads/2023/08/SUMARIO-121.pdf",
+      "titulo": "Corte de Constitucionalidad 2016 Unidad de Gaceta y Jurisprudencia",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/es/media/340246/download",
+      "titulo": "Diagnóstico de la situación de la inspección del trabajo ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/sites/default/files/2024-12/COMENTARIOS%20T%C3%89CNICOS%20OIT%20CONVENIO%20N%C3%9AM.%2081-ed.pdf",
+      "titulo": "COMENTARIOS TÉCNICOS OIT CONVENIO NÚM. 81- ...",
+      "citada": false
+    }
+  ]
+}

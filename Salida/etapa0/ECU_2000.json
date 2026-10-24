@@ -1,0 +1,101 @@
+{
+  "id": "ECU_2000",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0872,
+  "incompleto": false,
+  "norma_propuesta": "Ley para la Transformación Económica del Ecuador (Ley 2000-4, \"Trole I\"), Registro Oficial Suplemento 34, 13 de marzo de 2000",
+  "otras": "Ley para la Promoción de la Inversión y la Participación Ciudadana (\"Trole II\"), Registro Oficial Suplemento 144, 18 de agosto de 2000 (las codificaciones del Código del Trabajo citan una \"Ley 2000-1\" en ese mismo Registro Oficial; no confirmé que el número corresponda a esta ley), con disposiciones laborales declaradas inconstitucionales por la Resolución del Tribunal Constitucional 193-2000-TP",
+  "confianza": "media",
+  "texto": "Elijo como reforma principal de Ecuador en 2000 la **Ley para la Transformación Económica del Ecuador**, conocida como \"Ley Trole I\". Fue publicada en el RO-S 34, de 13 de marzo de 2000. Es una ley amplia que, además de implementar al dólar como moneda de curso legal, trató de promover la privatización y la modernización del Estado, y afectó a varios cuerpos legales siendo uno de ellos el Código de Trabajo.\n\n**Contenido laboral:**\n- **Objetivo declarado:** la exposición de motivos dice que es indispensable, adicionalmente, una reforma laboral que asegure el acceso a las fuentes de trabajo y la competitividad de las empresas nacionales.\n- **Lo que cambia la norma:** su Capítulo XII reforma el Código del Trabajo. Lo más importante es que crea el contrato por horas, que podrá celebrarse para cualquier clase de actividad. Cualesquiera de las partes podrán libremente dar por terminado el contrato. También introduce la unificación salarial y prohíbe la indexación. Según el texto difundido por el gobierno, prohíbe establecer el sueldo o salario básico unificado o el salario sectorial unificado como referentes para cuantificar o reajustar toda clase de ingreso.\n- **Cómo la ven otros autores:** la literatura académica la describe como una ley cuyo principal cambio tiene que ver con la introducción del trabajo por horas. Según una fuente secundaria, esta modalidad nació como un mecanismo de flexibilización laboral.\n\n**Por qué la elijo frente a la otra candidata.** La otra candidata fuerte es la **Ley para la Promoción de la Inversión y la Participación Ciudadana (\"Trole II\")**. Fue publicada en el Registro Oficial No 144 del 18 de agosto de 2000 y tiene incluso más contenido laboral, por ejemplo sobre polifuncionalidad, indemnizaciones, utilidades y contratación colectiva. Sin embargo, el Tribunal Constitucional, mediante Resolución en firme No. 193-2000-TP, resolvió declarar la inconstitucionalidad de la Ley para la Promoción de la Inversión y la Participación Ciudadana, publicada en el Registro Oficial No. 144, de 18 de Agosto del 2000, en materia laboral. Esa resolución se publicó en el Registro Oficial Suplemento No. 234 del 29 de diciembre del 2000. Una fuente académica precisa que la aceptación fue parcial: alcanzó a la creación del trabajo poli-funcional, una limitación a las utilidades, al procedimiento del visto bueno, sobre las indemnizaciones laborales para los dirigentes suplentes, entre otros puntos. En cambio, el contrato por horas de la Trole I siguió aplicándose. Por eso considero que la Trole I es la norma que produjo un tratamiento laboral más claro y duradero.\n\n**Observaciones:**\n- **Confianza media:** el texto de la Trole I aparece en un sitio gubernamental y en la OEA, pero no la verifiqué en NATLEX, y la elección entre las dos leyes requiere criterio.\n- **Número de la ley:** \"Ley 2000-4\" se apoya en vLex, que la registra como \"Ley 4\" (ver la duda sobre \"Ley 2000-1\" en el bloque final). Conviene confirmarlo en el Registro Oficial.\n- **Número del Registro Oficial:** una fuente secundaria cita el No. 33 en lugar del Suplemento 34. Las fuentes con más respaldo indican Suplemento 34.\n\nNORMA: Ley para la Transformación Económica del Ecuador (Ley 2000-4, \"Trole I\"), Registro Oficial Suplemento 34, 13 de marzo de 2000\nOTRAS: Ley para la Promoción de la Inversión y la Participación Ciudadana (\"Trole II\"), Registro Oficial Suplemento 144, 18 de agosto de 2000 (las codificaciones del Código del Trabajo citan una \"Ley 2000-1\" en ese mismo Registro Oficial; no confirmé que el número corresponda a esta ley), con disposiciones laborales declaradas inconstitucionales por la Resolución del Tribunal Constitucional 193-2000-TP\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://www.oas.org/juridico/spanish/mesicic2_ecu_anexo36.pdf",
+      "titulo": "LEY PARA LA TRANSFORMACION ECONOMICA DEL ECUADOR.",
+      "citada": true
+    },
+    {
+      "url": "https://www.net21.org/wp-content/uploads/2024/05/ELISA-LANAS-MEDINA.pdf",
+      "titulo": "LA CONTRATACIÓN LABORAL A PLAZO FIJO Y POR HORAS EN ECUADOR",
+      "citada": true
+    },
+    {
+      "url": "https://vlex.ec/vid/ley-4-ley-transformacion-643461261",
+      "titulo": "Ley 4. Ley para la transformación económica del ecuador (trolebus) - vLex Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://www.economicoproductivo.gob.ec/wp-content/uploads/downloads/2012/08/trole.pdf",
+      "titulo": "1 Texto extraído de la página www.lexis.com.ec GOBIERNO NACIONAL DE",
+      "citada": true
+    },
+    {
+      "url": "https://dspace.uniandes.edu.ec/handle/123456789/15409",
+      "titulo": "Repositorio Digital Uniandes: La reincorporación del contrato por horas, en la legislación laboral ecuatoriana con reglas claras y de cumplimiento obligatorio",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/419/414",
+      "titulo": "La reforma antes de la reforma. La construcción del nuevo Código del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://derechoecuador.com/derecho-laboral-y-la-ley-trole-ii/",
+      "titulo": "Derecho Laboral y la Ley Trole II - Derecho Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://dspace.udla.edu.ec/bitstream/33000/429/1/UDLA-EC-TAB-2010-47.pdf",
+      "titulo": "FACULTAD DE DERECHO ACEPTACIÓN Y CUESTIONAMIENTO A LAS REFORMAS LABORALES",
+      "citada": true
+    },
+    {
+      "url": "https://www.ces.gob.ec/lotaip/2020/Junio/Literal_a2/C%C3%B3digo%20del%20Trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://www.eumed.net/libros-gratis/2007a/240/1e.htm",
+      "titulo": "El Mercado Laboral Ecuatoriano- La profundización de la flexibilización laboral:",
+      "citada": true
+    },
+    {
+      "url": "https://derechoecuador.com/el-contrato-de-trabajo-por-horas/",
+      "titulo": "El Contrato de Trabajo por horas - Derecho Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexis.com.ec/blog/laboral/reincorporacion-del-contrato-por-horas-y-del-contrato-a-plazo-fijo-a-la-legislacion-laboral-en-ecuador",
+      "titulo": "¿Reincorporación del contrato por horas y del contrato a plazo fijo a la legislación laboral en Ecuador?",
+      "citada": false
+    },
+    {
+      "url": "https://derechoecuador.com/trabajo-por-horas/",
+      "titulo": "Trabajo por Horas - Derecho Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://derechoecuador.com/la-ley-trole-ii-y-sus-implicaciones-juriacutedicas-econoacutemicas-y-sociales/",
+      "titulo": "La Ley Trole II y sus Implicaciones Jurídicas, Económicas y Sociales - Derecho Ecuador",
+      "citada": false
+    },
+    {
+      "url": "https://www.defensa.gob.ec/wp-content/uploads/downloads/2023/03/Codigo-de-Trabajo_feb_2023.pdf",
+      "titulo": "Código de trabajo",
+      "citada": false
+    },
+    {
+      "url": "http://icci.nativeweb.org/boletin/18/palacios.html",
+      "titulo": "La ley para la promoción de la inversión y la participación ciudadana, o Ley \"Trole 2\"",
+      "citada": false
+    },
+    {
+      "url": "https://www.radiopichincha.com/leyes-trole-mas-de-dos-decadas-de-intentos-privatizadores-parte-1/",
+      "titulo": "Leyes Trole: más de dos décadas de intentos privatizadores, parte 1 - Radio Pichincha",
+      "citada": false
+    }
+  ]
+}

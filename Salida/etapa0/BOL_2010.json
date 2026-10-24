@@ -1,0 +1,166 @@
+{
+  "id": "BOL_2010",
+  "iso": "BOL",
+  "pais": "Bolivia",
+  "anio": 2010,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1751,
+  "incompleto": false,
+  "norma_propuesta": "Ley N° 065 de Pensiones, de 10 de diciembre de 2010",
+  "otras": "Decreto Supremo N° 0495, de 1 de mayo de 2010; Decreto Supremo N° 0521, de 26 de mayo de 2010; Decreto Supremo N° 0522, de 26 de mayo de 2010",
+  "confianza": "media",
+  "texto": "Elijo la **Ley N° 065 de Pensiones, del 10 de diciembre de 2010**, como reforma principal de Bolivia en 2010. Hay otras dos normas que podrían competir por ese lugar, así que la confianza queda en media y no en alta.\n\n**Qué es la Ley 065.** La Asamblea Legislativa Plurinacional aprobó y promulgó una ley cuyo objeto es establecer la administración del Sistema Integral de Pensiones, así como las prestaciones y beneficios que otorga a los bolivianos y las bolivianas, en sujeción a lo dispuesto en la Constitución Política del Estado. El nuevo sistema tiene tres regímenes: contributivo, semicontributivo y no contributivo (este último con la Renta Dignidad). Los fondos dejan de estar en manos de las administradoras privadas y pasan a la Gestora Pública de la Seguridad Social de Largo Plazo. NATLEX (OIT) la registra con fecha de adopción 2010-12-10, como ley de alcance nacional, publicada en la Gaceta Oficial, separata núm. 201-NEC. Además fue modificada después: NATLEX cita la Ley 5280, de 20 de noviembre de 2024, que modifica la Ley 065 en contribuciones y cobro de contribuciones en mora.\n\n**Por qué la elijo.** Es la única de las candidatas aprobada por el órgano legislativo. También es la de mayor alcance: reorganiza toda la seguridad social de largo plazo para asalariados, trabajadores independientes y población no contributiva. Y aparece en el Diario Oficial y en NATLEX para ese año.\n\n**Las otras candidatas.** Son dos decretos supremos que regulan directamente la relación laboral:\n- **D.S. 0495 (1 de mayo de 2010).** Reforma el procedimiento de reincorporación por despido injustificado. Hace que la conminatoria del Ministerio de Trabajo sea obligatoria en su cumplimiento a partir de su notificación y únicamente pueda impugnarse en la vía judicial, cuya interposición no implica la suspensión de su ejecución. Más tarde fue derogado: Queda abrogado el Decreto Supremo Nº 0495, de 1 de mayo de 2010, por la Ley 1468 de 2022.\n- **D.S. 0521 (26 de mayo de 2010).** Prohíbe toda forma de evasión a la normativa laboral mediante subcontratación, tercerización, externalización, enganche u otras modalidades en tareas propias y permanentes del giro del establecimiento laboral. NATLEX también lo registra (clasificado como inspección laboral, adoptado el 2010-05-26).\n\n**Normas menores.** El mismo día que el D.S. 0521 se aprobó el D.S. 0522, que permite exigir el pago del quinquenio consolidado a simple solicitud escrita. La única fuente que lo respalda es prensa (*Los Tiempos*).\n\n**Advertencia.** Si la base de datos mide sobre todo la regulación del contrato de trabajo (despido, tercerización), y no la seguridad social, la candidata más adecuada sería el D.S. 0495 o el D.S. 0521. Conviene que el equipo lo confirme con el criterio de la base.\n\nNORMA: Ley N° 065 de Pensiones, de 10 de diciembre de 2010\nOTRAS: Decreto Supremo N° 0495, de 1 de mayo de 2010; Decreto Supremo N° 0521, de 26 de mayo de 2010; Decreto Supremo N° 0522, de 26 de mayo de 2010\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N65.html",
+      "titulo": "Bolivia: Ley de Pensiones, 10 de diciembre de 2010",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=85688",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Ley núm. 065 de Pensiones.",
+      "citada": true
+    },
+    {
+      "url": "https://www.derechoteca.com/gacetabolivia/ley-065-del-10-diciembre-2010",
+      "titulo": "Bolivia: Ley No 065 del 10 De Diciembre De 2010 - D-Lex Bolivia - Gaceta Oficial de Bolivia - Legislación - Derechoteca",
+      "citada": true
+    },
+    {
+      "url": "https://bolivia.vlex.com/vid/ley-n-065-pensiones-686802341",
+      "titulo": "Ley Nº 065, de Pensiones - vLex Bolivia",
+      "citada": true
+    },
+    {
+      "url": "https://www.cedla.org/wp-content/uploads/attachments/ALGUNOS%20DECRETOS%202009%20-%202010.pdf",
+      "titulo": "DECRETO SUPREMO 495 DE 1 DE MAYO 2010 Reincorporación Inmediata",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-L-N1468.html",
+      "titulo": "Bolivia: Ley Nº 1468, 3 de octubre de 2022",
+      "citada": true
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N521.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 521, 26 de mayo de 2010",
+      "citada": true
+    },
+    {
+      "url": "https://ilo.org/dyn/natlex/natlex4.detail?p_classification=07&p_isn=83948&p_lang=es",
+      "titulo": "NATLEX - Bolivia (Plurinational State of) - Decreto Supremo núm. 0521 de prohibición de evasión a la normativa laboral.",
+      "citada": true
+    },
+    {
+      "url": "https://www.lostiempos.com/actualidad/economia/20100527/decretan-pago-quinquenio-sola-solicitud",
+      "titulo": "Decretan pago de quinquenio a sola solicitud",
+      "citada": true
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/bolivia-_ley_65_pensiones-2010.pdf",
+      "titulo": "TAPA PENSIONS",
+      "citada": false
+    },
+    {
+      "url": "https://www.bcb.gob.bo/webdocs/normativa/2010%20-%20LEY%200065%20-%20Pensiones.pdf",
+      "titulo": "LEY Nº 065 LEY DE 10 DE DICIEMBRE DE 2010 EVO MORALES AYMA",
+      "citada": false
+    },
+    {
+      "url": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/138860",
+      "titulo": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.aps.gob.bo/files/webdocs/DJ/normativa/pensiones/PRINCIPALES/Ley_065.pdf",
+      "titulo": "0 LEY DE PENSIONES Nº 065 (Texto actualizado a noviembre de 2019) LEY N° 065",
+      "citada": false
+    },
+    {
+      "url": "https://www.gestora.bo/archivos/ver?id=2987",
+      "titulo": "LEY-065-2010",
+      "citada": false
+    },
+    {
+      "url": "https://ohs.com.bo/tool/wp-content/uploads/2023/10/LEY-DE-PENSIONES-065.pdf",
+      "titulo": "LEY Nº 065 LEY DE 10 DE DICIEMBRE DE 2010 EVO MORALES AYMA",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-N495.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 495, 1 de mayo de 2010",
+      "citada": false
+    },
+    {
+      "url": "https://legislacion.com.bo/norma/1852-decreto-supremo-n-0495",
+      "titulo": "DECRETO SUPREMO N° 0495",
+      "citada": false
+    },
+    {
+      "url": "https://www.cedib.org/wp-content/uploads/2013/06/Decreto-Supremo-0495.pdf",
+      "titulo": "Decreto Supremo 0495 (1-Mayo-2010) (Vigente) EVO MORALES AYMA",
+      "citada": false
+    },
+    {
+      "url": "https://jurisprudencia.tcpbolivia.bo/Fichas/Ficha/7109",
+      "titulo": "Tribunal Constitucional Plurinacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.comunidad.org.bo/index.php/indicadores/mostrarJurisprudencias/cod/NO20170110151516",
+      "titulo": "Comunidad",
+      "citada": false
+    },
+    {
+      "url": "https://tdjscz.organojudicial.gob.bo/Recursos/JurisSocial/8434.pdf",
+      "titulo": "NUREJ N° 201153525 NÚMERO DE AUTO DE VISTA N°74 FECHA DE EMISIÓN",
+      "citada": false
+    },
+    {
+      "url": "https://www.procuraduria.gob.bo/Jurisprudencia/2015-1/S.C.P.%20177%20de%2014%20de%20mayo%20de%202012.pdf",
+      "titulo": "SENTENCIA CONSTITUCIONAL PLURINACIONAL 0177/2012 Sucre, 14 de mayo de 2012",
+      "citada": false
+    },
+    {
+      "url": "https://emba.com.bo/procedimiento-especial-para-la-restitucion-de-derechos-laborales/",
+      "titulo": "PROCEDIMIENTO ESPECIAL PARA LA RESTITUCIÓN DE DERECHOS LABORALES",
+      "citada": false
+    },
+    {
+      "url": "https://bolivia.infoleyes.com/norma/1735/decreto-supremo-0521",
+      "titulo": "Decreto Supremo 0521 - Infoleyes Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.pixilegal.com/normativa/decreto-521-2010-05-26",
+      "titulo": "Decreto Supremo 521",
+      "citada": false
+    },
+    {
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-denuncia-que-jefatura-de-trabajo-permite-la-subcontratacion-y-tercerizacion-de-obreros-por-parte-de-la-empresa-sinohydro-corporation-limited",
+      "titulo": "Defensoría del Pueblo denuncia que Jefatura de Trabajo permite la subcontratación y tercerización de obreros por parte de la empresa Sinohydro Corporation Limited",
+      "citada": false
+    },
+    {
+      "url": "https://correodelsur.com/capitales/20170905/el-outsourcing-esta-prohibido-en-bolivia.html",
+      "titulo": "¿El outsourcing está prohibido en Bolivia?",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/packages/lexml/buscar_normas.php?id_tipo_norma=5&con_jurisprudencia=f&fecha_promulgacion_min=1825-08-08&fecha_promulgacion_max=2024-02-11&sacb524current=2896&lang=es",
+      "titulo": "Buscar normas",
+      "citada": false
+    },
+    {
+      "url": "https://www.rel-uita.org/sindicatos/lucha-contra-la-tercerizacion-en-bolivia/",
+      "titulo": "Lucha contra la tercerización en Bolivia",
+      "citada": false
+    },
+    {
+      "url": "https://www.lexivox.org/norms/BO-DS-28699.html",
+      "titulo": "Bolivia: Decreto Supremo Nº 28699, 1 de mayo de 2006",
+      "citada": false
+    }
+  ]
+}

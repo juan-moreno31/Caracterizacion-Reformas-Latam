@@ -1,0 +1,66 @@
+{
+  "id": "DOM_1992",
+  "iso": "DOM",
+  "pais": "República Dominicana",
+  "anio": 1992,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0664,
+  "incompleto": false,
+  "norma_propuesta": "Ley 16-92 (Código de Trabajo de la República Dominicana)",
+  "otras": "ninguna",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de República Dominicana en 1992 es la **Ley 16-92, que aprueba el Código de Trabajo**. NATLEX (OIT) la registra con fecha de adopción 1992-05-29, con entrada en vigor el 1992-06-17 y como publicada en la Gaceta Oficial el 1992-05-31. El Ministerio de Trabajo también la publica como Ley 16-92 promulgada el 29 de Mayo del 1992.\n\n**Por qué es la que corresponde:**\n- **Alcance.** No es una enmienda parcial. Es un código completo que sustituye al anterior: deroga expresamente el Código de Trabajo de 1951 [Código Trujillo], la legislación modificatoria del mencionado código y cualquier otra disposición legal que sea contraria.\n- **Cobertura.** Regula de forma integral las relaciones laborales, de carácter individual y colectivo, establecidas entre trabajadores y empleadores o sus organizaciones profesionales. Esto incluye el contrato, el despido, la jornada, la libertad sindical y la justicia laboral.\n- **Codebook.** Por ser un código, en etapas posteriores habrá que caracterizar solo su componente laboral (que aquí es todo el texto) y clasificarlo como `tipo_instrumento = codigo`. Como lo aprobó el Congreso Nacional, también podría codificarse como `ley`; conviene decidirlo de forma uniforme para toda la base.\n\n**Otras candidatas:** No encontré otras normas laborales de 1992 en las fuentes que consulté. Algunas cosas a tener en cuenta:\n- Creo que el reglamento de aplicación del Código se dictó en 1993, pero no lo verifiqué (sin fuente). Si se confirma, no pertenece a este país-año.\n- Las reformas posteriores a artículos del Código, como las que menciona un catálogo bibliográfico, también son de otros años.\n\n**Para `notas`:** El año de expedición coincide con el año de la base. La entrada en vigor ocurrió pocas semanas después de la promulgación, dentro de 1992.\n\nNORMA: Ley 16-92 (Código de Trabajo de la República Dominicana)\nOTRAS: ninguna\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://do.vlex.com/vid/ley-n-16-92-840887813",
+      "titulo": "Ley Nº 16-92. Ley que Aprueba el Codigo de Trabajo. - vLex República Dominicana",
+      "citada": true
+    },
+    {
+      "url": "https://transparencia.mt.gob.do/index.php/base-legal/item/codigo-laboral",
+      "titulo": "Ley No. 16-92 (Código de Trabajo) - Ministerio de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=29744",
+      "titulo": "NATLEX - Dominican Republic - Ley núm. 16-92 que aprueba el Código de Trabajo.",
+      "citada": true
+    },
+    {
+      "url": "https://mt.gob.do/wp-content/uploads/2024/07/codigo_de_trabajo.pdf",
+      "titulo": "codigo de trabajo (ley 16-92) y normas complementarias",
+      "citada": false
+    },
+    {
+      "url": "https://dpej.rae.es/eli/do/l/1992/05/29/16",
+      "titulo": "Ley 16-92, que aprueba el Código de Trabajo de la República Dominicana, de 29 de mayo de 1992 - Diccionario panshipánico del español jurídico - RAE",
+      "citada": false
+    },
+    {
+      "url": "http://legalia.com.do/serve/listfile_download.aspx?id=1017&num=1",
+      "titulo": "CÓDIGO DE TRABAJODE LA REPÚBLICA DOMINICANA LEY NO. 16-92",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/C%C3%B3digo_de_Trabajo_(Rep%C3%BAblica_Dominicana)",
+      "titulo": "Código de Trabajo (República Dominicana)",
+      "citada": false
+    },
+    {
+      "url": "https://justiciaytransparencia.com.do/wp-content/uploads/2023/07/CODIGO-DE-TRABAJO-interactivo.pdf",
+      "titulo": "CÓDIGO DE TRABAJO DE LA REPÚBLICA DOMINICANA TRAJANO VIDAL POTENTINI A.",
+      "citada": false
+    },
+    {
+      "url": "https://lawcat.berkeley.edu/record/146793?ln=en",
+      "titulo": "Código de trabajo de la República Dominicana :",
+      "citada": false
+    },
+    {
+      "url": "https://opacbiblioteca.unibe.edu.do/bib/111387",
+      "titulo": "Details for: Código de trabajo de la República Dominicana : ley 16-92 › Biblioteca UNIBE catalog",
+      "citada": false
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "VEN_2024",
+  "iso": "VEN",
+  "pais": "Venezuela",
+  "anio": 2024,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1709,
+  "incompleto": false,
+  "norma_propuesta": "Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista (Gaceta Oficial N.° 6.806 Extraordinario, 8 de mayo de 2024)",
+  "otras": "Decreto N.° 4.952 (Gaceta Oficial N.° 42.880, 16 de mayo de 2024); Providencia SNAT/2024/000042 (Gaceta Oficial N.° 42.881, 17 de mayo de 2024); Decreto N.° 5.070 de inamovilidad laboral (Gaceta Oficial N.° 6.868 Extraordinario, 27 de diciembre de 2024); Reforma Parcial del Régimen Prestacional de Vivienda y Hábitat (2024); Ley Orgánica para la Inclusión, Igualdad y Desarrollo Integral de las Personas con Discapacidad (2024)",
+  "confianza": "media",
+  "texto": "**Resumen de identificación**\n\nElijo como norma principal de VEN 2024 la Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista. Fue publicada el 8 de mayo de 2024 en la Gaceta Oficial No. 6.806 Extraordinario y sancionada por la Asamblea Nacional. Pude consultar su texto en la reproducción de esa Gaceta. Su objetivo declarado es establecer mecanismos transparentes y participativos orientados a la protección de las pensiones de seguridad social frente al impacto negativo causado por las medidas coercitivas unilaterales. En la práctica, según Acceso a la Justicia, solo se crea una \"contribución especial\". Esa contribución recae sobre nómina y la pagan las personas jurídicas privadas. Su base mínima de cálculo es el ingreso mínimo integral indexado definido por el Ejecutivo Nacional, y la recauda el SENIAT. La ley es distinta e independiente de los aportes que corresponde a las empleadoras y empleadores que se realizan al Instituto Venezolano de los Seguros Sociales.\n\nLa elegí porque es la única ley de 2024 aprobada por el órgano legislativo que cambia algo sustantivo del mercado laboral: el costo laboral no salarial y el financiamiento de pensiones. Una salvedad para la base: más que una reforma de la relación laboral, es un tributo para la seguridad social.\n\n**Candidatas descartadas como principales**\n- **Decreto N.° 5.070 de inamovilidad laboral.** Se publicó en la Gaceta Oficial n.° 6.868 Extraordinario del 27/12/2024 y rige desde el 1 de enero de 2025. Renueva una medida que Venezuela mantiene desde hace décadas, casi de forma continua; el decreto anterior cubría 2023-2024. Su novedad es que no cambia el régimen de despido, así que no lo considero una reforma. Además, su efecto corresponde a 2025.\n- **Aumento del \"ingreso mínimo integral\" anunciado el 1 de mayo de 2024.** Se hizo con bonos sin tocar el salario mínimo mensual. Además, los ajustes de enero y mayo de 2024 no fueron publicados en la Gaceta Oficial, una situación que pone en duda su validez legal. Sin norma publicada, no puede ser la reforma principal.\n- **Otras normas del año:** la Reforma Parcial del Régimen Prestacional de Vivienda y Hábitat, que el Presidente firmó para su promulgación el mismo 1 de mayo, y la Ley Orgánica para la Inclusión, Igualdad y Desarrollo Integral de las Personas con Discapacidad, sancionada en marzo y que tiene un componente laboral. No verifiqué el número de Gaceta de ninguna de las dos.\n\n**Limitaciones**\n- No consulté NATLEX ni EPLex para este país-año.\n- La alícuota y la recaudación dependen de normas posteriores: el Decreto N° 4.952, publicado en la Gaceta Oficial N° 42.880 del 16 de mayo de 2024, y la Providencia N° SNAT/2024/000042 del SENIAT.\n- Pongo la confianza en \"media\" por dos razones: hay varias candidatas, y no está claro que la norma elegida sea una reforma laboral en sentido estricto. El texto oficial de la ley sí está verificado.\n\nNORMA: Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista (Gaceta Oficial N.° 6.806 Extraordinario, 8 de mayo de 2024)\nOTRAS: Decreto N.° 4.952 (Gaceta Oficial N.° 42.880, 16 de mayo de 2024); Providencia SNAT/2024/000042 (Gaceta Oficial N.° 42.881, 17 de mayo de 2024); Decreto N.° 5.070 de inamovilidad laboral (Gaceta Oficial N.° 6.868 Extraordinario, 27 de diciembre de 2024); Reforma Parcial del Régimen Prestacional de Vivienda y Hábitat (2024); Ley Orgánica para la Inclusión, Igualdad y Desarrollo Integral de las Personas con Discapacidad (2024)\nCONFIANZA: media",
+  "fuentes": [
+    {
+      "url": "https://accesoalajusticia.org/ley-de-proteccion-de-las-pensiones-de-seguridad-social/",
+      "titulo": "Ley de Protección de las Pensiones de Seguridad Social │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://central-law.com/venezuela-ley-de-proteccion-de-las-pensiones-de-seguridad-social/",
+      "titulo": "Venezuela",
+      "citada": true
+    },
+    {
+      "url": "https://dhqr.me/wp-content/uploads/2024/05/Ley-de-proteccion-de-las-pensiones-de-seguridad-social-frente-al-bloqueo-imperialista.pdf",
+      "titulo": "6.806 Extraordinario GACETA OFICIAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA",
+      "citada": true
+    },
+    {
+      "url": "https://araquereyna.com/promulgada-ley-de-proteccion-de-las-pensiones-de-seguridad-social-frente-al-bloqueo-imperialista/",
+      "titulo": "Promulgada la Ley de Protección de las Pensiones de Seguridad Social Frente al Bloqueo Imperialista",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/inamovilidad-laboral-por-dos-2-anos-2025-2026-para-trabajadorases-de-los-sectores-publico-y-privado/",
+      "titulo": "Inamovilidad Laboral por dos años (2025-2026) para trabajadores de los sectores público y privado │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/noticias/comision-de-desarrollo-impulso-en-2024-la-proteccion-de-trabajadores-y-de-personas-con-discapacidad",
+      "titulo": "Comisión de Desarrollo impulsó en 2024 la protección de trabajadores y de personas con discapacidad",
+      "citada": true
+    },
+    {
+      "url": "https://finiquitojusto.com/noticias-y-reformas-laborales/la-inamovilidad-laboral/",
+      "titulo": "Inamovilidad Laboral Venezuela 2026",
+      "citada": true
+    },
+    {
+      "url": "https://accesoalajusticia.org/mas-4-meses-despues-1-de-mayo-persiste-inseguridad-juridica-politica-salarial-venezolana/",
+      "titulo": "Más de 4 meses después del 1 de mayo persiste la inseguridad jurídica en la política salarial venezolana │ Acceso a la Justicia",
+      "citada": true
+    },
+    {
+      "url": "https://www.lablabor.com.ve/nuevo-ingreso-minimo-en-130-dolares/",
+      "titulo": "Nuevo ingreso mínimo integral en 130 dólares - LabLabor",
+      "citada": true
+    },
+    {
+      "url": "https://www.hklaw.com/-/media/files/insights/publications/2024/05/venezuelaeconomicoutlookes.pdf?rev=-1&hash=6372F294A69350F86B57E2252DB051B5",
+      "titulo": "Copyright © 2024 Holland & Knight LLP All Rights Reserved",
+      "citada": true
+    },
+    {
+      "url": "https://www.dentons.com/en/insights/alerts/2024/june/5/the-law-for-the-protection-of-social-security-pensions-against-the-imperialist-blockade",
+      "titulo": "Dentons - The Law for the Protection of Social Security Pensions against the Imperialist Blockade entered into force",
+      "citada": false
+    },
+    {
+      "url": "https://galac.com/galac-blog/ley-proteccion-pensiones-lppss/",
+      "titulo": "Ley de Protección de las Pensiones LPPSS: guía completa",
+      "citada": false
+    },
+    {
+      "url": "https://www.resumenlatinoamericano.org/2024/05/09/venezuela-conozca-la-nueva-ley-de-proteccion-de-pensiones-de-seguridad-social/",
+      "titulo": "Venezuela. Conozca la nueva Ley de Protección de Pensiones de Seguridad Social - Resumen Latinoamericano",
+      "citada": false
+    },
+    {
+      "url": "https://lega.law/en/que-saber-sobre-la-ley-de-proteccion-de-las-pensiones-10-datos/",
+      "titulo": "¿Qué saber sobre la Ley de Protección de las pensiones? 10 datos - LEGA",
+      "citada": false
+    },
+    {
+      "url": "https://thehornetonline.com/ley-proteccion-pensiones-bloqueo-venezuela-2026/",
+      "titulo": "Venezuela Promulga Ley de Protección de Pensiones ante el Bloqueo",
+      "citada": false
+    },
+    {
+      "url": "https://thehornetonline.com/ley-proteccion-pensiones-venezuela-2026/",
+      "titulo": "Venezuela",
+      "citada": false
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/noticias/diputado-orlando-camacho-reforma-de-la-lottt-debe-surgir-del-consenso-entre-las-partes",
+      "titulo": "Asamblea Nacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/noticias/diputado-jesus-faria-considera-necesario-reformar-legislacion-laboral",
+      "titulo": "Diputado Jesús Faría considera necesario reformar legislación laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.aporrea.org/actualidad/n418337.html",
+      "titulo": "Jesús Faría: \"Es necesario reformar la legislación laboral en Venezuela\"",
+      "citada": false
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/leyes/sancionadas/ley-organica-procesal-del-trabajo",
+      "titulo": "Ley Orgánica Procesal del Trabajo - Asamblea Nacional",
+      "citada": false
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ve/leyes/sancionadas/decreto-n0-8938-mediante-el-cual-se-dicta-el-decreto-con-rango-valor-y-fuerza-de-la-ley-organica-del-trabajo-los-trabajadores-y-las-trabajadoras",
+      "titulo": "Decreto N° 8.938, mediante el cual se dicta el Decreto con Rango, Valor y Fuerza de la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras.",
+      "citada": false
+    },
+    {
+      "url": "https://unitel.bo/noticias/agencias/venezuela-evaluara-reforma-de-ley-del-trabajo-en-medio-de-protestas-por-aumento-de-salario-FC20222676",
+      "titulo": "Venezuela evaluará reforma de ley del trabajo en medio de protestas por aumento de salario",
+      "citada": false
+    },
+    {
+      "url": "https://lega.law/decreto-de-inamovilidad-laboral-a-favor-de-los-trabajadores-del-sector-publico-y-privado-por-un-lapso-de-dos-2-anos-2/",
+      "titulo": "Decreto de inamovilidad laboral a favor de los trabajadores del sector público y privado por un lapso de dos (2) años - LEĜA Abogados",
+      "citada": false
+    },
+    {
+      "url": "https://naymaconsultores.com/ingreso-minimo-integral-indexado-a-ciento-treinta-dolares/",
+      "titulo": "Ingreso mínimo integral indexado a Ciento Treinta Dólares",
+      "citada": false
+    },
+    {
+      "url": "https://larepublica.pe/datos-lr/venezuela/2024/05/01/salario-indexado-2024-que-significa-y-a-cuanto-asciende-en-venezuela-lrtmv-14716",
+      "titulo": "Salario indexado 2024: ¿qué significa y a cuánto asciende en Venezuela?",
+      "citada": false
+    },
+    {
+      "url": "https://www.elcaribe.com.do/panorama/internacionales/salario-indexado-2024-que-significa-y-a-cuanto-asciende-en-venezuela/",
+      "titulo": "Salario indexado 2024: ¿qué significa y a cuánto asciende en Venezuela?",
+      "citada": false
+    },
+    {
+      "url": "https://www.bancaynegocios.com/guia-minima-todo-lo-que-necesita-saber-sobre-el-ajuste-del-ingreso-minimo-y-las-pensiones/",
+      "titulo": "Guía mínima: Todo lo que necesita saber sobre el ajuste del ingreso mínimo y las pensiones - Banca y Negocios",
+      "citada": false
+    },
+    {
+      "url": "https://www.vozdeamerica.com/a/gobierno-venezuela-fija-ingreso-minimo-integral-en-130-dolares-mensuales/7593552.html",
+      "titulo": "Gobierno de Venezuela fija \"ingreso mínimo integral\" en 130 dólares mensuales",
+      "citada": false
+    },
+    {
+      "url": "https://presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=27633",
+      "titulo": "WEB MPPDPSGG (Noticia)",
+      "citada": false
+    },
+    {
+      "url": "https://cnnespanol.cnn.com/2024/05/02/nuevo-ingreso-minimo-integral-en-venezuela-se-ubicara-en-us-130-el-gobierno-no-precisa-en-cuanto-quedara-el-salario-minimo-trax",
+      "titulo": "Nuevo “ingreso mínimo integral” en Venezuela se ubicará en US$ 130; el Gobierno no precisa en cuánto quedará el salario mínimo",
+      "citada": false
+    }
+  ]
+}

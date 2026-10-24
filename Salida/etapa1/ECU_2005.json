@@ -1,0 +1,264 @@
+{
+  "id": "ECU_2005",
+  "iso": "ECU",
+  "pais": "Ecuador",
+  "anio": 2005,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.3616,
+  "incompleto": false,
+  "norma": "Codificación del Código del Trabajo No. 2005-017 (Registro Oficial Suplemento 167, 16-dic-2005)",
+  "texto": "# Informe de investigación: ECU 2005, Codificación del Código del Trabajo No. 2005-017\n\n## 1. Objetivo declarado\n\nLa introducción oficial dice que la Comisión de Legislación y Codificación del Congreso Nacional consideró necesaria esta Codificación con la finalidad de mantener actualizada la legislación laboral, observando las disposiciones de la Constitución Política de la República; convenios con la Organización Internacional del Trabajo, OIT, ratificados por el Ecuador; leyes reformatorias a éste Código; observaciones formuladas por el H. doctor Marco Proaño Maya. También tomó en cuenta el Código de la Niñez y Adolescencia; Ley Orgánica de Servicio Civil y Carrera Administrativa y de Unificación y Homologación de las Remuneraciones del Sector Público; y, resoluciones del Tribunal Constitucional.\n\nEl objetivo declarado es, por tanto, técnico: armonizar y consolidar el texto. No encontré una exposición de motivos con fines de política de empleo como generar empleo, flexibilizar o proteger.\n\n## 2. Qué cambia efectivamente\n\nLa introducción oficial confirma que el contenido es de sistematización. Los cambios identificados son de cuatro tipos:\n\n- **Exclusión de artículos derogados tácitamente.** La Comisión destaca la no inclusión de los artículos 115 y 116 derogados tácitamente por lo dispuesto en el Art. 94 de la Ley para la Transformación Económica del Ecuador. Esa ley es del año 2000 y unificó los salarios.\n- **Ajustes institucionales.** El órgano técnico de salarios se ha transformado en la Unidad Técnica Salarial, adscrita al Ministerio de Trabajo y Empleo; y no se incluyen los artículos 552 y 554 ya que no existe el cargo ni función de subinspector. Además, se sustituyen las referencias del \"Ministerio de Economía y Finanzas\" por \"Servicio de Rentas Internas\".\n- **Trabajo de adolescentes.** Se armonizó el artículo correspondiente de conformidad a lo establecido en el Convenio con la OIT No. 138, y al Código de la Niñez.\n- **Procedimiento oral.** Se han incluido las disposiciones que regulan el procedimiento oral en la solución de controversias individuales de trabajo, junto con sus disposiciones transitorias.\n\n**Dimensiones del codebook (solo las que aplican):**\n\n| Dimensión | Efecto | Justificación |\n|---|---|---|\n| `justicia_laboral_e_inspeccion` | `reorganiza` | Integra al Código el juicio oral, creado por una ley anterior, y suprime la figura inexistente del subinspector. No crea nuevas garantías. |\n| `salario_y_negociacion_salarial` | `reorganiza` | Excluye normas ya derogadas tácitamente por la unificación salarial del año 2000 y renombra el órgano técnico de salarios. |\n| `empleo_juvenil_y_aprendizaje` | `reorganiza` (tentativo) | Recoge en el Código protecciones a adolescentes que ya existían en el Convenio de la OIT y en el Código de la Niñez y Adolescencia. Podría codificarse como `aumenta` si se mide el texto del Código y no el ordenamiento en su conjunto. **Esta decisión queda para la etapa 2.** |\n\n**Advertencia para el tratamiento.** La Codificación mantuvo figuras flexibilizadoras anteriores, como la contratación por horas y referencias a la tercerización e intermediación. Lo prueba que en 2008 el Mandato Constituyente 8 tuvo que derogar los artículos 11 literal h), 14 literal g), 17 la frase: \"por horas\" incisos sexto al décimotercero, 19 literal j), 41 inciso 2º y las palabras \"o intermediarios\" del artículo 100 de la Codificación del Código del Trabajo. Esas figuras venían de la Ley para la Transformación Económica de 2000. **No deben atribuirse como cambio de 2005.**\n\n**Declarado vs. efectivo:** coinciden. Lo declarado es consolidar y lo efectivo es consolidar, con cambios institucionales menores. No hallé cambios sustantivos nuevos en contratación, despido, jornada o derechos colectivos.\n\n## 3. Población objetivo\n\n`general`. Es un texto que abarca todo el Código. Los preceptos de este Código regulan las relaciones entre empleadores y trabajadores y se aplican a las diversas modalidades y condiciones de trabajo. Como componente secundario podría añadirse `jovenes` por la armonización sobre adolescentes.\n\n## 4. Contexto político y económico\n\nLa Codificación se adoptó en un año de grave inestabilidad. El Congreso legislativo de Ecuador destituyó este miércoles al presidente Lucio Gutiérrez, abriendo paso a la asunción del vicepresidente Alfredo Palacio, luego de una semana de intensas movilizaciones en la capital del país y de cuatro meses de crisis política. Esto ocurrió el 20 de abril de 2005. La crisis se agudizó a fines de 2004, cuando Gutiérrez impulsó una cuestionada renovación de la Corte Suprema.\n\nNo encontré fuentes que vinculen la Codificación con la agenda del gobierno de Palacio ni con la crisis. Por su carácter técnico, parece más bien un trabajo de rutina de la Comisión de Legislación y Codificación. Tampoco consulté fuentes de CEPAL, BID o Banco Mundial sobre el contexto macroeconómico de 2005: **sin verificar**.\n\n## 5. ¿Revierte una reforma previa?\n\nNo. No restaura normas derogadas ni anula reformas anteriores. Solo confirma en el texto exclusiones que ya habían ocurrido de forma tácita en 2000. `revierte_reforma_previa` = false.\n\n## 6. Fecha de entrada en vigor\n\nEs una consolidación oficial: El Código del Trabajo ha sido objeto de varias codificaciones oficiales. Las dos fueron: la Codificación del Código del Trabajo de 1997 (Cod. s/n. RO 162: 29-sep-1997), y la de 2005 (Cod. 2005-017. RO-S 167: 16-dic-2005).\n\n- **Adopción:** 2005-10-18, según NATLEX. El dato proviene del informe previo y aparece también como referencia de NATLEX: 2005-10-18 (ECU-2005-L-74469) Codificación del Código del Trabajo 2005-017.\n- **Publicación:** 2005-12-16, Registro Oficial Suplemento 167.\n- **Vigencia:** no encontré una cláusula expresa de vigencia. Lo habitual en Ecuador es que rija desde su publicación en el Registro Oficial, de modo que la fecha propuesta es 2005-12-16. **Esto no está verificado en el texto**, y el año base coincide en cualquier caso.\n- **Aplicación escalonada:** no encontré evidencia propia de la Codificación. El juicio oral incorporado venía con disposiciones transitorias de la ley que lo creó. Su implantación gradual por distritos judiciales es plausible pero **sin fuente**, y en todo caso sería atribuible a esa ley, no a la Codificación. `vigencia_escalonada` = false, con nota.\n\n## 7. Estado de vigencia posterior\n\nEl texto se aplicó y sigue siendo la base del Código vigente. Ha sido reformado muchas veces. Una edición reciente lo registra como Vigente Última Reforma: Suplemento del Registro Oficial 286, 18-V-2026. Categoría propuesta: **`modificada_o_derogada_despues`**.\n\nModificaciones principales:\n\n- **2006–2007:** se le hicieron reformas casi de inmediato. Entre las fuentes de la edición consolidada figuran Ley 2006-28 (Registro Oficial 198, 30-I-2006), la Ley 2006-60 y la Ley 2007-77. Incluso hubo fe de erratas. La Ley 2006-48 reguló la intermediación laboral y la tercerización de servicios complementarios.\n- **2008, Mandato Constituyente 8:** elimina y prohíbe la tercerización e intermediación laboral y cualquier forma de precarización de las relaciones de trabajo en las actividades a las que se dedique la empresa o empleador. La relación laboral será directa y bilateral entre trabajador y empleador. Elimina y prohíbe la contratación laboral por horas. NATLEX lo registra como norma que modifica la Codificación 2005-017. No anuló contenido nuevo de 2005, sino figuras heredadas de 2000.\n- **2015, Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar:** según la Asamblea, elimina el contrato a prueba como modalidad de contratación y dispone la inclusión del período de prueba en todo contrato indefinido de trabajo que se celebre por primera vez. Se elimina el desahucio para los empleadores y se mantiene únicamente para los trabajadores.\n- **2015, Código Orgánico General de Procesos:** pasó a ser norma supletoria del Código del Trabajo (Sustituido por el num. 1 de la Disposición Reformatoria Sexta del Código s/n, R.O. 506-S, 22-V-2015). Esto afecta al componente procesal que la Codificación había incorporado.\n\n**Fallos judiciales:** no encontré fallos que anulen o suspendan partes de la Codificación de 2005 como tal. La Sentencia 002-18-SIN-CC de la Corte Constitucional se refiere a artículos de la ley de 2015, no a la Codificación. Debe ir, como mucho, en `notas`.\n\n## 8. Lo que no pude verificar\n\n1. La cláusula de vigencia y la fecha exacta en que entró en vigor.\n2. Si la Codificación incorporó la Ley 2005-3, reformatoria del procedimiento oral y publicada en julio de 2005. Es probable por las fechas, pero no está confirmado.\n3. El contenido concreto de la Ley 2004-43 y cómo se integró.\n4. Qué cambios concretos produjeron las observaciones del diputado Proaño Maya. La introducción las enumera por artículo, pero no revisé su contenido.\n5. Fuentes multilaterales o académicas que analicen esta Codificación. No encontré ninguna, lo que es coherente con que no sea una reforma sustantiva.\n\n**Recomendación para la etapa 2:** codificarla como `administrativa`, tipo de instrumento `codigo` (codificación del Congreso), y mantener la confianza de identificación en `media`. Conviene advertir en `notas` que, como variable de tratamiento, probablemente no represente un cambio en la regulación del mercado laboral. Si la base busca una reforma sustantiva de Ecuador en esos años, los candidatos más fuertes estarían fuera de 2005: la Ley 2006-48 sobre tercerización y el Mandato Constituyente 8 de 2008.",
+  "fuentes": [
+    {
+      "url": "https://www.ces.gob.ec/lotaip/2020/Junio/Literal_a2/C%C3%B3digo%20del%20Trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/a1be2388-70cc-4ffd-809b-1fa20d9b810f/CODIGO+DEL+TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO (Codificación No. 2005-017) Nota:",
+      "citada": true
+    },
+    {
+      "url": "https://www.defensa.gob.ec/wp-content/uploads/downloads/2016/05/abr16_CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://www.uafe.gob.ec/wp-content/uploads/downloads/2019/06/A2-CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=79927",
+      "titulo": "NATLEX - Ecuador - Mandato Constituyente núm. 8.",
+      "citada": true
+    },
+    {
+      "url": "https://juristasecuador.com/2023/01/13/codigo-del-trabajo-ecuador/",
+      "titulo": "Código del Trabajo / Ecuador",
+      "citada": true
+    },
+    {
+      "url": "https://www.loreto.gob.ec/index.php/transparencia/transparencia-activa/01-estructura-organica-funcional/01-2-base-legal/1280-mandato-constituyente-no-8-eliminacion-y-prohibicion-de-la-tercerizacion-intermediacion-laboral-contratacion-laboral-por-horas-y-cualquier-forma-de-precarizacion-de-las-relaciones-de-trabajo-suplemento-del-registro-oficial-no-330-6-de-mayo-2008/file",
+      "titulo": "Suplemento del Registro Oficial No. 330 , 6 de Mayo 2008",
+      "citada": true
+    },
+    {
+      "url": "https://usgn.espe.edu.ec/wp-content/uploads/2020/07/CODIGO-TRABAJO-.pdf",
+      "titulo": "Codificación del Código del Trabajo (1)",
+      "citada": true
+    },
+    {
+      "url": "https://www.bicade.com.ec/wp-content/uploads/2025/05/CODIGO-DEL-TRABAJO-Actualizado-al-14-de-mayo-de-2025.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": true
+    },
+    {
+      "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/fc80c975-8a69-46d4-84da-4f5bdc998f2e/Codigo_Trabajo_16052024.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO (Codificación No. 2005-017)",
+      "citada": true
+    },
+    {
+      "url": "https://www.defensa.gob.ec/wp-content/uploads/downloads/2021/12/CODIGO-DE-TRABAJO_act_nov-2021.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": true
+    },
+    {
+      "url": "https://www.dspace.espol.edu.ec/bitstream/123456789/68665/1/C%C3%93DIGO_DEL_TRABAJO(mayo%202026).pdf",
+      "titulo": "https://edicioneslegales.com.ec/ Pág. 1 de 606",
+      "citada": true
+    },
+    {
+      "url": "https://www.elcomercio.com/actualidad/politica/alfredo-palacio-medico-asumio-presidencia-caida-lucio-gutierrez/",
+      "titulo": "Lucio Gutiérrez cae, Alfredo Palacio sube: así fue el giro político del 2005 en Ecuador - El Comercio",
+      "citada": true
+    },
+    {
+      "url": "https://ipsnoticias.net/2005/04/ecuador-derrocado-lucio-gutierrez/",
+      "titulo": "ECUADOR: Derrocado Lucio Gutiérrez : IPS Agencia de Noticias",
+      "citada": true
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/39030-ley-organica-para-la-justicia-laboral-y",
+      "titulo": "Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar (T195798)",
+      "citada": true
+    },
+    {
+      "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2017/05/CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.comunicacion.gob.ec/wp-content/uploads/downloads/2015/06/a2-Anexo-Codigo-de-Trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.cfn.fin.ec/wp-content/uploads/downloads/2016/08/Codigo-de-trabajo-1.pdf",
+      "titulo": "1 1 CODIGO DEL TRABAJO 2 3 Norma: Codificación 17 4",
+      "citada": false
+    },
+    {
+      "url": "https://www.iess.gob.ec/documents/10162/2903501/I.2+Base_Legal+Codigo+de+Trabajo.pdf?version=1.0",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.consejodecomunicacion.gob.ec/wp-content/uploads/downloads/2019/01/base_legal/CODIGO%20DEL%20TRABAJO.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.epmgidsa.gob.ec/wp-content/uploads/2020/03/codigo_de_trabajo.pdf",
+      "titulo": "CODIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=79927",
+      "titulo": "Ecuador - Mandato Constituyente núm. 8.",
+      "citada": false
+    },
+    {
+      "url": "https://www.fundacionmuseosquito.gob.ec/lotaip/2019/00.archivos/lit.a2/REGLAMENTO%20AL%20MANDATO%20CONSTITUYENTE%20Nro%208.pdf",
+      "titulo": "Nº 1121 Rafael Correa Delgado PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA",
+      "citada": false
+    },
+    {
+      "url": "https://www.eeq.com.ec/documents/d/empresa-electrica-quito/4af6f6a5-23f2-436d-91d8-ae3a103b0b9b-2",
+      "titulo": "BASE LEGAL 1 MANDATO CONSTITUYENTE 8 ELIMINACION Y",
+      "citada": false
+    },
+    {
+      "url": "https://dspace.uhemisferios.edu.ec/items/0872e1d7-845c-4f38-a779-b1c7c84eed29",
+      "titulo": "El mandato No. 8, eliminación de la tercerización, intermediación laboral y trabajo por horas: legalidad, problemas jurídicos, repercusiones y responsabilidad del estado ecuatoriano",
+      "citada": false
+    },
+    {
+      "url": "https://www.defensoria.gob.ec/images/defensoria/pdfs/lotaip2014/info-legal/Mandato_constituyente_eliminacion_tercerizacion.pdf",
+      "titulo": "MANDATO CONSTITUYENTE 8 ELIMINACION Y PROHIBICION DE TERCERIZACION Norma:",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/2024/01/CODIGO_DEL_TRABAJO-CT.pdf",
+      "titulo": "Vigente Última Reforma: Suplemento del Registro Ofici",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecuadorencifras.gob.ec/LOTAIP/2017/DIJU/octubre/LA2_OCT_DIJU_CODIGO%20TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://gadgualaquiza.gob.ec/x2/wp-content/uploads/2024/04/CODIGO_DEL_TRABAJO_-_CT.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/CODIGO_DEL_TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.uafe.gob.ec/wp-content/uploads/downloads/2020/04/A2-CODIGO-DEL-TRABAJO.pdf",
+      "titulo": "CÓDIGO DEL TRABAJO Codificación 17",
+      "citada": false
+    },
+    {
+      "url": "https://www.quitohonesto.gob.ec/anexos/2020/Literal_a2_CTdic2020.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6ICJub3RhaXAyMDIzIiwgdXVpZDoiNjI2OWE2NWItZWYxNy00ZjQ4LWFkYzktNDZiYzM3MGQzOWUzLnBkZiJ9",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecuadorencifras.gob.ec/LOTAIP/2017/DIJU/diciembre/LA2_OCT_DIJU_CODIGO%20TRABAJO.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://www.propiedadintelectual.gob.ec/wp-content/uploads/downloads/2018/mayo/a2_codigo_trabajo_mayo_2018.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre 2005",
+      "citada": false
+    },
+    {
+      "url": "https://bde.fin.ec/wp-content/uploads/2023/06/CT-ULTMOD-12MAY2023.pdf",
+      "titulo": "Suplemento del Registro Oficial No. 167 , 16 de Diciembre ...",
+      "citada": false
+    },
+    {
+      "url": "https://www.fuhem.es/papeles_articulo/crisis-en-ecuador-tercer-presidente-derrocado-en-una-decada/",
+      "titulo": "XIMENA ENDARA OSEJO Y FERNANDO CARVAJAL Crisis en Ecuador: tercer presidente",
+      "citada": false
+    },
+    {
+      "url": "https://www.swissinfo.ch/spa/politica-suiza/destituido-el-presidente-de-ecuador/4468106",
+      "titulo": "Destituido el presidente de Ecuador - SWI swissinfo.ch",
+      "citada": false
+    },
+    {
+      "url": "https://es.wikinews.org/wiki/Congreso_ecuatoriano_destituye_a_Lucio_Guti%C3%A9rrez",
+      "titulo": "Congreso ecuatoriano destituye a Lucio Gutiérrez - Wikinoticias",
+      "citada": false
+    },
+    {
+      "url": "https://revistazoom.com.ar/con-la-caida-de-lucio-eeuu-suma-tres-derrotas-y-ecuador-acumula-3-presidentes-removidos-en-8-anos/",
+      "titulo": "Con la caída de “Lucio” EEUU suma tres derrotas y Ecuador acumula 3 presidentes removidos en 8 años - Revista Zoom",
+      "citada": false
+    },
+    {
+      "url": "https://www.emol.com/noticias/internacional/2005/04/20/179648/crisis-en-ecuador-destituyen-a-presidente-y-asume-vicepresidente-palacio.html",
+      "titulo": "Crisis en Ecuador: Destituyen a Presidente y asume vicepresidente Palacio",
+      "citada": false
+    },
+    {
+      "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2015/05/LEY-ORGANICA-PARA-LA-JUSTICIA-LABORAL-Y-RECONOCIMIENTO-DEL-TRABAJO-EN-EL-HOGAR.pdf",
+      "titulo": "LEY ORGANICA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN HOGAR Ley 0",
+      "citada": false
+    },
+    {
+      "url": "https://oig.cepal.org/sites/default/files/ecuador_-_ley_org._para_la_justicia_labora_y_reconocimiento_del_trabajo_en_el_hogar.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN EL HOGAR",
+      "citada": false
+    },
+    {
+      "url": "https://www.gobiernogalapagos.gob.ec/wp-content/uploads/downloads/2015/05/TEXTO-FINAL-LEY-ORGANICA-PARA-LA-JUSTICIA-LABORAL-Y-RECONOCIMIENTO-DEL-TRABAJO-EN-EL-HOGAR.pdf",
+      "titulo": "ley orgánica para la justicia laboral y reconocimiento del",
+      "citada": false
+    },
+    {
+      "url": "https://corralbarrigaabogados.wordpress.com/2015/12/10/reformas-al-codigo-del-trabajo/",
+      "titulo": "REFORMAS AL CÓDIGO DEL TRABAJO |",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.uasb.edu.ec/index.php/foro/article/download/458/453/1776",
+      "titulo": "FORO Revista de Derecho, No. 24, UASB-Ecuador / CEN • Quito, 2015 FORO 5",
+      "citada": false
+    },
+    {
+      "url": "https://paquisha.gob.ec/wp-content/uploads/2020/10/Ley-Organica-Para-La-Justicia-Laboral-y-Reconocimiento-del-Trabajo-en-el-Hogar.pdf",
+      "titulo": "LEY ORGÁNICA JUSTICIA LABORAL Y RECONOCIMIENTO DEL TRABAJO EN HOGAR Ley 0",
+      "citada": false
+    },
+    {
+      "url": "https://revistas.udlapublicaciones.com/index.php/RevistaCalamo/article/view/283",
+      "titulo": "Las mujeres y el derecho laboral ecuatoriano desde el enfoque de género: Una mirada a la ley orgánica para la justicia laboral y el reconocimiento del trabajo del hogar",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/LEY_ORGANICA_PARA_LA_JUSTICIA_LABORAL.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y …",
+      "citada": false
+    },
+    {
+      "url": "https://www.asambleanacional.gob.ec/sites/default/files/ley_justicia_laboral.pdf",
+      "titulo": "LEY ORGÁNICA PARA LA JUSTICIA LABORAL Y ...",
+      "citada": false
+    }
+  ]
+}

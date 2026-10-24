@@ -1,0 +1,114 @@
+{
+  "id": "URY_2006",
+  "iso": "URY",
+  "pais": "Uruguay",
+  "anio": 2006,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.0298,
+  "incompleto": false,
+  "caracterizacion": {
+    "norma": "Ley N.º 17.940 de 2 de enero de 2006 (Libertad sindical. Normas para su protección)",
+    "tipo_instrumento": "ley",
+    "normas_relacionadas": [
+      "Ley N.º 18.065 de 27 de noviembre de 2006 (regulación del trabajo doméstico)"
+    ],
+    "confianza_identificacion": "alta",
+    "estado_vigencia": "vigente",
+    "fecha_entrada_vigencia": "2006-01-02",
+    "vigencia_escalonada": false,
+    "orientacion_general": "protectora",
+    "objetivo_declarado": "Proteger la libertad sindical frente a actos de discriminación antisindical, con fundamento expreso en el artículo 57 de la Constitución, el Convenio Internacional del Trabajo Nº 98 (aprobado por la Ley Nº 12.030) y el artículo 9º de la Declaración Sociolaboral del MERCOSUR. Según un editorial de prensa, también buscaba responder a observaciones reiteradas del Comité de Libertad Sindical de la OIT (no verificado en documentos de la OIT).",
+    "descripcion_intenciones": "La ley declara nulos los actos u omisiones de discriminación antisindical y extiende la protección a quienes promueven la constitución de sindicatos. Sustituye la lógica indemnizatoria previa por la nulidad del despido antisindical con reinstalación efectiva y pago de jornales caídos. Crea una tutela especial de trámite sumario, con inversión de la carga de la prueba para dirigentes, delegados, negociadores y promotores sindicales. Reconoce además facilidades para la acción sindical en la empresa (licencia sindical remunerada, retención de la cuota sindical, avisos y boletines) y encomienda al MTSS crear mecanismos tripartitos de seguimiento. No establece una inamovilidad general: protege solo frente al despido motivado por razones sindicales.",
+    "dimensiones": [
+      {
+        "dimension": "derechos_colectivos_sindicales",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Núcleo de la reforma: nulidad de la discriminación antisindical, protección de los promotores de sindicatos, licencia sindical remunerada, retención de la cuota y facilidades de comunicación en la empresa. Se suma el seguimiento tripartito a cargo del MTSS."
+      },
+      {
+        "dimension": "despido_e_indemnizacion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "El despido antisindical pasa a sancionarse con reinstalación efectiva y jornales caídos en lugar de indemnización especial. La protección se limita al despido motivado por razones sindicales y no configura una estabilidad general."
+      },
+      {
+        "dimension": "justicia_laboral_e_inspeccion",
+        "efecto_en_proteccion": "aumenta",
+        "comentario": "Establece un proceso general y una tutela especial con trámite de amparo e inversión de la carga de la prueba, además de gratuidad para el demandante. Destina lo recaudado por multas, entre otros fines, al fortalecimiento de la Inspección General del Trabajo."
+      }
+    ],
+    "poblacion_objetivo": [
+      "asalariados_formales"
+    ],
+    "revierte_reforma_previa": false,
+    "contexto": "Sancionada el 22 de diciembre de 2005 y promulgada el 2 de enero de 2006, la ley forma parte del nuevo esquema de relaciones laborales colectivas del gobierno de Tabaré Vázquez. La reconvocatoria de los Consejos de Salarios en 2005 como parte de ese esquema es conocimiento propio sin fuente. La ley llena un vacío legal: según una fuente de menor jerarquía, antes de su expedición el despido antisindical se consideraba abusivo y daba lugar a una indemnización especial. No deroga una reforma flexibilizadora previa. Hubo críticas de los empleadores, recogidas en un artículo de OIT/Cinterfor. El contexto macroeconómico no fue verificado (sin fuente).",
+    "notas": "La sanción en diciembre de 2005 no genera conflicto con el año de la base, porque la promulgación y la entrada en vigor se producen el 2006-01-02. Las disposiciones se aplican aunque falte reglamentación; el decreto reglamentario no fue identificado. El ejercicio concreto de la licencia sindical depende de los Consejos de Salarios o de los convenios colectivos, pero esto no se codificó como vigencia escalonada. Según vLex (fuente no oficial, sin verificar en IMPO), el artículo 11 de la Ley N.º 18.847 de 25/11/2011 sustituyó el proceso extraordinario por el proceso laboral ordinario en la vía general. Es un cambio procesal que no afecta la nulidad ni la reinstalación, por lo que se mantiene 'vigente'; la alternativa defendible sería 'modificada_o_derogada_despues'. Se discutió en doctrina la constitucionalidad del artículo 3 literal B (legitimación conjunta con el sindicato), pero no se verificó un pronunciamiento de la Suprema Corte de Justicia; en Uruguay la declaración de inconstitucionalidad solo desaplica la norma al caso concreto. Existe un proyecto del senador Robert Silva para modificar los dos primeros artículos, sin constancia de aprobación. No se asignó 'sector_publico' porque no se verificó la aplicación a funcionarios públicos. Hay un matiz jurisprudencial: algunas salas exigieron acreditar la calidad de dirigente o promotor para aplicar el régimen especial. No se consultaron la exposición de motivos ni las actas parlamentarias."
+  },
+  "fuentes": [
+    {
+      "url": "https://www.impo.com.uy/bases/leyes/17940-2006",
+      "titulo": "Ley N° 17940",
+      "citada": true
+    },
+    {
+      "url": "http://affur.org.uy/wp-content/uploads/2016/09/ley-17.940-fuero-sindicales.pdf",
+      "titulo": "Publicada D.O. 10 ene/006 - Nº 26913 Ley Nº 17.940 LIBERTAD SINDICAL",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/ley-n-17940-libertad-632167565",
+      "titulo": "Ley N° 17940, de Libertad Sindical. Derechos sindicales - vLex Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.adeomrocha.com.uy/?page_id=912",
+      "titulo": "﻿Ley Nº 17.940",
+      "citada": true
+    },
+    {
+      "url": "http://www.acostaylara.com.uy/contenidos/contenidos_masinfo.php?id=20180&secc=contenidos&path=0.2374",
+      "titulo": "Proyecto de Ley modificando 17940 sobre libertad sindical",
+      "citada": true
+    },
+    {
+      "url": "https://fcu.edu.uy/fcu/libros/derecho-laboral-2/la-proteccion-de-la-actividad-sindical-en-la-ley-17-940/",
+      "titulo": "La Protección de la actividad sindical en la ley 17.940 - Fundación de Cultura Universitaria",
+      "citada": true
+    },
+    {
+      "url": "https://www6.rel-uita.org/sectores/frigorificos/proteccion_legal_libertad_sindical-uy.htm",
+      "titulo": "Protección legal de la libertad sindical en Uruguay - UITA",
+      "citada": true
+    },
+    {
+      "url": "https://www.fder.edu.uy/sites/default/files/2022-12/Informe%20final%20proyecto%20de%20investigaci%C3%B3n%20fuero%20sindical%20-%20Alejandro%20Castello%20%20otros.pdf",
+      "titulo": "Informe final proyecto de investigación fuero sindical",
+      "citada": true
+    },
+    {
+      "url": "https://revistas.fcu.edu.uy/index.php/RDL/en/article/view/129",
+      "titulo": "Primera jurisprudencia sobre la Ley 17.940",
+      "citada": true
+    },
+    {
+      "url": "https://www.castellan.com.uy/es/novedades/aspectos-sindicales-y-derecho-de-huelga-en-uruguay/",
+      "titulo": "Aspectos sindicales y derecho de huelga en Uruguay",
+      "citada": true
+    },
+    {
+      "url": "https://www.lr21.com.uy/editorial/198115-acerca-de-la-ley-de-fuero-sindical",
+      "titulo": "Acerca de la ley de fuero sindical - Noticias Uruguay, LARED21 Diario Digital",
+      "citada": true
+    },
+    {
+      "url": "https://www.oitcinterfor.org/sites/default/files/file_articulo/rotero.pdf",
+      "titulo": "Ley de Fuero Sindical ¿Reafirmación o impedimento del ...",
+      "citada": true
+    },
+    {
+      "url": "https://uy.vlex.com/vid/sentencia-definitiva-n-417-920949655",
+      "titulo": "Sentencia Definitiva Nº 417/2022 de Suprema Corte de Justicia, 24-05-2022 - vLex Uruguay",
+      "citada": true
+    }
+  ]
+}

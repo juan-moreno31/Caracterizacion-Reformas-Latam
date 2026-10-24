@@ -1,0 +1,166 @@
+{
+  "id": "COL_2002",
+  "iso": "COL",
+  "pais": "Colombia",
+  "anio": 2002,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1857,
+  "incompleto": false,
+  "norma_propuesta": "Ley 789 de 2002",
+  "otras": "Ley 776 de 2002; Ley 790 de 2002",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Colombia en 2002 es la **Ley 789 de 2002**, expedida por el Congreso el 27 de diciembre de 2002. Su título oficial dice que se expide \"Por la cual se dictan normas para apoyar el empleo y ampliar la protección social y se modifican algunos artículos del Código Sustantivo de Trabajo\". Según el Gestor Normativo de Función Pública, se publicó en el Diario Oficial 45.046 y entró en vigencia ese mismo 27 de diciembre de 2002.\n\n**Por qué es la principal**\n- **Cambia directamente el Código Sustantivo del Trabajo.** Modifica, entre otros, el artículo 64 sobre la terminación del contrato sin justa causa. También permite acordar jornadas diarias flexibles de trabajo y cambia los recargos por trabajo dominical.\n- **Crea instrumentos de política de empleo.** Establece el subsidio temporal al desempleo administrado por el Ministerio de Trabajo y Seguridad Social y un subsidio temporal de empleo para las pequeñas y medianas empresas que generen puestos de trabajo a jefes cabeza de hogar desempleados.\n- **La literatura académica la reconoce como la reforma laboral del año.** Se le describe como una reforma que buscaba implementar mecanismos de protección social y flexibilización laboral.\n\n**Otras candidatas, de menor alcance**\n- **Ley 776 de 2002 (17 de diciembre):** regula la organización, administración y prestaciones del Sistema General de Riesgos Profesionales. Se limita a la seguridad social en riesgos laborales.\n- **Ley 790 de 2002:** busca renovar y modernizar la estructura de la Rama Ejecutiva del orden nacional y crea el \"retén social\" de estabilidad reforzada. Solo afecta al sector público.\n\n**Notas para la base**\n- La norma se expidió al cierre del año, así que el tratamiento efectivo se observa sobre todo en 2003. Además, la aplicación de los artículos 25 y 26 a los contratos anteriores a la ley se aplazó hasta el 1º de abril del año 2003, por lo que la vigencia es escalonada. Conviene explicarlo en `notas`.\n- La reforma pensional de esa época (Ley 797) es de 2003, no de 2002, y por eso no la incluyo en la lista.\n\nNORMA: Ley 789 de 2002\nOTRAS: Ley 776 de 2002; Ley 790 de 2002\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0789_2002.html",
+      "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_0789_2002]",
+      "citada": true
+    },
+    {
+      "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/pdf/ley_0789_2002.pdf",
+      "titulo": "LEY 789 DE 2002 (diciembre 27)",
+      "citada": true
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6778",
+      "titulo": "Ley 789 de 2002 - Gestor Normativo - Función Pública",
+      "citada": true
+    },
+    {
+      "url": "https://www.fasecolda.com/wp-content/uploads/ley-789-2002.pdf",
+      "titulo": "Diario Oficial 45046 de 27 de Diciembre de 2002 LEY 789 DE 2002 (diciembre 27)",
+      "citada": true
+    },
+    {
+      "url": "https://jbb.gov.co/documentos/juridica/antiguo/leyes_ambientales/Ley_789_2002.pdf",
+      "titulo": "Ley 789 de 2002 1 /67 Diario Oficial 45.046 Ley 789 de 2002 1 2 3 4 5 6",
+      "citada": true
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=6778",
+      "titulo": "Departamento Administrativo de la Función Pública Ley 789 de 2002 1",
+      "citada": true
+    },
+    {
+      "url": "https://dialnet.unirioja.es/descarga/articulo/5759627.pdf",
+      "titulo": "17 Jurídicas CUC 12(1): 17-29, 2016 LA FLEXIBILIZACION LABORAL EN COLOMBIA",
+      "citada": true
+    },
+    {
+      "url": "https://suin-juriscol.gov.co/viewDocument.asp?id=1668102",
+      "titulo": "Ley 776 de 2002.",
+      "citada": true
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/RELATORIA/2007/T-1045-07.htm",
+      "titulo": "T-1045-07 Corte Constitucional de Colombia",
+      "citada": true
+    },
+    {
+      "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=6778",
+      "titulo": "Ley 789 de 2002 Congreso de la República de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://camarasai.org/wp-content/uploads/documentos/normatividad/14Ley-789-de-2002-extractos.pdf",
+      "titulo": "Ley 789 de 2002 (diciembre 27)",
+      "citada": false
+    },
+    {
+      "url": "https://www.comfatolima.com.co/phocadownload/Normograma/LEYES/SUBSIDIO_FAMILIAR/Ley_789_de_2002.pdf",
+      "titulo": "LEY 789 DE 2002 (diciembre 27)",
+      "citada": false
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=16752",
+      "titulo": "Ley 776 de 2002 - Gestor Normativo - Función Pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=16752",
+      "titulo": "Ley 776 de 2002 Congreso de la República de Colombia",
+      "citada": false
+    },
+    {
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0776_2002.html",
+      "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_0776_2002]",
+      "citada": false
+    },
+    {
+      "url": "https://www.mincit.gov.co/getattachment/8c6b2c79-0b78-4b82-b06f-4170f10a96a3/Ley-776-de-2002-Por-la-cual-se-dictan-normas-sobre.aspx",
+      "titulo": "LEY 776 DE 2002 (diciembre 17) Por la cual se dictan ...",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.co/vid/organizacion-riesgos-profesionales-60034864",
+      "titulo": "Ley del Sistema General de Riesgos Profesionales. (Ley 776 de 2002). - vLex Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.com.co/vid/ley-776-17-451425818",
+      "titulo": "Ley 776 del 17 de diciembre de 2002 - vLex Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://serviciocivil.gov.co/transparencia/marco-legal/normatividad/ley-776-de-2002-organizaci%C3%B3n-administraci%C3%B3n-y-prestaciones",
+      "titulo": "Ley 776 de 2002 Organización, administración y prestaciones del Sistema General de Riesgos Profesionales",
+      "citada": false
+    },
+    {
+      "url": "https://www.fondoriesgoslaborales.gov.co/wp-content/uploads/2018/10/Accidente-de-trabajo-o-Enfermedad-Profesional.pdf",
+      "titulo": "Ministerio de la Protección Social República de Colombia",
+      "citada": false
+    },
+    {
+      "url": "https://www.superfinanciera.gov.co/publicaciones/15440/sistema-general-de-riesgos-profesionales-seguridad-social-15440/",
+      "titulo": "Sistema General de Riesgos Profesionales. Seguridad Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.arkhaios.com/?p=3486",
+      "titulo": "El retén social se extiende al sector privado",
+      "citada": false
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65067",
+      "titulo": "Concepto 54741 de 2014 Departamento Administrativo de la Función Pública - Gestor Normativo - Función Pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.gruporypasesores.com/retensocial/",
+      "titulo": "Retén social",
+      "citada": false
+    },
+    {
+      "url": "https://accounter.co/normatividad/sentencias/creacion-del-reten-social",
+      "titulo": "Creación del retén social",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2012/su897-12.htm",
+      "titulo": "REPÚBLICA DE COLOMBIA",
+      "citada": false
+    },
+    {
+      "url": "https://principal.notinet.com.co/archivos/RETENSOCIAL.htm",
+      "titulo": "retén social - prepensionados",
+      "citada": false
+    },
+    {
+      "url": "https://www1.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=186670",
+      "titulo": "Departamento Administrativo de la Función Pública",
+      "citada": false
+    },
+    {
+      "url": "https://www.corteconstitucional.gov.co/RELATORIA/2009/C-795-09.htm",
+      "titulo": "Sentencia C-795/09",
+      "citada": false
+    },
+    {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=127802",
+      "titulo": "Concepto 92431 de 2020 Departamento Administrativo de la Función Pública - Gestor Normativo - Función Pública",
+      "citada": false
+    }
+  ]
+}

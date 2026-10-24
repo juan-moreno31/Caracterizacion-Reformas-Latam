@@ -1,0 +1,264 @@
+{
+  "id": "CHL_2023",
+  "iso": "CHL",
+  "pais": "Chile",
+  "anio": 2023,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.4124,
+  "incompleto": false,
+  "norma": "Ley N° 21.561",
+  "texto": "# Informe de investigación: CHL 2023, Ley N° 21.561\n\n## 1. Objetivo declarado\n\n**Moción de origen (exposición de motivos).** El proyecto nació de una moción parlamentaria presentada en 2017 y busca modificar las reglas del Código del Trabajo para reducir la jornada de trabajo de las trabajadoras y trabajadores. Sus autores sostuvieron que la jornada máxima vigente no permite a los trabajadores desarrollar una vida familiar o disponer de tiempo libre. También le atribuyeron fines macroeconómicos: subir el valor real del trabajo y mejorar la productividad. Estos fundamentos los tomé de DerechoPedia, que reproduce la historia de la ley. Es una fuente secundaria; no consulté directamente el expediente de la BCN.\n\n**Gobierno.** Boric presentó la ley como \"un paso que es tremendamente importante en el camino hacia un mayor bienestar\". La autoridad agregó que la gradualidad buscaba no afectar el empleo y las Pymes.\n\n**Dirección del Trabajo (DT).** Su dictamen general resume el conjunto de medidas como orientado a mejorar la calidad de vida de los mismos dependientes y sus familias, generando empleo protegido y decente.\n\n## 2. Qué cambia efectivamente, por dimensión\n\n**`jornada_y_horas_extra` → aumenta (con elementos de flexibilización).**\n- Rebaja el tope legal de la jornada ordinaria semanal. Esa rebaja se entenderá incorporada a los contratos individuales, instrumentos colectivos y reglamentos internos por el solo ministerio de la ley.\n- Restringe las exclusiones de la limitación de jornada a gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata. Según la DT, quedaron fuera los criterios geográficos y la utilización de medios tecnológicos.\n- Adapta las jornadas especiales y excepcionales de varios grupos: trabajadoras de casa particular, ferrocarriles, transporte, gente de mar, agrícolas y minería (fuente).\n- Incorpora, al mismo tiempo, mecanismos de adaptabilidad. Una fuente sindical advierte que la ley, pese a su título, introduce también mecanismos de flexibilidad de jornada de trabajo:\n  - Permite promediar la jornada en ciclos de varias semanas (fuente).\n  - Permite distribuir la jornada semanal en menos días.\n  - Permite compensar horas extraordinarias con días de feriado adicional, por acuerdo escrito (fuente).\n  - Mediante negociación colectiva o pacto con el sindicato, y solo para sus afiliados, puede ampliarse el tope semanal dentro del ciclo promediado (fuente).\n\n**`salario_y_negociacion_salarial` → aumenta.** La aplicación de la ley en ninguna circunstancia podrá representar una disminución de las remuneraciones. En la práctica, esto eleva el salario por hora.\n\n**`derechos_colectivos_sindicales` → reorganiza.**\n- Si hay trabajadores sindicalizados, el promedio por ciclos exige recabar acuerdo de sindicato respectivo.\n- Los sindicatos pueden participar en la adecuación de la jornada diaria (fuente).\n- La ley deroga el art. 375 del Código del Trabajo, que regulaba los pactos sobre condiciones especiales de trabajo. Una fuente sindical interpreta que la distribución comprimida pasa a ser un pacto individual y deja de ser un pacto sindical (fuente). El efecto neto sobre el poder sindical es ambiguo.\n\n**`genero_y_conciliacion` → aumenta.** Crea bandas horarias para madres y padres trabajadores de menores y para quienes tengan su cuidado personal. Con ellas pueden anticipar o retrasar el inicio de la jornada. El derecho se volvió exigible a partir del 26.04.2024.\n\n**`justicia_laboral_e_inspeccion` → aumenta.** Una resolución del Director del Trabajo establecerá y regulará las condiciones y requisitos que deberán cumplir los sistemas electrónicos de registro y control de asistencia. Además, el trabajador puede denunciar ante la Inspección del Trabajo si las horas extra que debían compensarse no se pagan (fuente).\n\n**`formalizacion_y_mipymes` → reorganiza.**\n- Contempla acciones de apoyo específicas para el mundo de las pymes a través del Sence y la DT.\n- Crea incentivos para las empresas de menor tamaño que adelanten la reducción (fuente).\n- Establece el programa de cumplimiento voluntario conocido como \"Sello de 40 horas\". Uso el nombre solo como identificador del programa.\n\n**`nuevas_formas_de_trabajo` → aumenta (tentativo).** Modifica la exclusión de jornada en el teletrabajo y la base de cálculo de los honorarios de los trabajadores independientes de plataformas digitales (fuente). No verifiqué el sentido exacto del cambio en teletrabajo.\n\n## 3. Población objetivo\n\n- **`asalariados_formales`:** la ley alcanza a todos los trabajadores regidos por el Código del Trabajo. No se aplica a los contratos de honorarios ni tampoco a los funcionarios públicos, salvo a los servidores públicos contratados bajo el Código (fuente).\n- **`empleadores_mipymes`:** como destinatarios de las medidas de apoyo.\n\nLa DT también resolvió que la reducción no resulta aplicable a los docentes que se desempeñan en establecimientos educacionales particulares subvencionados.\n\n## 4. Contexto político y económico\n\n**Trámite legislativo.**\n- La moción fue presentada por diputados del Partido Comunista. Según la prensa, fue aprobado en la Cámara de Diputados en 2019 y, desde ese año, no registró mayores avances en el Senado.\n- Como compromiso programático de Boric, el gobierno ingresó, en agosto de 2022, una serie de indicaciones que reactivaron el proyecto, surgidas de un proceso de diálogo social.\n- En el Senado la iniciativa fue aprobada de forma unánime.\n- En la Cámara recibió apoyo transversal. Solo el Partido Republicano y algunos diputados de la UDI votaron en contra.\n- La prensa informó que la norma tenía el beneplácito tanto de los sindicatos como de las patronales empresariales.\n\n**Contexto económico.** La prensa de la época citaba proyecciones del FMI que anticipaban una recesión en Chile para 2023 (fuente). No busqué fuentes macroeconómicas primarias.\n\n## 5. ¿Revierte una reforma previa?\n\nNo en lo sustancial. El único elemento derogatorio es la supresión del art. 375 del Código del Trabajo (pactos sobre condiciones especiales). *Sin fuente:* según mi conocimiento, ese artículo fue introducido por la Ley 20.940 de 2016, de modo que habría una reversión parcial y técnica. No lo verifiqué. Sugiero `revierte_reforma_previa = false`, con nota.\n\n## 6. Entrada en vigor y aplicación escalonada\n\n- **Publicación:** 26 de abril de 2023. Ese día pasaron a operar, entre otras, las reglas de adopción voluntaria anticipada.\n- **Primera etapa obligatoria:** el Ministerio del Trabajo indica que el 26 de abril de 2024 entra en vigencia la Ley 21.561 con la primera rebaja.\n- **Etapas siguientes:** 26 de abril de 2026 y 26 de abril de 2028. En esa última fecha se completa la reducción y se habilita con carácter general la distribución semanal en menos días (fuente).\n\n**Para la base:**\n- `fecha_entrada_vigencia` = 2024-04-26 y `vigencia_escalonada` = true.\n- En `notas`: la norma corresponde al año 2023 de la base, pero el tratamiento efectivo empieza en 2024 y se completa en 2028.\n\n## 7. Estado de vigencia posterior\n\n**Ley N° 21.755 (publicada el 11 de julio de 2025).** Su art. 24 interpretó la expresión \"en forma proporcional\" del artículo tercero transitorio, es decir, cómo reducir la jornada cuando no hay acuerdo. La BCN la registra como última modificación. Según la DT, no vino a regular nuevamente la reducción de jornada ni a modificar lo que la Ley Nº 21.561 ya había establecido. Las lecturas difieren: Garrigues destaca que la ley interpretativa permite al empleador determinar el día de la jornada en que se aplicará la reducción.\n\n**Proyecto en trámite (Boletín 18.478-13).** El gobierno de Kast presentó un proyecto que amplía los ciclos de promedio y crea un régimen especial para el turismo. La Comisión de Trabajo de la Cámara aprobó en general el proyecto y la iniciativa pasó a la Comisión de Economía. Aún no es ley. Si se aprueba, sería una flexibilización posterior que habría que registrar.\n\n**Tribunales.** No identifiqué fallos del Tribunal Constitucional ni de tribunales ordinarios que anulen partes de la ley. Hubo controversia por dictámenes de la DT y amenaza con judicializar, pero eso es interpretación administrativa, no anulación judicial.\n\n**Sugerencia para `estado_vigencia`: `vigente`.** Lo central de la ley sigue en vigor. En `notas` conviene registrar la Ley 21.755 (interpretativa, de efecto menor) y el proyecto pendiente. Si la base trata toda modificación formal como tal, la alternativa sería `modificada_o_derogada_despues`.\n\n## 8. Orientación general sugerida\n\n**`protectora`.** El núcleo de la ley es la reducción de la jornada sin pérdida salarial, junto con los derechos de conciliación. Las herramientas de adaptabilidad funcionan como compensación para los empleadores y tienen menos peso. Sería defendible codificarla como `mixta`, porque la propia fuente sindical subraya los componentes de flexibilidad.\n\n## 9. No verificado\n\n- El texto del mensaje y las indicaciones del Ejecutivo de 2022 (solo vi la moción, por una fuente secundaria).\n- La ficha de NATLEX/OIT.\n- El sentido exacto del cambio sobre la exclusión de jornada en el teletrabajo.\n- Una posible modificación de la Ley 21.327 sobre cumplimiento asistido (solo apareció en una fuente de baja calidad).\n- El origen del art. 375 derogado.\n- Un eventual control preventivo del Tribunal Constitucional.\n- La fecha de la Ley 21.643 (\"Ley Karin\"), que sigue sin verificar.",
+  "fuentes": [
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/articles-107884_recurso_63.pdf",
+      "titulo": "LEY N° 21.561; QUE MODIFICA EL CÓDIGO DEL TRABAJO CON EL OBJETO DE",
+      "citada": true
+    },
+    {
+      "url": "https://capacitaciondt.dirtrab.cl/pluginfile.php/559/mod_page/content/10/DT_Ley%2021.561%20que%20reduce%20la%20jornada%20de%20trabajo%20a%2040%20horas..pdf",
+      "titulo": "LEY N° 21.561 - DT - Dirección del Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1191554",
+      "titulo": "Ley Chile - Ley 21561 - Biblioteca del Congreso Nacional",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-125559.html",
+      "titulo": "ORD. N° 81/2 - DT - Normativa 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://a-lex.cl/codigos/ley-21561",
+      "titulo": "Ley N° 21.561 — Modifica El Código Del Trabajo Con El Objeto De Reducir La Jornada Laboral de Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.ascende.cl/ley-no-21561-modifica-el-codigo-del-trabajo-con-el-objeto-de-reducir-la-jornada-laboral/",
+      "titulo": "Ley nº 21.561: Modifica el Código del Trabajo con el objeto de reducir la jornada laboral - Ascende Abogados",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-129073.html",
+      "titulo": "ORD.N°190 - DT - Normativa 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://actualidadjuridica.doe.cl/ley-n-21-561-conoce-mas-sobre-la-ley-que-reduce-la-jornada-laboral/",
+      "titulo": "Ley N° 21.561. Conoce más sobre la Ley que reduce la jornada laboral - DOE",
+      "citada": true
+    },
+    {
+      "url": "http://derechopedia.cl/Ley_de_las_40_horas",
+      "titulo": "Ley de las 40 horas - DerechoPedia",
+      "citada": true
+    },
+    {
+      "url": "https://www.prosindical.cl/40-horas-resumen-de-contenidos-de-la-ley-21-561-que-modifica-el-codigo-del-trabajo-con-el-objeto-de-reducir-la-jornada-de-laboral/",
+      "titulo": "40 horas: resumen de contenidos de la ley 21.561 que Modifica el Código del Trabajo con el objeto de Reducir la Jornada Laboral",
+      "citada": true
+    },
+    {
+      "url": "https://www.mintrab.gob.cl/ley-40-horas-2/",
+      "titulo": "Ley 40 horas - Ministerio del Trabajo y Previsión Social",
+      "citada": true
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2025/11/29/dt-aclara-que-la-reduccion-de-jornada-de-la-ley-n-21-561-no-aplica-a-docentes-de-establecimientos-subvencionados-se-rigen-por-estatuto-docente/",
+      "titulo": "DT aclara que la reducción de jornada de la Ley N° 21.561 no aplica a docentes de establecimientos subvencionados: se rigen por Estatuto Docente - Diario Constitucional",
+      "citada": true
+    },
+    {
+      "url": "https://www.circuloverde.cl/novedades-de-la-ley-40-horas/",
+      "titulo": "Novedades de la “Ley 40 horas”",
+      "citada": true
+    },
+    {
+      "url": "https://www.dt.gob.cl/legislacion/1624/w3-article-129189.html",
+      "titulo": "ORD.N°253/21 - DT - Normativa 3.0",
+      "citada": true
+    },
+    {
+      "url": "https://www.garrigues.com/es_ES/noticia/chile-publicada-nueva-ley-interpretativa-fija-criterio-reduccion-jornada-establecida-ley-40",
+      "titulo": "Chile: Publicada una nueva ley interpretativa que fija el criterio para la reducción de jornada establecida en la Ley de 40 horas",
+      "citada": true
+    },
+    {
+      "url": "https://www.falmed.cl/infografias/resumen-sobre-la-interpretacion-de-la-ley-que-reduce-la-jornada-laboral",
+      "titulo": "Resumen sobre la interpretación de la Ley que reduce la jornada laboral a 40 horas",
+      "citada": true
+    },
+    {
+      "url": "https://www.latercera.com/pulso/noticia/40-horas-dictamen-de-la-dt-desata-fuerte-controversia-con-privados-y-amenaza-con-judicializar-aplicacion-de-la-ley/ITFBRBLBX5EPFBZBCPYS6X3C5U/",
+      "titulo": "40 horas: dictamen de la DT desata fuerte controversia con privados y amenaza con judicializar aplicación de la ley - La Tercera",
+      "citada": true
+    },
+    {
+      "url": "https://www.24horas.cl/actualidad/politica/ley-40-horas-avanza-posible-cambio-en-proyecto-que-busca-adaptabilidad",
+      "titulo": "Ley 40 Horas: avanza posible cambio en proyecto que busca adaptabilidad laboral en el turismo",
+      "citada": true
+    },
+    {
+      "url": "https://www.minsegpres.gob.cl/archivo/noticias/reduccion-de-la-jornada-laboral-a-40-horas-fue-aprobado-en-la-camara-de-diputados-y-despachado-a-ley",
+      "titulo": "Reducción de la jornada laboral a 40 horas fue aprobado en la Cámara de Diputados y despachado a ley - Ministerio Secretaría General de la Presidencia",
+      "citada": true
+    },
+    {
+      "url": "https://www.latercera.com/pulso/noticia/camara-de-diputados-aprueba-las-40-horas-y-el-proyecto-queda-listo-para-ser-ley/UYVAJPLRFJF7LECHMCPB3ZAMEY/",
+      "titulo": "Cámara de Diputados aprueba las 40 horas y el proyecto queda listo para ser ley - La Tercera",
+      "citada": true
+    },
+    {
+      "url": "https://radio.uchile.cl/2023/04/14/presidente-gabriel-boric-promulga-ley-40-horas-estamos-dando-un-paso-que-es-tremendamente-importante-hacia-un-mayor-bienestar/",
+      "titulo": "Presidente Gabriel Boric promulga Ley 40 horas: “Estamos dando un paso que es tremendamente importante hacia un mayor bienestar” « Diario y Radio Universidad Chile",
+      "citada": true
+    },
+    {
+      "url": "https://radio.uchile.cl/2023/04/11/luego-de-seis-anos-en-tramitacion-camara-de-diputados-aprueba-y-despacha-ley-de-40-horas/",
+      "titulo": "Luego de seis años en tramitación: Cámara de Diputados aprueba y despacha ley de 40 horas « Diario y Radio Universidad Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/america/america-latina/2023/04/11/el-parlamento-chileno-aprobo-la-reduccion-de-la-jornada-laboral-de-45-a-40-horas-semanales/",
+      "titulo": "El Parlamento chileno aprobó la reducción de la jornada laboral de 45 a 40 horas semanales - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://forbes.cl/actualidad/2023-04-11/camara-de-diputados-da-luz-verde-a-jornada-laboral-de-40-horas-en-chile/",
+      "titulo": "Cámara de Diputados da luz verde a jornada laboral de 40 horas en Chile - Forbes Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.latribuna.cl/economia/2023/04/11/conozca-los-detalles-del-proyecto-de-40-horas-laborales-aprobado-en-chile.html",
+      "titulo": "Conozca los detalles del proyecto de 40 horas laborales aprobado en Chile",
+      "citada": true
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/2026/02/27/aplicacion-de-la-ley-n21-561-jornada-laboral-y-remuneraciones-en-trabajadores-de-plataformas-digitales/",
+      "titulo": "Aplicación de la ley N°21.561: jornada laboral y remuneraciones en trabajadores de plataformas digitales - Diario Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://es.linkedin.com/pulse/resumen-ley-21561-publicada-en-el-diario-oficial-que-de-luis-roberto",
+      "titulo": "RESUMEN LEY 21.561, PUBLICADA EN EL DIARIO OFICIAL EL 26/04/2023, QUE MODIFICA EL CÓDIGO DEL TRABAJO CON EL OBJETO DE REDUCIR LA JORNADA LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.circuloverde.cl/novedades-del-proyecto-40-horas/",
+      "titulo": "Reducción de jornada de trabajo a 40 horas semanales",
+      "citada": false
+    },
+    {
+      "url": "https://www.ontier.law/la-ley-ndeg-21-561-ley-40-horas/",
+      "titulo": "La Ley N° 21.561 - Ley 40 horas - Ontier",
+      "citada": false
+    },
+    {
+      "url": "https://cygnus.cl/ley-21-561-tambien-conocida-como-ley-de-las-40-horas/",
+      "titulo": "Ley 21.561, también conocida como Ley de las 40 Horas - Grupo Cygnus",
+      "citada": false
+    },
+    {
+      "url": "https://noticias.udec.cl/ley-40-horas-la-libertad-de-quien-la-de-quien-manda-o-la-de-quien-obedece/",
+      "titulo": "Ley 40 horas: ¿La libertad de quién?, ¿la de quien manda o la de quien obedece? - Noticias UdeC",
+      "citada": false
+    },
+    {
+      "url": "https://www.emol.com/noticias/Economia/2026/04/16/1197471/40-horas-dictamenes-dt.html",
+      "titulo": "Ley de 40 horas: DT aclara cómo operará recorte a 42 horas y revisa criterio sobre \"polémico\" artículo 22",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1626/w3-propertyname-2556.html",
+      "titulo": "Minisitio 40 horas - DT - Dirección del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/contrapuntos/modificacion-a-la-ley-de-40-horas-y-adaptabilidad-en-el-turismo-flexibilidad-indispensable-para-sectores-productivos-estacionales-o-precarizacion-de-los-derechos-de-los-trabajadores-2/",
+      "titulo": "Modificación a la ley de 40 horas y adaptabilidad en el turismo: ¿Flexibilidad indispensable para sectores productivos estacionales o precarización de los derechos de los trabajadores? - Diario Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://www.dt.gob.cl/portal/1628/w3-article-125912.html",
+      "titulo": "¿El empleador puede determinar unilateralmente la forma en que se reducirá la jornada laboral? - DT - Consultas",
+      "citada": false
+    },
+    {
+      "url": "https://www.rkabogados.cl/blog/ley-40-horas-avances-y-desafios-del-nuevo-regimen-de-jornada-laboral",
+      "titulo": "Ley 40 Horas y seguridad jurídica del trabajador",
+      "citada": false
+    },
+    {
+      "url": "https://www.diarioconstitucional.cl/articulos/ley-de-40-horas-y-rebaja-proporcional-en-una-hora-semanal-a-falta-de-acuerdo-entre-trabajador-y-empleador-el-fin-justifica-los-medios/",
+      "titulo": "Ley de 40 horas y rebaja proporcional en una hora semanal a falta de acuerdo entre trabajador y empleador. ¿El fin justifica los medios? - Diario Constitucional",
+      "citada": false
+    },
+    {
+      "url": "https://actualidadjuridica.doe.cl/ley-de-40-horas-y-funcionarios-publicos-regidos-por-el-codigo-del-trabajo/",
+      "titulo": "Ley de 40 horas y funcionarios públicos regidos por el Código del Trabajo - DOE",
+      "citada": false
+    },
+    {
+      "url": "https://ayuda.talana.com/hc/es-419/articles/26608908420115-Aspectos-b%C3%A1sicos-y-reducci%C3%B3n-de-la-jornada",
+      "titulo": "Aspectos básicos y reducción de la jornada",
+      "citada": false
+    },
+    {
+      "url": "https://www.theclinic.cl/2026/07/13/gobierno-anuncia-proyecto-para-modificar-el-ciclo-de-calculo-de-la-jornada-de-40-horas-y-un-estatuto-laboral-para-el-turismo/",
+      "titulo": "Gobierno anuncia proyecto para modificar el ciclo de cálculo de la jornada de 40 horas y un estatuto laboral para el turismo",
+      "citada": false
+    },
+    {
+      "url": "https://www.diariousach.cl/noticias/actualidad/gobierno-ingreso-proyecto-para-ampliar-calculo-de-jornada-laboral-por-40",
+      "titulo": "Gobierno ingresó proyecto para ampliar cálculo de jornada laboral por 40 horas",
+      "citada": false
+    },
+    {
+      "url": "https://www.latercera.com/pulso/noticia/gobierno-incluye-en-el-proyecto-de-adaptabilidad-laboral-para-el-turismo-cambios-generales-para-flexibilizar-la-ley-de-40-horas/",
+      "titulo": "Gobierno incluye en el proyecto de adaptabilidad laboral para el turismo cambios generales para flexibilizar la ley de 40 horas - La Tercera",
+      "citada": false
+    },
+    {
+      "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/21/las-claves-del-proyecto-del-gobierno-sobre-adaptabilidad-laboral-y-regimen-especial-del-turismo.shtml",
+      "titulo": "Las claves del proyecto del Gobierno sobre adaptabilidad laboral y régimen especial del turismo",
+      "citada": false
+    },
+    {
+      "url": "https://www.tuopinas.cl/2026/07/26/proyecto-que-modifica-las-40-horas-abre-debate-por-riesgos-de-fatiga-laboral-y-precarizacion-en-el-turismo/",
+      "titulo": "Proyecto que modifica las 40 horas abre debate por riesgos de fatiga laboral y precarización en el turismo - TUOPINAS.CL",
+      "citada": false
+    },
+    {
+      "url": "https://www.poderyliderazgo.cl/ley-40-horas-16-semanas-jornada-horas-extra/",
+      "titulo": "Ley de 40 Horas: proyecto amplía a 16 semanas el cálculo de la jornada - Poder y Liderazgo",
+      "citada": false
+    },
+    {
+      "url": "https://www.24horas.cl/actualidad/economia/ley-de-40-horas-tendria-un-cambio-clave-asi-funcionaria-la-nueva-adaptabilidad-laboral",
+      "titulo": "Ley de 40 Horas tendría un cambio clave: así funcionaría la nueva adaptabilidad laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.mintrab.gob.cl/comienza-discusion-legislativa-del-proyecto-de-adaptabilidad-laboral-y-nuevo-estatuto-para-el-turismo/",
+      "titulo": "Comienza discusión legislativa del proyecto de adaptabilidad laboral y nuevo Estatuto para el Turismo - Ministerio del Trabajo y Previsión Social",
+      "citada": false
+    },
+    {
+      "url": "https://www.elmostrador.cl/noticias/pais/2026/07/28/el-turismo-como-laboratorio-kast-acelera-su-primera-reforma-a-las-40-horas/",
+      "titulo": "El turismo como laboratorio: Kast acelera su primera reforma a las 40 horas",
+      "citada": false
+    },
+    {
+      "url": "https://msgg.gob.cl/wp/2023/04/11/ministra-vallejo-tras-despacho-a-ley-del-proyecto-40-horas-es-una-jornada-historica-para-las-y-los-trabajadores-de-nuestro-pais/",
+      "titulo": "Ministra Vallejo tras despacho a ley del proyecto 40 horas: “Es una jornada histórica para las y los trabajadores de nuestro país” - Ministerio Secretaría General de Gobierno",
+      "citada": false
+    },
+    {
+      "url": "https://www.emol.com/noticias/Economia/2023/04/11/1091881/camara-despacha-ley-40-horas.html",
+      "titulo": "Chile tendrá \"40 horas\" por ley: Cámara visa flexibilidad añadida por el Senado y pone fin a seis años de debate",
+      "citada": false
+    }
+  ]
+}

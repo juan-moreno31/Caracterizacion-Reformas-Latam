@@ -1,0 +1,116 @@
+{
+  "id": "CRI_2000",
+  "iso": "CRI",
+  "pais": "Costa Rica",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.125,
+  "incompleto": false,
+  "norma_propuesta": "Ley N.° 7983, Ley de Protección al Trabajador (16 de febrero de 2000)",
+  "otras": "Decreto N.° 28770-MP-MTSS (2000), reglamentario del artículo 74 de la Ley Constitutiva de la CCSS, vinculado a la Ley 7983",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Costa Rica en 2000 es la **Ley de Protección al Trabajador, Ley N.° 7983**. NATLEX (OIT) la registra con fecha de adopción 2000-02-16, y la Procuraduría General de la República (SCIJ) indica que es una norma de la Asamblea Legislativa, con vigencia desde el 18/02/2000. Según su objeto declarado, la ley busca crear y regular los fondos de capitalización laboral propiedad de los trabajadores, universalizar las pensiones para las personas de la tercera edad en pobreza, ampliar la cobertura y fortalecer el régimen de invalidez, vejez y muerte de la Caja Costarricense de Seguro Social (CCSS), y supervisar los regímenes de pensiones complementarias, públicos y privados.\n\n**Por qué esta norma y no otra**\n- **No es solo una reforma de pensiones.** Modifica el Código de Trabajo: los artículos sobre el auxilio de cesantía fueron reformados por el numeral 88 inc. a), de la Ley N.º 7983, y el artículo 30 por el inciso b). Por eso toca directamente la dimensión de despido e indemnización.\n- **Las fuentes académicas le dan un peso central.** Un estudio sobre la reforma procesal laboral (Redalyc) recoge que el Código de Trabajo tuvo pocas reformas desde 1966, las cuales culminaron en el año 2000 con la aprobación de la Ley de Protección al Trabajador.\n- **No encontré otra ley laboral de alcance comparable ese año.** Las demás normas que aparecieron son reglamentos de la propia Ley 7983. Por ejemplo, NATLEX la vincula al Decreto núm. 28770-MP-MTSS por el que se reglamenta el artículo 74 de la Ley Constitutiva de la Caja Costarricense de Seguro Social, del 6 de julio de 2000.\n\n**Puntos a tener en cuenta en etapas posteriores**\n- **Aplicación escalonada.** Un artículo de opinión en *La Nación* señala que la ley se puso en vigencia parcialmente, con componentes pendientes de aplicar en años siguientes. Habrá que verificarlo en fuentes de mayor jerarquía antes de codificar `vigencia_escalonada`.\n- **Fallo constitucional del mismo año.** La resolución 4453-2000 de la Sala Constitucional, del 24 de mayo de 2000, se pronunció sobre las convenciones colectivas en el sector público. Es una sentencia, no una norma, así que no la incluyo como candidata. Puede ir en `notas` como contexto de derechos colectivos.\n- **Clasificación de NATLEX.** La clasifica en el tema Social security (general standards), lo que adelanta que su peso principal estará en `seguridad_social_y_pensiones`.\n\nNORMA: Ley N.° 7983, Ley de Protección al Trabajador (16 de febrero de 2000)\nOTRAS: Decreto N.° 28770-MP-MTSS (2000), reglamentario del artículo 74 de la Ley Constitutiva de la CCSS, vinculado a la Ley 7983\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=43957&nValor3=86104&strTipM=TC",
+      "titulo": "Ley de Protección al Trabajador",
+      "citada": true
+    },
+    {
+      "url": "https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=es&p_isn=55840",
+      "titulo": "NATLEX - Costa Rica - Ley núm. 7983, Ley de protección al trabajador.",
+      "citada": true
+    },
+    {
+      "url": "https://www.nacion.com/opinion/un-ano-de-la-ley-7983/CJF5YGZLWBFP5AEKFVAQMYCKAM/story/",
+      "titulo": "Un año de la ley 7983",
+      "citada": true
+    },
+    {
+      "url": "https://www.redalyc.org/journal/855/85548895004/html/",
+      "titulo": "El proceso de reforma al Código Procesal Laboral: legislación laboral, actores sociales y lenguajes de valoración. Tres elementos clave de la política socio-laboral en Costa Rica, 1998-2016",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/44102/C%C3%93DIGO%20DE%20TRABAJO%20COSTA%20RICA.pdf",
+      "titulo": "Ley N° 02 - Código de Trabajo",
+      "citada": true
+    },
+    {
+      "url": "https://repositorio.mopt.go.cr/items/52f84908-afe0-434e-80e9-2635c769d6f8",
+      "titulo": "Ley 7983. Ley de Protección al Trabajador - DSpace Repository",
+      "citada": false
+    },
+    {
+      "url": "https://www.imas.go.cr/sites/default/files/docs/ley_7983_proteccion_al_trabajador.pdf",
+      "titulo": "nº 7983 ley de protección al trabajador",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.co.cr/vid/ley-7983-proteccion-trabajador-639401781",
+      "titulo": "Ley 7983, de Protección al Trabajador - vLex Costa Rica",
+      "citada": false
+    },
+    {
+      "url": "https://www.supen.fi.cr/documents/20121/833751/Ley+de+Protecci%C3%B3n+al+Trabajador+No.+7983.pdf/7d75e88d-6cbb-d2bb-28bf-7a360d9148ee?t=1726695123801&download=true",
+      "titulo": "Ley de Protección al Trabajador",
+      "citada": false
+    },
+    {
+      "url": "https://catalogo.ciess.org/cgi-bin/koha/opac-detail.pl?biblionumber=27128",
+      "titulo": "Details for: Ley de protección al trabajador Nº 7983 › Biblioteca del CIESS catalog",
+      "citada": false
+    },
+    {
+      "url": "https://diccionariousual.poder-judicial.go.cr/index.php/diccionario/ley-de-protecci%C3%B3n-al-trabajador",
+      "titulo": "Diccionario Usual del Poder Judicial - Diccionario - Ley de Protección al Trabajador",
+      "citada": false
+    },
+    {
+      "url": "https://vlex.co.cr/vid/proyecto-ley-reforma-articulo-924152060",
+      "titulo": "PROYECTO DE LEY REFORMA DEL ARTÍCULO 26 DE LA LEY DE PROTECCIÓN AL TRABAJADOR, N.° 7983, Y SUS REFORMAS - vLex Costa Rica",
+      "citada": false
+    },
+    {
+      "url": "https://ilo.org/dyn/natlex/natlex4.detail?p_isn=44102",
+      "titulo": "NATLEX - Costa Rica - Ley núm. 2, de 27 de agosto de 1943, por la cual se sanciona el Código de Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=82316",
+      "titulo": "NATLEX - Costa Rica - Ley núm. 8753 que reforma el Código de Trabajo, Ley núm. 2 de 27 de agosto de 1943 y sus reformas.",
+      "citada": false
+    },
+    {
+      "url": "https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf",
+      "titulo": "CÓDIGO DE TRABAJO DE COSTA RICA Actualizado con la:",
+      "citada": false
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/101727/ley%209343%20COSTA%20RICA.pdf",
+      "titulo": "ley 9343 COSTA RICA.pdf",
+      "citada": false
+    },
+    {
+      "url": "https://proyectos.conare.ac.cr/asamblea/19819.pdf",
+      "titulo": "ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA PROYECTO DE LEY",
+      "citada": false
+    },
+    {
+      "url": "https://cuc.ac.cr/userfiles/files/normativa/externa/codigos/Codigo_Trabajo_RPL.pdf",
+      "titulo": "CÓDIGO DE TRABAJO DE COSTA RICA Actualizado con la:",
+      "citada": false
+    },
+    {
+      "url": "https://www.situn.una.ac.cr/index.php/documentos/documentos-de-interes/22-codigo-de-trabajo?download=162%3Acodigo-de-trabajo",
+      "titulo": "COSTA RICA Código de Trabajo Organización Internacional del Trabajo",
+      "citada": false
+    },
+    {
+      "url": "https://www.inder.go.cr/wp-content/uploads/2024/11/Codigo-de-Trabajo.pdf",
+      "titulo": "Código de Trabajo Ley N° 2 de 27 de agosto de 1943 ...",
+      "citada": false
+    }
+  ]
+}

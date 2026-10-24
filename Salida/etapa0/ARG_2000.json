@@ -1,0 +1,126 @@
+{
+  "id": "ARG_2000",
+  "iso": "ARG",
+  "pais": "Argentina",
+  "anio": 2000,
+  "modelo": "claude-opus-5-5",
+  "stop_reason": "end_turn",
+  "costo_usd": 0.1809,
+  "incompleto": false,
+  "norma_propuesta": "Ley 25.250 de 2000 (Reforma Laboral)",
+  "otras": "Decreto 568/2000; Decreto 843/2000; Decreto 1122/2000; Decreto 1171/2000; Decreto 1172/2000; Decreto 1173/2000; Decreto 1174/2000",
+  "confianza": "alta",
+  "texto": "La reforma laboral principal de Argentina en 2000 es la **Ley 25.250 de Reforma Laboral**. Según el registro oficial, se sancionó el 11-05-2000 y se publicó en el Boletín Oficial el 02-06-2000. Se promulgó el 29 de mayo de 2000.\n\n**Qué cambia.** NATLEX (OIT) indica que la ley modifica parte de las leyes núms. 25013, 14250 y 23546, y trata, entre otros temas, el estímulo al empleo estable, el período de prueba, las convenciones colectivas, la Comisión Bicameral de Seguimiento de la Negociación Colectiva, el balance social, el sistema integrado de inspección del trabajo y la seguridad social, y la simplificación registral. Esto incluye:\n- **Negociación colectiva:** se reorganiza la estructura de los convenios. Por ejemplo, un convenio de ámbito menor prevalece sobre otro anterior de ámbito mayor, salvo que se haya acordado para articularse con este último.\n- **Contribuciones patronales:** se reducen para los empleadores que aumenten su plantilla neta de trabajadores con contrato por tiempo indeterminado.\n\n**Por qué la elijo.** Es una ley del Congreso, figura en la fuente oficial (Infoleg/argentina.gob.ar) y en NATLEX para ese año, y es la de mayor alcance sobre el mercado laboral. Las demás normas laborales de 2000 que encontré son decretos que la reglamentan, así que no compiten con ella. Entre ellos está el Decreto Reglamentario 568/2000 de la Ley 25.250, publicado en el Boletín Oficial el 17-07-2000. También están los Decretos 1174/2000, 1172/2000 y 1171/2000, del 14-12-2000, además del 1122/2000 y el 843/2000, que reglamenta los servicios esenciales.\n\n**Notas para etapas posteriores:**\n- **Derogación:** la ley fue abrogada por el art. 1° de la Ley N° 25.877 (B.O. 19/3/2004). Por eso habría que codificarla en principio como `modificada_o_derogada_despues`, y la Ley 25.877 sería una contrarreforma en la base para 2004.\n- **Escándalo:** la prensa la describe como una ley de \"flexibilización laboral\" sospechada de haberse hecho en base a sobornos.\n- **Discrepancia de fecha:** esa misma nota de Infobae ubica la sanción en abril de 2000, pero la fuente oficial dice 11 de mayo. Doy prioridad a la fuente oficial.\n- **Fecha de vigencia:** todavía no la verifiqué por separado de la fecha de publicación.\n\nNORMA: Ley 25.250 de 2000 (Reforma Laboral)\nOTRAS: Decreto 568/2000; Decreto 843/2000; Decreto 1122/2000; Decreto 1171/2000; Decreto 1172/2000; Decreto 1173/2000; Decreto 1174/2000\nCONFIANZA: alta",
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25250-2000-63208",
+      "titulo": "RESUMEN - Ley 25250 - TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-63208/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25250 - TRABAJO",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25250-63208/normas-modifican",
+      "titulo": "La norma LEY 25250 es modificada por las siguientes",
+      "citada": true
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-63630",
+      "titulo": "RESUMEN - Decreto Reglamentario 568 / 2000 - REFORMA LABORAL",
+      "citada": true
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=56278",
+      "titulo": "NATLEX - Argentina - Ley núm. 25250 de reforma laboral",
+      "citada": true
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/LEY_C_025250_2000_05_11",
+      "titulo": "Ley N° 25250",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63208/norma.htm",
+      "titulo": "REFORMA LABORAL - Jus.gob.ar - Infoleg",
+      "citada": true
+    },
+    {
+      "url": "https://www.infobae.com/2004/03/03/100472-diputados-aprobo-la-reforma-laboral/",
+      "titulo": "Diputados aprobó la reforma laboral - Infobae",
+      "citada": true
+    },
+    {
+      "url": "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63208",
+      "titulo": "Ley 25250 - Jus.gob.ar - Infoleg",
+      "citada": false
+    },
+    {
+      "url": "http://tododeiure.atspace.com/leyes/25250.htm",
+      "titulo": "Ley 25250 Reforma Laboral",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-65363",
+      "titulo": "RESUMEN - Decreto Reglamentario 1172 / 2000 - REFORMA LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-65363/texto",
+      "titulo": "TEXTO ORIGINAL - Decreto Reglamentario 1172 / 2000 - REFORMA LABORAL",
+      "citada": false
+    },
+    {
+      "url": "http://bibliotecadigital.econ.uba.ar/download/legislacion/Ley_025250_2000.pdf",
+      "titulo": "LEY DE REFORMA LABORAL LEY 25.250 BUENOS AIRES, 11 de Mayo de 2000",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecofield.net/Legales/Trabajo/ley25250.htm",
+      "titulo": "ECOFIELD - Trabajo - Ley N° 25.250.",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25250-63208/texto",
+      "titulo": "Texto completo",
+      "citada": false
+    },
+    {
+      "url": "https://www.cronista.com/impresa-general/ley-25250-de-reforma-laboral/",
+      "titulo": "Ley 25.250 de REFORMA LABORAL - El Cronista",
+      "citada": false
+    },
+    {
+      "url": "https://biblioteca.afip.gob.ar/dcp/DEC_C_000568_2000_07_13",
+      "titulo": "Decreto N° 568/2000",
+      "citada": false
+    },
+    {
+      "url": "https://www.trabajo.gba.gov.ar/documentos/legislacion/leyes/ley25877.pdf",
+      "titulo": "La Plata, Junio de 2004.- LEY DE ORDENAMIENTO LABORAL (Ley 25.877) INFORME",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-93595/texto",
+      "titulo": "TEXTO ORIGINAL - Ley 25877 - REGIMEN LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25877-93595/actualizacion",
+      "titulo": "TEXTO ACTUALIZADO - Ley 25877 - REGIMEN LABORAL",
+      "citada": false
+    },
+    {
+      "url": "https://www.ecofield.net/Legales/Trabajo/ley25877.html",
+      "titulo": "ECOFIELD - Trabajo -",
+      "citada": false
+    },
+    {
+      "url": "https://www.uart.org.ar/ley-25-877/",
+      "titulo": "Ley 25.877",
+      "citada": false
+    }
+  ]
+}
